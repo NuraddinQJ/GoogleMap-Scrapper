@@ -1,0 +1,911 @@
+,Place Name,Place ID,Latitude,Longitude,Rating,Types,Vicinity,Price Level,User Rating tot
+0,beast burger,ChIJFYAZjGUdWhURprd3xensSf0,33.3554726,43.7785775,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q4H+6C4, Al-Fallujah",2,0
+1,مطعم كباب محمد,ChIJP-6OZRb7WRURLkcq-cWnJe4,33.3526654,43.8706277,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",9V3C+376، المزرعة,2,2
+2,Al Badia Restaurant,ChIJA0R8jJsdWhURwBD5axwFHOE,33.350167,43.778084,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q2H+37P، Unnamed Road, Al-Fallujah",2,2995
+3,مطعم الخيمة كافيه,ChIJBWW5BMkdWhURAFPxDQAhDRg,33.3522049,43.78667799999999,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","10, Al-Fallujah",2,21
+4,مرطبات بردى ووجبات سريعة,ChIJEzaJQ00bWhUR13O49V5YmEU,33.3975861,43.6659061,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","9MX8+29J, Unnamed Road, Saqlawia",2,10
+5,مأكولات صلاح,ChIJUfKEZ3sdWhUROJChBPRFxv8,33.3593589,43.7854811,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q5P+P6R, Al-Fallujah",2,346
+6,ميت دكان,ChIJo22o2cQdWhUR2T2W2iSsWKs,33.3550504,43.7854811,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q4P+26F, شارع الثرثار, Al-Fallujah",2,2
+7,لحم بعجين ركن الموصلي,ChIJme4PaZL3WRURWm_DMzJGUcg,33.3607764,43.7922392,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q6R+8W5, Al-Fallujah",2,4
+8,قاعة الزهور,ChIJP8e6T18dWhUR9O2nd0Zxunc,33.3593745,43.7755008,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q5G+P6R, Al-Fallujah",2,26
+9,MAZAJ,ChIJpW0WEuQbWhURdksWXY5IfMs,33.3996875,43.6745625,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']",Saqlawia,2,10
+10,مطعم ايوب المحمدي,ChIJx76gZ4_3WRURKzdrxGD5xmE,33.3647079,43.8017936,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","9R72+VPM, Al-Fallujah",2,33
+11,Burger factory مصنع البركر,ChIJ5dA6rJodWhUR34PnKxE3RS8,33.3559938,43.7862187,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Al-Fallujah,2,63
+12,مطعم المشوار,ChIJF9HeErodWhURhQLIQmyIiwg,33.355071,43.76963689999999,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q49+3V3, الفلوجة،،, Al-Fallujah",2,4
+13,مخبز المتوكل,ChIJN87YQckdWhUR_X-uSL49jEI,33.3402441,43.7715724,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QRC+3JV, Al-Fallujah",2,0
+14,مطعم زمان الخير و قاعات المها,ChIJv7tiIl4dWhURsUkt5QAcZm0,33.3444363,43.7812166,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QVJ+PGR, الفلوجة،،",2,3
+15,Restaurant Distinguished,ChIJ6VDIs973WRURkQwAiWyyb5o,33.3612977,43.7948513,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q6V+GW9, Al-Fallujah",2,78
+16,yanni cafe,ChIJJQpkGdwjWhUR3iqbKaOqcis,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,0
+17,meisamamohamadi,ChIJibZvjh4jWhURb5at7scoNjw,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","rtyrt 456456 nm,nm 67yjghj",2,0
+18,PUBG Restaurants,ChIJP-DXn-IjWhURGuP4kSuntoQ,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Unnamed Road mahamad@12345678,2,0
+19,رستوران نفیس,ChIJW1WA5YkjWhURUUryNV9ZQHw,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, فلکه دادگستری, Zanjan",2,0
+20,مطعم العافية,ChIJbxbTOeYdWhUR_nijC1C8BYo,33.346092,43.768617,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","10, Al-Fallujah",2,12
+21,مطعم دار زرزور,ChIJHQnpCpwdWhUR7_wOsh8X9-c,33.3505394,43.77734419999999,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q2G+6W9, Al-Fallujah",2,188
+22,Pizza nooshin,ChIJ29KUzXojWhUReTvIE6VVrt4,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Su Sul,2,0
+23,La Casa restaurant and cafe,ChIJO4a8CSYjWhURuheT9NlW9M8,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Acساحة الاحتفالاتساحة الاحتفالات, قرب مجمع دبيKirkuk",2,0
+24,Dish mandi Restaurant,ChIJm9eD3JwdWhURXqBpPDCgrxA,33.3510967,43.7802862,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q2J+C4M, Al-Fallujah",2,422
+25,Hajjy Husain Restaurant,ChIJtf5zjJwdWhURUV402XzrPR0,33.3507486,43.7792036,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q2H+7MW, Al-Fallujah",2,2189
+26,Family Food,ChIJQ9VDjFodWhUROY0GqqUCUjQ,33.355654,43.7862658,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",9Q3W+MF، الفلوجة،،، الفلوجة،,2,2
+27,صور رمزيات افتارات,ChIJQ1PXdX4dWhUReSKB-iCDAGE,33.3468086,43.775052,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Add Fff Gfg Aqes 12,2,1
+28,مطعم جورج للرومانسية 8j_37@,ChIJpyI4oBAdWhUR0ZSRFtrY9Hg,33.3452156,43.7847136,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QWM+3V8, Al-Fallujah",2,1
+29,Olive Branch Restaurant,ChIJb4XQN4cdWhURUeaiHyE7prI,33.3447972,43.7896777,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QVQ+WV7, Al-Fallujah",2,290
+30,LACASA BURGER,ChIJma9kw4EdWhURmqv4q-s57zc,33.3632775,43.78529260000001,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",الفلوجة،، 9Q7M+CQ9، الفلوجة،,2,26
+31,Dream Land Restaurant - مطعم دريم لاند,ChIJk3G8d_UjWhUR9MHonnjFVtY,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Omar bin Abdul Aziz asu, gkb Bridge, ax",2,0
+32,كافيتريا البركة,ChIJd8y3fLodWhURCilhP7FuGFw,33.350065,43.7625809,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q27+224, Al-Fallujah",2,100
+33,فايكنج بركر الفلوجة VIKING BURGER,ChIJxSpFlu0dWhURFLaOQYqVpkg,33.3590832,43.7754679,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع 40, Al-Fallujah",2,138
+34,ماكولات السوري,ChIJj-wBdCP3WRURRMDmWnk3KgA,33.3618562,43.7994547,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q6X+PQR، Unnamed Road، الفلوجة،، الفلوجة،, Al-Fallujah",2,98
+35,مطعم باب الحارة,ChIJJUgtNlv3WRUR2JiemZx0oR8,33.3615494,43.7978554,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q6X+J49، Unnamed Road،, Al-Fallujah",2,22
+36,مطعم الاصيل,ChIJz9_evCMdWhUR8dcHKfjVMtQ,33.3592894,43.77382069999999,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q5F+HFJ, Al-Fallujah",2,1
+37,بيت شباب بغداد,ChIJrX7I7V0jWhURl8ZAuuu-fWo,33.223191,43.679291,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",6MFH+7PF، Unnamed Road,2,1
+38,مطعم شيف بركر,ChIJW5bamf0dWhURF-VdXcgIEUI,33.35109,43.780252,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",9Q2J+C4J، الفلوجة،,2,24
+39,مطعم حجايه,ChIJZ2GbAbQdWhURMqzR7EwHcU8,33.3532683,43.7907358,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q3R+79W, Al-Fallujah",2,11
+40,مطعم الانس,ChIJc2V-QX4dWhURMdZnkPFwhp8,33.3497764,43.76458400000001,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QX7+WR2, Al-Fallujah",2,6
+41,مطعم,ChIJmQ7ULxcbWhURzonDELKt9T0,33.4021751,43.6913677,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","CM2R+VGH, 23, Saqlawia",2,2
+42,مطعم الجندول الشهير,ChIJ2U1KrZkdWhURTMy6dN6Pgkk,33.3491136,43.7741687,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QXF+JMV, Al-Fallujah",2,253
+43,مطعم يوليو,ChIJLz30tDwZWhURgsnLtbayQJE,33.3366869,43.7063456,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","الشارع العام (فلوجة_رمادي حلبسة, Al-Fallujah",2,12
+44,مطعم ومشويات العزائم,ChIJB0L1m_0dWhURoNt1tQ__9bo,33.3506621,43.7775879,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q2H+728, Al-Fallujah",2,22
+45,كافتريا لبنان الشهيرة,ChIJ67o2MI8dWhURVfM1NDgC0Xs,33.349939,43.7643425,3.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QX7+XPG, Al-Fallujah",2,14
+46,مطعم زرزور,ChIJxchEdtodWhURGPn8TWpIyNY,33.3591468,43.7727252,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q5F+M35، شارع الثرثار، الفلوجة،, Al-Fallujah",2,4
+47,مثلجات لوتس,ChIJJUb2yRgdWhUR88G9nWFAQrI,33.3444388,43.7812329,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QVJ+PGR، الفلوجة،, Al-Fallujah",2,3
+48,مطعم البركة,ChIJiaRm2Fj3WRURrXM-bBep_9A,33.3347769,43.7944016,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QMV+WQ2, Al-Fallujah",2,4
+49,مطعم حجي انس,ChIJwbE-9mgdWhURLRrAUSEuyrA,33.3242337,43.7563081,3.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","حي الاندلس، شارع السينما, Al-Fallujah",2,7
+50,ماكولات الفراس,ChIJ50asUgQbWhURvoExv66_veA,33.3961414,43.68038190000001,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9MWJ+F52، Unnamed Road، سقلاوية،, Saqlawia",2,2
+51,مأكولات احمد ياسين,ChIJvXPeJnodWhURGg6MXTpa4rI,33.3593398,43.7802786,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q5J+P4J، Unnamed Road،, Al-Fallujah",2,485
+52,مطعم سباس,ChIJkTf7E58jWhUR3JHj7KmG_7s,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,0
+53,مطعم العباسي,ChIJM4sFp1gdWhURyx2N4o0NUgE,33.3508327,43.7702793,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",Al-Fallujah,2,42
+54,مطعم دلة وفنجان,ChIJMxAukbAdWhUR9kqwt5gi2Sk,33.3624923,43.7858412,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q7P+28G, Al-Fallujah",2,10
+55,كافتيرا قيس,ChIJU3dGoL4dWhURF51c6cfFEKU,33.3492571,43.7740645,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QXF+MJR, Al-Fallujah",2,148
+56,بيتزا بيتزا,ChIJ8-STh2wdWhURIs9rLlNjFaY,33.3609416,43.7851596,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q6P+93R, Al-Fallujah",2,36
+57,كافتريا هباوي,ChIJE2W7j7D9WRURN2e1hbVthdg,33.4064382,43.920004,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","CW4C+J2J, Karma",2,0
+58,مطعم بلاكهيرو للأكلات الغربية,ChIJYQN04lcdWhURO-74Wz8eGws,33.3526892,43.77009899999999,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q3C+32G, Al-Fallujah",2,1
+59,مطعم عبدالكريم الحلبوسي,ChIJoaD06hP3WRURMnDFqFC5YSo,33.3638892,43.8019165,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","9R72+HQ3, Al-Fallujah",2,3
+60,مطعم دار زرزور,ChIJHQnpCpwdWhUR7_wOsh8X9-c,33.3505394,43.77734419999999,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q2G+6W9, Al-Fallujah",2,188
+61,مطعم ايوب المحمدي,ChIJx76gZ4_3WRURKzdrxGD5xmE,33.3647079,43.8017936,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","9R72+VPM, Al-Fallujah",2,33
+62,مطعم شيف بركر,ChIJW5bamf0dWhURF-VdXcgIEUI,33.35109,43.780252,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",9Q2J+C4J، الفلوجة،,2,24
+63,مطعم حسن هويدي,ChIJucNc0tobWhURus1RbhnG8gY,33.4017528,43.6916728,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","CM2R+PM3, Saqlawia",2,38
+64,مطعم العباسي,ChIJM4sFp1gdWhURyx2N4o0NUgE,33.3508327,43.7702793,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",Al-Fallujah,2,42
+65,مطعم يوليو,ChIJLz30tDwZWhURgsnLtbayQJE,33.3366869,43.7063456,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","الشارع العام (فلوجة_رمادي حلبسة, Al-Fallujah",2,12
+66,مطعم انس للاكلات الشرقيه والغربيه,ChIJc-UN7ccdWhUR5eWZXLTuBt4,33.3497765,43.7645839,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QX7+WR2, Al-Fallujah",2,0
+67,Al Badia Restaurant,ChIJA0R8jJsdWhURwBD5axwFHOE,33.350167,43.778084,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q2H+37P، Unnamed Road, Al-Fallujah",2,2995
+68,مأكولات صلاح,ChIJUfKEZ3sdWhUROJChBPRFxv8,33.3593589,43.7854811,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q5P+P6R, Al-Fallujah",2,346
+69,لحم بعجين ركن الموصلي,ChIJme4PaZL3WRURWm_DMzJGUcg,33.3607764,43.7922392,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q6R+8W5, Al-Fallujah",2,4
+70,Dish mandi Restaurant,ChIJm9eD3JwdWhURXqBpPDCgrxA,33.3510967,43.7802862,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q2J+C4M, Al-Fallujah",2,422
+71,مطعم ومشويات دلفري,ChIJlfIlUKX3WRURQd0owwk4PW4,33.3575613,43.8115432,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","9R56+2J3، Unnamed Road, Al-Fallujah",2,14
+72,Olive Branch Restaurant,ChIJb4XQN4cdWhURUeaiHyE7prI,33.3447972,43.7896777,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QVQ+WV7, Al-Fallujah",2,290
+73,مطعم الجندول الشهير,ChIJ2U1KrZkdWhURTMy6dN6Pgkk,33.3491136,43.7741687,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QXF+JMV, Al-Fallujah",2,253
+74,مطعم بلاكهيرو للأكلات الغربية,ChIJYQN04lcdWhURO-74Wz8eGws,33.3526892,43.77009899999999,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q3C+32G, Al-Fallujah",2,1
+75,مطعم ومشويات محمد شعلان,ChIJW9kBgQcdWhURo83Jy1qy9PU,33.362157,43.7651148,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q68+R2Q, Al-Fallujah",2,1
+76,مطعم ومشويات العزائم,ChIJB0L1m_0dWhURoNt1tQ__9bo,33.3506621,43.7775879,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q2H+728, Al-Fallujah",2,22
+77,مطعم الامير,ChIJ8aER2YkjWhURjTVaEDHzMoA,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",G9RV+G42 حسينية حي الزهور,2,0
+78,مطعم البركة,ChIJiaRm2Fj3WRURrXM-bBep_9A,33.3347769,43.7944016,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QMV+WQ2, Al-Fallujah",2,4
+79,مطعم حجي حسن الهويدي,ChIJ_4tv380bWhURvXTuF8k9JdQ,33.3962011,43.70466529999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PW3+FVM, Saqlawia",2,5
+80,مطعم وكافيه شمس المدينه,ChIJefcaI74dWhURRYWPqzI93m4,33.3476924,43.760815,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","8QX6+38G, Al-Fallujah",2,59
+81,Hajjy Husain Restaurant,ChIJtf5zjJwdWhURUV402XzrPR0,33.3507486,43.7792036,4.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","9Q2H+7MW, Al-Fallujah",2,2189
+82,مطعم ومشويات العائله,ChIJgyXi99z3WRURZ2CaYI1L4Dw,33.3613544,43.7980221,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","9Q6X+G6C, Al-Fallujah",2,25
+83,مأكولات الامير,ChIJBwsxvBcbWhURTwn9UIYkZeE,33.3964882,43.680872,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","9MWJ+H8Q، طريق علي عواد بواسطه محمد google، سقلاوية،, Saqlawia",2,5
+84,مطعم حنوش,ChIJtWgQ0wobWhURvzdHgr7_Zrg,33.3994203,43.6862742,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","9MXP+QG7, Saqlawia",2,13
+85,مطعم زرزور,ChIJxchEdtodWhURGPn8TWpIyNY,33.3591468,43.7727252,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9Q5F+M35، شارع الثرثار، الفلوجة،, Al-Fallujah",2,4
+86,مطعم الجنادريه,ChIJL3La3E0jWhUR-NP7LlEGBrM,33.223191,43.679291,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","6MFH+7PF, Falahat",2,0
+87,Chef Burger,ChIJQ0mbpIQdWhURgReq88ofSV4,33.351125,43.7802192,3.4,"['restaurant', 'point_of_interest', 'food', 'establishment']","9Q2J+C3X، Unnamed Road, Al-Fallujah",2,10
+88,مأكولات احمد ياسين,ChIJvXPeJnodWhURGg6MXTpa4rI,33.3593398,43.7802786,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","9Q5J+P4J، Unnamed Road،, Al-Fallujah",2,485
+89,كنتاكي فروج الهنا,ChIJv6BI1wAdWhURbTWQqbEgnPQ,33.3473046,43.7710444,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","8QWC+WCF, Al-Fallujah",2,42
+90,مطعم حجي فلاح شارع الضغط شارع الضغط شارع الضغط شارع الضبع شارع الظهر,ChIJG66h-lUdWhUR-j6vclbF6-o,33.352378,43.7613864,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","شارع المشاتل, Al-Fallujah",2,14
+91,محبوك,ChIJn8beyq0dWhURcal3y4BD1Ik,33.3541284,43.7697516,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",9Q39+MW2، فلوجه،,2,0
+92,كافتريا لبنان الشهيرة,ChIJ67o2MI8dWhURVfM1NDgC0Xs,33.349939,43.7643425,3.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","8QX7+XPG, Al-Fallujah",2,14
+93,مطعم ومشويات سلام Edco,ChIJ36QbXlj3WRURtmP2Rl8aGxg,33.3615036,43.79956019999999,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9Q6X+JR3، Unnamed Road, Al-Fallujah",2,1
+94,مطعم العريش,ChIJaxFssbQfWhURM_Q7c9CIjUY,33.3302197,43.72160480000001,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8PJC+3JX, 11, Halabsa",2,2
+95,مطعم,ChIJmQ7ULxcbWhURzonDELKt9T0,33.4021751,43.6913677,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","CM2R+VGH, 23, Saqlawia",2,2
+96,مطعم سالم الجبوري,ChIJYZDR_v8dWhURv9OcudFv4Uw,33.3608303,43.7855517,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9Q6P+86M، Unnamed Road, Al-Fallujah",2,7
+97,Restaurant Distinguished,ChIJ6VDIs973WRURkQwAiWyyb5o,33.3612977,43.7948513,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","9Q6V+GW9, Al-Fallujah",2,78
+98,مطعم حنوش,ChIJ2RvCoIodWhURraNnOxKatkM,33.3522526,43.77051729999999,3.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","9Q2C+W62، Unnamed Road،, Al-Fallujah",2,6
+99,مطعم خضير الوردي,ChIJAS3tlbsdWhUR5hJpxOOBGrs,33.3444363,43.7812166,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8QVJ+PGR, Al-Fallujah",2,5
+100,بيتزا بيتزا,ChIJ8-STh2wdWhURIs9rLlNjFaY,33.3609416,43.7851596,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q6P+93R, Al-Fallujah",2,36
+101,مطهم هبي تايم,ChIJKYlmCPojWhURWJ5tdcJ67zk,33.223191,43.679291,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,2
+102,فايكنج بركر الفلوجة VIKING BURGER,ChIJxSpFlu0dWhURFLaOQYqVpkg,33.3590832,43.7754679,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع 40, Al-Fallujah",2,138
+103,مطعم حبايبنا,ChIJ52qQBSIjWhUR3sCg07YpA0g,33.223191,43.679291,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,3
+104,مطعم حجي انس,ChIJwbE-9mgdWhURLRrAUSEuyrA,33.3242337,43.7563081,3.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","حي الاندلس، شارع السينما, Al-Fallujah",2,7
+105,مطعم الانس,ChIJc2V-QX4dWhURMdZnkPFwhp8,33.3497764,43.76458400000001,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QX7+WR2, Al-Fallujah",2,6
+106,مأكولات سكنونو الشرقيه والغربية,ChIJreOVjncjWhURwrcf4i9Cvl0,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,0
+107,مطعم باب الحارة,ChIJJUgtNlv3WRUR2JiemZx0oR8,33.3615494,43.7978554,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q6X+J49، Unnamed Road،, Al-Fallujah",2,22
+108,مشويات محمد,ChIJZac5-cuLWRUR2KG1pL_SjHU,33.1639023,43.8595872,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","5V75+HR8, Amiriyat Fallujah",2,2
+109,مطعم وحدائق القلعه,ChIJOeyeExH3WRURJ0TbWEUlt-w,33.3532263,43.7909671,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q3R+79W، الفلوجة، الأنبار،, Al-Fallujah",2,60
+110,مطعم سلام شهير بادارة ابو احمد واولاده,ChIJ_f___48dWhURXe6aEy7eht8,33.3444363,43.7812166,3.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QVJ+PGR، الفلوجة،, Al-Fallujah",2,10
+111,مطعم وكافيه خيمة البادية,ChIJ44nWGO8dWhUR3STbM5ys-AM,33.3521558,43.78672220000001,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q2P+VM9, الشارع العام, Al-Fallujah",2,67
+112,كافتيرا قيس,ChIJU3dGoL4dWhURF51c6cfFEKU,33.3492571,43.7740645,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QXF+MJR, Al-Fallujah",2,148
+113,مطعم ومشويات محمد شعلان,ChIJrwdgiRv3WRURoM9MWGkOwgc,33.3572882,43.7925073,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","مقابل مجمع العادي الطبي, Al-Fallujah",2,0
+114,مطعم اليقين,ChIJI0OvYyj9WRUR5X8ZmouACUA,33.4059011,43.912681,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","CW47+937, Karma",2,4
+115,ماكولات زكريا السوري,ChIJGbmzb48dWhURnDNLe1eckmI,33.3498635,43.7605772,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QX6+W6W, Al-Fallujah",2,0
+116,مطعم المزيود,ChIJ7bfonCX3WRURCDov_gZ9MpM,33.3411685,43.7997036,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QRX+FV8، شارع ٦٠, Al-Fallujah",2,25
+117,كفتيريا عمر,ChIJhZQrKSEdWhURlpIt5vHsFC8,33.3454462,43.7872445,3.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QWP+5VH، Unnamed Road, Al-Fallujah",2,6
+118,چكن دكان,ChIJe_0EVS4dWhURTaMcE_aiOaI,33.3550507,43.7854552,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q4P+26F جامع سيدنا عثمان, شارع, شارع الثرثار, Al-Fallujah",2,14
+119,مطعم الديره,ChIJk2okaZLjWRURpfv0y7dkGLA,33.4364631,43.9627492,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","CXP7+H3Q، الكرمة،, Karma",2,0
+120,ماكولات السوري,ChIJj-wBdCP3WRURRMDmWnk3KgA,33.3618562,43.7994547,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q6X+PQR، Unnamed Road، الفلوجة،، الفلوجة،, Al-Fallujah",2,98
+121,مأكولات احمد ياسين,ChIJvXPeJnodWhURGg6MXTpa4rI,33.3593398,43.7802786,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q5J+P4J، Unnamed Road،, Al-Fallujah",2,485
+122,ماكولات دجلة,ChIJIwSSf1n3WRURChOn_SznN2c,33.3615002,43.7966102,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q6W+JJ5, Al-Fallujah",2,5
+123,مأكولات صلاح,ChIJUfKEZ3sdWhUROJChBPRFxv8,33.3593589,43.7854811,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q5P+P6R, Al-Fallujah",2,346
+124,مأكولات قيس2,ChIJ3zqV2MkdWhURXNi6cdnOQsg,33.3582017,43.7858722,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",9Q5P+7CF، الفلوجة،,2,69
+125,ماكولات زكريا السوري,ChIJGbmzb48dWhURnDNLe1eckmI,33.3498635,43.7605772,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QX6+W6W, Al-Fallujah",2,0
+126,Family Food,ChIJQ9VDjFodWhUROY0GqqUCUjQ,33.355654,43.7862658,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",9Q3W+MF، الفلوجة،،، الفلوجة،,2,2
+127,چكن دكان,ChIJe_0EVS4dWhURTaMcE_aiOaI,33.3550507,43.7854552,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q4P+26F جامع سيدنا عثمان, شارع, شارع الثرثار, Al-Fallujah",2,14
+128,مأكولات سكنونو الشرقيه والغربية,ChIJreOVjncjWhURwrcf4i9Cvl0,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,0
+129,STELO FAST FOOD,ChIJ0ZnbdKQjWhURdvFrnBFn9BA,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",MPR6+MGX، العلم,2,0
+130,ماكولات فؤفؤ الطيب,ChIJJcNburkjWhURnr_7pdPpCEQ,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",منطقةابراهيم الخليل,2,0
+131,ماكولات الفراس,ChIJ50asUgQbWhURvoExv66_veA,33.3961414,43.68038190000001,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9MWJ+F52، Unnamed Road، سقلاوية،, Saqlawia",2,2
+132,كنتاكي فروج الهنا,ChIJv6BI1wAdWhURbTWQqbEgnPQ,33.3473046,43.7710444,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QWC+WCF, Al-Fallujah",2,42
+133,مأكولات الامير,ChIJBwsxvBcbWhURTwn9UIYkZeE,33.3964882,43.680872,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","9MWJ+H8Q، طريق علي عواد بواسطه محمد google، سقلاوية،, Saqlawia",2,5
+134,مطعم حنوش,ChIJtWgQ0wobWhURvzdHgr7_Zrg,33.3994203,43.6862742,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","9MXP+QG7, Saqlawia",2,13
+135,فلافل احمد دبل,ChIJMwgBT-IdWhURk15LrZdokMA,33.3589567,43.7736265,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q5F+HFJ, Al-Fallujah",2,10
+136,مشويات عمر حياتي,ChIJv2vl-3-LWRUR6E18dWwpckk,33.1621806,43.8641094,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","5V67+VJ8, Amiriyat Fallujah",2,0
+137,ماكولات زازا الحجي,ChIJUcVdqHjxWRURicaJVWCFp9E,33.2841219,43.90909190000001,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",7WM5+JJW، المزرعة,2,0
+138,صور رمزيات افتارات,ChIJQ1PXdX4dWhUReSKB-iCDAGE,33.3468086,43.775052,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Add Fff Gfg Aqes 12,2,1
+139,مطعم بلاكهيرو للأكلات الغربية,ChIJYQN04lcdWhURO-74Wz8eGws,33.3526892,43.77009899999999,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q3C+32G, Al-Fallujah",2,1
+140,Hghgh,ChIJ6Ve-TZkjWhUR6WVZtpubM7Q,33.223191,43.679291,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","Thf Tuti, Ihjg",2,0
+141,مأكولات ملعب الزوية,ChIJ2yKup23jWRURZSKaW5RrufU,33.4257167,43.9895673,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","CXGQ+PCH, Ibrahim Bin Ali",2,2
+142,مطعم كباب الفلوجة,ChIJkbx-7WSLWRURTVXXM7ugN50,33.1813076,43.8444715,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']",5RJV+GQ، زوبعة،,2,10
+143,شارع الثرثار,ChIJTQdogXgdWhURowspCFpjpSE,33.3560374,43.7867495,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9Q4P+CMH, Al-Fallujah",2,1
+144,كافتريا لبنان الشهيرة,ChIJ67o2MI8dWhURVfM1NDgC0Xs,33.349939,43.7643425,3.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","8QX7+XPG, Al-Fallujah",2,14
+145,محبوك,ChIJn8beyq0dWhURcal3y4BD1Ik,33.3541284,43.7697516,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",9Q39+MW2، فلوجه،,2,0
+146,كافتيرا قيس,ChIJU3dGoL4dWhURF51c6cfFEKU,33.3492571,43.7740645,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","8QXF+MJR, Al-Fallujah",2,148
+147,مطعم الانس,ChIJc2V-QX4dWhURMdZnkPFwhp8,33.3497764,43.76458400000001,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8QX7+WR2, Al-Fallujah",2,6
+148,مأكولات شاورما كريم,ChIJvRweIfMdWhURvLPS1K3JdhA,33.3588874,43.77276029999999,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9Q5F+H39, شارع الثرثار, الفلوجة،",2,0
+149,علوة اسماك القبطان,ChIJs-5WUlYdWhUR7ZOie9uTtdQ,33.3456807,43.7682778,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8QW9+78C, Al-Fallujah",2,1
+150,meisamamohamadi,ChIJibZvjh4jWhURb5at7scoNjw,33.223191,43.679291,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","rtyrt 456456 nm,nm 67yjghj",2,0
+151,مطعم العباسي,ChIJM4sFp1gdWhURyx2N4o0NUgE,33.3508327,43.7702793,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']",Al-Fallujah,2,42
+152,برلين للوجبات السريعة,ChIJIdfKLmIdWhURMWude7lZRlg,33.3626603,43.7856077,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9Q7P+369، شارع الثرثار, Al-Fallujah",2,1
+153,مطعم عبدالكريم الحلبوسي,ChIJoaD06hP3WRURMnDFqFC5YSo,33.3638892,43.8019165,4.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","9R72+HQ3, Al-Fallujah",2,3
+154,مطعم ابن البلوة أبو سدارة,ChIJY-0UJtodWhURlZjHIfd7RJA,33.3391726,43.7822137,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8QQJ+MV8، الفلوجة،, Al-Fallujah",2,1
+155,مأكولات بركات السجاد,ChIJ-W5UqwIjWhUR7-f3ZzebTJ0,33.223191,43.679291,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","6MFH+7PF, Falahat",2,0
+156,Lebanon Falafel,ChIJJ5jcb_EdWhURPSlQxR1eyMc,33.3644992,43.7851829,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","9Q7P+Q3V, Al-Fallujah",2,46
+157,مطعم ومأكولات بادية الشام,ChIJyTDbwIkdWhUR4tzEBmucIsI,33.3484419,43.77480449999999,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","Popular clinic intersection Bridge, 10، الفلوجة،، الفلوجة،",2,0
+158,كافيه ومأكولات ميشا,ChIJ2-hortwjWhURKll696Ysd3U,33.223191,43.679291,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",6MFH+7PF، شارع الكفاءات، عماره,2,0
+159,beast burger,ChIJFYAZjGUdWhURprd3xensSf0,33.3554726,43.7785775,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9Q4H+6C4, Al-Fallujah",2,0
+160,مطعم المميز,ChIJqff8zO7jWRURXgg0gxWo3_w,33.4364631,43.9627492,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","CXP7+H3Q، الكرمة،, Karma",2,0
+161,مطعم حبايبنا,ChIJ52qQBSIjWhUR3sCg07YpA0g,33.223191,43.679291,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,3
+162,Chili House & Lee's,ChIJlUck-QEdWhURm4dGtIkZp44,33.3551265,43.76963130000001,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q49+3V3، الفلوجة،, Al-Fallujah",2,4
+163,مطعم جورج للرومانسية 8j_37@,ChIJpyI4oBAdWhUR0ZSRFtrY9Hg,33.3452156,43.7847136,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QWM+3V8, Al-Fallujah",2,1
+164,طرشي ومخللات الامين,ChIJ-cSihuD3WRURpRPh_S1vcEA,33.361353,43.7975641,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q6X+G2W، Unnamed Road, Al-Fallujah",2,11
+165,PUBG Restaurants,ChIJP-DXn-IjWhURGuP4kSuntoQ,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Unnamed Road mahamad@12345678,2,0
+166,مطعم انس للاكلات الشرقيه والغربيه,ChIJc-UN7ccdWhUR5eWZXLTuBt4,33.3497765,43.7645839,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QX7+WR2, Al-Fallujah",2,0
+167,شيفز برغر فرع الفلوجة Chef's Burger,ChIJpUMie8QdWhUR4iXf3gwhIf0,33.3560572,43.78620979999999,2.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q4P+CFF, Al-Fallujah",2,7
+168,المثنى ابو شريش,ChIJR8k2fXwjWhURAl4ErUSHJ10,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,0
+169,مطعم البركة,ChIJiaRm2Fj3WRURrXM-bBep_9A,33.3347769,43.7944016,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QMV+WQ2, Al-Fallujah",2,4
+170,مطعم البادية ALBADYA RESTURANT,ChIJl79Ji70dWhURimDCoAOVIkM,33.3444388,43.7812329,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QVJ+PGR، الشارع العام, Al-Fallujah",2,27
+171,مطعم حجي فلاح شارع الضغط شارع الضغط شارع الضغط شارع الضبع شارع الظهر,ChIJG66h-lUdWhUR-j6vclbF6-o,33.352378,43.7613864,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع المشاتل, Al-Fallujah",2,14
+172,ناحية المشرح,ChIJpaFio6UjWhUR_TgV2Hqqx_A,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,0
+173,مطعم جزيره,ChIJOyD2Q9L9WRURgBiMVc2JOt8,33.4048565,43.92000789999999,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",CW3C+W2R، كارما،,2,1
+174,مطعم ومشويات سلام Edco,ChIJ36QbXlj3WRURtmP2Rl8aGxg,33.3615036,43.79956019999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q6X+JR3، Unnamed Road, Al-Fallujah",2,1
+175,كافيتريا البركة,ChIJd8y3fLodWhURCilhP7FuGFw,33.350065,43.7625809,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","9Q27+224, Al-Fallujah",2,100
+176,فود سنتر,ChIJAahXWAEjWhURwFXZOgcFCtg,33.224329,43.6793678,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MFH+PPQ، بابل، العراق كوثا, Falahat",2,0
+177,موضف,ChIJ4VRrTNsjWhURhzUwclEcSXU,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",3 العلم حي الصمد,2,0
+178,فلافل ابو حلب,ChIJy-gs0rkjWhURjXnIPIkYWWM,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",6MFH+7PF، Unnamed Road، Gg، Tt,2,0
+179,مطهم هبي تايم,ChIJKYlmCPojWhURWJ5tdcJ67zk,33.223191,43.679291,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,2
+180,SnapChat Cafe ️,ChIJkdImxyYdWhURhR6RxxN6c88,33.3444363,43.7812166,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']",Unnamed Road 40 الفلوجة hamada,2,1
+181,DAY & NIGHT Cafe',ChIJ-eu4xM4dWhUR88-GVogdy-4,33.3575461,43.7864667,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","9Q5P+2H8, Al-Fallujah",2,2
+182,كوفي بطرس,ChIJK1Sd1JIdWhURJTy7OB7vJL8,33.351858,43.7827978,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","9Q2M+P4V, Unnamed Road،, Al-Fallujah",2,0
+183,كوفي كورنيش الفلوجة,ChIJhdtZ1uAdWhURYARcTW-PdDE,33.3475693,43.7608792,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","8QX6+29J, Al-Fallujah",2,4
+184,كوفي شوب هوكه,ChIJ_YwImIQdWhURV8KUxiYNYOk,33.3487022,43.7603832,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']","8QX6+F5J، جسر الفلوجه القديم شارع الكورنيش Unnamed Road, Al-Fallujah",2,36
+185,مقهى حروف & Cafe letters,ChIJeZjvnjb3WRURb25Tpk1_Gqs,33.3614547,43.7984261,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","9Q6X+H94, Al-Fallujah",2,1
+186,مقهى السفينة,ChIJ--6MzmMdWhURXn3tB5UAmmo,33.3588062,43.7862895,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","9Q5P+GGC, شارع الثرثار, Al-Fallujah",2,0
+187,aya cafe,ChIJt7x-y6P3WRURFD-_Bd2-iaA,33.3612565,43.7935206,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9Q6V+GPM, Al-Fallujah",2,0
+188,كوفي سراج,ChIJtQTOdI0dWhURcec3WBbTUYk,33.3307459,43.78576880000001,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","8QJP+78C, Al-Fallujah",2,39
+189,مقهى الفرات Al Furat Cafe,ChIJieAGL9gdWhUR8_ruhPPl0m8,33.35037,43.7607809,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","9Q26+48V، الفلوجة،, Al-Fallujah",2,2
+190,كوفي King Mood,ChIJsb9HAIv3WRURarsqk_8-HtM,33.3652061,43.8103093,3.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9R86+34G، العسكري، الفلوجة، الأنبار،، شارع المحيط, Al-Fallujah",2,1
+191,كوفي فيروزة,ChIJR6xBDnb3WRURWubGzaiWhW4,33.3537433,43.79564389999999,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']","9Q3W+F7R، الفلوجة،, Al-Fallujah",2,14
+192,قهوة أهلنا,ChIJoeM9LVD3WRURtjsHH-eq3Hg,33.3612238,43.7940674,4.2,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","9Q6V+GPM, Al-Fallujah",2,5
+193,مقهى البيروتي,ChIJUxhDxK0dWhURAAbJcRLgGhY,33.3499925,43.7760447,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","8QXG+XCV, Al-Fallujah",2,2
+194,Zag cofe/زه نك,ChIJgQkejxsjWhURgUYI7rEHXcc,33.223191,43.679291,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",Zand cafe، Unnamed Road Zand cafe كافتريا زه ند,2,0
+195,Al-Halboosi Cafe,ChIJi8790QIdWhURPUOPzrTiJ5g,33.3507528,43.7758963,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",9Q2G+79J، الفلوجة،,2,0
+196,كوفي انتيك خانة,ChIJHcfsgkkdWhURyU2EAV0NUbI,33.3507827,43.7778774,4.8,"['cafe', 'food', 'point_of_interest', 'establishment']",9Q2H+86C، الفلوجة،,2,5
+197,كوفي الامواج,ChIJYcUzPVQdWhURqNpZvTLZqwg,33.3686675,43.7810835,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","9Q9J+FC8, Al-Fallujah",2,51
+198,كوفي حروف,ChIJsVOgKMP3WRUR4E-GDez2-wc,33.3531164,43.7955578,3.3,"['cafe', 'food', 'point_of_interest', 'establishment']","9Q3W+66M، الشارع العام, Al-Fallujah",2,6
+199,مقهى الافندي,ChIJy48VjdIdWhURE91VkblZV5c,33.3586302,43.78631559999999,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9Q5P+FG4, Al-Fallujah",2,21
+200,مقهى آوات الشعبي,ChIJW5wFfd0dWhURXIfAsrqmXsQ,33.3497138,43.7601073,4.5,"['cafe', 'food', 'point_of_interest', 'establishment']","8QX6+V2Q، Unnamed Road, Al-Fallujah",2,10
+201,مقهى ليلي الصقلاوية,ChIJFZOCzuIbWhURoULBmE5MudU,33.3921527,43.67717469999999,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9MRG+VV7، العراق، الانبار،, Saqlawia",2,3
+202,Heritage Cafe,ChIJd-rUYJkdWhURzpriw18PdOw,33.3498681,43.7761982,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","8QXG+WFW, 10, Al-Fallujah",2,79
+203,Joker cafe,ChIJr2d_7YD3WRURNP25F02pxfE,33.3620005,43.800296,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","9R62+R43, Al-Fallujah",2,39
+204,مقهى ليالي الشام,ChIJV0m7V1X7WRURUnUwfdQU9nA,33.3865539,43.9101378,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9WP6+J3C، Unnamed Road, Karma",2,5
+205,CnapChat Cafe,ChIJEfWfO24dWhUR_1emYkkO_bw,33.3602815,43.788444,3.4,"['cafe', 'food', 'point_of_interest', 'establishment']","9Q6Q+496, Al-Fallujah",2,9
+206,كوفي عمو بابا,ChIJ8U094DEfWhURaa4IroScT9o,33.3321946,43.7182755,4.8,"['cafe', 'food', 'point_of_interest', 'establishment']","8PJ9+R9R, Halabsa",2,5
+207,مقهى عمو بابا,ChIJN5_8AJMfWhUR1tLuiZb4yy0,33.3389723,43.72188149999999,3.0,"['cafe', 'food', 'point_of_interest', 'establishment']","8PQC+HQJ, Halabsa",2,2
+208,مقهى ابو سيف,ChIJe8WUFdEdWhURvKFRJXVNg8k,33.3509733,43.77647959999999,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9Q2G+9G9, Al-Fallujah",2,30
+209,مقهى الاخوين,ChIJy7y86VsdWhURjhN-_wpLTjY,33.3501336,43.7625648,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","9Q27+324, Al-Fallujah",2,10
+210,مقهى الطربوش,ChIJA9a_mF0dWhURkUMhi-EeL-U,33.3496004,43.7755257,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']","8QXG+R6R, Al-Fallujah",2,10
+211,yanni cafe,ChIJJQpkGdwjWhUR3iqbKaOqcis,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,0
+212,مقهى الحضرة الشعبي,ChIJ416fssUdWhURUqcOdvfmIho,33.3606825,43.7884663,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9Q6Q+79G، الفلوجة،, Al-Fallujah",2,3
+213,مقهى الفرات,ChIJCzlo2yodWhURuidH6ZKPGX8,33.3440935,43.7580436,4.6,"['cafe', 'food', 'point_of_interest', 'establishment']",8QV5+J6M، زاوية،,2,5
+214,دله والفنجان,ChIJB8sTIVwdWhURqvN1hnLzoeY,33.3624464,43.7859765,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","9Q6P+X9H، شارع الثرثار, Al-Fallujah",2,105
+215,Exit coffee,ChIJBdd99P0jWhURzUWqK_KWbSM,33.223191,43.679291,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",R5Q2+8F العمارة,2,0
+216,مقهى ابو نزار,ChIJM8_nQKcdWhURs4C2BsuKn1c,33.3501923,43.7761967,3.6,"['cafe', 'food', 'point_of_interest', 'establishment']","10، الفلوجة،، الشارع الجديد, Al-Fallujah",2,10
+217,كوفي الباشا,ChIJ8dPpImgbWhURSCvve3CO15I,33.3962011,43.70466529999999,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","9PW3+FVM, Saqlawia",2,0
+218,كافية موسكو,ChIJf2iojL4jWhURFHzk-j0BnEo,33.223191,43.679291,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,0
+219,مطعم وكوفي الاصدقاء,ChIJQ9XCTGAjWhUR3JePE6m9bQc,33.223191,43.679291,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,0
+220,Mazag sweet,ChIJ6ywUYEwdWhUR4SO9EGLmKYc,33.360445,43.7887412,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",9Q6Q+5H6، الفلوجة،,2,2
+221,قضا دبس,ChIJT33oCqQjWhURKMUUcEJ7AGw,33.223197,43.6793004,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,0
+222,مقهى واحد بغداد,ChIJP0ehLOQjWhURyNaw0u4rz_Q,33.223191,43.679291,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,0
+223,كوفي ستي سنتر,ChIJYwJ9wM6LWRUR7X1HtYIFwfI,33.1792125,43.8554531,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",5VH4+M5P، 5VH4+M5P،,2,0
+224,تي تو كافية,ChIJt1zM_rz3WRURB08rA46WcJw,33.3614578,43.7984551,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","9Q6X+H9P, Al-Fallujah",2,1
+225,الولاء,ChIJgWmf2R4jWhURs6t5iCGPMhE,33.223191,43.679291,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,0
+226,كوفي,ChIJ62XFs5UXWhUR6c95lEz2AHA,33.3736577,43.5908823,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","9HFR+F9J, Habbaniyah",2,1
+227,تيكران كافي,ChIJM2HZwcL3WRURyRVakcbyCy4,33.3613235,43.7935692,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","9Q6V+GPM, Al-Fallujah",2,0
+228,La Casa restaurant and cafe,ChIJO4a8CSYjWhURuheT9NlW9M8,33.223191,43.679291,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Acساحة الاحتفالاتساحة الاحتفالات, قرب مجمع دبيKirkuk",2,0
+229,كوفي بيت أهلنا,ChIJEzWgeFcdWhURSM7-1XGL9dA,33.3306097,43.785155,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","8QJP+63R, Al-Fallujah",2,0
+230,كوفي سراج,ChIJyXDjwjL3WRURNGqjWOtTOUM,33.3386854,43.7992912,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","8QQX+FPC, Al-Fallujah",2,0
+231,كوفي مزايا,ChIJaVF9kOUdWhUR6S-hkot0lsg,33.3536992,43.7664616,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","9Q38+FHW, Al-Fallujah",2,0
+232,الكهوه,ChIJO8PMgvQjWhURlhN0lhYJgSM,33.223191,43.679291,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,0
+233,كوفي ليثاوي,ChIJPUnKr6v9WRURCcG9dDblKAg,33.4061851,43.9166288,3.5,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",CW48+FJG، الكرمة،,2,4
+234,كوفي عمر قاپچي,ChIJFenRMd8jWhURR0xjLGhgj3o,33.223191,43.679291,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",6MFH+7PF، F7HF+3MGعمر قاپچي,2,0
+235,كافتيريا ابو حيدر,ChIJj4wcW9H9WRURY2uI2hfbVe0,33.4044806,43.9196782,1.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",CW39+QVV، كارما،,2,1
+236,كوفي المتميز,ChIJr-6kCEb3WRUREyniVBv16SE,33.3614624,43.7991609,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","9Q6X+HMF, Al-Fallujah",2,0
+237,حوراء,ChIJE67DQSEjWhURaY1wEijrYo8,33.223191,43.679291,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","6MFH+7PF, Falahat",2,0
+238,Cofe Challenger,ChIJMXr5Jib3WRURqR4-s1k3jDY,33.3390727,43.7935548,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","8QQV+MGP, Al-Fallujah",2,0
+239,كوفي ريماس,ChIJtx1vxMAdWhURJuIXvLhy2o8,33.3428317,43.79020999999999,3.5,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","8QVR+43P، Unnamed Road، الفلوجة،, Al-Fallujah",2,4
+240,مطعم القصر الابيض,ChIJK38fqANnWhURmDCJMbWwEqs,33.449855,43.3289204,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C8XH+WHR, Unnamed Road, Ramadi",2,480
+241,كباب حجي خالد,ChIJ0zi3CR1dWhURqK8fDU7zP3o,33.4246875,43.3120625,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C8F6+VR7, 33,4246544, 43,3120450, Ramadi",2,3
+242,مطعم فايكنك برغر,ChIJPfjStAFdWhURdxrNy-UZqS4,33.4305912,43.2964823,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7JW+7J7, Unnamed Road،،, Ramadi",2,40
+243,مطعم كباب أربيل Kabab Arbil Restaurant,ChIJnVFSu45dWhURuhmwB0aae4s,33.4266235,43.3033095,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","C8G3+J8V, Cinema St, Ramadi",2,46
+244,Arbys,ChIJD1vPsE1dWhURpfNoCyfaF_U,33.4106094,43.2733092,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C76F+96R, Ramadi",2,1
+245,مأكولات بيروت,ChIJk5AcHc1dWhUR6HYzm058t7k,33.4329252,43.298368,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7MX+58H, Unnamed Road, Ramadi",2,8
+246,مطعم ريبس الفرع الرئيسي,ChIJI1TJIapdWhUR5qJm4D88bmI,33.4372031,43.29464600000001,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7PV+VRH, Unnamed Road, Ramadi",2,135
+247,مطعم حجي عماد عايد,ChIJgUvO_IJdWhURCA3rSsxSYWo,33.4150696,43.3126962,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C887+23M, Unnamed Road،, Ramadi",2,4
+248,Best Burger,ChIJBYQdZOldWhURV_Jq3EMqKlw,33.4266384,43.2682775,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Ramadi,2,1
+249,Vikings burger,ChIJ2bjUfAldWhURWuIEHZBwyF8,33.4305023,43.2964809,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7JW+5HP, Unnamed Road،،, Ramadi",2,118
+250,السدير السياحي,ChIJb09U1KFeWhURVOsI7x0559Y,33.42142450000001,43.2496467,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","C6CX+HV3, Ramadi",2,120
+251,Calories Restaurant,ChIJbQ1_PR1dWhUROqSCEMlL5zc,33.4370919,43.280639,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7PJ+R7J، الرمادي،, Ramadi",2,6
+252,مأكولات الجوكر,ChIJuTQulyxdWhURTBBgVODI-DE,33.4164395,43.311981,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C886+HQH, 20th St, Ramadi",2,0
+253,nutella fresh restaurant,ChIJFe4ebyFdWhURBe2t_aUV4kc,33.4272805,43.2939809,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7GV+WH5, Unnamed Road،, Ramadi",2,4
+254,مندي بوابة اليمن - الانبار,ChIJ101eWc9nWhURhoF_PoA3tsI,33.448738,43.328281,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","C8XH+Q55, Ramadi",2,39
+255,مغلق بسبب الاهمال والقذارة,ChIJ1Wav6SddWhURHoYYrFU7w2E,33.4366231,43.2682801,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","القطانة, Street 17, Ramadi",2,0
+256,Dream Land Restaurant,ChIJK4uuyShdWhURZilb-0XzQhs,33.4278875,43.2729464,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","Next to, Bridge Omar bin Abdul Aziz, Ramadi",2,203
+257,مندي الحضرمي,ChIJa6hFABNdWhURrx_N2c_pJj8,33.4201967,43.30192400000001,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","C8C2+3QF, شارع المستودع،, Ramadi",2,7
+258,مشويات مندلي,ChIJwasXElRdWhUR7ZQs3kWCUro,33.4345219,43.2990722,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7MX+M9W, Ramadi",2,16
+259,مطبخ المحسنين,ChIJB8MNRe1dWhURN8wizQwOA1w,33.408546,43.2811644,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C75J+2H, Ramadi",2,0
+260,مصنع البركر burger factory,ChIJCchbeJBdWhURO2GyRqys_Y4,33.4367742,43.2823235,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7PJ+PW9, Unnamed Road, Ramadi",2,122
+261,Eat & Go,ChIJFxYLu7ldWhUR8XXBpexTlYY,33.4048727,43.2987164,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",C73X+QFH، الرمادي،,2,0
+262,مأكولات الكبيسي,ChIJyR-QUd5DWhURb2tmpa1IDcI,33.427009,43.337957,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C8GP+XR5, Ramadi",2,0
+263,مطعم الفخار اليمني,ChIJt2mS8IBdWhURVmy2dFuWmb8,33.434166,43.2991354,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7MX+MM6, Ramadi",2,11
+264,مندي عمو علي,ChIJqeaVBpxdWhURIa5Mm76Iodg,33.4144581,43.2791423,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","C77H+QJ9, Unnamed Road،, Ramadi",2,10
+265,origin burger,ChIJX9FJOpRdWhURw43GplLAK2g,33.4330418,43.2684088,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","17 القطانة Street, Ramadi",2,20
+266,برجرات الانبار - Burgerat Alanbar,ChIJH-zpPBhdWhURzSNu2xkzNb4,33.4388556,43.272271,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع الحولي الشمالي, Ramadi",2,88
+267,Chicken day,ChIJyUta5NBdWhURm_64odnbL1M,33.4219141,43.2672098,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7C8+QV8, Ramadi",2,6
+268,برج الهوكي 2,ChIJ-Z_C6V9cWhURxqrjtK05m18,33.4050404,43.2896477,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","C74Q+2V3, Ramadi",2,28
+269,مطعم طبق المندي فرع الرمادي,ChIJ-a1KGpVdWhURdUSTBn_2Bps,33.4360638,43.3018291,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C8P2+CPG, Unnamed Road, Ramadi",2,405
+270,مأكولات دينيز,ChIJbYwZGEtdWhURsLLbCp0TkS8,33.4215914,43.31225939999999,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","C8C6+JWM, 20th St, Ramadi",2,14
+271,GUPTA JI KA GHAR,ChIJ6VpbaD5dWhURMR7y0dasmqE,33.4366231,43.2682801,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7P9+J8R, Ramadi",2,0
+272,Al Baghdadi Restaurant,ChIJWddvug1dWhURQMzIMosAAtk,33.4336593,43.2986914,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7MX+FF9, Ramadi",2,77
+273,Defermo Restaurant Ramadi,ChIJf0CjR4RdWhURhAoTEFN8gKA,33.4306486,43.2683203,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7J9+784, Ramadi",2,0
+274,Hekaya Sham Restaurant,ChIJV9par8JdWhUR9UOMzm2MSjo,33.4323756,43.297573,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7JX+X23, Ramadi",2,8
+275,مطعم ومشويات طيبة,ChIJFaFfh0z1WhURUUMY2icayXM,33.48968139999999,43.1382063,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","F4QQ+V7Q, Ramadi",2,13
+276,Rips Fast Food,ChIJ5bH8m7ddWhURdn7c6tAIvKo,33.4371165,43.2945479,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7PV+RRV, Ramadi",2,6
+277,افران الضياء,ChIJA2ILF6BdWhURq9kWGby2OTQ,33.4206223,43.2887846,4.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7CQ+6GV, Ramadi",2,7
+278,Relax me Cafe | كافية ومطعم ريلاكس,ChIJKby1Fd1dWhURlo0p-ultYGU,33.4373304,43.29419559999999,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","الرمادي , شارع 40 , بناية المدينة مول, طابق الثاني, Ramadi",2,3
+279,مأكولات رانيا كورد وعرب,ChIJYSb6-3hdWhURY0rQnS41wew,33.4218182,43.3120143,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C8C6+PRF, 20th St, Ramadi",2,2
+280,Criterion Restaurant,ChIJJwtl3CJdWhUR2mTM2o9YyxQ,33.4260332,43.3121923,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","C8G6+CV8، شارع 20, Ramadi",2,63
+281,مطعم ابو عبدالله السياحي,ChIJyb2MSgVdWhUR8UZhuUv4g-s,33.4259344,43.3003529,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",Ramadi,2,497
+282,مأكولات السندباد,ChIJW3pTE7BdWhURRoZ-HPJXUEQ,33.4344542,43.2986276,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7MX+QCQ، شارع عمر, Ramadi",2,85
+283,سب وي,ChIJ4aIkprFdWhURwM2GU0-fsQI,33.4366231,43.2682801,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7P9+J8R, Ramadi",2,0
+284,مطعم بيت العز,ChIJk1esdw1fWhURzhrt7shxsy0,33.4194039,43.2417437,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C69R+QM9, Ramadi",2,0
+285,Rips fast food,ChIJpYS2R35dWhURO302yRDlBvg,33.42230139999999,43.30257280000001,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع المستودع،, Ramadi",2,135
+286,Seagulls Restaurant,ChIJDXvu8h9cWhURoPZS-A55XIQ,33.4194605,43.2532704,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","C793+Q8J, Ramadi",2,44
+287,مطعم كباب البادية توب,ChIJ9V3i1ORdWhURcVjMiCdbWyA,33.4151725,43.3128507,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C887+349، Unnamed Road, Ramadi",2,100
+288,الشرقيه فاست فوود,ChIJ9esE84trWhURLmuN9IFfUR4,33.4081875,43.4519375,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","حصيبه الشرقيه, Khalidiya",2,1
+289,مأكولات الخلاني,ChIJYeo3hLhdWhURfwdPRezXoj4,33.4173777,43.3120273,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C886+XR2, Ramadi",2,0
+290,Chicken corner,ChIJbf5vRs9dWhURr5zxtd6GKqA,33.4210583,43.3018619,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","مقابل ستي سنتر، شارع المستودع، الرمادي،, Ramadi",2,15
+291,لحوم ومشويات اطيب,ChIJ42vhWXVdWhURlmaRPuCh1wc,33.4194941,43.301847,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C892+QPW, Ramadi",2,1
+292,تسيتي جكن,ChIJVaJ26_pdWhURYzalsN7c-ZU,33.434916,43.29879529999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7MX+X9J, Ramadi",2,1
+293,سب وي,ChIJnRfl8ndrWhURLFRrvfVQ5TI,33.422223,43.42112059999999,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",CCCC+VFM، الرمادي،،،,2,16
+294,مأكولات الروشة,ChIJk4sgV2ddWhUR-CAXbYstW3A,33.4352401,43.2992169,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7PX+3MW، Unnamed Road, Ramadi",2,9
+295,مطعم اوتار الانبار,ChIJLSzb5xVdWhUR4G1_xS4LB6A,33.4367861,43.2823229,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7PJ+PW9, Ramadi",2,1
+296,مطعم ابو رشيد,ChIJNYCaRBRdWhUR1L-NT8p1HAk,33.4303011,43.3068345,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Abdul Salam Aref Mosque, Ramadi",2,201
+297,Foods Al Eskan,ChIJUTGzrmZdWhURjPGM3WjiTNE,33.4168333,43.3072667,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع, Ramadi",2,39
+298,مطعم وكافيه 2B2,ChIJ-cW7ZApdWhUR3GWeEoUORV8,33.4226632,43.26455730000001,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7F7+3R3، Unnamed Road, Ramadi",2,6
+299,Layali Al Sham Restaurant,ChIJAR7eai0VWhURBamUlcTt4j8,33.4000511,43.4890771,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","CF2Q+2MJ, 11, Khalidiya",2,146
+300,مطعم كباب ومشويات محمد,ChIJOf6zEXJrWhURTCT6OkSTstc,33.4046411,43.4562455,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","CF34+VG6, Husaybah",2,2
+301,مطعم وقاعة سيوفي,ChIJAVOElNFdWhUR4JKfRkyUpBY,33.4195866,43.2716855,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","C79C+QQJ، Unnamed Road, Ramadi",2,73
+302,مطعم ومشويات طيبة,ChIJFaFfh0z1WhURUUMY2icayXM,33.48968139999999,43.1382063,4.4,"['restaurant', 'point_of_interest', 'food', 'establishment']","F4QQ+V7Q, Ramadi",2,13
+303,مطعم حجي باسم,ChIJSTcoYkJdWhURH-Pqd1rwnZI,33.4155933,43.2771796,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","C78G+6VM، Unnamed Road, Ramadi",2,98
+304,Layali Al Sham Restaurant,ChIJAR7eai0VWhURBamUlcTt4j8,33.4000511,43.4890771,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","CF2Q+2MJ, 11, Khalidiya",2,146
+305,مطعم ابو عبدالله السياحي,ChIJyb2MSgVdWhUR8UZhuUv4g-s,33.4259344,43.3003529,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']",Ramadi,2,497
+306,مطعم وادي العمالقة,ChIJ2110_rddWhUR23n6EWnN3o0,33.4389459,43.2712606,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",Ramadi,2,440
+307,مطعم طبق المندي فرع الرمادي,ChIJ-a1KGpVdWhURdUSTBn_2Bps,33.4360638,43.3018291,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C8P2+CPG, Unnamed Road, Ramadi",2,405
+308,مشويات مندلي,ChIJwasXElRdWhUR7ZQs3kWCUro,33.4345219,43.2990722,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","C7MX+M9W, Ramadi",2,16
+309,مطعم كباب البادية توب,ChIJ9V3i1ORdWhURcVjMiCdbWyA,33.4151725,43.3128507,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C887+349، Unnamed Road, Ramadi",2,100
+310,Criterion Restaurant,ChIJJwtl3CJdWhUR2mTM2o9YyxQ,33.4260332,43.3121923,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","C8G6+CV8، شارع 20, Ramadi",2,63
+311,مطعم حجي زياد,ChIJyzrZJBBdWhURB9FClofmJrA,33.4308433,43.2972992,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","C7JW+8X7, Ramadi",2,594
+312,Al Baghdadi Restaurant,ChIJWddvug1dWhURQMzIMosAAtk,33.4336593,43.2986914,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","C7MX+FF9, Ramadi",2,77
+313,مطعم المذاق الطيب,ChIJa2cB2ipdWhURvAVt0uRXBkE,33.4317995,43.301271,3.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","C8J2+PGC, Ramadi",2,13
+314,مطعم ومتنزه المرسى,ChIJGzvqUZdnWhURIwodGHVb6eE,33.4496773,43.3284735,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","C8XH+V9H, Ramadi",2,132
+315,مطعم كباب الساطور,ChIJe0Ae27FdWhURPa83B_Hi0pQ,33.4243553,43.3120365,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","مطعم كباب، الرمادي شارع 20 الرمادي, الساطور",2,119
+316,مأكولات السندباد,ChIJW3pTE7BdWhURRoZ-HPJXUEQ,33.4344542,43.2986276,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C7MX+QCQ، شارع عمر, Ramadi",2,85
+317,مطعم العريش السياحي,ChIJv8cxABFdWhURRIO_qI0j6-Y,33.428163,43.30303929999999,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","C8H3+767, Cinema St, Ramadi",2,79
+318,مطعم عمر يوسف,ChIJL9j-etxdWhURl4iKp2auMxs,33.4330369,43.2984334,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C7MX+697، Unnamed Road, Ramadi",2,4
+319,مطعم أم تي MT,ChIJnWSBNS5dWhURksPJVTm00kM,33.4230385,43.3017365,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","C8F2+6P7، شارع المستودع،, Ramadi",2,68
+320,مطعم ابو سيف,ChIJLy2NXCNdWhUR8QdBGVZmmL8,33.4450874,43.2687813,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7W9+2GM، Unnamed Road، الرمادي،، الرمادي،, Ramadi",2,12
+321,مطعم كباب الساعه,ChIJF6fMYpldWhURktwnnFFWqdE,33.4237491,43.2917138,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7FR+GM7, Ramadi",2,0
+322,مطعم النخيل,ChIJT0ylkTtdWhUR5lomAa0A61c,33.4158698,43.3144291,4.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","C887+8QV، Unnamed Road، الرمادي،, Ramadi",2,9
+323,مأكولات شاورما,ChIJsXoUTNxdWhURJ5buLzpRz4Q,33.4119332,43.2745781,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","C76F+QRG, Ramadi",2,3
+324,مطعم يلدز للاكلات السريعه,ChIJHUVQZHhdWhURTjRU4Cc4LaM,33.4187038,43.29684959999999,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","C79W+FPQ, Ramadi",2,39
+325,مطعم سيوفي,ChIJf1fy7OFdWhUR6G4sEyzMFew,33.4209179,43.2701065,3.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7CC+929, Ramadi",2,6
+326,مطعم ابو ياسر,ChIJiTK1N4xdWhURUjO7VFpKgXY,33.4154973,43.314321,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","C887+5P4، Unnamed Road, Ramadi",2,31
+327,مأكولات العافية,ChIJa22PHAJdWhURff2cfuAQ8GU,33.430079,43.3067218,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع 17تموز, Ramadi",2,0
+328,مندي عمو علي,ChIJqeaVBpxdWhURIa5Mm76Iodg,33.4144581,43.2791423,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","C77H+QJ9, Unnamed Road،, Ramadi",2,10
+329,مطعم هيل وليل,ChIJ8zTIbiddWhURZh148eqWGTU,33.4369271,43.2812959,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",C7PJ+QG7، الرمادي،,2,2
+330,مطعم ديوان,ChIJXYbQwKBdWhURf5yA5rog4hM,33.4034104,43.2832126,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع عمر, Ramadi",2,0
+331,مطعم بيت العز,ChIJk1esdw1fWhURzhrt7shxsy0,33.4194039,43.2417437,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C69R+QM9, Ramadi",2,0
+332,مطعم ابو رشيد,ChIJNYCaRBRdWhUR1L-NT8p1HAk,33.4303011,43.3068345,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Abdul Salam Aref Mosque, Ramadi",2,201
+333,مطعم فايكنك برغر,ChIJPfjStAFdWhURdxrNy-UZqS4,33.4305912,43.2964823,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7JW+7J7, Unnamed Road،،, Ramadi",2,40
+334,Kavtrah Salah Dean,ChIJvwvpAQ5dWhURGSCAgiCZLO0,33.4311886,43.3004512,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","C8J2+G53, Ramadi",2,18
+335,مطعم diwan /ديوان,ChIJs1VS8oRdWhURV5aeCzZLXdc,33.4322704,43.2979295,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7JX+H58, Ramadi",2,0
+336,مطعم ةكافي ياشام,ChIJedmtgqFdWhUR17UnYzHhFqs,33.4277761,43.2733449,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7HF+484، Next to, Bridge Omar bin Abdul Aziz, Ramadi",2,0
+337,مطعم اغا علي,ChIJIz9tS6BdWhURV509qDnL64w,33.4346343,43.2990587,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7MX+M9W, Ramadi",2,0
+338,مطعم الشيف كريم,ChIJC_iA2f9dWhURF8q72Na9d6s,33.4235681,43.3119473,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Ramadi,2,16
+339,مطعم كباب الرافدين,ChIJQXVYtTtdWhURkDuEuN8swF4,33.4446497,43.269131,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",مدخل الجزيره الرمادي الحزيره,2,30
+340,مطعم كباب أربيل Kabab Arbil Restaurant,ChIJnVFSu45dWhURuhmwB0aae4s,33.4266235,43.3033095,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","C8G3+J8V, Cinema St, Ramadi",2,46
+341,مطعم حجي محمد السياحي,ChIJWyPJrc1fWhURcL1N068CEPA,33.4151606,43.2272268,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","C68G+3V9، اب ا، 8255559999999Unnamed Road،, Ramadi",2,123
+342,Dream Land Restaurant,ChIJK4uuyShdWhURZilb-0XzQhs,33.4278875,43.2729464,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","Next to, Bridge Omar bin Abdul Aziz, Ramadi",2,203
+343,مطعم الفخار اليمني,ChIJt2mS8IBdWhURVmy2dFuWmb8,33.434166,43.2991354,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","C7MX+MM6, Ramadi",2,11
+344,مطعم هوى الشام,ChIJSX-Z9ItfWhURdvPTjjH5bxI,33.4416779,43.2084232,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","الشراع, Ar Ramadi",2,37
+345,مطعم القصر الابيض,ChIJK38fqANnWhURmDCJMbWwEqs,33.449855,43.3289204,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C8XH+WHR, Unnamed Road, Ramadi",2,480
+346,مطعم ابو عبد الفلوجي,ChIJzeoEmkVdWhUR-ttenbot8v8,33.4343427,43.318877,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","C8M9+PHJ، شارع الصوفية, Ramadi",2,22
+347,Calories Restaurant,ChIJbQ1_PR1dWhUROqSCEMlL5zc,33.4370919,43.280639,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C7PJ+R7J، الرمادي،, Ramadi",2,6
+348,بيتزا ميلانو,ChIJQRIJVd1dWhUR28x7SR86AN4,33.4363643,43.2994474,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",شارع عمر بن الخطاب الرمادي الجمعيه,2,53
+349,مأكولات الروشة,ChIJk4sgV2ddWhUR-CAXbYstW3A,33.4352401,43.2992169,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","C7PX+3MW، Unnamed Road, Ramadi",2,9
+350,Seagulls Restaurant,ChIJDXvu8h9cWhURoPZS-A55XIQ,33.4194605,43.2532704,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","C793+Q8J, Ramadi",2,44
+351,مشويات ابو عبد اللطيف,ChIJITdy1V9nWhURH4tAZbNOVZk,33.4906397,43.2579108,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",F7R5+74F، طريق البوخليفة - البوذياب،، الرمادي،,2,4
+352,مطعم الفلوجه,ChIJXcr7C11dWhURsbrrRPSUo-0,33.4263938,43.3033947,4.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","C8G3+H92, Cinema St, Ramadi",2,6
+353,Chicken day,ChIJyUta5NBdWhURm_64odnbL1M,33.4219141,43.2672098,3.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","C7C8+QV8, Ramadi",2,6
+354,مأكولات ابو بحر,ChIJgQYXZvxdWhURSDb5J1IJmWQ,33.4120212,43.274427,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C76F+QRG، C76F+QRG، الرمادي،, Ramadi",2,4
+355,مستر كنتاكي ابو تهاني,ChIJ_cGjFuldWhURIV97-KqPSXs,33.4203185,43.3117492,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","C8C6+4PH, شارع عشرين, شارع ٢٠, Ramadi",2,4
+356,مطعم المعازيم,ChIJe2sqniJdWhURnYndelQm11c,33.4525264,43.2998094,3.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","F73X+2W7, Ramadi",2,45
+357,مطعم الكانون السوري,ChIJW0M8FMxdWhURRb11apJyc4o,33.4265776,43.2975875,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']",مجمع النهرين الرمادي، العزيزية,2,21
+358,مطعم كرسبي,ChIJoTMk_ANpWhURCmP2YthHjW8,33.4468744,43.4022513,4.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","CCW2+PVQ, Ramadi",2,9
+359,الكوخ الموصلي,ChIJx73RLFtdWhURHO6KrkUXtRQ,33.4154759,43.3016227,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","C882+5MC، شارع المستودع، الرمادي،, Ramadi",2,69
+360,Foods Al Eskan,ChIJUTGzrmZdWhURjPGM3WjiTNE,33.4168333,43.3072667,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع, Ramadi",2,39
+361,مأكولات السندباد,ChIJW3pTE7BdWhURRoZ-HPJXUEQ,33.4344542,43.2986276,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7MX+QCQ، شارع عمر, Ramadi",2,85
+362,مأكولات العافية,ChIJa22PHAJdWhURff2cfuAQ8GU,33.430079,43.3067218,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع 17تموز, Ramadi",2,0
+363,مأكولات الروشة,ChIJk4sgV2ddWhUR-CAXbYstW3A,33.4352401,43.2992169,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7PX+3MW، Unnamed Road, Ramadi",2,9
+364,مأكولات شاورما,ChIJsXoUTNxdWhURJ5buLzpRz4Q,33.4119332,43.2745781,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","C76F+QRG, Ramadi",2,3
+365,مأكولات بيروت,ChIJk5AcHc1dWhUR6HYzm058t7k,33.4329252,43.298368,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7MX+58H, Unnamed Road, Ramadi",2,8
+366,مأكولات ابو بحر,ChIJgQYXZvxdWhURSDb5J1IJmWQ,33.4120212,43.274427,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C76F+QRG، C76F+QRG، الرمادي،, Ramadi",2,4
+367,مأكولات شام,ChIJTa5TVVFdWhURwtuFfSE8_dA,33.4317999,43.3036032,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C8J3+P7H, Ramadi",2,1
+368,مطعم كباب ومشويات محمد,ChIJOf6zEXJrWhURTCT6OkSTstc,33.4046411,43.4562455,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","CF34+VG6, Husaybah",2,2
+369,مطبخ المحسنين,ChIJB8MNRe1dWhURN8wizQwOA1w,33.408546,43.2811644,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C75J+2H, Ramadi",2,0
+370,مأكولات الخلاني,ChIJYeo3hLhdWhURfwdPRezXoj4,33.4173777,43.3120273,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C886+XR2, Ramadi",2,0
+371,مأكولات حلب,ChIJQ-wFiqBdWhURX9pv5o1k92I,33.4124914,43.3059562,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","C864+X9W، Unnamed Road، الرمادي،, Ramadi",2,11
+372,مستر دايت,ChIJOTyXSvxdWhURTc21nh7BJ3s,33.436455,43.2996478,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7PX+HVJ، الرمادي،، الرمادي،, Ramadi",2,0
+373,Rips fast food,ChIJpYS2R35dWhURO302yRDlBvg,33.42230139999999,43.30257280000001,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع المستودع،, Ramadi",2,135
+374,الشرقيه فاست فوود,ChIJ9esE84trWhURLmuN9IFfUR4,33.4081875,43.4519375,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","حصيبه الشرقيه, Khalidiya",2,1
+375,مأكولات الكبيسي,ChIJyR-QUd5DWhURb2tmpa1IDcI,33.427009,43.337957,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C8GP+XR5, Ramadi",2,0
+376,مطعم يلدز للاكلات السريعه,ChIJHUVQZHhdWhURTjRU4Cc4LaM,33.4187038,43.29684959999999,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","C79W+FPQ, Ramadi",2,39
+377,مأكولات ربس,ChIJFwALLJZdWhUR04dPIreWuRI,33.4372344,43.2946439,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7PV+VVR, Ramadi",2,1
+378,طلباتي الانبار,ChIJL6V6KkVdWhURYh9OkHb_rHM,33.4209971,43.2891391,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7CQ+CJF, Ramadi",2,0
+379,مأكولات رانيا كورد وعرب,ChIJYSb6-3hdWhURY0rQnS41wew,33.4218182,43.3120143,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C8C6+PRF, 20th St, Ramadi",2,2
+380,مأكولات دينيز,ChIJbYwZGEtdWhURsLLbCp0TkS8,33.4215914,43.31225939999999,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","C8C6+JWM, 20th St, Ramadi",2,14
+381,مأكولات ليمونة,ChIJkxke8NpdWhURSrxiyQdTMQs,33.4103305,43.2863418,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C76P+4GX, Ramadi",2,0
+382,مأكولات أبو يوسف البغدادي,ChIJFauXoWpdWhUR72n_5Jj6FIw,33.4321454,43.2974233,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",مدخل شارع عمر مقابل حلويات ابو عوف، الرمادي،،، شارع 17 تموز، الرمادي،,2,3
+383,مطعم اغا علي,ChIJIz9tS6BdWhURV509qDnL64w,33.4346343,43.2990587,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7MX+M9W, Ramadi",2,0
+384,مطعم بيت العز,ChIJk1esdw1fWhURzhrt7shxsy0,33.4194039,43.2417437,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C69R+QM9, Ramadi",2,0
+385,فلافل طربوش,ChIJ396Dv15pWhURCv98ERfwrq8,33.4393127,43.3841026,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",السجارية، الرمادي،، C9QM+MR6، الرمادي،,2,5
+386,علاء الدين السورية,ChIJ7bg7ADVdWhURu_Fe_je7iNs,33.42082,43.3022194,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C8C2+8VH، شارع المستودع, Ramadi",2,0
+387,كافتريا سدرة المنتهى,ChIJs6fkbJFfWhURYwwWIJ9i82Q,33.4387126,43.2093383,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C6Q5+FPH، الرمادي،, Ramadi",2,0
+388,مطعم diwan /ديوان,ChIJs1VS8oRdWhURV5aeCzZLXdc,33.4322704,43.2979295,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7JX+H58, Ramadi",2,0
+389,Chicken day,ChIJyUta5NBdWhURm_64odnbL1M,33.4219141,43.2672098,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7C8+QV8, Ramadi",2,6
+390,مأكولات الجوكر,ChIJuTQulyxdWhURTBBgVODI-DE,33.4164395,43.311981,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C886+HQH, 20th St, Ramadi",2,0
+391,شاورما آغا علي,ChIJDdC_HNxdWhURs_0nwOGZG5A,33.4341875,43.29843750000001,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",السدة، الرمادي،,2,1
+392,مطعم حجي أسعد,ChIJS93-OrtpWhURVBn6eKbxMJY,33.452936,43.355702,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F934+57, Ramadi",2,0
+393,مطعم ابو رعد,ChIJt24E-ZBpWhUR0A_N0GjwB2Q,33.4498091,43.3632538,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C9X7+W8C, Alsufia",2,0
+394,شاورماتي,ChIJbQqBXZhdWhURhAcxdabRnzM,33.4293006,43.27514800000001,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7HG+P3C، Unnamed Road، الرمادي،, Ramadi",2,11
+395,مستر صاج الوجبة السريعة,ChIJSdv0g6pdWhURkwJXkhPVAGY,33.4255466,43.2996091,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","C7GX+6R9, 11, Ramadi",2,5
+396,مطعم وكافتريا الشجيري,ChIJIzKzQTJdWhURY64Auzp0onY,33.4231988,43.3291347,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",الرمادي،، C8FH+FG2، الرمادي،,2,2
+397,Arbys,ChIJD1vPsE1dWhURpfNoCyfaF_U,33.4106094,43.2733092,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C76F+96R, Ramadi",2,1
+398,مطعم ابو عبدالله السياحي,ChIJyb2MSgVdWhUR8UZhuUv4g-s,33.4259344,43.3003529,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",Ramadi,2,497
+399,محل شواء اسماك,ChIJEwNtKpJdWhURm3is-aAaZ1E,33.4257649,43.3119513,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع 20، الرمادي‎،,2,2
+400,مطعم كاربو carbo,ChIJN1odPIFdWhURWn8tVhpEAgo,33.417463,43.302356,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']",C882+XWP، شارع المستودع،، الرمادي،,2,12
+401,@@@,ChIJN5CgqaZdWhURs8-WYEWQkDo,33.4063526,43.2809594,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C74J+G9Q, Ramadi",2,1
+402,مطعم أبو أنس للأكلات الشعبيه,ChIJm7hxrgdDWhURqEYyuCafYL4,33.4305313,43.3536552,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","مطعم، شارع 40, Ramadi",2,2
+403,علوة نواعير الفرات لبيع وشوي الدجاج الحي والسمك,ChIJiXjIW3NdWhUR8KCv1ySb1bc,33.409811,43.2868905,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","C75P+WQC, Ramadi",2,9
+404,مشويات ابو عبد اللطيف,ChIJITdy1V9nWhURH4tAZbNOVZk,33.4906397,43.2579108,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",F7R5+74F، طريق البوخليفة - البوذياب،، الرمادي،,2,4
+405,مطعم زهر الليمون,ChIJv89P1V5dWhURWi_Bk2Y0VgM,33.4201082,43.3018322,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","C8C2+2PX، شارع المستودع،, Ramadi",2,62
+406,سب وي,ChIJnRfl8ndrWhURLFRrvfVQ5TI,33.422223,43.42112059999999,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']",CCCC+VFM، الرمادي،،،,2,16
+407,مطعم الفلوجه,ChIJXcr7C11dWhURsbrrRPSUo-0,33.4263938,43.3033947,4.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","C8G3+H92, Cinema St, Ramadi",2,6
+408,مطعم كباب الساطور,ChIJe0Ae27FdWhURPa83B_Hi0pQ,33.4243553,43.3120365,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","مطعم كباب، الرمادي شارع 20 الرمادي, الساطور",2,119
+409,محمد كنتاكي,ChIJB3e6is5dWhUR3hBDnAw1u48,33.4188762,43.2800699,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C79J+G2, Ramadi",2,2
+410,علوة البركة المركزية,ChIJa9-hDDBpWhURpxry16foxMc,33.4522019,43.3535129,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","F923+VCJ, Ramadi",2,0
+411,مستر كنتاكي ابو تهاني,ChIJ_cGjFuldWhURIV97-KqPSXs,33.4203185,43.3117492,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","C8C6+4PH, شارع عشرين, شارع ٢٠, Ramadi",2,4
+412,مطعم هيل وليل,ChIJ8zTIbiddWhURZh148eqWGTU,33.4369271,43.2812959,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']",C7PJ+QG7، الرمادي،,2,2
+413,Eat & Go,ChIJFxYLu7ldWhUR8XXBpexTlYY,33.4048727,43.2987164,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",C73X+QFH، الرمادي،,2,0
+414,مطعم بركات الملك,ChIJXRdqsdFdWhURjvvgbcG1ExY,33.4251755,43.30209259999999,1.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",شارع المستودع، الرمادي،، C8G2+3VF،، الرمادي،,2,1
+415,مطعم كباب الساعه,ChIJF6fMYpldWhURktwnnFFWqdE,33.4237491,43.2917138,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C7FR+GM7, Ramadi",2,0
+416,مأكولات العافية,ChIJu_ds0GJpWhURUP7nRXBsMuQ,33.4529588,43.3952233,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","F93V+2QC, Albu Bali",2,1
+417,مطعم العائلة,ChIJ023MLoNpWhURS3yf-Ew5u6Y,33.4472202,43.3429155,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C8XV+6P7، C8WV+W59 Unnamed Road، الصوفية،, Alsufia",2,1
+418,مطعم كباب أربيل Kabab Arbil Restaurant,ChIJnVFSu45dWhURuhmwB0aae4s,33.4266235,43.3033095,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","C8G3+J8V, Cinema St, Ramadi",2,46
+419,النادي الطلابي المركزي,ChIJHWTSlLpdWhURH9l_E2_wG64,33.4027766,43.2653636,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",C738+26Q، الرمادي،,2,4
+420,لارسا كافيه - Larsa Cafe,ChIJh2DsmURdWhURhUW8rkpS4B8,33.4155557,43.3060696,3.8,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","C884+6C3, Ramadi",2,4
+421,Rotana Coffee,ChIJtXZo-ahdWhUReyGDw7oCi78,33.4358017,43.2862474,3.9,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","C7PP+8FQ, Ramadi",2,283
+422,Piano café كوفي بيانو,ChIJmbKinRpDWhURRi2VlgjlAuE,33.4308168,43.3535505,3.3,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","C9J3+8CF, Ramadi",2,8
+423,Barista Café,ChIJN8ukmOpdWhURElYTxiVr-HA,33.4254736,43.3003266,4.7,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","C8G2+544, 10, Ramadi",2,22
+424,abo cafe,ChIJ1RqbEF1nWhURnD8XOcThR3E,33.4497599,43.3293887,0.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","C8XH+WHR, Ramadi",2,0
+425,Andalus cafe,ChIJvU_ucBpdWhURI9MQBA7gfN0,33.4252205,43.3036093,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","C8G3+3FC, Ramadi",2,72
+426,كوفي جرمانا,ChIJ0yJkQRpdWhUREyyAjOuL7ss,33.4305363,43.2964136,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","C7JW+5GQ، Unnamed Road،،, Ramadi",2,0
+427,هلا كافيه - HALA CAFE,ChIJRRxEqU5dWhURifrhD3OGCmE,33.4166251,43.3192173,0.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","C889+JMX, Ramadi",2,0
+428,Cofee las vegas,ChIJ7Xrm9CpfWhURPnxiDmTQ1s4,33.4173332,43.2332132,4.5,"['cafe', 'food', 'point_of_interest', 'establishment']","C68M+W7W, Ramadi",2,4
+429,كوفي قهوتي-Qahwati café,ChIJVb2Tsm1dWhURQ4lp82hVP54,33.4315902,43.3044207,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","C8J3+JQC قرب مركز شرطة القطانة، شارع 17, Ramadi",2,0
+430,كوفي ليالي باريس,ChIJpRthP3RrWhURi4KM6FxKahI,33.4044263,43.47104090000001,3.7,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","CF3C+QCF, Khalidiya",2,3
+431,Bait Warid Cafe,ChIJVSHxzqBdWhUR2QePG1RbI80,33.4367463,43.2890679,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","C7PQ+PM6, Ramadi",2,99
+432,كوفي فوجي,ChIJq2-PlzFdWhURo0UgUUBZkdo,33.4173863,43.3120273,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","C886+XR2، الرمادي، الأنبار،, Ramadi",2,2
+433,vava cafe,ChIJcyOZGoFpWhURqitPcNsCFX0,33.4347598,43.3789012,0.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","C9MH+9CJ, Ramadi",2,0
+434,حديقة الرمادي,ChIJj_fdBK9nWhURllq0-GJ6Woo,33.444733,43.3234476,5.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","C8VF+RCP, Ramadi",2,1
+435,chaxanay arkan,ChIJFWKCecxdWhURpb7CM_Er96g,33.4287653,43.300988,0.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","Orzdy St, Ramadi",2,0
+436,كوفي شوب كاردينيا,ChIJyzxYi3hfWhUR-IPn1UUFIJQ,33.4210259,43.2463655,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","الخمسه كيلو, 12, Ramadi",2,0
+437,كافيه الباشا,ChIJiVham3tdWhURJkM9yjETgp4,33.4303809,43.2963596,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","C7JW+4HR، Unnamed Road،،, Ramadi",2,40
+438,كوفي FOGE,ChIJn2tzl6VdWhUR7WZ-2QEPod4,33.4209475,43.3122489,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']",شارع 20، الرمادي،,2,1
+439,مقهى الحنين coffeshop alhanyen,ChIJRa54hx9dWhURbQYOUEGfGdg,33.4154846,43.3101286,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","C886+53J, 20th St, Ramadi",2,83
+440,كافيه ومطعم ميامي,ChIJvxwyPDldWhURymwWdY_SR6k,33.4212391,43.3122565,4.9,"['cafe', 'food', 'point_of_interest', 'establishment']",شارع 20، الرمادي،,2,7
+441,كوفي وصالة مزاجMood,ChIJVRUXPQtdWhURs5gRcUmYjDg,33.4311408,43.2984707,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","Unnamed Road, شارع, Ramadi",2,22
+442,كوفي شوب الفهد,ChIJDcBwW1FdWhURjEr2_zkG91I,33.4277712,43.3020082,2.0,"['cafe', 'food', 'point_of_interest', 'establishment']","C8H2+4R2، شارع الاطباء،, Ramadi",2,2
+443,قهوة رمادينا,ChIJWQi4Xy1dWhURgGvrJmp98HA,33.4225882,43.2540643,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C7F3+2J, Ramadi",2,0
+444,Choco Lab شوكو لاب,ChIJ_3VzIcpdWhURqTt8PozXcA4,33.428556,43.2764044,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C7HG+CHC, Unnamed Road،, Ramadi",2,2
+445,كوفي سنتر الاندلس,ChIJf0SuyQldWhURhobueWGK_2g,33.4217218,43.3022207,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","C8C2+MVQ، شارع المستودع، الرمادي،, Ramadi",2,7
+446,كوفي بحر الوفى بلاس,ChIJ5cCaHzJdWhURzl9vXcvwLRk,33.4258476,43.3050944,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","C8G4+82Q, Ramadi",2,10
+447,Mohamed Ayad 3,ChIJvVgCU99fWhURy9TTNyV2AF0,33.4175637,43.2481695,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","C69X+372, Ramadi",2,0
+448,مقهى نسيم الفرات,ChIJDWTnwz1dWhUR86mWbHzLNPc,33.4258393,43.3115839,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']",Ramadi,2,117
+449,EARTHLINK ABDULLH,ChIJnT4x6fJfWhURVuyOEoDNU1M,33.4214784,43.2440084,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']","C6CV+HHP, Ramadi",2,8
+450,مطعم وكوفي افندينا,ChIJ48FSi7hdWhUR-ZOo8EWyd-k,33.4371374,43.2804698,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C7PH+GMW, Ramadi",2,2
+451,بن الفنجان الذهبي,ChIJTVYuF39dWhURHE6f5X8T9AI,33.4167899,43.2912482,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C78R+PF9, Unnamed Road, Ramadi",2,40
+452,Relax me Cafe | كافية ومطعم ريلاكس,ChIJKby1Fd1dWhURlo0p-ultYGU,33.4373304,43.29419559999999,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","الرمادي , شارع 40 , بناية المدينة مول, طابق الثاني, Ramadi",2,3
+453,Mohamed Ayad 1,ChIJ80P7ZO9fWhURIY-r1Y1FNCw,33.4234668,43.2329923,4.4,"['cafe', 'food', 'point_of_interest', 'establishment']","C6FM+95Q, Ramadi",2,7
+454,سنتر الفرات,ChIJ6zXdiphdWhURQQDdqEjv9mo,33.4442408,43.32317279999999,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","C8VF+M7V, Ramadi",2,9
+455,Cuba Cup كوبا كب,ChIJ0RyWidFdWhURL6mOftkn23s,33.4308031,43.2967458,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","وكالة كوباكب، شارع 17 مقابل مطعم حجي زياد, Ramadi",2,14
+456,صوفيه,ChIJN81JcilpWhURnLlkAP2CZOs,33.4498091,43.3632538,2.5,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C9X7+W8C, Alsufia",2,2
+457,كوفي شوب سنوكر,ChIJFa-mv20VWhURKU3O4utapOg,33.39961100000001,43.4894251,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",9FXQ+RQ، الخالدية،,2,2
+458,كوفي التراث,ChIJh3EOdJRdWhUR6B3_scavv3A,33.4232979,43.2943904,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C7FV+7PQ, Ramadi",2,0
+459,قهوتي كافيه,ChIJw13zqphdWhURG-v8lmsxjWQ,33.4317842,43.3034912,4.5,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C8J3+P7H, Ramadi",2,2
+460,كوفي كلاسيكو,ChIJ-ztlf8BdWhURGrDMeq2Hg80,33.4168051,43.26851389999999,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C789+JPV, Ramadi",2,0
+461,مقهى حارتنا - Hartna Caffee,ChIJPSjX5BZdWhURZvXwyJNpw2Q,33.4325066,43.2980615,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C7JX+X8X, Ramadi",2,1
+462,كوفي كاردينيا,ChIJ_56MQgtdWhURC7CEtk5RnLU,33.4366231,43.2682801,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C7P9+J8R، الرمادي،, Ramadi",2,0
+463,فراق البغدادي,ChIJBWKuqKZpWhURh9I-IuK-dbY,33.4544613,43.35877139999999,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","F935+QGJ، شارع الصوفية،, Alsufia",2,0
+464,MAX NET Office,ChIJbdJWoLxdWhURSStEX8c9xYc,33.4289042,43.2956924,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","C7HW+H78, Ramadi",2,1
+465,كافترية الكندي,ChIJpb-RPyddWhURvYpLPVBOSxI,33.4366231,43.2682801,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C7P9+J8R, Ramadi",2,0
+466,كوفي الحجي,ChIJT63CKCldWhURzW-DjQp4IEk,33.4159652,43.29800849999999,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C78X+96V، شارع المعارض, Ramadi",2,0
+467,بن صوفيا,ChIJ8a1_xtFdWhURowaCJ_IX67g,33.4239334,43.3027873,4.4,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C8F3+H4J, Ramadi",2,13
+468,كوفي الهيبه,ChIJC36u17BdWhURTK_Cbr8OOO8,33.4365038,43.2986416,4.3,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C7PX+HFC، الرمادي، الانبار محافظة،, Ramadi",2,8
+469,مقهى ومطعم النخلة,ChIJd7VNQwxnWhURfXMVjfWqsK4,33.444412,43.32320319999999,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C8VF+Q7F, Ramadi",2,0
+470,ظل كافي,ChIJKbJtfh9nWhUR2SP_LvjrkCk,33.4479479,43.3269416,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",C8XG+5Q، الرمادي،,2,8
+471,بليارد,ChIJ8dWbnkFdWhUR-t3AWHJMDms,33.40963,43.2666564,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",C758+VM3، الرمادي،,2,0
+472,كوفي كيتارا,ChIJi_OAh6ZpWhURLsJGL1Ri1xQ,33.4358543,43.3950328,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C9PW+82V، السجارية، الرمادي،, Ramadi",2,0
+473,الدلة قهوة جكليتة,ChIJGcLp3XFdWhUR57Bv0aviHs8,33.432671,43.297682,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","Unnamed Road، الرمادي،, Ramadi",2,3
+474,مقهى ابو عباده,ChIJy5xVTNZdWhURlrdskNX6DxE,33.4366231,43.2682801,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C7P9+J8R، شارع الكص, Ramadi",2,0
+475,كوفي الفهد,ChIJDR4HgG5dWhURiocq6jBqRX0,33.4585787,43.25429099999999,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","F753+CPF، الرمادي،, Ramadi",2,0
+476,مطعم ليالي اندلسية,ChIJ5RIuE71dWhURTwD6O-HWg9M,33.4081909,43.2787555,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",C75H+H8H، الرمادي،،,2,0
+477,لقمجي LOQMACI,ChIJwdNqPoBdWhUREFChxyAWdqc,33.4239383,43.302812,4.7,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",شارع المستودع، الرمادي،، الرمادي،، C8F3+H4P، الرمادي،,2,3
+478,كوفي دبي,ChIJdZZohFBdWhURe1AlXcpoaBU,33.4199215,43.2619092,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C796+WRR, Ramadi",2,0
+479,قدوري ابو الجاي,ChIJOzybHjxdWhURsyXVjVRuyk8,33.4238662,43.3024521,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",C8F2+GXW، الرمادي،,2,0
+480,مطعم ومشويات Chicken Day,ChIJGxVe31FNRRURsyVSWFEVX88,33.87910919999999,42.5242557,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VGHF+JPR, Albaghdadi",2,0
+481,Falafel,ChIJ49QeB-vBWhURSnGbXRPAEQo,33.6438048,42.8165082,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRV8+GJC, Hit",2,5
+482,Tameem Restaurant,ChIJO4g4a1TBWhURbc-8rR12e4I,33.637425,42.8264743,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع الكراج،, هيت،",2,16
+483,مطعم حمد الكببجي,ChIJFVcuXu_AWhURGQ_CLhWAAJQ,33.6374472,42.8112004,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRP6+XFG, Hit",2,558
+484,بيتزا كينك,ChIJXwMpS6bBWhUR90gDorakLUM,33.6327053,42.83841169999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRMQ+39J, Hit",2,0
+485,Fast food ناي,ChIJ_ZpU8I3BWhURALTs0ZggKMA,33.6443538,42.8245716,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVF+PRW, Unnamed Road،, Hit",2,5
+486,Al Rawabi Restaurant,ChIJk0WT16jBWhURxk_S98obKEE,33.6321675,42.8372943,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRJP+VW3, Hit",2,23
+487,Holy Prophet Restaurant,ChIJM_OOmV7AWhURIlPcg8qjy6E,33.6363625,42.8282456,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRPH+G7G، شارع الكراج،, Hit",2,50
+488,Khuttar Resturant,ChIJycAjvFrBWhURxvnRtLEXspI,33.6435199,42.8253662,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVG+C45، oikoi هيت kjikjij, Hit",2,0
+489,مطعم غياث,ChIJ90rkPnavWhURe4m4RslSY6A,33.8951806,42.6417879,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","VJWR+2PV، Unnamed Road, Al Dulab",2,14
+490,مطعم ومشويات البادية,ChIJ36EcABVNRRUR5S1iVauk_qo,33.8793227,42.5232831,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","VGHF+P8F, Albaghdadi",2,157
+491,Khuttar Resturant,ChIJJ4RrNE7BWhURd9FnUp7-Zs4,33.64393750000001,42.81606250000001,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","حي المعلمين, Hit",2,146
+492,مأكولات العائله,ChIJ0U00FY-zWhURwAOw9IMJlyE,33.8906374,42.6212306,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VJRC+7F5, Al Dulab",2,1
+493,Lutfi Restaurant,ChIJO9UvlIrAWhURebrH7_kYlFA,33.6424773,42.8238356,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRRF+XGW, Hit",2,64
+494,مطعم العريش,ChIJ-4SyHPHrWhURwkLM0NDv1RE,33.5433935,42.9345743,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GWVM+9R, Mohammadi",2,0
+495,مطعم دوحي الكببجي,ChIJ-YPd_MbBWhUREzPqZPLXPRQ,33.635926,42.8244641,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRPF+9Q3, شارع الاطباء،, Hit",2,43
+496,مطعم باب الحارة,ChIJddIrAA_TWhURPxHn5WW4KrE,33.59392,42.6170692,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HJV8+HR8, Kubaysah",2,1
+497,مطعم,ChIJfRfMVyXTWhURUmoiiZRPa98,33.5920354,42.6192934,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","HJR9+RP7, Kubaysah",2,11
+498,مطعم أبو عبد الله ، محمد وعبدالله ع مميز,ChIJdaXhQ__BWhURYNsXEfVFPRg,33.6433125,42.8191875,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","حي المعلمين، Feldstrasse 66, Hit",2,134
+499,مطعم باربكيو,ChIJgx47OdHBWhURqBgSe7BEWyM,33.6435605,42.8184789,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRV9+C9H, Hit",2,3
+500,مطعم الناعور,ChIJuVkdH6FMRRURkQTaKcxdttg,33.8582155,42.5348715,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","VG5M+7WQ, 12, Albaghdadi",2,51
+501,مطعم ظلال النخيل,ChIJnTyBL6FMRRURE73UAsQKBZQ,33.8581476,42.5356494,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","VG5P+772, Albaghdadi",2,427
+502,مطعم كرم الشام,ChIJf8z6HmFNRRURlygtAKt3r7Q,33.8898128,42.5187582,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","VGQ9+WGC, Albaghdadi",2,43
+503,مطعم اعالي الفرات,ChIJbYOqwOLrWhURRQuPbkGfny0,33.5433636,42.9356194,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GWVP+86, Mohammadi",2,0
+504,همبركر,ChIJGS0yLGnBWhURkwM-83WW1bA,33.6317845,42.8255676,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",JRJG+M7، هيت،,2,0
+505,مطعم قدوري للمشاوي,ChIJKZqxgSOxWhURshJNccrEPMQ,33.8454399,42.6880552,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",RMWQ+56F، الدولاب،,2,0
+506,مأكولات السندباد,ChIJjS8lyszBWhUR9aNUyqCEQNg,33.6366669,42.8250249,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRPG+M26, Hit",2,0
+507,مطعم خيرات الرحمن,ChIJV4MSqpTBWhURBgyuAssw1aA,33.6340727,42.8156855,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRM8+J7P, Hit",2,65
+508,مأكولات لفة السليمانية,ChIJlwbdZkPBWhURT779UcmAoRs,33.6435199,42.8253662,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",JRVG+C45، هيت،,2,1
+509,چيكن آيسبي,ChIJkc_wfwXBWhURBSW0vvzDmX4,33.6443267,42.8154447,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRV8+P5P, Hit",2,0
+510,مطعم قدوري للمشاوي,ChIJrWQ1N8ivWhURg6V625RrXBo,33.8950625,42.6383125,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Al Dulab,2,0
+511,ماكولات ومشروبات الجوهرة,ChIJC7afMlnBWhURmRqUFb0r5n8,33.6318901,42.8394442,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRJQ+PQM, Hit",2,1
+512,مرطبات المشهداني,ChIJdfWvPqezWhURdUoFpR6Up1Y,33.8902993,42.6201862,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","VJRC+437, Al Dulab",2,6
+513,مطعم الدلة والفنجان,ChIJ1VETW0vBWhURI0z-HstrUec,33.6442987,42.82516390000001,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVF+VRF، JRVG+Q2X, Hit",2,1
+514,مطعم احمد الكببجي,ChIJpSAa-pizWhURzGsKAudD8IQ,33.8857652,42.6178672,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","VJP9+845, Al Dulab",2,11
+515,Ismail Restaurant,ChIJywnYPzHBWhURPYfvYoZhuQI,33.6435698,42.8222663,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVC+CVH, Hit",2,15
+516,مأكولات الاوائل,ChIJ3R3SUTDBWhURBXj3svQ_v-I,33.6434847,42.8256915,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVG+97V، جسر هيت،, Hit",2,1
+517,Waled Al Deera Bakery,ChIJ1esamV7AWhUR2XWtzGKvO98,33.6343091,42.8299256,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRMH+PXF, قرب القائمقامية, Hit",2,12
+518,مخبز النامس,ChIJuzuG4F3BWhUR5C4Q7mn-YXw,33.6356084,42.8233042,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRPF+68V، Unnamed Road, Hit",2,2
+519,مأكولات القمة للوجبات السريعة,ChIJleZNCmDBWhURYJavgYj2Z4A,33.6434847,42.8256915,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVG+97W، جسر هيت، هيت،, Hit",2,0
+520,رويال اسبريسو _ Royal asbreso,ChIJbbB80qHBWhURy-i9-jddwoM,33.6416959,42.8205344,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRRC+M6F، Alchry Road،، هيت،, Hit",2,28
+521,جيكن آيسبي,ChIJyQILf4zBWhURdDZQZ53zuMI,33.6444007,42.8151178,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRV8+Q29, Hit",2,2
+522,ابن الديره,ChIJB8p-oNHBWhURbmNVBNLUhXE,33.6436609,42.8169493,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRV8+FQ4، Unnamed Road, Hit",2,4
+523,الضرغام للسقوف الثانويه,ChIJKzhSSDLBWhURCYtVSKKYUO0,33.6373029,42.8219222,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Hit,2,4
+524,أبو سرمد,ChIJGYZ3HO7BWhURhALPWfCMapo,33.6381486,42.8109939,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRQ6+795، هيت،, Hit",2,0
+525,دكان بركرجي,ChIJ68hTsg7BWhURwTJ_Tq64JTA,33.6437551,42.8166802,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRV8+GM3، Unnamed Road, Hit",2,2
+526,كافتريا العاصمة بأدارة ابو عبدالله العبيدي,ChIJq0oT34OzWhURNM4HGivJNPE,33.88204770000001,42.6165455,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VJJ8+RJ7, Albaghdadi",2,0
+527,مشويات نصير ابو علي 2,ChIJC4KfAO7BWhURZB9BjdxWyuw,33.6448428,42.8221244,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","قرب مسجد باب لغربي, Hit",2,4
+528,مطعم ظلال النخيل,ChIJnTyBL6FMRRURE73UAsQKBZQ,33.8581476,42.5356494,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","VG5P+772, Albaghdadi",2,427
+529,مطعم حمد الكببجي,ChIJFVcuXu_AWhURGQ_CLhWAAJQ,33.6374472,42.8112004,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","JRP6+XFG, Hit",2,558
+530,مطعم دوحي الكببجي,ChIJ-YPd_MbBWhUREzPqZPLXPRQ,33.635926,42.8244641,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","JRPF+9Q3, شارع الاطباء،, Hit",2,43
+531,مطعم كرم الشام,ChIJf8z6HmFNRRURlygtAKt3r7Q,33.8898128,42.5187582,3.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","VGQ9+WGC, Albaghdadi",2,43
+532,مطعم ومشويات البادية,ChIJ36EcABVNRRUR5S1iVauk_qo,33.8793227,42.5232831,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","VGHF+P8F, Albaghdadi",2,157
+533,Khuttar Resturant,ChIJJ4RrNE7BWhURd9FnUp7-Zs4,33.64393750000001,42.81606250000001,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","حي المعلمين, Hit",2,146
+534,مطعم غياث,ChIJ90rkPnavWhURe4m4RslSY6A,33.8951806,42.6417879,4.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","VJWR+2PV، Unnamed Road, Al Dulab",2,14
+535,مطعم قدوري للمشاوي,ChIJrWQ1N8ivWhURg6V625RrXBo,33.8950625,42.6383125,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",Al Dulab,2,0
+536,Al Rawabi Restaurant,ChIJk0WT16jBWhURxk_S98obKEE,33.6321675,42.8372943,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","JRJP+VW3, Hit",2,23
+537,مطعم العريش,ChIJ-4SyHPHrWhURwkLM0NDv1RE,33.5433935,42.9345743,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GWVM+9R, Mohammadi",2,0
+538,مطعم اعالي الفرات,ChIJbYOqwOLrWhURRQuPbkGfny0,33.5433636,42.9356194,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GWVP+86, Mohammadi",2,0
+539,مطعم ومشويات Chicken Day,ChIJGxVe31FNRRURsyVSWFEVX88,33.87910919999999,42.5242557,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","VGHF+JPR, Albaghdadi",2,0
+540,Ismail Restaurant,ChIJywnYPzHBWhURPYfvYoZhuQI,33.6435698,42.8222663,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","JRVC+CVH, Hit",2,15
+541,Holy Prophet Restaurant,ChIJM_OOmV7AWhURIlPcg8qjy6E,33.6363625,42.8282456,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","JRPH+G7G، شارع الكراج،, Hit",2,50
+542,مطعم,ChIJfRfMVyXTWhURUmoiiZRPa98,33.5920354,42.6192934,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","HJR9+RP7, Kubaysah",2,11
+543,Waled Al Deera Bakery,ChIJ1esamV7AWhUR2XWtzGKvO98,33.6343091,42.8299256,4.4,"['restaurant', 'point_of_interest', 'food', 'establishment']","JRMH+PXF, قرب القائمقامية, Hit",2,12
+544,Tameem Restaurant,ChIJO4g4a1TBWhURbc-8rR12e4I,33.637425,42.8264743,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","شارع الكراج،, هيت،",2,16
+545,مطعم احمد الكببجي,ChIJpSAa-pizWhURzGsKAudD8IQ,33.8857652,42.6178672,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","VJP9+845, Al Dulab",2,11
+546,مطعم أبو عبد الله ، محمد وعبدالله ع مميز,ChIJdaXhQ__BWhURYNsXEfVFPRg,33.6433125,42.8191875,4.4,"['restaurant', 'point_of_interest', 'food', 'establishment']","حي المعلمين، Feldstrasse 66, Hit",2,134
+547,مرطبات المشهداني,ChIJdfWvPqezWhURdUoFpR6Up1Y,33.8902993,42.6201862,4.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","VJRC+437, Al Dulab",2,6
+548,مطعم قدوري للمشاوي,ChIJKZqxgSOxWhURshJNccrEPMQ,33.8454399,42.6880552,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",RMWQ+56F، الدولاب،,2,0
+549,مطعم باب الحارة,ChIJddIrAA_TWhURPxHn5WW4KrE,33.59392,42.6170692,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HJV8+HR8, Kubaysah",2,1
+550,ابن الديره,ChIJB8p-oNHBWhURbmNVBNLUhXE,33.6436609,42.8169493,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRV8+FQ4، Unnamed Road, Hit",2,4
+551,مأكولات العائله,ChIJ0U00FY-zWhURwAOw9IMJlyE,33.8906374,42.6212306,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VJRC+7F5, Al Dulab",2,1
+552,Lutfi Restaurant,ChIJO9UvlIrAWhURebrH7_kYlFA,33.6424773,42.8238356,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRRF+XGW, Hit",2,64
+553,مطعم خيرات الرحمن,ChIJV4MSqpTBWhURBgyuAssw1aA,33.6340727,42.8156855,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRM8+J7P, Hit",2,65
+554,مطعم باربكيو,ChIJgx47OdHBWhURqBgSe7BEWyM,33.6435605,42.8184789,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRV9+C9H, Hit",2,3
+555,Fast food ناي,ChIJ_ZpU8I3BWhURALTs0ZggKMA,33.6443538,42.8245716,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVF+PRW, Unnamed Road،, Hit",2,5
+556,Falafel,ChIJ49QeB-vBWhURSnGbXRPAEQo,33.6438048,42.8165082,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRV8+GJC, Hit",2,5
+557,ماكولات ومشروبات الجوهرة,ChIJC7afMlnBWhURmRqUFb0r5n8,33.6318901,42.8394442,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRJQ+PQM, Hit",2,1
+558,الضرغام للسقوف الثانويه,ChIJKzhSSDLBWhURCYtVSKKYUO0,33.6373029,42.8219222,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Hit,2,4
+559,مأكولات الاوائل,ChIJ3R3SUTDBWhURBXj3svQ_v-I,33.6434847,42.8256915,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVG+97V، جسر هيت،, Hit",2,1
+560,مأكولات القمة للوجبات السريعة,ChIJleZNCmDBWhURYJavgYj2Z4A,33.6434847,42.8256915,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVG+97W، جسر هيت، هيت،, Hit",2,0
+561,مطعم الناعور,ChIJuVkdH6FMRRURkQTaKcxdttg,33.8582155,42.5348715,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","VG5M+7WQ, 12, Albaghdadi",2,51
+562,چيكن آيسبي,ChIJkc_wfwXBWhURBSW0vvzDmX4,33.6443267,42.8154447,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRV8+P5P, Hit",2,0
+563,Khuttar Resturant,ChIJycAjvFrBWhURxvnRtLEXspI,33.6435199,42.8253662,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVG+C45، oikoi هيت kjikjij, Hit",2,0
+564,مأكولات لفة السليمانية,ChIJlwbdZkPBWhURT779UcmAoRs,33.6435199,42.8253662,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",JRVG+C45، هيت،,2,1
+565,مأكولات السندباد,ChIJjS8lyszBWhUR9aNUyqCEQNg,33.6366669,42.8250249,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRPG+M26, Hit",2,0
+566,مشويات نصير ابو علي 2,ChIJC4KfAO7BWhURZB9BjdxWyuw,33.6448428,42.8221244,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","قرب مسجد باب لغربي, Hit",2,4
+567,دكان بركرجي,ChIJ68hTsg7BWhURwTJ_Tq64JTA,33.6437551,42.8166802,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRV8+GM3، Unnamed Road, Hit",2,2
+568,كافتريا العاصمة بأدارة ابو عبدالله العبيدي,ChIJq0oT34OzWhURNM4HGivJNPE,33.88204770000001,42.6165455,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VJJ8+RJ7, Albaghdadi",2,0
+569,أبو سرمد,ChIJGYZ3HO7BWhURhALPWfCMapo,33.6381486,42.8109939,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRQ6+795، هيت،, Hit",2,0
+570,بيتزا كينك,ChIJXwMpS6bBWhUR90gDorakLUM,33.6327053,42.83841169999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRMQ+39J, Hit",2,0
+571,همبركر,ChIJGS0yLGnBWhURkwM-83WW1bA,33.6317845,42.8255676,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",JRJG+M7، هيت،,2,0
+572,مطعم الدلة والفنجان,ChIJ1VETW0vBWhURI0z-HstrUec,33.6442987,42.82516390000001,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVF+VRF، JRVG+Q2X, Hit",2,1
+573,مخبز النامس,ChIJuzuG4F3BWhUR5C4Q7mn-YXw,33.6356084,42.8233042,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRPF+68V، Unnamed Road, Hit",2,2
+574,رويال اسبريسو _ Royal asbreso,ChIJbbB80qHBWhURy-i9-jddwoM,33.6416959,42.8205344,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRRC+M6F، Alchry Road،، هيت،, Hit",2,28
+575,مأكولات العائله,ChIJ0U00FY-zWhURwAOw9IMJlyE,33.8906374,42.6212306,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VJRC+7F5, Al Dulab",2,1
+576,ماكولات ومشروبات الجوهرة,ChIJC7afMlnBWhURmRqUFb0r5n8,33.6318901,42.8394442,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRJQ+PQM, Hit",2,1
+577,مأكولات السندباد,ChIJjS8lyszBWhUR9aNUyqCEQNg,33.6366669,42.8250249,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRPG+M26, Hit",2,0
+578,مأكولات القمة للوجبات السريعة,ChIJleZNCmDBWhURYJavgYj2Z4A,33.6434847,42.8256915,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVG+97W، جسر هيت، هيت،, Hit",2,0
+579,مأكولات الاوائل,ChIJ3R3SUTDBWhURBXj3svQ_v-I,33.6434847,42.8256915,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVG+97V، جسر هيت،, Hit",2,1
+580,مطعم العريش,ChIJ-4SyHPHrWhURwkLM0NDv1RE,33.5433935,42.9345743,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GWVM+9R, Mohammadi",2,0
+581,مأكولات لفة السليمانية,ChIJlwbdZkPBWhURT779UcmAoRs,33.6435199,42.8253662,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",JRVG+C45، هيت،,2,1
+582,مطعم قدوري للمشاوي,ChIJKZqxgSOxWhURshJNccrEPMQ,33.8454399,42.6880552,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",RMWQ+56F، الدولاب،,2,0
+583,مطعم غياث,ChIJ90rkPnavWhURe4m4RslSY6A,33.8951806,42.6417879,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","VJWR+2PV، Unnamed Road, Al Dulab",2,14
+584,مطعم اعالي الفرات,ChIJbYOqwOLrWhURRQuPbkGfny0,33.5433636,42.9356194,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GWVP+86, Mohammadi",2,0
+585,همبركر,ChIJGS0yLGnBWhURkwM-83WW1bA,33.6317845,42.8255676,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",JRJG+M7، هيت،,2,0
+586,Fast food ناي,ChIJ_ZpU8I3BWhURALTs0ZggKMA,33.6443538,42.8245716,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVF+PRW, Unnamed Road،, Hit",2,5
+587,مطعم باربكيو,ChIJgx47OdHBWhURqBgSe7BEWyM,33.6435605,42.8184789,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRV9+C9H, Hit",2,3
+588,Waled Al Deera Bakery,ChIJ1esamV7AWhUR2XWtzGKvO98,33.6343091,42.8299256,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRMH+PXF, قرب القائمقامية, Hit",2,12
+589,مرطبات المشهداني,ChIJdfWvPqezWhURdUoFpR6Up1Y,33.8902993,42.6201862,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","VJRC+437, Al Dulab",2,6
+590,چيكن آيسبي,ChIJkc_wfwXBWhURBSW0vvzDmX4,33.6443267,42.8154447,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRV8+P5P, Hit",2,0
+591,ابن الديره,ChIJB8p-oNHBWhURbmNVBNLUhXE,33.6436609,42.8169493,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRV8+FQ4، Unnamed Road, Hit",2,4
+592,Khuttar Resturant,ChIJycAjvFrBWhURxvnRtLEXspI,33.6435199,42.8253662,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVG+C45، oikoi هيت kjikjij, Hit",2,0
+593,مشويات نصير ابو علي 2,ChIJC4KfAO7BWhURZB9BjdxWyuw,33.6448428,42.8221244,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","قرب مسجد باب لغربي, Hit",2,4
+594,مطعم,ChIJfRfMVyXTWhURUmoiiZRPa98,33.5920354,42.6192934,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","HJR9+RP7, Kubaysah",2,11
+595,مطعم قدوري للمشاوي,ChIJrWQ1N8ivWhURg6V625RrXBo,33.8950625,42.6383125,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",Al Dulab,2,0
+596,جيكن آيسبي,ChIJyQILf4zBWhURdDZQZ53zuMI,33.6444007,42.8151178,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","JRV8+Q29, Hit",2,2
+597,الضرغام للسقوف الثانويه,ChIJKzhSSDLBWhURCYtVSKKYUO0,33.6373029,42.8219222,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",Hit,2,4
+598,مطعم خيرات الرحمن,ChIJV4MSqpTBWhURBgyuAssw1aA,33.6340727,42.8156855,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","JRM8+J7P, Hit",2,65
+599,كافتريا العاصمة بأدارة ابو عبدالله العبيدي,ChIJq0oT34OzWhURNM4HGivJNPE,33.88204770000001,42.6165455,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","VJJ8+RJ7, Albaghdadi",2,0
+600,دكان بركرجي,ChIJ68hTsg7BWhURwTJ_Tq64JTA,33.6437551,42.8166802,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","JRV8+GM3، Unnamed Road, Hit",2,2
+601,مطعم ومشويات البادية,ChIJ36EcABVNRRUR5S1iVauk_qo,33.8793227,42.5232831,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","VGHF+P8F, Albaghdadi",2,157
+602,مطعم احمد الكببجي,ChIJpSAa-pizWhURzGsKAudD8IQ,33.8857652,42.6178672,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","VJP9+845, Al Dulab",2,11
+603,مطعم كرم الشام,ChIJf8z6HmFNRRURlygtAKt3r7Q,33.8898128,42.5187582,3.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","VGQ9+WGC, Albaghdadi",2,43
+604,مطعم ومشويات Chicken Day,ChIJGxVe31FNRRURsyVSWFEVX88,33.87910919999999,42.5242557,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","VGHF+JPR, Albaghdadi",2,0
+605,Ismail Restaurant,ChIJywnYPzHBWhURPYfvYoZhuQI,33.6435698,42.8222663,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","JRVC+CVH, Hit",2,15
+606,Lutfi Restaurant,ChIJO9UvlIrAWhURebrH7_kYlFA,33.6424773,42.8238356,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","JRRF+XGW, Hit",2,64
+607,أبو سرمد,ChIJGYZ3HO7BWhURhALPWfCMapo,33.6381486,42.8109939,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","JRQ6+795، هيت،, Hit",2,0
+608,مطعم دوحي الكببجي,ChIJ-YPd_MbBWhUREzPqZPLXPRQ,33.635926,42.8244641,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","JRPF+9Q3, شارع الاطباء،, Hit",2,43
+609,مطعم باب الحارة,ChIJddIrAA_TWhURPxHn5WW4KrE,33.59392,42.6170692,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","HJV8+HR8, Kubaysah",2,1
+610,مطعم الناعور,ChIJuVkdH6FMRRURkQTaKcxdttg,33.8582155,42.5348715,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","VG5M+7WQ, 12, Albaghdadi",2,51
+611,مخبز النامس,ChIJuzuG4F3BWhUR5C4Q7mn-YXw,33.6356084,42.8233042,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","JRPF+68V، Unnamed Road, Hit",2,2
+612,رويال اسبريسو _ Royal asbreso,ChIJbbB80qHBWhURy-i9-jddwoM,33.6416959,42.8205344,4.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","JRRC+M6F، Alchry Road،، هيت،, Hit",2,28
+613,Falafel,ChIJ49QeB-vBWhURSnGbXRPAEQo,33.6438048,42.8165082,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","JRV8+GJC, Hit",2,5
+614,محل مواد غذائيه,ChIJASWlEU3BWhUReLy1JVYU-NI,33.6450904,42.7989723,0.0,"['point_of_interest', 'food', 'establishment']",حي المعلمين الثانيه هيت حي المعلمين الثانيه,2,0
+615,Tameem Restaurant,ChIJO4g4a1TBWhURbc-8rR12e4I,33.637425,42.8264743,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع الكراج،, هيت،",2,16
+616,محل ابو محمد,ChIJybFIp87BWhUR5kP4-0Sx0QE,33.635244,42.8284651,0.0,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","JRPH+495, Hit",2,0
+617,Holy Prophet Restaurant,ChIJM_OOmV7AWhURIlPcg8qjy6E,33.6363625,42.8282456,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRPH+G7G، شارع الكراج،, Hit",2,50
+618,Khuttar Resturant,ChIJJ4RrNE7BWhURd9FnUp7-Zs4,33.64393750000001,42.81606250000001,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","حي المعلمين, Hit",2,146
+619,مخبز المائدة,ChIJt9BEZqnBWhURsoURPfHcvz4,33.6435199,42.8253662,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVG+C45، الجمعية الثانية، هيت،, Hit",2,2
+620,Al Rawabi Restaurant,ChIJk0WT16jBWhURxk_S98obKEE,33.6321675,42.8372943,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRJP+VW3, Hit",2,23
+621,مطعم الدلة والفنجان,ChIJ1VETW0vBWhURI0z-HstrUec,33.6442987,42.82516390000001,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVF+VRF، JRVG+Q2X, Hit",2,1
+622,فلافل زياد,ChIJu0XSA2OzWhURsTqFYhJhUmA,33.8775524,42.6152235,4.6,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",VJH8+23H، الدولاب،,2,7
+623,بيتزا كينك,ChIJXwMpS6bBWhUR90gDorakLUM,33.6327053,42.83841169999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRMQ+39J, Hit",2,0
+624,بقالية الزيداني,ChIJTRkcDm7BWhURx84_W8soKCs,33.6441992,42.81486599999999,0.0,"['food', 'point_of_interest', 'store', 'establishment']","JRV7+MWH, Hit",2,0
+625,بقالة انس سوري,ChIJowShTDnBWhUR5vvGIIL6Pc0,33.647725,42.8054976,0.0,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",هيت،، JRX3+CXQ، هيت،،,2,0
+626,جعموصه,ChIJf_JdZ_3BWhURdxcW7ZM9N88,33.6453268,42.809782,0.0,"['food', 'point_of_interest', 'store', 'establishment']","JRW5+4WG, Hit",2,0
+627,أسواق عبدالله للأحتياجات المنزلية,ChIJLfoidjuvWhURtXKAGGUV9Uo,33.895255,42.6426417,4.0,"['food', 'point_of_interest', 'store', 'establishment']","VJWV+33C, Al Dulab",2,4
+628,AžBerry,ChIJyyUf0d7BWhURQO-VezPqsOg,33.6436066,42.8185105,4.7,"['food', 'point_of_interest', 'store', 'establishment']","JRV9+CCR, Hit",2,6
+629,Sweet factory,ChIJ1fKt-MTBWhURG_EwNHs4TcQ,33.6265498,42.8416588,0.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",JRGR+JJ، هيت،,2,0
+630,اسواق المشهداني,ChIJPY5b-9vBWhUREd4nG3FTaxo,33.6368831,42.8182637,3.9,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","JRP9+Q82، Unnamed Road, Hit",2,11
+631,عمو فهد,ChIJQa6ExIHBWhURmkekWip7fQc,33.6406039,42.8126156,0.0,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","JRR7+62X، هيت،, Hit",2,0
+632,دكان بركرجي 2,ChIJUdyrWJPBWhURTeOHqRwNIqs,33.6478064,42.8244813,0.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","JRXF+4QH، هيت،, Hit",2,0
+633,مرطبات بلوري,ChIJDyjJjMnBWhURHVILs2qf5iA,33.6387802,42.8204082,5.0,"['food', 'point_of_interest', 'store', 'establishment']","JRQC+G56، هيت،, Hit",2,1
+634,SEWA CAFE,ChIJMWMe2lLBWhURwpT3sLY5zJY,33.6442921,42.81536149999999,4.6,"['cafe', 'food', 'point_of_interest', 'establishment']","JRV8+P49، Unnamed Road, Hit",2,12
+635,Al Shakofa Cafe,ChIJpzk7DYzAWhURkDoFc7oqc5w,33.6465332,42.81948790000001,4.2,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","JRW9+JQ9, Hit",2,78
+636,مقهى نبيل,ChIJ8dslCEvBWhURdUkBxBWONfE,33.6429434,42.824839,3.6,"['cafe', 'food', 'point_of_interest', 'establishment']","JRVF+5WG, Hit",2,10
+637,كوفي ليالي الحنين,ChIJhT26nmLBWhURa-O2MfRfAKg,33.6380403,42.8282223,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","Cars show street, Hit",2,2
+638,مطعم و كافيه الخان,ChIJubRbJf9NRRURx7H-bHo5hyU,33.8623886,42.5270156,3.6,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","VG6G+XR2, 12, Albaghdadi",2,21
+639,مقهى الشابندر,ChIJGXtGq3LBWhUR8-V-HL6XvzE,33.6316544,42.8371139,4.3,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","JRJP+MR9, Hit",2,7
+640,كوفي شكسبير _ KOFE SHEKESPEARE,ChIJ5V6gFojBWhUROQV66F7LZ4Y,33.6452589,42.8235201,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","JRWF+4C2، Unnamed Road, Hit",2,34
+641,مقهى النجوم _star cafe,ChIJEY6kPnLBWhUR_FY-zZvIwdM,33.6446945,42.8245421,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","JRVF+VRF، هيت،, Hit",2,0
+642,Coffee shop concerns,ChIJkyvUgl_AWhUR6CFOe_zMac8,33.6383512,42.8253793,3.4,"['cafe', 'food', 'point_of_interest', 'establishment']","JRQG+85R، شارع الرسالة, Hit",2,10
+643,مقهى بيلا تشاو - Bella Ciao cafe,ChIJ11J7mv3BWhURmmnIk_SWzU0,33.645516,42.8229633,4.4,"['cafe', 'food', 'point_of_interest', 'establishment']","JRWF+56M، Unnamed Road, Hit",2,55
+644,مقهى بيلا تشاو,ChIJZcSwEIfBWhUR2Ei94Cey7Y0,33.6454069,42.8229573,4.7,"['cafe', 'food', 'point_of_interest', 'establishment']","JRWF+558، Unnamed Road, Hit",2,3
+645,SEWA CAFE,ChIJMWMe2lLBWhURwpT3sLY5zJY,33.6442921,42.81536149999999,4.6,"['cafe', 'food', 'point_of_interest', 'establishment']","JRV8+P49، Unnamed Road, Hit",2,12
+646,Bushanab,ChIJmWFq2ZTBWhURieQYUOL96CQ,33.6435821,42.8183673,4.6,"['cafe', 'food', 'point_of_interest', 'establishment']","JRV9+C8Q، شارع سعيد حمدان غزال، حي المعلمين، هيت،, Hit",2,7
+647,كوفي ومقهى الشناشيل البغدادي,ChIJQdKx2jZNRRURw2hIVfzUE1g,33.8596463,42.5324981,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","VG5J+VX5, 12, Albaghdadi",2,0
+648,Sweet factory,ChIJ1fKt-MTBWhURG_EwNHs4TcQ,33.6265498,42.8416588,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",JRGR+JJ، هيت،,2,0
+649,برج انترنيت,ChIJHQaSY_PTWhURwP2Nn486fKw,33.5940786,42.6172851,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","HJV8+JWM, Kubaysah",2,4
+650,مقهى عقيل كبيسة,ChIJo-V42RXTWhUR-LkS70z4pO0,33.5917855,42.6123415,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","HJR6+PW8، Unnamed Road، كبيسة،, Kubaysah",2,0
+651,كوفي شوب عصام,ChIJaZ3wtUTpWhURdA_Ws90F7Ig,33.5506573,42.9014175,4.3,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","HW22+6HM, Mohammadi",2,3
+652,Alhaneen Cafe,ChIJUbi4kmzBWhURTX8xpQtnjDE,33.6364876,42.8246222,4.4,"['cafe', 'food', 'point_of_interest', 'establishment']","JRPF+HRX, شارع الاطباء، الجري ،, Hit",2,5
+653,كوفي السجن,ChIJAd3WBuDBWhURguPrPlPXNqA,33.6323521,42.8411966,3.3,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","JRJR+WFW، هيت، الانبار محافظة،, Hit",2,4
+654,مقهى كلكسي,ChIJH1b94Q_BWhURnFTQ4rCV2nY,33.6436155,42.8254611,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","JRVG+C5W، هيت،, Hit",2,0
+655,Cofe asoo,ChIJedFZiZvBWhURLtz7izBsfec,33.6401712,42.8230477,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","JRRF+367, Hit",2,0
+656,Al Reyam Cafe,ChIJ1aqbnb3AWhURS8V_p-dN7uE,33.6562474,42.8044859,5.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","MR43+FQX, 12, Hit",2,5
+657,كوفي الاسمر 8,ChIJd6CpXCPBWhURYvVdJdU1IZo,33.6384626,42.8254631,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","JRQG+95P, Hit",2,0
+658,دكان بركرجي 2,ChIJUdyrWJPBWhURTeOHqRwNIqs,33.6478064,42.8244813,0.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","JRXF+4QH، هيت،, Hit",2,0
+659,كوفي الاسمر مهند,ChIJFXilGc3BWhURm_1u4J_4c58,33.638442,42.825428,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","JRQG+95F، Unnamed Road, Hit",2,0
+660,مقهى كورنيش الفرات,ChIJS2EwI4vBWhURWK81duiX7lA,33.6444077,42.8250357,0.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']",JRVG+Q2X، هيت،، JRVF+VRF،، هيت،,2,0
+661,كوفي كلكسي,ChIJ1RpW8Z_BWhUR9ecbCA9me74,33.6384982,42.8312595,3.5,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","JRQJ+CF5، هيت،, Hit",2,11
+662,كوفي شوب ميلانو,ChIJOVfDarHBWhURTMHdtVJvPoQ,33.6470293,42.840354,4.5,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","حي البكر الشرقي, Hit",2,2
+663,كوفي هيت لوف Coffe heet love,ChIJ7UJxDxLBWhURxpkdQ3eOYGg,33.64471109999999,42.8245066,4.7,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","JRVF+VRJ، Unnamed Road, Hit",2,3
+664,كوفي القبطان,ChIJS8IaaofBWhURPARhKZBkuu0,33.6430866,42.8183824,4.5,"['cafe', 'food', 'point_of_interest', 'establishment']","JRV9+69J، Unnamed Road, Hit",2,4
+665,الغزال كافيه,ChIJi3i9R0jBWhUROm_FkUpve_o,33.6416072,42.8205365,4.2,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","هيت . شارع الچري هيت, شارع الچري, المول",2,67
+666,فلافل زياد,ChIJu0XSA2OzWhURsTqFYhJhUmA,33.8775524,42.6152235,4.6,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']",VJH8+23H، الدولاب،,2,7
+667,كيوب سنتر,ChIJvy1SWcXBWhURPMbR2KSBgHo,33.6447824,42.8132901,0.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","JRV7+W7P شارع سعيد حمدان غزال، حي, Hit",2,0
+668,عصائر يلدز الطبيعية,ChIJ-WV8jeDBWhURJr1iHd5LacM,33.6429435,42.8248392,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","JRVF+5WG, Hit",2,1
+669,Fast food ناي,ChIJ_ZpU8I3BWhURALTs0ZggKMA,33.6443538,42.8245716,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVF+PRW, Unnamed Road،, Hit",2,5
+670,كوفي شوب شناشيل سيوفي,ChIJk1gwAiFNRRURfIk6hWSOZ4U,33.8591034,42.533281,0.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","VG5M+J8R, 12, Albaghdadi",2,0
+671,Sarmad Ice Cream and Sweet,ChIJcfZYcvXAWhURgVYettuN0sY,33.639398,42.823727,3.8,"['store', 'food', 'point_of_interest', 'establishment']",JRQF+QF5، شارع الجري، حي الجري،، هيت،,2,58
+672,Falafel,ChIJ49QeB-vBWhURSnGbXRPAEQo,33.6438048,42.8165082,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRV8+GJC, Hit",2,5
+673,برج همام لخدمة الانترنت,ChIJswXaZd3TWhURMAQeaMfS6VQ,33.5876673,42.6115539,0.0,"['point_of_interest', 'establishment']",HJQ6+7P8، كبيسة،,2,0
+674,Tameem Restaurant,ChIJO4g4a1TBWhURbc-8rR12e4I,33.637425,42.8264743,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع الكراج،, هيت،",2,16
+675,بيتزا كينك,ChIJXwMpS6bBWhUR90gDorakLUM,33.6327053,42.83841169999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRMQ+39J, Hit",2,0
+676,مكتب الشبكة ٢ لخدمات اللنترنت,ChIJs0tIuXLBWhUR9BjnLCtujUY,33.6435199,42.8253662,0.0,"['point_of_interest', 'establishment']",شارع الجري، هيت،,2,0
+677,Al Rawabi Restaurant,ChIJk0WT16jBWhURxk_S98obKEE,33.6321675,42.8372943,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRJP+VW3, Hit",2,23
+678,مطعم حمد الكببجي,ChIJFVcuXu_AWhURGQ_CLhWAAJQ,33.6374472,42.8112004,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRP6+XFG, Hit",2,558
+679,Khuttar Resturant,ChIJycAjvFrBWhURxvnRtLEXspI,33.6435199,42.8253662,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRVG+C45، oikoi هيت kjikjij, Hit",2,0
+680,چيكن آيسبي,ChIJkc_wfwXBWhURBSW0vvzDmX4,33.6443267,42.8154447,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRV8+P5P, Hit",2,0
+681,Holy Prophet Restaurant,ChIJM_OOmV7AWhURIlPcg8qjy6E,33.6363625,42.8282456,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRPH+G7G، شارع الكراج،, Hit",2,50
+682,مرطبات و كرزات العبيدي,ChIJMcG7mAnpWhURGkCtw7OR_Pc,33.5496615,42.9002307,5.0,"['store', 'food', 'point_of_interest', 'establishment']","GWX2+V39، المحمدي، الأنبار،, Mohammadi",2,2
+683,مطعم دوحي الكببجي,ChIJ-YPd_MbBWhUREzPqZPLXPRQ,33.635926,42.8244641,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRPF+9Q3, شارع الاطباء،, Hit",2,43
+684,مرطبات بلوري,ChIJDyjJjMnBWhURHVILs2qf5iA,33.6387802,42.8204082,5.0,"['store', 'food', 'point_of_interest', 'establishment']","JRQC+G56، هيت،, Hit",2,1
+685,مأكولات العائله,ChIJ0U00FY-zWhURwAOw9IMJlyE,33.8906374,42.6212306,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VJRC+7F5, Al Dulab",2,1
+686,ماكولات ومشروبات الجوهرة,ChIJC7afMlnBWhURmRqUFb0r5n8,33.6318901,42.8394442,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRJQ+PQM, Hit",2,1
+687,Waled Al Deera Bakery,ChIJ1esamV7AWhUR2XWtzGKvO98,33.6343091,42.8299256,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRMH+PXF, قرب القائمقامية, Hit",2,12
+688,كافتريا العاصمة بأدارة ابو عبدالله العبيدي,ChIJq0oT34OzWhURNM4HGivJNPE,33.88204770000001,42.6165455,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VJJ8+RJ7, Albaghdadi",2,0
+689,مطعم غياث,ChIJ90rkPnavWhURe4m4RslSY6A,33.8951806,42.6417879,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","VJWR+2PV، Unnamed Road, Al Dulab",2,14
+690,Abode,ChIJ6dcG0BTBWhURwVZ-dC0uR8g,33.6437584,42.8180237,5.0,"['food', 'point_of_interest', 'establishment']","JRV9+F6R, Hit",2,7
+691,AžBerry,ChIJyyUf0d7BWhURQO-VezPqsOg,33.6436066,42.8185105,4.7,"['store', 'food', 'point_of_interest', 'establishment']","JRV9+CCR, Hit",2,6
+692,أبو سرمد,ChIJGYZ3HO7BWhURhALPWfCMapo,33.6381486,42.8109939,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JRQ6+795، هيت،, Hit",2,0
+693,همبركر,ChIJGS0yLGnBWhURkwM-83WW1bA,33.6317845,42.8255676,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",JRJG+M7، هيت،,2,0
+694,مرطبات المشهداني,ChIJdfWvPqezWhURdUoFpR6Up1Y,33.8902993,42.6201862,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","VJRC+437, Al Dulab",2,6
+695,مطعم قصر الباشا,ChIJO5j9wTZZRRURAPaAO81nZJs,34.1344178,42.3817126,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","الشارع العام, Haditha",2,1
+696,Chocoland - جوكولاند,ChIJk0dGMBpZRRURRBmRcO4L-W8,34.1347545,42.38095990000001,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","مدرسة الفارابي للبنين, مقابل, Haditha",2,48
+697,مطعم fast food,ChIJXer7BvJZRRURqtHhSdBTc4o,34.0997969,42.3722376,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",39XC+WV حديثة،,2,2
+698,مطعم الاكابر,ChIJoaCSYhxZRRURkXh9oDJEcRY,34.1012635,42.3870275,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","492P+GR2، جسر بروانة العائم، حديثة،, Barwana",2,1
+699,مطعم العريش السياحي,ChIJG_fBLQRZRRURQmxVH7DAME4,34.0895665,42.3658197,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",39Q8+V3H، الحقلانية،,2,1
+700,مطعم ومأكولات بيروت,ChIJq_qHyJVZRRURHc-XpDpsg80,34.0896875,42.3651875,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",39Q8+V3H الحقلانية، جسر حجلان,2,0
+701,Ferry fast food,ChIJr_SGqo9ZRRURxXT2rNaB4zc,34.0834972,42.3813514,5.0,"['meal_takeaway', 'restaurant', 'point_of_interest', 'food', 'establishment']",39MJ+CHF، الأنبار،,2,1
+702,10:10rest&cafe,ChIJVQ63eVVZRRURyxfRaOSr3KI,34.1219375,42.3853125,4.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","49CP+Q4V, Haditha",2,13
+703,Hamandali cafeteria,ChIJ75j0DlpZRRURiiPQ2O00kzQ,34.1347108,42.3814628,4.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","49MJ+VHQ، Unnamed Road, Haditha",2,7
+704,مأكولات النخلة,ChIJkVPxMypZRRURPaVuQ7VoqFQ,34.0870642,42.35803689999999,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",39P4+MXW، الحقلانية،,2,0
+705,كورنيش حديثه السياحي,ChIJ45AiQfhZRRURTjzR7uEq3qs,34.1332376,42.3835365,4.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","49MM+7CV, Haditha",2,8
+706,مطعم حسن( ابو علاوي),ChIJqadsfaNZRRURX8g720ceMl8,34.1366261,42.3779348,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","49PH+M53، Unnamed Road، حديثة،، حديثة،, Haditha",2,0
+707,مطعم,ChIJoSoZ-e9ZRRURp7NatEgV4Ik,34.1032792,42.3844031,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","493M+8Q6، جسر بروانة العائم، حديثة،, Haditha",2,0
+708,مطعم للمذاق,ChIJGe5LPlNZRRUR8GAIZVCcC7s,34.1251832,42.374164,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","49GF+3MF, Haditha",2,1
+709,مطعم أصل الكرم,ChIJjyeOSn9ZRRURLh4u-Si1Fjs,34.0982084,42.3928792,4.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","39XV+75J, Barwana",2,15
+710,مطعم وكافتريا الحجي,ChIJ8Q-l9axZRRUR7L0KvqsSJ3E,34.133557,42.3818418,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","49MJ+CMV, Haditha",2,2
+711,Gouz burger_ كاوز بركر,ChIJQTAzSc9ZRRURsLQaFrAwwhs,34.1276196,42.3798989,2.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","49HH+2XR, Haditha",2,2
+712,مشويات الشاطئ حديثه السبحاني,ChIJfckZBjtZRRUR2HmbStVD5vk,34.1175699,42.3860032,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","499P+2CC, 19, Haditha",2,4
+713,لحوم ومشويات المختار,ChIJmdn_-GtZRRURpcem6Jx9_uM,34.1332841,42.3820101,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",49MJ+CMV، حديثة،، حديثة،,2,1
+714,مطعم رسول,ChIJs1ZuCrhZRRURPA7ve5wrugM,34.1340484,42.3821004,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']",سوق حديثه حديثه ٠٠٠,2,2
+715,جوعان بربكر,ChIJJQUFGfNZRRUR-oFxhcc6gYY,34.0875039,42.3678198,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","39P9+Q67, Haqlaniyah",2,4
+716,مطعم المذاق بأدرة,ChIJE2NsQe9ZRRURPTkc3GnUFqI,34.1352542,42.3819308,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","49PJ+4Q3, Haditha",2,4
+717,لحم بعجين السنابل,ChIJi2oRk_5ZRRURRDo9j820aoI,34.1020506,42.3858457,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",بروانة، حديثة،، 492P+Q6X، حديثة،,2,0
+718,مطعم المدينة,ChIJ1TjJ8LVZRRURhSFiuhu8Ufk,34.0868476,42.3679438,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","39P9+P5P, Haqlaniyah",2,17
+719,مطعم قصر الضيافة,ChIJIVbdRElZRRURBFsPRwhB0m8,34.1337158,42.3814923,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","49MJ+FJQ، الشارع العام, Haditha",2,42
+720,مأكولات ومرطبات عمروش,ChIJ20fliVlZRRUR2NbMWz3JEuY,34.1339035,42.3816952,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",سوق حديثه حديثه ٠٠٠,2,6
+721,مشويات العبيدي للأسماك,ChIJH5msmXBXRRURy47-MCcoD8I,34.096924,42.3941895,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39WV+QM8، بروانة، العراق,2,0
+722,كافتريه عمروش,ChIJARS3eCZZRRURp8S6XlhztwI,34.1251832,42.374164,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","49GF+3MF, Haditha",2,0
+723,مطعم الجوهرة,ChIJack1r8dZRRURPXmqXJc5e9g,34.1357824,42.38189240000001,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",49PJ+5Q6 ، حديثة،، حديثة،، حديثة،، حديثة،,2,0
+724,مطعم احمد الباچچي,ChIJH3aa2V9ZRRURsx7atyvH_6c,34.108608,42.3832491,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",495M+97Q، حديثة،,2,6
+725,الحقلانية سوق مريدي,ChIJRxeETH9ZRRURYv7_61XMFZM,34.0878504,42.3624387,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39Q6+4X، حديثة،,2,1
+726,مكتب مهند,ChIJRyavGvtZRRURWvVnoQpkJNw,34.0866577,42.36858489999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39P9+MC9، الحقلانية،,2,0
+727,مشويات الشاطئ حديثه السبحاني,ChIJfckZBjtZRRUR2HmbStVD5vk,34.1175699,42.3860032,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","499P+2CC, 19, Haditha",2,4
+728,مطعم المدينة,ChIJ1TjJ8LVZRRURhSFiuhu8Ufk,34.0868476,42.3679438,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","39P9+P5P, Haqlaniyah",2,17
+729,مطعم الجوهرة,ChIJack1r8dZRRURPXmqXJc5e9g,34.1357824,42.38189240000001,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",49PJ+5Q6 ، حديثة،، حديثة،، حديثة،، حديثة،,2,0
+730,مطعم أصل الكرم,ChIJjyeOSn9ZRRURLh4u-Si1Fjs,34.0982084,42.3928792,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","39XV+75J, Barwana",2,15
+731,مطعم fast food,ChIJXer7BvJZRRURqtHhSdBTc4o,34.0997969,42.3722376,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39XC+WV حديثة،,2,2
+732,مطعم قصر الباشا,ChIJO5j9wTZZRRURAPaAO81nZJs,34.1344178,42.3817126,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","الشارع العام, Haditha",2,1
+733,مطعم وكافتريا الحجي,ChIJ8Q-l9axZRRUR7L0KvqsSJ3E,34.133557,42.3818418,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","49MJ+CMV, Haditha",2,2
+734,مطعم حسن( ابو علاوي),ChIJqadsfaNZRRURX8g720ceMl8,34.1366261,42.3779348,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","49PH+M53، Unnamed Road، حديثة،، حديثة،, Haditha",2,0
+735,مطعم رسول,ChIJs1ZuCrhZRRURPA7ve5wrugM,34.1340484,42.3821004,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",سوق حديثه حديثه ٠٠٠,2,2
+736,10:10rest&cafe,ChIJVQ63eVVZRRURyxfRaOSr3KI,34.1219375,42.3853125,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","49CP+Q4V, Haditha",2,13
+737,مأكولات ومرطبات عمروش,ChIJ20fliVlZRRUR2NbMWz3JEuY,34.1339035,42.3816952,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",سوق حديثه حديثه ٠٠٠,2,6
+738,مأكولات النخلة,ChIJkVPxMypZRRURPaVuQ7VoqFQ,34.0870642,42.35803689999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39P4+MXW، الحقلانية،,2,0
+739,لحم بعجين السنابل,ChIJi2oRk_5ZRRURRDo9j820aoI,34.1020506,42.3858457,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",بروانة، حديثة،، 492P+Q6X، حديثة،,2,0
+740,Chocoland - جوكولاند,ChIJk0dGMBpZRRURRBmRcO4L-W8,34.1347545,42.38095990000001,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","مدرسة الفارابي للبنين, مقابل, Haditha",2,48
+741,مطعم العريش السياحي,ChIJG_fBLQRZRRURQmxVH7DAME4,34.0895665,42.3658197,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39Q8+V3H، الحقلانية،,2,1
+742,مطعم المذاق بأدرة,ChIJE2NsQe9ZRRURPTkc3GnUFqI,34.1352542,42.3819308,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","49PJ+4Q3, Haditha",2,4
+743,مطعم الاكابر,ChIJoaCSYhxZRRURkXh9oDJEcRY,34.1012635,42.3870275,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","492P+GR2، جسر بروانة العائم، حديثة،, Barwana",2,1
+744,مطعم قصر الضيافة,ChIJIVbdRElZRRURBFsPRwhB0m8,34.1337158,42.3814923,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","49MJ+FJQ، الشارع العام, Haditha",2,42
+745,Hamandali cafeteria,ChIJ75j0DlpZRRURiiPQ2O00kzQ,34.1347108,42.3814628,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","49MJ+VHQ، Unnamed Road, Haditha",2,7
+746,كورنيش حديثه السياحي,ChIJ45AiQfhZRRURTjzR7uEq3qs,34.1332376,42.3835365,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","49MM+7CV, Haditha",2,8
+747,مطعم للمذاق,ChIJGe5LPlNZRRUR8GAIZVCcC7s,34.1251832,42.374164,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","49GF+3MF, Haditha",2,1
+748,مشويات العبيدي للأسماك,ChIJH5msmXBXRRURy47-MCcoD8I,34.096924,42.3941895,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39WV+QM8، بروانة، العراق,2,0
+749,مطعم,ChIJoSoZ-e9ZRRURp7NatEgV4Ik,34.1032792,42.3844031,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","493M+8Q6، جسر بروانة العائم، حديثة،, Haditha",2,0
+750,لحوم ومشويات المختار,ChIJmdn_-GtZRRURpcem6Jx9_uM,34.1332841,42.3820101,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",49MJ+CMV، حديثة،، حديثة،,2,1
+751,جوعان بربكر,ChIJJQUFGfNZRRUR-oFxhcc6gYY,34.0875039,42.3678198,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","39P9+Q67, Haqlaniyah",2,4
+752,كافتريه عمروش,ChIJARS3eCZZRRURp8S6XlhztwI,34.1251832,42.374164,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","49GF+3MF, Haditha",2,0
+753,Gouz burger_ كاوز بركر,ChIJQTAzSc9ZRRURsLQaFrAwwhs,34.1276196,42.3798989,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","49HH+2XR, Haditha",2,2
+754,مطعم ومأكولات بيروت,ChIJq_qHyJVZRRURHc-XpDpsg80,34.0896875,42.3651875,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39Q8+V3H الحقلانية، جسر حجلان,2,0
+755,Ferry fast food,ChIJr_SGqo9ZRRURxXT2rNaB4zc,34.0834972,42.3813514,5.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",39MJ+CHF، الأنبار،,2,1
+756,مطعم احمد الباچچي,ChIJH3aa2V9ZRRURsx7atyvH_6c,34.108608,42.3832491,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",495M+97Q، حديثة،,2,6
+757,الحقلانية سوق مريدي,ChIJRxeETH9ZRRURYv7_61XMFZM,34.0878504,42.3624387,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39Q6+4X، حديثة،,2,1
+758,مكتب مهند,ChIJRyavGvtZRRURWvVnoQpkJNw,34.0866577,42.36858489999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39P9+MC9، الحقلانية،,2,0
+759,مأكولات النخلة,ChIJkVPxMypZRRURPaVuQ7VoqFQ,34.0870642,42.35803689999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39P4+MXW، الحقلانية،,2,0
+760,مأكولات ومرطبات عمروش,ChIJ20fliVlZRRUR2NbMWz3JEuY,34.1339035,42.3816952,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",سوق حديثه حديثه ٠٠٠,2,6
+761,كافتريه عمروش,ChIJARS3eCZZRRURp8S6XlhztwI,34.1251832,42.374164,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","49GF+3MF, Haditha",2,0
+762,مطعم fast food,ChIJXer7BvJZRRURqtHhSdBTc4o,34.0997969,42.3722376,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39XC+WV حديثة،,2,2
+763,مشويات العبيدي للأسماك,ChIJH5msmXBXRRURy47-MCcoD8I,34.096924,42.3941895,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39WV+QM8، بروانة، العراق,2,0
+764,Ferry fast food,ChIJr_SGqo9ZRRURxXT2rNaB4zc,34.0834972,42.3813514,5.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",39MJ+CHF، الأنبار،,2,1
+765,Hamandali cafeteria,ChIJ75j0DlpZRRURiiPQ2O00kzQ,34.1347108,42.3814628,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","49MJ+VHQ، Unnamed Road, Haditha",2,7
+766,10:10rest&cafe,ChIJVQ63eVVZRRURyxfRaOSr3KI,34.1219375,42.3853125,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","49CP+Q4V, Haditha",2,13
+767,مطعم للمذاق,ChIJGe5LPlNZRRUR8GAIZVCcC7s,34.1251832,42.374164,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","49GF+3MF, Haditha",2,1
+768,مطعم رسول,ChIJs1ZuCrhZRRURPA7ve5wrugM,34.1340484,42.3821004,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",سوق حديثه حديثه ٠٠٠,2,2
+769,مطعم الجوهرة,ChIJack1r8dZRRURPXmqXJc5e9g,34.1357824,42.38189240000001,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",49PJ+5Q6 ، حديثة،، حديثة،، حديثة،، حديثة،,2,0
+770,جوعان بربكر,ChIJJQUFGfNZRRUR-oFxhcc6gYY,34.0875039,42.3678198,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","39P9+Q67, Haqlaniyah",2,4
+771,لحم بعجين السنابل,ChIJi2oRk_5ZRRURRDo9j820aoI,34.1020506,42.3858457,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",بروانة، حديثة،، 492P+Q6X، حديثة،,2,0
+772,كورنيش حديثه السياحي,ChIJ45AiQfhZRRURTjzR7uEq3qs,34.1332376,42.3835365,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","49MM+7CV, Haditha",2,8
+773,مطعم المدينة,ChIJ1TjJ8LVZRRURhSFiuhu8Ufk,34.0868476,42.3679438,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","39P9+P5P, Haqlaniyah",2,17
+774,مطعم العريش السياحي,ChIJG_fBLQRZRRURQmxVH7DAME4,34.0895665,42.3658197,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39Q8+V3H، الحقلانية،,2,1
+775,Gouz burger_ كاوز بركر,ChIJQTAzSc9ZRRURsLQaFrAwwhs,34.1276196,42.3798989,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","49HH+2XR, Haditha",2,2
+776,مطعم الاكابر,ChIJoaCSYhxZRRURkXh9oDJEcRY,34.1012635,42.3870275,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","492P+GR2، جسر بروانة العائم، حديثة،, Barwana",2,1
+777,مطعم,ChIJoSoZ-e9ZRRURp7NatEgV4Ik,34.1032792,42.3844031,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","493M+8Q6، جسر بروانة العائم، حديثة،, Haditha",2,0
+778,مطعم حسن( ابو علاوي),ChIJqadsfaNZRRURX8g720ceMl8,34.1366261,42.3779348,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","49PH+M53، Unnamed Road، حديثة،، حديثة،, Haditha",2,0
+779,مطعم أصل الكرم,ChIJjyeOSn9ZRRURLh4u-Si1Fjs,34.0982084,42.3928792,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","39XV+75J, Barwana",2,15
+780,مطعم احمد الباچچي,ChIJH3aa2V9ZRRURsx7atyvH_6c,34.108608,42.3832491,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",495M+97Q، حديثة،,2,6
+781,مطعم وكافتريا الحجي,ChIJ8Q-l9axZRRUR7L0KvqsSJ3E,34.133557,42.3818418,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","49MJ+CMV, Haditha",2,2
+782,مكتب مهند,ChIJRyavGvtZRRURWvVnoQpkJNw,34.0866577,42.36858489999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39P9+MC9، الحقلانية،,2,0
+783,مطعم المذاق بأدرة,ChIJE2NsQe9ZRRURPTkc3GnUFqI,34.1352542,42.3819308,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","49PJ+4Q3, Haditha",2,4
+784,لحوم ومشويات المختار,ChIJmdn_-GtZRRURpcem6Jx9_uM,34.1332841,42.3820101,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",49MJ+CMV، حديثة،، حديثة،,2,1
+785,Chocoland - جوكولاند,ChIJk0dGMBpZRRURRBmRcO4L-W8,34.1347545,42.38095990000001,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","مدرسة الفارابي للبنين, مقابل, Haditha",2,48
+786,مشويات الشاطئ حديثه السبحاني,ChIJfckZBjtZRRUR2HmbStVD5vk,34.1175699,42.3860032,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","499P+2CC, 19, Haditha",2,4
+787,الحقلانية سوق مريدي,ChIJRxeETH9ZRRURYv7_61XMFZM,34.0878504,42.3624387,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39Q6+4X، حديثة،,2,1
+788,مطعم قصر الضيافة,ChIJIVbdRElZRRURBFsPRwhB0m8,34.1337158,42.3814923,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","49MJ+FJQ، الشارع العام, Haditha",2,42
+789,مطعم ومأكولات بيروت,ChIJq_qHyJVZRRURHc-XpDpsg80,34.0896875,42.3651875,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39Q8+V3H الحقلانية، جسر حجلان,2,0
+790,مناحل محمد المعاضيدي,ChIJY3gqAtVZRRURtMCplQrxNDU,34.1386735,42.377901,0.0,"['food', 'store', 'health', 'point_of_interest', 'establishment']","49QH+4HM، شارع الاطباء, Haditha",2,0
+791,مطعم قصر الباشا,ChIJO5j9wTZZRRURAPaAO81nZJs,34.1344178,42.3817126,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","الشارع العام, Haditha",2,1
+792,وكالة عطية المواد الغذائية,ChIJQ9Iv2CdZRRURnvdV9-EIsu4,34.0960504,42.3849175,0.0,"['food', 'point_of_interest', 'establishment']","39WM+CXR, Barwana",2,0
+793,مطعم ركن بني داهر,ChIJO2yuFdlZRRUREki01RDB-UA,34.1251832,42.374164,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","49GF+3MF، حديثة،, Haditha",2,0
+794,علوة أسماك الغريب,ChIJ8-BbF5FZRRURq3iqJ2xJSRs,34.1057999,42.3810837,0.0,"['food', 'store', 'point_of_interest', 'establishment']",494J+7C، حديثة،,2,0
+795,وكالة فكرت حميد الدرّة الغذائية,ChIJdQ5kfIhZRRURONQmTtdw1h8,34.1296628,42.3790116,0.0,"['food', 'point_of_interest', 'establishment']",49JH+29R، حديثة،,2,0
+796,محل بيع وشوي الأسماك,ChIJb1ipOLNZRRURYffpXl9OEhQ,34.1318589,42.3835205,0.0,"['food', 'store', 'point_of_interest', 'establishment']",جسر حويجة حديثة الخشبي، حديثة،، 49JM+JFM، حديثة،,2,0
+797,Asl Alkeef Café,ChIJ_wToAYz3TxURlDXRjeI3KPA,34.1696131,42.3797731,3.8,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","599H+RWV, Haditha",2,21
+798,ابو سيف,ChIJSaCpIIJZRRURLdUuZpDqApA,34.0858548,42.3563736,0.0,"['grocery_or_supermarket', 'food', 'store', 'point_of_interest', 'establishment']",جامع التوحيد، الحقلانية، امام,2,0
+799,علوة أسماك فارس,ChIJb6hdO1VZRRUR4tEDDkCcFeo,34.1302193,42.3864718,0.0,"['store', 'food', 'point_of_interest', 'establishment']",49JP+5QC، حديثة،,2,0
+800,خيرات العربية/لبيع الدجاج الحي,ChIJE3z6dqBZRRURVuSVxGpoLnA,34.1086913,42.3833129,0.0,"['store', 'food', 'point_of_interest', 'establishment']",495M+97Q، حديثة،,2,0
+801,بقالة ابو يحيى,ChIJS5LEmKRZRRURxhmf8JQz-R8,34.1323967,42.3832372,5.0,"['grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment']","49JM+X75، جسر حويجة حديثة الخشبي، حديثة،،, Haditha",2,3
+802,معمل حديثة للألمنيوم,ChIJu9QdnOBZRRUR0NOLzf549VQ,34.1276843,42.3823273,0.0,"['point_of_interest', 'establishment']",49HJ+3V7، حديثة،,2,0
+803,Waffle buzz,ChIJOxfNRlJZRRUR6Z_U8DfwDCY,34.1396508,42.38023,5.0,"['store', 'food', 'point_of_interest', 'establishment']","49QJ+V39, Haditha",2,1
+804,اسواق ابو ايمن,ChIJOfbleIlZRRUR7Hh-jRuc384,34.1276796,42.3761011,5.0,"['grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment']","49HG+3CC، حديثة،, Haditha",2,1
+805,مرطبات النواعير,ChIJoxeS5S5ZRRURgBtAK5oXUuM,34.1340802,42.381652,5.0,"['store', 'food', 'point_of_interest', 'establishment']",سوق حديثه حديثه ٠٠٠,2,1
+806,محل ابو حيدر للمواد الغذائية,ChIJ0f1VOhVZRRURs5FvchmtnRM,34.1308915,42.3609432,5.0,"['grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment']","49J6+992, Haditha",2,1
+807,حقلانيه,ChIJH1ONL4VZRRURinwLboRWnBQ,34.1114761,42.3835657,3.3,"['store', 'food', 'point_of_interest', 'establishment']",496M+HCV، الحقلانية،,2,3
+808,محلات ابوهيثم التجارية,ChIJN2sI0cv3TxURoNiLUMuoeJI,34.1667045,42.3773942,5.0,"['grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment']",598G+MWC، haditha Alsad، حديثة،,2,1
+809,خضراوات مهند الفراجي,ChIJX1UfbNn3TxURdr03O909Hxk,34.1433087,42.3828934,4.0,"['grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment']","49VM+85C، Unnamed Road, Haditha",2,7
+810,أسواق وضاح ابو طيب,ChIJr4w82PH9TxUR12GFoPcUj8w,34.1919706,42.4960933,5.0,"['store', 'food', 'point_of_interest', 'establishment']",5FRW+QCG، حديثة،، قرية الغرير,2,1
+811,علوة بروانه المركزية مخضر و فواكة لصاحبها حميد أبو منصور,ChIJW9U8XO9ZRRURLyS5VRgNh20,34.101251,42.3870798,0.0,"['grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment']","492P+GR2 جسر بروانة العائم، حديثة, Barwana",2,0
+812,أسواق أبوعمر الحيالي,ChIJrTQVYZH3TxUR2R7CPE5_ozU,34.1517763,42.3800434,4.0,"['grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment']","592J+P27, Haditha",2,5
+813,الجوهرة كافيه Al Jawhara cafe,ChIJ4frjnMRZRRURerNsJ6fr5lg,34.1369326,42.3826521,2.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",سوق بالقرب من، 49PJ+QMV، حديثة،،، حديثة،,2,2
+814,طلعت ابو محمد/لبيع المفروشات المنزلية,ChIJA9la59tZRRURj9GcadGeZP8,34.1335346,42.3818403,0.0,"['store', 'food', 'point_of_interest', 'establishment']",49MJ+CMV، حديثة،،,2,0
+815,مرطبات الداهري,ChIJ84CqHxRZRRURoQg51bcDvLw,34.1070835,42.3821363,4.4,"['store', 'food', 'point_of_interest', 'establishment']","494J+RRQ، حديثة،, Haditha",2,60
+816,محل ابو حيدر,ChIJayBR7edZRRUR3FgVQdRd3Gw,34.1251832,42.374164,5.0,"['store', 'food', 'point_of_interest', 'establishment']","حي الشهداء, Haditha",2,1
+817,علوة خضراوات وفواكه,ChIJx93ayZxZRRUR-9s0GUvjIws,34.1251832,42.374164,0.0,"['food', 'point_of_interest', 'establishment']","49GF+3MF، حديثة،, Haditha",2,0
+818,اسواق ابو فهد,ChIJq29jfU5ZRRUR976ByTAhm_s,34.1251832,42.374164,0.0,"['supermarket', 'grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment']","49GF+3MF, Haditha",2,0
+819,الجوهرة كافيه Al Jawhara cafe,ChIJ4frjnMRZRRURerNsJ6fr5lg,34.1369326,42.3826521,2.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",سوق بالقرب من، 49PJ+QMV، حديثة،،، حديثة،,2,2
+820,كوفي بروانة,ChIJPZfatmRXRRURji6gbNLuYqY,34.1218189,42.4036715,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","4CC3+PFF، بروانة،, Haditha",2,0
+821,كوفي شوب كلاسيكو,ChIJVWx-uL1ZRRURUdkLkdwOa4U,34.1339542,42.3806847,2.8,"['cafe', 'food', 'point_of_interest', 'establishment']","49MJ+H7M، Unnamed Road, Haditha",2,4
+822,Asl Alkeef Café,ChIJ_wToAYz3TxURlDXRjeI3KPA,34.1696131,42.3797731,3.8,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","599H+RWV, Haditha",2,21
+823,كوفي عناعين,ChIJQdWIOs5ZRRURxgLUT1lO37o,34.102145,42.3748625,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","493G+25F, Haditha",2,0
+824,كوفي شوب سراج,ChIJW3W3PxlZRRURO-TJmwT6xrU,34.133884,42.3816172,4.1,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","49MJ+HJ5, Haditha",2,43
+825,كوفي ميامي,ChIJPQPSqC5ZRRURKunN708k0Sc,34.1255086,42.3725797,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","49GF+62G, Haditha",2,2
+826,Chocoland - جوكولاند,ChIJk0dGMBpZRRURRBmRcO4L-W8,34.1347545,42.38095990000001,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","مدرسة الفارابي للبنين, مقابل, Haditha",2,48
+827,Hamandali cafeteria,ChIJ75j0DlpZRRURiiPQ2O00kzQ,34.1347108,42.3814628,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","49MJ+VHQ، Unnamed Road, Haditha",2,7
+828,مرطبات القلعة - حديثة,ChIJv0yDLo5ZRRURSEP-OpJn7vM,34.1367035,42.3786838,5.0,"['store', 'food', 'point_of_interest', 'establishment']","49PH+MFM, Unnamed Road, Haditha",2,1
+829,مطعم قصر الباشا,ChIJO5j9wTZZRRURAPaAO81nZJs,34.1344178,42.3817126,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","الشارع العام, Haditha",2,1
+830,فاروق لخدمات الانترنت,ChIJeSEj_t33TxURAad1Tnk-0bk,34.1669127,42.3785689,5.0,"['lodging', 'point_of_interest', 'establishment']","598H+QC8, Haditha",2,2
+831,سرمد الحديثي للانترنيت,ChIJz7SrJW5bRRURFqb4zhQ128c,34.0717295,42.368067,0.0,"['point_of_interest', 'establishment']","39C9+M6, Haditha",2,0
+832,Waffle buzz,ChIJOxfNRlJZRRUR6Z_U8DfwDCY,34.1396508,42.38023,5.0,"['store', 'food', 'point_of_interest', 'establishment']","49QJ+V39, Haditha",2,1
+833,مكتب القمة للحاسبات والانترنت(عبد الحكيم المعاضيدي),ChIJ3Xh6KJJZRRUR-EIECZibHCQ,34.1359874,42.3799565,0.0,"['point_of_interest', 'establishment']",49PJ+846، حديثة،,2,0
+834,10:10rest&cafe,ChIJVQ63eVVZRRURyxfRaOSr3KI,34.1219375,42.3853125,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","49CP+Q4V, Haditha",2,13
+835,مطعم وكافتريا الحجي,ChIJ8Q-l9axZRRUR7L0KvqsSJ3E,34.133557,42.3818418,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","49MJ+CMV, Haditha",2,2
+836,مكتب القمة للحاسبات والانترنت(عبد الحكيم المعاضيدي),ChIJsZ8gbYtZRRURHIXuyD8S7YU,34.1251832,42.374164,0.0,"['point_of_interest', 'establishment']","طريق اعدادية, Haditha",2,0
+837,كافتريه عمروش,ChIJARS3eCZZRRURp8S6XlhztwI,34.1251832,42.374164,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","49GF+3MF, Haditha",2,0
+838,مطعم,ChIJoSoZ-e9ZRRURp7NatEgV4Ik,34.1032792,42.3844031,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","493M+8Q6، جسر بروانة العائم، حديثة،, Haditha",2,0
+839,مرطبات الداهري,ChIJ84CqHxRZRRURoQg51bcDvLw,34.1070835,42.3821363,4.4,"['store', 'food', 'point_of_interest', 'establishment']","494J+RRQ، حديثة،, Haditha",2,60
+840,مرطبات النواعير,ChIJoxeS5S5ZRRURgBtAK5oXUuM,34.1340802,42.381652,5.0,"['store', 'food', 'point_of_interest', 'establishment']",سوق حديثه حديثه ٠٠٠,2,1
+841,مطعم الاكابر,ChIJoaCSYhxZRRURkXh9oDJEcRY,34.1012635,42.3870275,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","492P+GR2، جسر بروانة العائم، حديثة،, Barwana",2,1
+842,Ferry fast food,ChIJr_SGqo9ZRRURxXT2rNaB4zc,34.0834972,42.3813514,5.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",39MJ+CHF، الأنبار،,2,1
+843,مطعم fast food,ChIJXer7BvJZRRURqtHhSdBTc4o,34.0997969,42.3722376,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39XC+WV حديثة،,2,2
+844,حقلانيه,ChIJH1ONL4VZRRURinwLboRWnBQ,34.1114761,42.3835657,3.3,"['store', 'food', 'point_of_interest', 'establishment']",496M+HCV، الحقلانية،,2,3
+845,مأكولات النخلة,ChIJkVPxMypZRRURPaVuQ7VoqFQ,34.0870642,42.35803689999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39P4+MXW، الحقلانية،,2,0
+846,مطعم المذاق بأدرة,ChIJE2NsQe9ZRRURPTkc3GnUFqI,34.1352542,42.3819308,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","49PJ+4Q3, Haditha",2,4
+847,مطعم للمذاق,ChIJGe5LPlNZRRUR8GAIZVCcC7s,34.1251832,42.374164,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","49GF+3MF, Haditha",2,1
+848,مأكولات ومرطبات عمروش,ChIJ20fliVlZRRUR2NbMWz3JEuY,34.1339035,42.3816952,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",سوق حديثه حديثه ٠٠٠,2,6
+849,مطعم رسول,ChIJs1ZuCrhZRRURPA7ve5wrugM,34.1340484,42.3821004,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",سوق حديثه حديثه ٠٠٠,2,2
+850,Gouz burger_ كاوز بركر,ChIJQTAzSc9ZRRURsLQaFrAwwhs,34.1276196,42.3798989,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","49HH+2XR, Haditha",2,2
+851,مطعم ومأكولات بيروت,ChIJq_qHyJVZRRURHc-XpDpsg80,34.0896875,42.3651875,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39Q8+V3H الحقلانية، جسر حجلان,2,0
+852,مطعم حسن( ابو علاوي),ChIJqadsfaNZRRURX8g720ceMl8,34.1366261,42.3779348,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","49PH+M53، Unnamed Road، حديثة،، حديثة،, Haditha",2,0
+853,مطعم أصل الكرم,ChIJjyeOSn9ZRRURLh4u-Si1Fjs,34.0982084,42.3928792,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","39XV+75J, Barwana",2,15
+854,جوعان بربكر,ChIJJQUFGfNZRRUR-oFxhcc6gYY,34.0875039,42.3678198,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","39P9+Q67, Haqlaniyah",2,4
+855,مطعم العريش السياحي,ChIJG_fBLQRZRRURQmxVH7DAME4,34.0895665,42.3658197,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39Q8+V3H، الحقلانية،,2,1
+856,مطعم احمد الباچچي,ChIJH3aa2V9ZRRURsx7atyvH_6c,34.108608,42.3832491,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",495M+97Q، حديثة،,2,6
+857,كورنيش حديثه السياحي,ChIJ45AiQfhZRRURTjzR7uEq3qs,34.1332376,42.3835365,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","49MM+7CV, Haditha",2,8
+858,مطعم قصر الضيافة,ChIJIVbdRElZRRURBFsPRwhB0m8,34.1337158,42.3814923,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","49MJ+FJQ، الشارع العام, Haditha",2,42
+859,لحم بعجين السنابل,ChIJi2oRk_5ZRRURRDo9j820aoI,34.1020506,42.3858457,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",بروانة، حديثة،، 492P+Q6X، حديثة،,2,0
+860,محل حلويات ومرطبات بلابل,ChIJZ4s4eEpZRRURTzoU9wP78uM,34.1335537,42.3818416,0.0,"['store', 'food', 'point_of_interest', 'establishment']","49MJ+CMV, Haditha",2,0
+861,مطعم المدينة,ChIJ1TjJ8LVZRRURhSFiuhu8Ufk,34.0868476,42.3679438,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","39P9+P5P, Haqlaniyah",2,17
+862,مطعم الجوهرة,ChIJack1r8dZRRURPXmqXJc5e9g,34.1357824,42.38189240000001,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",49PJ+5Q6 ، حديثة،، حديثة،، حديثة،، حديثة،,2,0
+863,مشويات الشاطئ حديثه السبحاني,ChIJfckZBjtZRRUR2HmbStVD5vk,34.1175699,42.3860032,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","499P+2CC, 19, Haditha",2,4
+864,لحوم ومشويات المختار,ChIJmdn_-GtZRRURpcem6Jx9_uM,34.1332841,42.3820101,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",49MJ+CMV، حديثة،، حديثة،,2,1
+865,مكتب مهند,ChIJRyavGvtZRRURWvVnoQpkJNw,34.0866577,42.36858489999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39P9+MC9، الحقلانية،,2,0
+866,مشويات العبيدي للأسماك,ChIJH5msmXBXRRURy47-MCcoD8I,34.096924,42.3941895,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39WV+QM8، بروانة، العراق,2,0
+867,الحقلانية سوق مريدي,ChIJRxeETH9ZRRURYv7_61XMFZM,34.0878504,42.3624387,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",39Q6+4X، حديثة،,2,1
+868,مكتب اون لاين لخدمات الانترنت On Line office for internet service,ChIJdcYMwy1ZRRUR2TWxvzO3IQ8,34.0937721,42.3854245,0.0,"['point_of_interest', 'establishment']","39VP+G53, Unnamed Road, Barwana",2,0
+869,Earthlink duraid,ChIJt_69wB1ZRRURLhf8RyHxQxs,34.13223,42.383046,0.0,"['point_of_interest', 'establishment']","49JM+V6V، جسر حويجة حديثة الخشبي، حديثة،،، حديثة،, Haditha",2,0
+870,Levant Restaurant,ChIJVVVVVUFoQBURqoCQbrJoqmw,33.0364105,40.2833392,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","27PM+H88, Rutba",2,123
+871,مطعم كباب الفلوجة,ChIJizxCJxxpQBURdDKwTkdXSBc,33.0376133,40.2939135,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","27QV+3H, Rutba",2,1
+872,مطعم ومشويات الحسنين,ChIJsxsBmn5pQBURdXiEQ-SXrmA,33.0376664,40.2877639,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","27QQ+335, 10, Rutba",2,8
+873,مأكولات الدرة,ChIJY-LQOl5pQBURQUC0kHQKZWo,33.0364105,40.2833392,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","27PM+H88، شارع الزيتون, Rutba",2,2
+874,ارض الطيبة,ChIJbWnZc-BpQBUR-qtTHU4Di6Y,33.0349189,40.288726,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","27MQ+XG, Rutba",2,2
+875,مطعم واستراحة خيرات الرطبه,ChIJRfa9Sl5dQBURMYkeQGm6DiE,33.0646154,40.310721,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",3876+R7X، الرطبة،,2,0
+876,مطعم ومشويات الحسنين,ChIJsxsBmn5pQBURdXiEQ-SXrmA,33.0376664,40.2877639,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","27QQ+335, 10, Rutba",2,8
+877,Levant Restaurant,ChIJVVVVVUFoQBURqoCQbrJoqmw,33.0364105,40.2833392,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","27PM+H88, Rutba",2,123
+878,مطعم واستراحة خيرات الرطبه,ChIJRfa9Sl5dQBURMYkeQGm6DiE,33.0646154,40.310721,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",3876+R7X، الرطبة،,2,0
+879,مأكولات الدرة,ChIJY-LQOl5pQBURQUC0kHQKZWo,33.0364105,40.2833392,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","27PM+H88، شارع الزيتون, Rutba",2,2
+880,مطعم كباب الفلوجة,ChIJizxCJxxpQBURdDKwTkdXSBc,33.0376133,40.2939135,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","27QV+3H, Rutba",2,1
+881,ارض الطيبة,ChIJbWnZc-BpQBUR-qtTHU4Di6Y,33.0349189,40.288726,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","27MQ+XG, Rutba",2,2
+882,مأكولات الدرة,ChIJY-LQOl5pQBURQUC0kHQKZWo,33.0364105,40.2833392,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","27PM+H88، شارع الزيتون, Rutba",2,2
+883,مطعم كباب الفلوجة,ChIJizxCJxxpQBURdDKwTkdXSBc,33.0376133,40.2939135,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","27QV+3H, Rutba",2,1
+884,مطعم ومشويات الحسنين,ChIJsxsBmn5pQBURdXiEQ-SXrmA,33.0376664,40.2877639,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","27QQ+335, 10, Rutba",2,8
+885,مطعم واستراحة خيرات الرطبه,ChIJRfa9Sl5dQBURMYkeQGm6DiE,33.0646154,40.310721,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",3876+R7X، الرطبة،,2,0
+886,ارض الطيبة,ChIJbWnZc-BpQBUR-qtTHU4Di6Y,33.0349189,40.288726,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","27MQ+XG, Rutba",2,2
+887,Levant Restaurant,ChIJVVVVVUFoQBURqoCQbrJoqmw,33.0364105,40.2833392,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","27PM+H88, Rutba",2,123
+888,ابو علي العراقي HA,ChIJ1wJ7-xVpQBURHV0bsz0TR5E,33.0364105,40.2833392,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","27PM+H88, Rutba",2,0
+889,الكوخ vip,ChIJq2EXGxBpQBURYSKQxMvYgNY,33.0371748,40.2863457,5.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",27PP+VG5، الرطبة، الانبار الرطبه,2,4
+890,مكتب عماد لخدمه الانترنت (ايرث لنك),ChIJWyITrERpQBUR6y3jyts2Op0,33.0364105,40.2833392,3.5,"['cafe', 'point_of_interest', 'food', 'establishment']","شارع 60, Rutba",2,18
+891,مجمع الفاروق,ChIJDw3v1TppQBURriBjql4ZVhQ,33.0356902,40.2941659,0.0,"['supermarket', 'point_of_interest', 'grocery_or_supermarket', 'store', 'food', 'establishment']","27PV+PP, Rutba",2,0
+892,مخبز طيبة,ChIJRbZdjClpQBURXJYL_IsqOKY,33.0308407,40.2869175,0.0,"['bakery', 'point_of_interest', 'store', 'food', 'establishment']","27JP+8QM، شارع الزيتون, Rutba",2,0
+893,مجودي الذهبي,ChIJOZzwZhBpQBURfh-6t2SetvE,33.0380197,40.2874034,3.3,"['grocery_or_supermarket', 'point_of_interest', 'store', 'food', 'establishment']","مستودع الوقد, Rutba",2,6
+894,سوبر ماركت الايمان,ChIJoVgkd0JpQBURO82jD1aofys,33.0375152,40.2925713,2.5,"['supermarket', 'point_of_interest', 'grocery_or_supermarket', 'store', 'food', 'establishment']",27QV+223، الرطبة،,2,2
+895,ماركت الذهب الابيض,ChIJDZQOtippQBURoXk0UF4NHbY,33.0375104,40.2865161,5.0,"['supermarket', 'point_of_interest', 'grocery_or_supermarket', 'store', 'food', 'establishment']",27QP+2J2، الرطبة،,2,2
+896,اسواق مروان,ChIJGa8kagRpQBURxbYYb_DRi00,33.0430547,40.2782502,4.3,"['supermarket', 'point_of_interest', 'grocery_or_supermarket', 'store', 'food', 'establishment']","27VH+689، Unnamed Road, Rutba",2,4
+897,حمادة مول,ChIJWw6UZXxpQBUR86Y5pJr-YtI,33.0355676,40.28889969999999,5.0,"['supermarket', 'point_of_interest', 'grocery_or_supermarket', 'store', 'food', 'establishment']","27PQ+7H, Rutba",2,1
+898,مني ماركت عمر رشيد,ChIJadh4L_NpQBURZlZh4viiddU,33.0309603,40.2867126,3.5,"['supermarket', 'point_of_interest', 'grocery_or_supermarket', 'store', 'food', 'establishment']","27JP+9MM, Rutba",2,20
+899,مكتب عماد لخدمه الانترنت (ايرث لنك),ChIJWyITrERpQBUR6y3jyts2Op0,33.0364105,40.2833392,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']","شارع 60, Rutba",2,18
+900,الكوخ vip,ChIJq2EXGxBpQBURYSKQxMvYgNY,33.0371748,40.2863457,5.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",27PP+VG5، الرطبة، الانبار الرطبه,2,4
+901,مكتب عماد لخدمة الانترنت,ChIJYzv-T0tpQBURSfvLMftPfpQ,33.0311929,40.2988393,0.0,"['point_of_interest', 'establishment']",27JX+FG، الرطبة،,2,0
+902,مكتب احمد,ChIJRbiebLdpQBUR45ftCd-QY-8,33.0380749,40.2851638,5.0,"['point_of_interest', 'establishment']",27QP+63M، الرطبة،,2,1
+903,Levant Restaurant,ChIJVVVVVUFoQBURqoCQbrJoqmw,33.0364105,40.2833392,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","27PM+H88, Rutba",2,123
+904,مأكولات الدرة,ChIJY-LQOl5pQBURQUC0kHQKZWo,33.0364105,40.2833392,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","27PM+H88، شارع الزيتون, Rutba",2,2
+905,ارض الطيبة,ChIJbWnZc-BpQBUR-qtTHU4Di6Y,33.0349189,40.288726,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","27MQ+XG, Rutba",2,2
+906,مطعم واستراحة خيرات الرطبه,ChIJRfa9Sl5dQBURMYkeQGm6DiE,33.0646154,40.310721,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",3876+R7X، الرطبة،,2,0
+907,مطعم ومشويات الحسنين,ChIJsxsBmn5pQBURdXiEQ-SXrmA,33.0376664,40.2877639,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","27QQ+335, 10, Rutba",2,8
+908,مطعم كباب الفلوجة,ChIJizxCJxxpQBURdDKwTkdXSBc,33.0376133,40.2939135,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","27QV+3H, Rutba",2,1
+909,مقهى فردوس,ChIJb5kqt99pQBURTQMdoOyyyBg,33.0380731,40.2851703,0.0,"['point_of_interest', 'establishment']","27QP+63M, Rutba",2,0

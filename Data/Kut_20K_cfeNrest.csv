@@ -1,0 +1,601 @@
+,Place Name,Place ID,Latitude,Longitude,Rating,Types,Vicinity,Price Level,User Rating tot
+0,كباب عبد النور,ChIJBX0HIce54z8RskdlcOUJ7UM,32.4982315,45.827646,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRXH+74R, عمارة ابو فواتي، شارع المحافظة، Al, Kut",2,0
+1,مندي الخاجية,ChIJW6F6tlS54z8ReXenh9dd1vA,32.5380672,45.8020143,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","GRQ2+7R2, Kut",2,2
+2,كباب و مشويات الاحمد,ChIJ37qGX3y54z8RJuH1ZnejG6E,32.5326629,45.8238137,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","GRMF+3G8، شارع 15, Kut",2,4
+3,مطعم ومشويات ياس الكببجي واولادة,ChIJA8iIZyK54z8RctdbAWJvu0E,32.5065684,45.8272925,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR4G+GWW, Kut",2,1
+4,Fayyad Restaurant,ChIJD92dSa244z8RSYD6cWBcNyE,32.4982253,45.8276468,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRXH+73R، شارع المقاهي, Kut",2,43
+5,food house,ChIJ6xjZI8654z8RmHV20wKqgOE,32.5073988,45.8174356,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR48+XX3, Kut",2,1
+6,MDOC Mess Hall,ChIJ63hO4gGz4z8R109gi3P-rxI,32.5122679,45.66086139999999,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GM66+J59, Kut",2,0
+7,مطعم وكافيه ليفانت,ChIJveLfg8O54z8ROrr8UjTUzns,32.5111169,45.8099697,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR66+F26, Kut",2,82
+8,Hatabgy حطبچي للاكلات السريعة,ChIJO9I4Pom54z8RUGdMRuccjEE,32.5119066,45.810797,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR66+Q87, Al Kut",2,4
+9,مطعم فتوش / الكوت,ChIJL5YcVwC54z8RbtbVMzZZEjs,32.5300663,45.7866312,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","GQJP+2MC, Kut",2,10
+10,مطعم كباب الحاج اسكندر,ChIJ46idV6u44z8RbUS5x5npxeQ,32.4944029,45.8276993,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRVH+Q3H, Kut",2,61
+11,مشويات سعودي,ChIJ_0taUuy54z8RwWBfEvakogA,32.4968685,45.8236508,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRWF+PFG, Kut",2,2
+12,Ovens and pastries Zahra (AS),ChIJt40KzHK54z8RqQaVk15_7z4,32.5318662,45.7979624,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","GQJX+P5W, Kut",2,9
+13,Cafeteria Alchloba,ChIJbWlxFq244z8ROjtelGAfQX8,32.4973943,45.8267289,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRWG+XM5, Kut",2,7
+14,مطعم السدة,ChIJS5h-uX-54z8RDekkD-V2e28,32.5368715,45.8171852,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","GRP8+PVV، الطشاش /بداية شارع، القاضي, Kut",2,14
+15,موكب علي حسين الدراجي,ChIJO_1q04i54z8RP6f5Eju2plM,32.5304236,45.7853632,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GQJP+4CV, Kut",2,0
+16,Restaurant Ibn Khramit,ChIJW1jXp9244z8RPhnkmaKyHqI,32.512378,45.8107064,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","تقاطع الهورة كفاءات، شارع المغرب, Kut",2,1711
+17,Home restaurant,ChIJbUZqtVK_4z8RG8owPZCWsCk,32.4984237,45.8281041,3.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRXH+969, Kut",2,25
+18,Sadiq Aljassani Restaurant,ChIJxTmtEK244z8Ri-rRqeJUvbs,32.4969313,45.8265576,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRWG+QJF, Kut",2,286
+19,Vikniing Burger,ChIJQ0EqBW-54z8RxybmJu2HXXQ,32.5157063,45.8122277,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR86+7VQ, Kut",2,0
+20,فرايد تشكين -Fried Chicken,ChIJD3WN5U254z8RUoy6R4hcrYA,32.5060458,45.8192101,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR49+CM7, Al Horh St, Kut",2,0
+21,مأكولات الكوخ,ChIJf6mtLcy54z8RduNYedp4wE8,32.5093456,45.8145716,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR57+PRW, Kut",2,2
+22,مطعم اللؤلؤة,ChIJXcBaFkC54z8R_EQ4HsrWNXQ,32.5398155,45.823998,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRQF+XHQ, Kut",2,1
+23,مطعم تارو - Taro Rest,ChIJc0ybEu-54z8RTh8vOdeKXG4,32.5142334,45.8129266,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR77+M5V، شارع المغرب, Kut",2,5
+24,COPD Restaurant,ChIJMcjrxLC44z8RIJKXXfLFwNs,32.4999277,45.8205671,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRXC+W5C, Kut",2,288
+25,مطعم زيتونة,ChIJHYnS7A_B4z8R2A0PBuysVSE,32.4832929,45.8390732,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRMQ+7MR, Kut",2,0
+26,هوت بركر Hot burger,ChIJQQn9o8a54z8RuJq9QafWId8,32.5104385,45.8102445,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR66+53H، كوت،, Kut",2,3
+27,ماكولات عبوسي التركي,ChIJxde-6Cm54z8RAbOS5aRmjnY,32.4988315,45.8178377,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Kut Barrage, Kut",2,0
+28,مأكولات أبو حوري,ChIJ6183lku54z8RcvTF_JYSo94,32.4882191,45.8198823,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FRQ9+7WQ، FRQ9+9XR، الكوت،،، الكوت،,2,0
+29,tenafood,ChIJcWJrRre54z8RYpsV0gq00bo,32.53693760000001,45.8246714,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",داموك 200، الكوت،,2,0
+30,كباب ومشويات الاحمد,ChIJnftWcwu54z8RokhqgVQTmp8,32.5279042,45.8057946,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",GRH4+584، الكوت،,2,47
+31,مطعم بركات الجوادين,ChIJxyequy-z4z8RbBF_heNfqh8,32.5142135,45.611206,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GJ76+MFM، Unnamed Road, Al Husayniyah",2,6
+32,واسط,ChIJD8Vw-wKv4z8RGfGotPKNWbE,32.6024094,45.7520985,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",JQ22+XR9,2,0
+33,مطعم زهرة لبنان,ChIJO5C5Bnm54z8RGISyRgE7Opg,32.5156513,45.8077584,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR85+739, Kut",2,50
+34,مطعم بيت المندي,ChIJz1-RimW54z8R4g6oAmtGMA8,32.5053439,45.822637,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR4F+43J, Kut",2,91
+35,Student Restaurant,ChIJ1fL4NFm_4z8RA7q7zi2Ukcs,32.4997782,45.8421973,3.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRXR+WR4, Kut",2,15
+36,Vikings Burger,ChIJ0b4t4Ye54z8RDyteEGeeIMg,32.5155269,45.81433740000001,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",GR87+6P8، الكوت،,2,54
+37,برگر city,ChIJpenorJK54z8R3asDluKRD0E,32.533313,45.8028985,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","مركز صحي, Kut",2,13
+38,الشيف,ChIJZdQscue54z8R3-06qiiEMRE,32.5266942,45.81113,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRG6+MFC، Unnamed Road, Kut",2,14
+39,زاد الكوت,ChIJ6X6ph8C_4z8RK4ZmXeppBAM,32.5428309,45.82891499999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRVH+3J2, Kut",2,0
+40,كباب ابو علي,ChIJld-Ur4y54z8RGCqNhh0iWTk,32.5117384,45.8117638,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","17 شارع, Kut",2,0
+41,كافتيريا,ChIJeZ-aVTDB4z8RSSU1YjWNQmA,32.4511084,45.8963015,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","الجامعة التقنية الوسطى واسط, Abd Al Kazim Musa",2,0
+42,فلافل مازن,ChIJCzqFlL654z8RSu1GQtRpRD0,32.5116744,45.8098353,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR65+MW8, Maghreb St, Kut",2,1
+43,مطعم عباس كبابي,ChIJP2WnPRG_4z8RxTXWG7jfp_0,32.5264788,45.8840067,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GVGM+HJV، الكوت،,2,0
+44,مزاج,ChIJRwr7Zia54z8R1hRQvC-E2Tw,32.5155277,45.81590749999999,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR88+6C2، شارع المغرب, Kut",2,1
+45,مطعم أبو سيف,ChIJ_5VA7sm54z8RG3_kqO9Am60,32.53388,45.7992429,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQMX+HM5، Unnamed Road, Kut",2,2
+46,سموك ڤالي | Smoke Valley,ChIJH-yax3654z8RMwQcDfJ7YqQ,32.5119302,45.8109094,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR66+Q9J, Kut",2,0
+47,مطعم المذاق,ChIJUQs_MBu54z8RS80H2RicfWY,32.5206537,45.810787,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRC6+787، شارع الكراج, Kut",2,0
+48,ماكولات سديه,ChIJD2LDJ4K54z8Rkt_gtJE7jLk,32.5356289,45.8047322,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRP3+7V4, Kut",2,0
+49,مشاوي البدوي,ChIJ9bHwqSu54z8RGoG9LWj2K3s,32.5153719,45.814872,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GR87+4XJ، شارع المغرب،، الكوت،,2,1
+50,Light moon pizza,ChIJoV4ocd244z8R3d3t3UG6UIo,32.5115771,45.80972490000001,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR65+JWC, Kut",2,154
+51,مطعم AROMA PIZZA,ChIJecWdhCO_4z8RZGjq5AVxHOM,32.5061156,45.8286005,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","Tammoz Square, قرب Al-Naseej Street, Kut",2,183
+52,مطعم رياض,ChIJ6878kSa54z8RF0aV5mEAxIc,32.5517894,45.8064598,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","HR24+PH8, Kut",2,7
+53,ایت اند گو - Eat & Go,ChIJ0QP5ax-54z8RlKfziMRnA8s,32.5253575,45.78936110000001,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","منتجع المدينه المائية في حي الخليج، 1 شارع المفتاح, Kut",2,5
+54,همبركر ابن هويدي,ChIJ6cBwJCq_4z8R3Qr7mgDBuYE,32.5120037,45.8581084,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",GV65+W78، الكوت،,2,5
+55,مطعم حبايبنا,ChIJMewc9ly54z8RhEUSKXo1gRk,32.4974238,45.82540239999999,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRWG+X5F، المشروع، كوت،, Kut",2,75
+56,مطعم الرسول 2,ChIJWZAGnn-54z8Ri-1fk2ppV1U,32.5208699,45.8188268,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRC9+8GW، Unnamed Road, Kut",2,79
+57,ملك المندي,ChIJfV19SFmv4z8RYCSZObEPEG0,32.6024094,45.7520985,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JQ22+XR9, Kut",2,0
+58,مطعم زيت و زعتر,ChIJXYXJcQi74z8RXRhzxilimLc,32.6018671,45.8117508,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JR26+PPR، شارع الصيدلية, واسط واسط",2,0
+59,مأكولات دار دور,ChIJxVJlvVK54z8RKpaaZ1l6qkA,32.5164541,45.8160257,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR88+HCJ, Kut",2,1
+60,مشويات سعودي,ChIJ_0taUuy54z8RwWBfEvakogA,32.4968685,45.8236508,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRWF+PFG, Kut",2,2
+61,مطعم ومشويات جبوري,ChIJq6qqqmq_4z8ReMFUvEcWYTk,32.5168459,45.84696100000001,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR8W+PQP، كوت، العراق شارع اعداية، كوت،, Kut",2,12
+62,مطعم السدة,ChIJS5h-uX-54z8RDekkD-V2e28,32.5368715,45.8171852,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRP8+PVV، الطشاش /بداية شارع، القاضي, Kut",2,14
+63,مطعم جبوري,ChIJJRpb7Z254z8RI3eNg7_WLnM,32.5069405,45.8248071,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR4F+QWF, Kut",2,248
+64,مطعم بيت المندي,ChIJz1-RimW54z8R4g6oAmtGMA8,32.5053439,45.822637,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR4F+43J, Kut",2,91
+65,كباب ومشويات الاحمد,ChIJnftWcwu54z8RokhqgVQTmp8,32.5279042,45.8057946,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",GRH4+584، الكوت،,2,47
+66,مطعم رياض,ChIJ6878kSa54z8RF0aV5mEAxIc,32.5517894,45.8064598,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","HR24+PH8, Kut",2,7
+67,مطعم كباب الحاج اسكندر,ChIJ46idV6u44z8RbUS5x5npxeQ,32.4944029,45.8276993,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRVH+Q3H, Kut",2,61
+68,مطعم AROMA PIZZA,ChIJecWdhCO_4z8RZGjq5AVxHOM,32.5061156,45.8286005,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","Tammoz Square, قرب Al-Naseej Street, Kut",2,183
+69,مطعم ابن السمين,ChIJ82Sab2C54z8REkib5EAed78,32.5240025,45.8150376,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRF8+J23, Kut",2,6
+70,مطعم حبايبنا,ChIJMewc9ly54z8RhEUSKXo1gRk,32.4974238,45.82540239999999,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRWG+X5F، المشروع، كوت،, Kut",2,75
+71,COPD Restaurant,ChIJMcjrxLC44z8RIJKXXfLFwNs,32.4999277,45.8205671,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRXC+W5C, Kut",2,288
+72,مطعم انوار واسط,ChIJHVWtOa244z8RVOQ6uPWscf0,32.4977887,45.8272684,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRXG+4W6, Kut",2,39
+73,Sadiq Aljassani Restaurant,ChIJxTmtEK244z8Ri-rRqeJUvbs,32.4969313,45.8265576,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRWG+QJF, Kut",2,286
+74,Restaurant Ibn Khramit,ChIJW1jXp9244z8RPhnkmaKyHqI,32.512378,45.8107064,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","تقاطع الهورة كفاءات، شارع المغرب, Kut",2,1711
+75,مطعم خيرات واسط للأكلات السريعة,ChIJKxqQ1JG54z8RZg0QjZuLCv0,32.501163,45.8258971,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR2G+F96، العباسية،, Kut",2,22
+76,كباب عبد النور,ChIJBX0HIce54z8RskdlcOUJ7UM,32.4982315,45.827646,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRXH+74R, عمارة ابو فواتي، شارع المحافظة، Al, Kut",2,0
+77,مطعم الرسول 2,ChIJWZAGnn-54z8Ri-1fk2ppV1U,32.5208699,45.8188268,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRC9+8GW، Unnamed Road, Kut",2,79
+78,مطعم جوهرة واسط,ChIJxzGjWgqt4z8RY97-8RIKSOE,32.5722862,45.6367752,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",6,2,291
+79,مطعم أبو سيف,ChIJ_5VA7sm54z8RG3_kqO9Am60,32.53388,45.7992429,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQMX+HM5، Unnamed Road, Kut",2,2
+80,كباب و مشويات الاحمد,ChIJ37qGX3y54z8RJuH1ZnejG6E,32.5326629,45.8238137,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRMF+3G8، شارع 15, Kut",2,4
+81,مطعم السلطان للأكلات الشرقية والغربية,ChIJr-SNGsO54z8R1uMktba_XWE,32.506632,45.8271453,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR4G+MV6, 7, Kut",2,0
+82,مطعم الرسول,ChIJl0SLgde44z8RjDU8gxWSkTA,32.5206133,45.8182751,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRC9+689, Al-Zaharaa ST, Kut",2,1119
+83,Fayyad Restaurant,ChIJD92dSa244z8RSYD6cWBcNyE,32.4982253,45.8276468,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRXH+73R، شارع المقاهي, Kut",2,43
+84,مطعم وكافيه ليفانت,ChIJveLfg8O54z8ROrr8UjTUzns,32.5111169,45.8099697,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR66+F26, Kut",2,82
+85,مطعم حسان السياحي,ChIJVwL1_qiw4z8RZ04CR5Be8wY,32.5354788,45.7495148,3.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","GPPX+5RR, Kut",2,37
+86,مطعم تايم سكوير الخاچيه,ChIJgwSce9y54z8RBqZ1h3ZP4zE,32.530369,45.79792399999999,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GQJX+45V، الكوت،,2,3
+87,Abo sara’s BBQ restaurant,ChIJjehBNWe54z8RZZDEg3fDPjk,32.5066598,45.8239788,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR4F+MH9, Kut",2,2
+88,مطعم البلام,ChIJCxuh9rWz4z8RtWc4ECne-7A,32.5197961,45.6086292,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","GJ95+WF6، طريق الحسنينة - الكوت،, Al Husayniyah",2,16
+89,مطعم أبو رائد,ChIJA-0S-ya54z8RVSEC7iez3BA,32.5302557,45.7970824,2.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQJW+4R4، Unnamed Road, Kut",2,9
+90,مندي الخاجية,ChIJW6F6tlS54z8ReXenh9dd1vA,32.5380672,45.8020143,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRQ2+7R2, Kut",2,2
+91,كافتريا حسون ابو العمبه,ChIJEVwtKoa54z8RYWL5pSXqk44,32.523229,45.8159793,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",GRF8+79X، الكوت، حي الزهراء,2,76
+92,مشويات ومخللات الجوراني,ChIJheKATAi_4z8RRcm3LPEsbzI,32.5063261,45.8310494,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR4J+GCM، 40/114 شارع تموز, Kut",2,0
+93,مطعم ومشويات ياس الكببجي واولادة,ChIJA8iIZyK54z8RctdbAWJvu0E,32.5065684,45.8272925,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR4G+GWW, Kut",2,1
+94,Light moon pizza,ChIJoV4ocd244z8R3d3t3UG6UIo,32.5115771,45.80972490000001,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR65+JWC, Kut",2,154
+95,مطعم بيت الكرم,ChIJMww6XaK54z8RTRdY-cwA0KE,32.527829,45.8056475,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRH4+47V، Unnamed Road, Kut",2,2
+96,مطعم Hk Berker,ChIJ678oWEO54z8RgQDAv3E4l4M,32.5092488,45.81479410000001,2.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",17 شارع الهورة، الكوت،,2,7
+97,كافتريا فلاح القريشي,ChIJqdM1jUfH4z8RTTjivxjvlN4,32.4755064,45.8184173,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRG9+693، شارع الكراج،, Kut",2,1
+98,مطعم باجه الفيصلي,ChIJF2sb9Ve54z8RGphhNoIJCLQ,32.4972124,45.8268549,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRWG+VPQ، سوق الكوت الكبير، الكوت،،, Kut",2,3
+99,مطعم تارو - Taro Rest,ChIJc0ybEu-54z8RTh8vOdeKXG4,32.5142334,45.8129266,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR77+M5V، شارع المغرب, Kut",2,5
+100,Home restaurant,ChIJbUZqtVK_4z8RG8owPZCWsCk,32.4984237,45.8281041,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRXH+969, Kut",2,25
+101,مأكولات فارس حساني 2,ChIJd6gM3OK54z8RUkVaNP37m5g,32.5078726,45.8257939,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR5G+48V, Kut",2,26
+102,مطعم بركات الجوادين,ChIJxyequy-z4z8RbBF_heNfqh8,32.5142135,45.611206,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GJ76+MFM، Unnamed Road, Al Husayniyah",2,6
+103,Student Restaurant,ChIJ1fL4NFm_4z8RA7q7zi2Ukcs,32.4997782,45.8421973,3.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRXR+WR4, Kut",2,15
+104,مطعم بيت المندي,ChIJ1RRmlHi54z8RpqXNg7HIpkc,32.5123427,45.8116871,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR66+WMW، مجمع كرستال، تقاطع الهورة كفاءات،, Kut",2,79
+105,مطعم سيف الكرار للمشويات بأدارة اسعد,ChIJ1RqejNG54z8RJ_Bm7S0jzYw,32.4968627,45.8236415,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRWF+PFM، شارع كورنيش الكوت, Kut",2,3
+106,مطعم بركات سعيد بن جبير,ChIJffBGMxa54z8Rq2nFwow6p-M,32.5293861,45.8082026,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRH5+Q74, Kut",2,46
+107,مطعم زهرة لبنان,ChIJO5C5Bnm54z8RGISyRgE7Opg,32.5156513,45.8077584,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR85+739, Kut",2,50
+108,مطعم عبدالله السياحي,ChIJMb_S1p-v4z8RE3eQt9icZqQ,32.6024094,45.7520985,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","JQ22+XR9, Kut",2,8
+109,مشاوي البدوي,ChIJ9bHwqSu54z8RGoG9LWj2K3s,32.5153719,45.814872,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GR87+4XJ، شارع المغرب،، الكوت،,2,1
+110,مطعم الذوق السليم,ChIJe29xn6244z8R2HvRSi0OkY4,32.4971756,45.8253322,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRWG+V4G, Kut",2,68
+111,الشيف,ChIJZdQscue54z8R3-06qiiEMRE,32.5266942,45.81113,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRG6+MFC، Unnamed Road, Kut",2,14
+112,كفتريه ابوشهد,ChIJ-2s8CWev4z8RTKPXl5d5X8M,32.6024094,45.7520985,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JQ22+XR9، واسط محافظة،, Kut",2,0
+113,محمد سالم _للوجبات السريعة,ChIJk0ERm4y54z8Rr7bnfswgaJE,32.535862,45.7956497,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQPW+87R، كوت،, Kut",2,0
+114,مأكولات دار دور,ChIJxVJlvVK54z8RKpaaZ1l6qkA,32.5164541,45.8160257,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR88+HCJ, Kut",2,1
+115,مطعم اللؤلؤة,ChIJXcBaFkC54z8R_EQ4HsrWNXQ,32.5398155,45.823998,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRQF+XHQ, Kut",2,1
+116,مطعم زيتونة,ChIJHYnS7A_B4z8R2A0PBuysVSE,32.4832929,45.8390732,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRMQ+7MR, Kut",2,0
+117,Hatabgy حطبچي للاكلات السريعة,ChIJO9I4Pom54z8RUGdMRuccjEE,32.5119066,45.810797,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR66+Q87, Al Kut",2,4
+118,مشويات ليالي دجله,ChIJvyzw-Ua54z8R5ow3rrnkFk8,32.4987289,45.82194639999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",1 شارع الكورنيش، الكوت،,2,0
+119,مطعم كباب السلطان,ChIJC5jtL9W54z8RrG5M1VNytgk,32.5333144,45.8235803,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع 15، الكوت،,2,4
+120,مأكولات مستر سلطع,ChIJkxODmEPH4z8R3_PecqsoAPY,32.4775613,45.8198629,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",FRH9+3XX، الكوت،,2,6
+121,مأكولات شهاب,ChIJ_TPwDi654z8RiLLJ6ORW3l4,32.4970237,45.82558179999999,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",FRWG+R69، شارع 6،،، الكوت،,2,1
+122,مأكولات الكرار,ChIJQceB53-_4z8RriEsXTo0no8,32.5366088,45.8300755,4.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","GRPJ+J2Q, Kut",2,3
+123,ماكولات جوز و لوز (عباس العتبي),ChIJo0ofCLfH4z8RHOscMmnvhSQ,32.4777303,45.8199792,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRH9+3XX, Kut",2,1
+124,مطعم المذاق,ChIJUQs_MBu54z8RS80H2RicfWY,32.5206537,45.810787,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GRC6+787، شارع الكراج, Kut",2,0
+125,ماكولات سديه,ChIJD2LDJ4K54z8Rkt_gtJE7jLk,32.5356289,45.8047322,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GRP3+7V4, Kut",2,0
+126,ماكولات السوسن المميزة,ChIJAR3nQnC54z8RwoJtJ3rgMUg,32.4975359,45.8229956,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",شارع 6،، الكوت،,2,13
+127,اسواق ومأكولات العتابي,ChIJuWcZcS2_4z8RZuqPSCYZp7w,32.517049,45.8597394,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","GV85+MFQ، الكوت،, Al Kut",2,8
+128,مأكولات فارس,ChIJeckGewy54z8Ruxv420coKDc,32.4973365,45.8253144,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRWG+W4P، المشروع، كوت،، الكوت،, Kut",2,3
+129,مأكولات فارس حساني 2,ChIJd6gM3OK54z8RUkVaNP37m5g,32.5078726,45.8257939,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR5G+48V, Kut",2,26
+130,ماكولات ماهر الشمالي,ChIJ8bdF8kS54z8RRQPlscnMH9Q,32.508132,45.8167231,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR58+7M5, Al Horh St, Kut",2,4
+131,مأكولات الكوخ,ChIJf6mtLcy54z8RduNYedp4wE8,32.5093456,45.8145716,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR57+PRW, Kut",2,2
+132,مأكولات ماشاء الله,ChIJtXsO6pO54z8RVdMH1EG6NCE,32.5078635,45.81326079999999,2.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR57+583، دور المعلمين، الكوت،, Kut",2,1
+133,مأكولات دار دور,ChIJxVJlvVK54z8RKpaaZ1l6qkA,32.5164541,45.8160257,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR88+HCJ, Kut",2,1
+134,مأكولات أبو حوري,ChIJ6183lku54z8RcvTF_JYSo94,32.4882191,45.8198823,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",FRQ9+7WQ، FRQ9+9XR، الكوت،،، الكوت،,2,0
+135,فلافل ابن جاني,ChIJhVtZnZO54z8RxM8yz1klD-w,32.4992503,45.8238287,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",FRXF+PG4، كوت،,2,2
+136,محمد أبو الشربت,ChIJJVHaKvG54z8RH6cbQpAgsw8,32.515517,45.8158249,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","فلكة العمارة, Kut",2,1
+137,مطعم و ماكولات علي شاكر,ChIJsckhR9ez4z8Rpmq7OckhyJI,32.5214661,45.6057995,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",طريق الحسنينة - الكوت، الحسينية،، GJC4+J6M، الحسينية،,2,1
+138,فلافل مازن,ChIJCzqFlL654z8RSu1GQtRpRD0,32.5116744,45.8098353,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR65+MW8, Maghreb St, Kut",2,1
+139,يم يم 2,ChIJVbbEWcPB4z8RI1aY0Ka8Vm0,32.4856064,45.84094899999999,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRPR+69W, Kut",2,2
+140,مأكولات عمو عباس,ChIJKRZNryq_4z8R901_nWwB3iI,32.5074624,45.8447483,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GR4V+XVQ، الكوت،,2,0
+141,مطعم اللؤلؤة,ChIJXcBaFkC54z8R_EQ4HsrWNXQ,32.5398155,45.823998,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRQF+XHQ, Kut",2,1
+142,كافترية حيدر الزبيدي,ChIJPwF_ZE-z4z8Ryy5DmvJc3zY,32.5212037,45.6043979,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GJC3+FQJ، طريق الحسنينة - الكوت، الحسينية،, Al Husayniyah",2,0
+143,مطعم زيتونة,ChIJHYnS7A_B4z8R2A0PBuysVSE,32.4832929,45.8390732,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRMQ+7MR, Kut",2,0
+144,مطعم دكتور سناك بركر,ChIJE7uJ9oK54z8RDGyzf8lJxOE,32.5308815,45.7981121,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",GQJX+965، GQJX+837، الكوت،،، الكوت،,2,3
+145,Mr potato,ChIJ4VpLiUi_4z8RILo8k7_0VmE,32.49894440000001,45.8405988,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FRXR+J6M، الكوت،,2,2
+146,Mandi Sanaa Kut Branch,ChIJid8vHVS54z8RkPpBotvzY4A,32.5079795,45.8161475,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR58+5FR, Kut",2,16
+147,فلافل حساني,ChIJefez_J254z8Rq4c5nUahyVY,32.5210717,45.81877619999999,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع الزهراء, Kut",2,1
+148,اسماك ابو شهد,ChIJiSyoC4O_4z8RHAjMym8N8OQ,32.5087418,45.83184199999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR5J+FPW، شارع ١٤ تموز, Kut",2,0
+149,مطعم كرار,ChIJXR3oiLm_4z8R8cTmt9Cny1s,32.536627,45.8301312,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRPJ+M32, Kut",2,38
+150,مطعم ومشويات ياس الكببجي واولادة,ChIJA8iIZyK54z8RctdbAWJvu0E,32.5065684,45.8272925,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR4G+GWW, Kut",2,1
+151,تك توك للأكلات السريعة,ChIJeVYI2_C54z8R_oGcqQ4tlso,32.4968187,45.81474009999999,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","13/218، الكوت،، الكوت،،, Kut",2,24
+152,فلافل وماكولات حيدر,ChIJJ4WmUKW54z8ROxtrA7r0cuE,32.5174126,45.8050255,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR83+XX5, Kut",2,118
+153,فلافل لبنان,ChIJl8s1rb-54z8RSvEphF4eMA0,32.512161,45.8113049,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR66+VG7, Kut",2,9
+154,فلافل AZ(عجين الفلافل +طرشي بانواعه),ChIJwzPY7Y7H4z8Rc7qYeT_RWG8,32.474591,45.8156048,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الجهاد،، الحي،,2,1
+155,مشويات ابو وهج,ChIJI5tyfpG_4z8RHt3SazeSfAU,32.5172089,45.8386623,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GR8Q+RCJ، الكوت،,2,1
+156,بتيته سلك بالدهن الحر,ChIJnxvM71y54z8RWRDcT-6MXTo,32.5240974,45.8223207,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRFC+JWP، 36/303, Kut",2,0
+157,مطعم رياض,ChIJ6878kSa54z8RF0aV5mEAxIc,32.5517894,45.8064598,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","HR24+PH8, Kut",2,7
+158,بوابه وطريق الترابي للامام المحسن ع,ChIJ2wkR6Rvr4z8RZvye2NPxMio,32.4910966,45.9640121,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FXR7+CJJ، دجيلي,2,1
+159,برگر city,ChIJpenorJK54z8R3asDluKRD0E,32.533313,45.8028985,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","مركز صحي, Kut",2,13
+160,سجاد محمد الدلفي,ChIJ6xsixdnp4z8RvTX6no1nhRs,32.4491729,45.9675489,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",CXX9+M27، جسر الدجيلي، الكوت،،، دجيلي,2,0
+161,مطعم ابن السمين,ChIJ82Sab2C54z8REkib5EAed78,32.5240025,45.8150376,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRF8+J23, Kut",2,6
+162,ماكولات عبوسي التركي,ChIJxde-6Cm54z8RAbOS5aRmjnY,32.4988315,45.8178377,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Kut Barrage, Kut",2,0
+163,مشويات الكوثر,ChIJO5wKFw-54z8RxSs6xeRQVrE,32.5190319,45.8015207,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR92+HHX، كوت، الكوت،, Kut",2,0
+164,مطعم Hk Berker,ChIJ678oWEO54z8RgQDAv3E4l4M,32.5092488,45.81479410000001,2.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",17 شارع الهورة، الكوت،,2,7
+165,موكب ابو سجاد الدبي,ChIJZ-HKnM-V4z8RTmM6Qw2mULw,32.6020611,45.9558031,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",JX24+R8، الكوت،,2,0
+166,هوت بركر Hot burger,ChIJQQn9o8a54z8RuJq9QafWId8,32.5104385,45.8102445,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR66+53H، كوت،, Kut",2,3
+167,دكتور سناك,ChIJvachBz-54z8RApcNCK7AyFk,32.5296149,45.7959272,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GQHW+V98، الكوت،,2,1
+168,مشويات جبار المشهداني للأسماك والدجاج الحي,ChIJ4_W0_rO54z8RK5D7VIF7nx8,32.5249804,45.8258682,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",17 شارع دور العمال، الكوت،، الكوت،,2,6
+169,محمد سالم _للوجبات السريعة,ChIJk0ERm4y54z8Rr7bnfswgaJE,32.535862,45.7956497,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQPW+87R، كوت،, Kut",2,0
+170,مطعم بركات الجوادين,ChIJxyequy-z4z8RbBF_heNfqh8,32.5142135,45.611206,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GJ76+MFM، Unnamed Road, Al Husayniyah",2,6
+171,tenafood,ChIJcWJrRre54z8RYpsV0gq00bo,32.53693760000001,45.8246714,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",داموك 200، الكوت،,2,0
+172,مطعم عبد الواحد العزاوي,ChIJFVWdwDfH4z8R3VBj_JvMwWg,32.4843109,45.8229329,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FRMF+J5F، الكوت،,2,1
+173,food house,ChIJ6xjZI8654z8RmHV20wKqgOE,32.5073988,45.8174356,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR48+XX3, Kut",2,1
+174,واسط,ChIJD8Vw-wKv4z8RGfGotPKNWbE,32.6024094,45.7520985,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",JQ22+XR9,2,0
+175,مطعم أبو رائد,ChIJA-0S-ya54z8RVSEC7iez3BA,32.5302557,45.7970824,2.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQJW+4R4، Unnamed Road, Kut",2,9
+176,مطعم حبايبنا,ChIJMewc9ly54z8RhEUSKXo1gRk,32.4974238,45.82540239999999,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRWG+X5F، المشروع، كوت،, Kut",2,75
+177,Vikings Burger,ChIJ0b4t4Ye54z8RDyteEGeeIMg,32.5155269,45.81433740000001,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",GR87+6P8، الكوت،,2,54
+178,مشويات ومخللات الجوراني,ChIJheKATAi_4z8RRcm3LPEsbzI,32.5063261,45.8310494,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR4J+GCM، 40/114 شارع تموز, Kut",2,0
+179,مطعم خيرات واسط للأكلات السريعة,ChIJKxqQ1JG54z8RZg0QjZuLCv0,32.501163,45.8258971,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR2G+F96، العباسية،, Kut",2,22
+180,كوفي شوب كوستا costa coffee,ChIJxSQ-evOz4z8RWPE7DuvncVU,32.5191532,45.6089875,4.8,"['cafe', 'food', 'point_of_interest', 'establishment']","GJ95+MH9, Al Husayniyah",2,11
+181,كافيه مود | MOOD CAFE,ChIJMZTM7_G54z8R-4s8loQiN2c,32.5303577,45.7860535,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","GQJP+4CV, Kut",2,4
+182,حكاية كافيه,ChIJsX4kJDe54z8RYh5g_FgjVLo,32.5315998,45.8063187,3.3,"['cafe', 'food', 'point_of_interest', 'establishment']","GRJ4+HG3, حي الزهراء قرب تقاطع هكوري الكوت قرب تقاطع هكوري، الكوت،،",2,6
+183,Alkoogh café كافيه الكوخ,ChIJSTIO27-54z8R1FC2dZ4e_TM,32.5195222,45.8027862,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","GR93+R42, Kut",2,52
+184,مقهى الكورنيش,ChIJbwTqbie54z8RVlg94Vgzaac,32.498759,45.82191960000001,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']","FRXC+GQF, Kut",2,23
+185,Coffee Friends,ChIJMzG5dLK44z8Ruv3X63wFPB4,32.4981366,45.8244068,3.6,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FRXF+7Q3, Kut",2,71
+186,كوفي شوب دخنچي,ChIJWYDYZrO54z8RRAh8G9emx6U,32.5164536,45.8160263,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR88+HCJ, Kut",2,0
+187,London cafe,ChIJY6qTlj254z8R5hzYq3uUdto,32.5310084,45.8099094,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']","GRJ5+9XH, Kut",2,59
+188,ليالي دجله كافيه,ChIJef77pJ-54z8RyhT9_MS1BfA,32.4993609,45.8212294,4.1,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","1 شارع الكورنيش،, Kut",2,12
+189,كوفي شوب دخنچي,ChIJa3Ocawq54z8RJJ1thPxeO0I,32.4962084,45.81422569999999,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRW7+FPR, Kut",2,0
+190,مقهى ياسر,ChIJ9eF6CG254z8RcKz9su-hZyw,32.4961957,45.810862,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","شارع 10،, Kut",2,1
+191,Brothers cafe the four,ChIJJUQmDo6t4z8R4UNxR-nI1Xo,32.5664767,45.6521171,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']",HM82+HRX، بتار,2,28
+192,شاي ابو علي,ChIJo8623yK54z8R_QuUBbTo3Tw,32.4968627,45.8236414,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRWF+PFM، شارع كورنيش الكوت, Kut",2,0
+193,كوفي شوب الباشا,ChIJO7bLJGnH4z8RmH5T9Hjv8OQ,32.4732855,45.8148651,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","FRF7+8X3, Kut",2,6
+194,كوفي شوب بيانو _ Paino Cafe,ChIJLd0aDEi54z8RyHFZm_rXr2g,32.5121829,45.8104714,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","شارع المغرب، الكوت، الكوت / تقاطع الهورة _ كفاءات, Kut",2,7
+195,Damas Cafe,ChIJc6sUmU654z8ROkvaurjb2UQ,32.5276815,45.8108211,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","GRH6+38G, Kut",2,15
+196,Cafe Etap,ChIJBdosW6244z8RFARC_pSJekA,32.4984347,45.827262,3.8,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FRXG+9WC, Kut",2,343
+197,كوفي سماور,ChIJx8UKpR2_4z8R-6Xarw52ejo,32.530423,45.8299781,2.5,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","GRJJ+92X, Kut",2,2
+198,كوفي شوب البارون,ChIJDXYH_-K54z8RQUgqmt3alLI,32.4976359,45.8236247,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']",FRXF+3F2، شارع مثلجات فستقه،، شارع كورنيش الكوت، السده،,2,55
+199,Sultan Cafe,ChIJL6lzYUTH4z8RE0DMG6wXdsg,32.4728344,45.8146894,3.2,"['cafe', 'food', 'point_of_interest', 'establishment']","FRF7+4VP, Al Kut",2,26
+200,Samra cafe - سمرة كافيـــه,ChIJ6aEKW9254z8ROHljh-g0Iig,32.50931870000001,45.8153197,4.7,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","GR57+QXX, Kut",2,3
+201,البارون كافي,ChIJz-4yTvS_4z8R0wAU-H_R0j0,32.53156999999999,45.8292161,3.7,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",16/302، الكوت،,2,3
+202,Poets Cafe Wasit,ChIJgbp87bG44z8RsP_vhMSdQFU,32.4980194,45.82264809999999,3.6,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","FRXF+62H, Kut",2,162
+203,كوفي SA,ChIJY3fP_FK54z8RtmwMqTUiakw,32.516464,45.8061622,4.7,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","GR84+HFJ, Kut",2,3
+204,كوفي كناري,ChIJgydxRcOz4z8R796lQaEyG5s,32.5230331,45.6041984,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","GJF3+6M8، طريق الحسنينة - الكوت، الحسينية،, Al Husayniyah",2,7
+205,القهونجي,ChIJebhCSaa54z8Rat0MmPvLWCM,32.5220226,45.8169646,3.6,"['cafe', 'food', 'point_of_interest', 'establishment']","GRC8+QQV, Kut",2,8
+206,مقهى الكلاسكو,ChIJTeRxWZbH4z8ROLnju_dUpcs,32.4726124,45.816215,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRF8+3F3, Kut",2,3
+207,كوفي شوب السكوندي,ChIJy2ycjA6v4z8RFhr2Ora9Lbg,32.6024094,45.7520985,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",شارع النفط,2,0
+208,Huda cafe,ChIJPVW1k7G44z8Ra4i0tZ5hfnE,32.498322,45.8224981,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","FRXC+8XH, Kut",2,64
+209,مقهى الروشه,ChIJjaS2na244z8R0fF3O9KCJZ8,32.4975827,45.8254062,3.4,"['cafe', 'food', 'point_of_interest', 'establishment']","FRXG+255, Kut",2,25
+210,شاي السيد,ChIJLVwlpLm54z8Rdsb-tb1lugU,32.4970691,45.8263166,4.4,"['cafe', 'food', 'point_of_interest', 'establishment']","FRWG+RGG, Kut",2,5
+211,مقهى حنانيش,ChIJeQnbRKTH4z8RR0Na7KmxcRI,32.4769473,45.8191965,3.2,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","شارع الكراج, Kut",2,5
+212,مقهى ابو حاتم,ChIJDXOaObi_4z8RldYudDAB9jo,32.4978687,45.829044,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","FRXH+4HP, كوت،، الكوت،، الكوت،, Kut",2,0
+213,Coffee shop Azzouz,ChIJk6YteXK54z8R1d1tXSL8IXI,32.5347696,45.7994542,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']","شارع ٤٠, Kut",2,76
+214,SRT Cafe,ChIJn4NYvP254z8RG0XEDMNsrV8,32.512133,45.810412,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR66+V52، شارع المغرب، الكوت،, Kut",2,0
+215,باكو كافيهBakuCafe,ChIJbwoto2O54z8RJnaFdfJaTqo,32.5086233,45.8153504,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']",الهورة، الكوت، كوت هوره,2,35
+216,مقهى كوف كافيه,ChIJPVdVXAW54z8RFwL-FSyAX8Y,32.5108017,45.8102805,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR66+84F، شارع المغرب، الكوت،، الكوت،, Kut",2,1
+217,Meridian cafe,ChIJqbdZGye54z8RcXftfco02G0,32.5232039,45.81550740000001,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']","GRF8+75H, Al-Zaharaa ST, Kut",2,33
+218,كوفي شوب العايذي,ChIJpVfdvxG54z8RpJz0c3OWuPQ,32.51529910000001,45.81478389999999,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","GR87+4W7، شارع المغرب، الكوت،, Kut",2,4
+219,3D Hasson,ChIJR3BJoq244z8RDg99ZsCsP-8,32.49687979999999,45.8252702,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","FRWG+Q42، شارع 6, Kut",2,10
+220,مقهى الاخوين,ChIJUxk0B6e54z8RKVWOmexaPmI,32.496966,45.8256388,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRWG+Q7J، المشروع، الكوت،, Kut",2,2
+221,مقهى جليل,ChIJS6IYYAW_4z8RlXIGthmloBE,32.4950469,45.8281648,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","FRWH+277، شارع سكونه شارع عگـد الكراد، الكوت،, Kut",2,23
+222,مقهى وبليارد الأنيق,ChIJe8g27d654z8RE0XwUKuCFDc,32.4984054,45.8275611,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRXH+927، شارع المقاهي، الكوت،, Kut",2,0
+223,مقهى الضفاف,ChIJHRbgM0DH4z8ROP2uXrA0up0,32.4784231,45.8246592,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",FRHF+9V7، واسط٬,2,0
+224,كوب كافيه,ChIJXWYSCy654z8R1esYZey9jC8,32.5107938,45.8104285,1.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR66+84X، شارع المغرب، الكوت،, Kut",2,1
+225,كوفي شوب وحدائق الحجي,ChIJS21z9kC_4z8RHJ-PQiXWmSo,32.4992412,45.8481455,3.4,"['cafe', 'food', 'point_of_interest', 'establishment']","FRXX+M6M, Kut",2,9
+226,Paris cafe,ChIJv9VTHLG44z8RWcgFqOrSUw0,32.4995077,45.8208882,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","FRXC+R92, Kut",2,60
+227,كوفي النمور,ChIJgUIqa7Gv4z8RuRr__hdhL5s,32.6024094,45.7520985,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","JQ22+XR9, Kut",2,0
+228,كافيه البيت العربي,ChIJMQmgDRq54z8R8fP3aHGsU7E,32.5300499,45.8204636,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']",GRHC+X25، الكوت، الكوت شارع داموك,2,4
+229,ريد روز,ChIJS9uhywW_4z8Rr654OszC3-M,32.5315557,45.8292252,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","GRJH+JMH, Kut",2,15
+230,Parlo Cafe بارلو كافي,ChIJB68gZdy44z8ReEr9ct8nuwU,32.5137517,45.8130765,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR77+F6W، شارع المغرب, Kut",2,103
+231,مقهئ مشمش,ChIJ6dQTAy-54z8RlitEAayAMA4,32.5102626,45.8268745,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR6G+4Q2, Al Kut",2,1
+232,مقهى العوادي,ChIJ8crleKG54z8RZeUO1JnSA44,32.497563,45.8229413,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']",FRXF+25G، شارع 6،،، الكوت،,2,27
+233,كوفي احمد الوشام,ChIJwT8wrLq54z8R9_aODEm3t9M,32.4946964,45.817357,4.5,"['cafe', 'food', 'point_of_interest', 'establishment']",12/218، الكوت،,2,10
+234,The restaurant hall and cafe Carden City Gardens,ChIJMajUabe44z8RRRiDWxYGFIM,32.5011584,45.8189706,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']","GR29+FH9, Kut",2,256
+235,مقهى الملكي,ChIJh1hY2OXH4z8R4ic_TvkKtV0,32.477591,45.8160636,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRH8+2CP, Kut",2,3
+236,دله ابو احمد,ChIJIeo33vO54z8R6K-3plTQH0w,32.5113337,45.8125001,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","17 شارع, Kut",2,0
+237,مقهى حفيد جبار الاكرع,ChIJqVFTRdG54z8RyZNQi8MR38E,32.4940391,45.8257777,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRVG+Q73, Kut",2,0
+238,مقهی گنش,ChIJUVY5g2m54z8R5KfXrqFDDKk,32.49885800000001,45.8218725,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRXC+GQF, Kut",2,21
+239,cafe المطعم التركي,ChIJd_0aZBG54z8RRJt2wWBoxQc,32.5156513,45.8077584,3.8,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","GR85+739, Kut",2,62
+240,حكاية كافيه,ChIJsX4kJDe54z8RYh5g_FgjVLo,32.5315998,45.8063187,3.3,"['cafe', 'food', 'point_of_interest', 'establishment']","GRJ4+HG3, حي الزهراء قرب تقاطع هكوري الكوت قرب تقاطع هكوري، الكوت،،",2,6
+241,Damas Cafe,ChIJc6sUmU654z8ROkvaurjb2UQ,32.5276815,45.8108211,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","GRH6+38G, Kut",2,15
+242,كوفي الشام,ChIJ2zbAgHS54z8R_aoxZcdYPEU,32.5244742,45.8129127,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GRF7+Q5M، Unnamed Road, Kut",2,100
+243,ريد روز,ChIJS9uhywW_4z8Rr654OszC3-M,32.5315557,45.8292252,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","GRJH+JMH, Kut",2,15
+244,مقهى العوادي,ChIJ8crleKG54z8RZeUO1JnSA44,32.497563,45.8229413,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']",FRXF+25G، شارع 6،،، الكوت،,2,27
+245,مقهى الضفاف,ChIJHRbgM0DH4z8ROP2uXrA0up0,32.4784231,45.8246592,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",FRHF+9V7، واسط٬,2,0
+246,Parlo Cafe بارلو كافي,ChIJB68gZdy44z8ReEr9ct8nuwU,32.5137517,45.8130765,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR77+F6W، شارع المغرب, Kut",2,103
+247,القهونجي,ChIJebhCSaa54z8Rat0MmPvLWCM,32.5220226,45.8169646,3.6,"['cafe', 'food', 'point_of_interest', 'establishment']","GRC8+QQV, Kut",2,8
+248,Sultan Cafe,ChIJL6lzYUTH4z8RE0DMG6wXdsg,32.4728344,45.8146894,3.2,"['cafe', 'food', 'point_of_interest', 'establishment']","FRF7+4VP, Al Kut",2,26
+249,كوفي كناري,ChIJgydxRcOz4z8R796lQaEyG5s,32.5230331,45.6041984,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","GJF3+6M8، طريق الحسنينة - الكوت، الحسينية،, Al Husayniyah",2,7
+250,مقهى الخيمة,ChIJPdz6g4G_4z8R9hfIGFjm0vY,32.5181101,45.8634702,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","GV97+7C3, Kut",2,6
+251,مقهى كوف كافيه,ChIJPVdVXAW54z8RFwL-FSyAX8Y,32.5108017,45.8102805,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR66+84F، شارع المغرب، الكوت،، الكوت،, Kut",2,1
+252,Poets Cafe Wasit,ChIJgbp87bG44z8RsP_vhMSdQFU,32.4980194,45.82264809999999,3.6,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FRXF+62H, Kut",2,162
+253,مقهى سيف العكيلي,ChIJnScTBCS_4z8Rcdi4kfhVypc,32.5108141,45.8439551,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","GR6V+8HG، Unnamed Road, Kut",2,11
+254,مقهى الكلاسكو,ChIJTeRxWZbH4z8ROLnju_dUpcs,32.4726124,45.816215,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRF8+3F3, Kut",2,3
+255,كوفي شوب الباشا,ChIJO7bLJGnH4z8RmH5T9Hjv8OQ,32.4732855,45.8148651,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","FRF7+8X3, Kut",2,6
+256,Brothers cafe the four,ChIJJUQmDo6t4z8R4UNxR-nI1Xo,32.5664767,45.6521171,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']",HM82+HRX، بتار,2,28
+257,المصطفى للسكائر والاراكيل,ChIJZe0Ayr254z8Rmsn71v8eKGw,32.52294620000001,45.8158225,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GRF8+58F, Kut",2,1
+258,مقهى حنانيش,ChIJeQnbRKTH4z8RR0Na7KmxcRI,32.4769473,45.8191965,3.2,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","شارع الكراج, Kut",2,5
+259,مقهى جليل,ChIJS6IYYAW_4z8RlXIGthmloBE,32.4950469,45.8281648,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","FRWH+277، شارع سكونه شارع عگـد الكراد، الكوت،, Kut",2,23
+260,كوفي شوب كوستا costa coffee,ChIJxSQ-evOz4z8RWPE7DuvncVU,32.5191532,45.6089875,4.8,"['cafe', 'food', 'point_of_interest', 'establishment']","GJ95+MH9, Al Husayniyah",2,11
+261,كوفي احمد الوشام,ChIJwT8wrLq54z8R9_aODEm3t9M,32.4946964,45.817357,4.5,"['cafe', 'food', 'point_of_interest', 'establishment']",12/218، الكوت،,2,10
+262,ليالي دجله كافيه,ChIJef77pJ-54z8RyhT9_MS1BfA,32.4993609,45.8212294,4.1,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","1 شارع الكورنيش،, Kut",2,12
+263,مقهى ابو خالد abu khalid coffee,ChIJbRKHTsS_4z8Rhv0eIVFSBJ4,32.5377587,45.8320394,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","GRQJ+3R9، داموك، الكوت،, Kut",2,1
+264,كوفي النمور,ChIJgUIqa7Gv4z8RuRr__hdhL5s,32.6024094,45.7520985,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","JQ22+XR9, Kut",2,0
+265,كوب كافيه,ChIJXWYSCy654z8R1esYZey9jC8,32.5107938,45.8104285,1.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR66+84X، شارع المغرب، الكوت،, Kut",2,1
+266,Huda cafe,ChIJPVW1k7G44z8Ra4i0tZ5hfnE,32.498322,45.8224981,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","FRXC+8XH, Kut",2,64
+267,دله ابو احمد,ChIJIeo33vO54z8R6K-3plTQH0w,32.5113337,45.8125001,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","17 شارع, Kut",2,0
+268,مقهى شحمايه,ChIJ289YWfO54z8R_6XAZTLTImo,32.5474435,45.8258231,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GRWG+X85, Kut",2,0
+269,مقهى,ChIJ47MSnUG54z8RKfCDV_mJI6w,32.49194670000001,45.8129473,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']","الشارع المحاذي لنهر الدجيل, Kut",2,4
+270,باكو كافيهBakuCafe,ChIJbwoto2O54z8RJnaFdfJaTqo,32.5086233,45.8153504,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']",الهورة، الكوت، كوت هوره,2,35
+271,مقهى الاخوين,ChIJUxk0B6e54z8RKVWOmexaPmI,32.496966,45.8256388,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRWG+Q7J، المشروع، الكوت،, Kut",2,2
+272,مقهى الملكي,ChIJh1hY2OXH4z8R4ic_TvkKtV0,32.477591,45.8160636,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRH8+2CP, Kut",2,3
+273,مقهى السعادة,ChIJA1mnopa54z8RA-GvjXFz0hc,32.4970441,45.8268965,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FRWG+RQ6, Kut",2,0
+274,مقهى,ChIJkxXWDCXB4z8RNbfYTfc-bBM,32.4862566,45.8603729,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","زين القوس شارع الجوبة, Kut",2,0
+275,مقهى أبو خالد,ChIJia6TVF6_4z8REjhNxKIO1Ak,32.5374576,45.8322845,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","GRQJ+2VG، Unnamed Road, Kut",2,8
+276,كافيه البيت العربي,ChIJMQmgDRq54z8R8fP3aHGsU7E,32.5300499,45.8204636,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']",GRHC+X25، الكوت، الكوت شارع داموك,2,4
+277,كوفي شوب العايذي,ChIJpVfdvxG54z8RpJz0c3OWuPQ,32.51529910000001,45.81478389999999,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","GR87+4W7، شارع المغرب، الكوت،, Kut",2,4
+278,كوفي شوب البارون,ChIJDXYH_-K54z8RQUgqmt3alLI,32.4976359,45.8236247,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']",FRXF+3F2، شارع مثلجات فستقه،، شارع كورنيش الكوت، السده،,2,55
+279,SRT Cafe,ChIJn4NYvP254z8RG0XEDMNsrV8,32.512133,45.810412,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR66+V52، شارع المغرب، الكوت،, Kut",2,0
+280,مقهى الأدباء,ChIJxUJYcrK44z8RmX76kHVHKO4,32.4983454,45.8245558,3.6,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","FRXF+8RP, Kut",2,58
+281,Cafe Etap,ChIJBdosW6244z8RFARC_pSJekA,32.4984347,45.827262,3.8,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","FRXG+9WC, Kut",2,343
+282,مقهى ياسر,ChIJ9eF6CG254z8RcKz9su-hZyw,32.4961957,45.810862,4.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","شارع 10،, Kut",2,1
+283,مقهى وبليارد الأنيق,ChIJe8g27d654z8RE0XwUKuCFDc,32.4984054,45.8275611,0.0,"['cafe', 'point_of_interest', 'food', 'establishment']","FRXH+927، شارع المقاهي، الكوت،, Kut",2,0
+284,Alkoogh café كافيه الكوخ,ChIJSTIO27-54z8R1FC2dZ4e_TM,32.5195222,45.8027862,3.9,"['cafe', 'point_of_interest', 'food', 'establishment']","GR93+R42, Kut",2,52
+285,مقهى الروشه,ChIJjaS2na244z8R0fF3O9KCJZ8,32.4975827,45.8254062,3.4,"['cafe', 'point_of_interest', 'food', 'establishment']","FRXG+255, Kut",2,25
+286,Paris cafe,ChIJv9VTHLG44z8RWcgFqOrSUw0,32.4995077,45.8208882,3.8,"['cafe', 'point_of_interest', 'food', 'establishment']","FRXC+R92, Kut",2,60
+287,مقهى الكورنيش,ChIJbwTqbie54z8RVlg94Vgzaac,32.498759,45.82191960000001,3.7,"['cafe', 'point_of_interest', 'food', 'establishment']","FRXC+GQF, Kut",2,23
+288,London cafe,ChIJY6qTlj254z8R5hzYq3uUdto,32.5310084,45.8099094,3.7,"['cafe', 'point_of_interest', 'food', 'establishment']","GRJ5+9XH, Kut",2,59
+289,مقهى ابو حاتم,ChIJDXOaObi_4z8RldYudDAB9jo,32.4978687,45.829044,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","FRXH+4HP, كوت،، الكوت،، الكوت،, Kut",2,0
+290,مقهى علاوي السيد,ChIJfcRnTofH4z8RpQN3guELgbY,32.4805037,45.8218235,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","جسر حي الجهاد، شارع السوق, Kut",2,0
+291,البارون كافي,ChIJz-4yTvS_4z8R0wAU-H_R0j0,32.53156999999999,45.8292161,3.7,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",16/302، الكوت،,2,3
+292,مقهى عباس جبار,ChIJIZUYiK254z8RGplRhn3nTJ8,32.4958541,45.8132123,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",FRW7+7M7 متنزه، الكوت،,2,0
+293,مقهى حفيد جبار الاكرع,ChIJqVFTRdG54z8RyZNQi8MR38E,32.4940391,45.8257777,0.0,"['cafe', 'point_of_interest', 'food', 'establishment']","FRVG+Q73, Kut",2,0
+294,كوفي SA,ChIJY3fP_FK54z8RtmwMqTUiakw,32.516464,45.8061622,4.7,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","GR84+HFJ, Kut",2,3
+295,كوفي شوب دخنچي,ChIJa3Ocawq54z8RJJ1thPxeO0I,32.4962084,45.81422569999999,0.0,"['cafe', 'point_of_interest', 'food', 'establishment']","FRW7+FPR, Kut",2,0
+296,مقهی گنش,ChIJUVY5g2m54z8R5KfXrqFDDKk,32.49885800000001,45.8218725,4.0,"['cafe', 'point_of_interest', 'food', 'establishment']","FRXC+GQF, Kut",2,21
+297,كوفي شوب وحدائق الحجي,ChIJS21z9kC_4z8RHJ-PQiXWmSo,32.4992412,45.8481455,3.4,"['cafe', 'point_of_interest', 'food', 'establishment']","FRXX+M6M, Kut",2,9
+298,كوفي شوب دخنچي,ChIJWYDYZrO54z8RRAh8G9emx6U,32.5164536,45.8160263,0.0,"['cafe', 'point_of_interest', 'food', 'establishment']","GR88+HCJ, Kut",2,0
+299,مقهى الحكيم الرياضي,ChIJTV-EkNO_4z8R3e2mycKSJc4,32.5389042,45.8558818,3.6,"['cafe', 'point_of_interest', 'food', 'establishment']","GVQ4+H96, Kut",2,7
+300,كباب عبد النور,ChIJBX0HIce54z8RskdlcOUJ7UM,32.4982315,45.827646,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRXH+74R, عمارة ابو فواتي، شارع المحافظة، Al, Kut",2,0
+301,مندي الخاجية,ChIJW6F6tlS54z8ReXenh9dd1vA,32.5380672,45.8020143,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","GRQ2+7R2, Kut",2,2
+302,Fayyad Restaurant,ChIJD92dSa244z8RSYD6cWBcNyE,32.4982253,45.8276468,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRXH+73R، شارع المقاهي, Kut",2,43
+303,مطعم ومشويات ياس الكببجي واولادة,ChIJA8iIZyK54z8RctdbAWJvu0E,32.5065684,45.8272925,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR4G+GWW, Kut",2,1
+304,كباب و مشويات الاحمد,ChIJ37qGX3y54z8RJuH1ZnejG6E,32.5326629,45.8238137,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","GRMF+3G8، شارع 15, Kut",2,4
+305,food house,ChIJ6xjZI8654z8RmHV20wKqgOE,32.5073988,45.8174356,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR48+XX3, Kut",2,1
+306,MDOC Mess Hall,ChIJ63hO4gGz4z8R109gi3P-rxI,32.5122679,45.66086139999999,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GM66+J59, Kut",2,0
+307,مطعم كباب الحاج اسكندر,ChIJ46idV6u44z8RbUS5x5npxeQ,32.4944029,45.8276993,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRVH+Q3H, Kut",2,61
+308,Hatabgy حطبچي للاكلات السريعة,ChIJO9I4Pom54z8RUGdMRuccjEE,32.5119066,45.810797,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR66+Q87, Al Kut",2,4
+309,مطعم فتوش / الكوت,ChIJL5YcVwC54z8RbtbVMzZZEjs,32.5300663,45.7866312,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","GQJP+2MC, Kut",2,10
+310,مطعم وكافيه ليفانت,ChIJveLfg8O54z8ROrr8UjTUzns,32.5111169,45.8099697,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR66+F26, Kut",2,82
+311,مشويات سعودي,ChIJ_0taUuy54z8RwWBfEvakogA,32.4968685,45.8236508,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRWF+PFG, Kut",2,2
+312,Ovens and pastries Zahra (AS),ChIJt40KzHK54z8RqQaVk15_7z4,32.5318662,45.7979624,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","GQJX+P5W, Kut",2,9
+313,Cafeteria Alchloba,ChIJbWlxFq244z8ROjtelGAfQX8,32.4973943,45.8267289,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRWG+XM5, Kut",2,7
+314,موكب علي حسين الدراجي,ChIJO_1q04i54z8RP6f5Eju2plM,32.5304236,45.7853632,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GQJP+4CV, Kut",2,0
+315,Sadiq Aljassani Restaurant,ChIJxTmtEK244z8Ri-rRqeJUvbs,32.4969313,45.8265576,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRWG+QJF, Kut",2,286
+316,مطعم السدة,ChIJS5h-uX-54z8RDekkD-V2e28,32.5368715,45.8171852,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","GRP8+PVV، الطشاش /بداية شارع، القاضي, Kut",2,14
+317,Vikniing Burger,ChIJQ0EqBW-54z8RxybmJu2HXXQ,32.5157063,45.8122277,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR86+7VQ, Kut",2,0
+318,فرايد تشكين -Fried Chicken,ChIJD3WN5U254z8RUoy6R4hcrYA,32.5060458,45.8192101,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR49+CM7, Al Horh St, Kut",2,0
+319,Restaurant Ibn Khramit,ChIJW1jXp9244z8RPhnkmaKyHqI,32.512378,45.8107064,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","تقاطع الهورة كفاءات، شارع المغرب, Kut",2,1711
+320,Home restaurant,ChIJbUZqtVK_4z8RG8owPZCWsCk,32.4984237,45.8281041,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRXH+969, Kut",2,25
+321,مأكولات الكوخ,ChIJf6mtLcy54z8RduNYedp4wE8,32.5093456,45.8145716,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR57+PRW, Kut",2,2
+322,مطعم اللؤلؤة,ChIJXcBaFkC54z8R_EQ4HsrWNXQ,32.5398155,45.823998,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRQF+XHQ, Kut",2,1
+323,مطعم تارو - Taro Rest,ChIJc0ybEu-54z8RTh8vOdeKXG4,32.5142334,45.8129266,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR77+M5V، شارع المغرب, Kut",2,5
+324,COPD Restaurant,ChIJMcjrxLC44z8RIJKXXfLFwNs,32.4999277,45.8205671,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRXC+W5C, Kut",2,288
+325,مطعم زيتونة,ChIJHYnS7A_B4z8R2A0PBuysVSE,32.4832929,45.8390732,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRMQ+7MR, Kut",2,0
+326,هوت بركر Hot burger,ChIJQQn9o8a54z8RuJq9QafWId8,32.5104385,45.8102445,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR66+53H، كوت،, Kut",2,3
+327,ماكولات عبوسي التركي,ChIJxde-6Cm54z8RAbOS5aRmjnY,32.4988315,45.8178377,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Kut Barrage, Kut",2,0
+328,مأكولات أبو حوري,ChIJ6183lku54z8RcvTF_JYSo94,32.4882191,45.8198823,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FRQ9+7WQ، FRQ9+9XR، الكوت،،، الكوت،,2,0
+329,tenafood,ChIJcWJrRre54z8RYpsV0gq00bo,32.53693760000001,45.8246714,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",داموك 200، الكوت،,2,0
+330,كباب ومشويات الاحمد,ChIJnftWcwu54z8RokhqgVQTmp8,32.5279042,45.8057946,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",GRH4+584، الكوت،,2,47
+331,مطعم بركات الجوادين,ChIJxyequy-z4z8RbBF_heNfqh8,32.5142135,45.611206,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GJ76+MFM، Unnamed Road, Al Husayniyah",2,6
+332,واسط,ChIJD8Vw-wKv4z8RGfGotPKNWbE,32.6024094,45.7520985,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",JQ22+XR9,2,0
+333,مطعم زهرة لبنان,ChIJO5C5Bnm54z8RGISyRgE7Opg,32.5156513,45.8077584,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR85+739, Kut",2,50
+334,مطعم بيت المندي,ChIJz1-RimW54z8R4g6oAmtGMA8,32.5053439,45.822637,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR4F+43J, Kut",2,91
+335,Student Restaurant,ChIJ1fL4NFm_4z8RA7q7zi2Ukcs,32.4997782,45.8421973,3.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRXR+WR4, Kut",2,15
+336,Vikings Burger,ChIJ0b4t4Ye54z8RDyteEGeeIMg,32.5155269,45.81433740000001,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",GR87+6P8، الكوت،,2,54
+337,برگر city,ChIJpenorJK54z8R3asDluKRD0E,32.533313,45.8028985,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","مركز صحي, Kut",2,13
+338,الشيف,ChIJZdQscue54z8R3-06qiiEMRE,32.5266942,45.81113,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRG6+MFC، Unnamed Road, Kut",2,14
+339,زاد الكوت,ChIJ6X6ph8C_4z8RK4ZmXeppBAM,32.5428309,45.82891499999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRVH+3J2, Kut",2,0
+340,كباب ابو علي,ChIJld-Ur4y54z8RGCqNhh0iWTk,32.5117384,45.8117638,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","17 شارع, Kut",2,0
+341,كافتيريا,ChIJeZ-aVTDB4z8RSSU1YjWNQmA,32.4511084,45.8963015,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","الجامعة التقنية الوسطى واسط, Abd Al Kazim Musa",2,0
+342,فلافل مازن,ChIJCzqFlL654z8RSu1GQtRpRD0,32.5116744,45.8098353,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR65+MW8, Maghreb St, Kut",2,1
+343,مطعم عباس كبابي,ChIJP2WnPRG_4z8RxTXWG7jfp_0,32.5264788,45.8840067,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GVGM+HJV، الكوت،,2,0
+344,مزاج,ChIJRwr7Zia54z8R1hRQvC-E2Tw,32.5155277,45.81590749999999,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR88+6C2، شارع المغرب, Kut",2,1
+345,مطعم أبو سيف,ChIJ_5VA7sm54z8RG3_kqO9Am60,32.53388,45.7992429,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQMX+HM5، Unnamed Road, Kut",2,2
+346,سموك ڤالي | Smoke Valley,ChIJH-yax3654z8RMwQcDfJ7YqQ,32.5119302,45.8109094,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR66+Q9J, Kut",2,0
+347,مطعم المذاق,ChIJUQs_MBu54z8RS80H2RicfWY,32.5206537,45.810787,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRC6+787، شارع الكراج, Kut",2,0
+348,ماكولات سديه,ChIJD2LDJ4K54z8Rkt_gtJE7jLk,32.5356289,45.8047322,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRP3+7V4, Kut",2,0
+349,مشاوي البدوي,ChIJ9bHwqSu54z8RGoG9LWj2K3s,32.5153719,45.814872,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GR87+4XJ، شارع المغرب،، الكوت،,2,1
+350,Light moon pizza,ChIJoV4ocd244z8R3d3t3UG6UIo,32.5115771,45.80972490000001,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR65+JWC, Kut",2,154
+351,مطعم AROMA PIZZA,ChIJecWdhCO_4z8RZGjq5AVxHOM,32.5061156,45.8286005,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","Tammoz Square, قرب Al-Naseej Street, Kut",2,183
+352,مطعم رياض,ChIJ6878kSa54z8RF0aV5mEAxIc,32.5517894,45.8064598,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","HR24+PH8, Kut",2,7
+353,ایت اند گو - Eat & Go,ChIJ0QP5ax-54z8RlKfziMRnA8s,32.5253575,45.78936110000001,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","منتجع المدينه المائية في حي الخليج، 1 شارع المفتاح, Kut",2,5
+354,همبركر ابن هويدي,ChIJ6cBwJCq_4z8R3Qr7mgDBuYE,32.5120037,45.8581084,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",GV65+W78، الكوت،,2,5
+355,مطعم حبايبنا,ChIJMewc9ly54z8RhEUSKXo1gRk,32.4974238,45.82540239999999,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRWG+X5F، المشروع، كوت،, Kut",2,75
+356,مطعم الرسول 2,ChIJWZAGnn-54z8Ri-1fk2ppV1U,32.5208699,45.8188268,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRC9+8GW، Unnamed Road, Kut",2,79
+357,ملك المندي,ChIJfV19SFmv4z8RYCSZObEPEG0,32.6024094,45.7520985,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JQ22+XR9, Kut",2,0
+358,مطعم زيت و زعتر,ChIJXYXJcQi74z8RXRhzxilimLc,32.6018671,45.8117508,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JR26+PPR، شارع الصيدلية, واسط واسط",2,0
+359,مأكولات دار دور,ChIJxVJlvVK54z8RKpaaZ1l6qkA,32.5164541,45.8160257,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR88+HCJ, Kut",2,1
+360,مشويات سعودي,ChIJ_0taUuy54z8RwWBfEvakogA,32.4968685,45.8236508,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRWF+PFG, Kut",2,2
+361,مطعم ومشويات جبوري,ChIJq6qqqmq_4z8ReMFUvEcWYTk,32.5168459,45.84696100000001,4.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR8W+PQP، كوت، العراق شارع اعداية، كوت،, Kut",2,12
+362,مطعم السدة,ChIJS5h-uX-54z8RDekkD-V2e28,32.5368715,45.8171852,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","GRP8+PVV، الطشاش /بداية شارع، القاضي, Kut",2,14
+363,مطعم جبوري,ChIJJRpb7Z254z8RI3eNg7_WLnM,32.5069405,45.8248071,4.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR4F+QWF, Kut",2,248
+364,مطعم بيت المندي,ChIJz1-RimW54z8R4g6oAmtGMA8,32.5053439,45.822637,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR4F+43J, Kut",2,91
+365,كباب ومشويات الاحمد,ChIJnftWcwu54z8RokhqgVQTmp8,32.5279042,45.8057946,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']",GRH4+584، الكوت،,2,47
+366,مطعم رياض,ChIJ6878kSa54z8RF0aV5mEAxIc,32.5517894,45.8064598,4.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","HR24+PH8, Kut",2,7
+367,مطعم كباب الحاج اسكندر,ChIJ46idV6u44z8RbUS5x5npxeQ,32.4944029,45.8276993,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRVH+Q3H, Kut",2,61
+368,مطعم AROMA PIZZA,ChIJecWdhCO_4z8RZGjq5AVxHOM,32.5061156,45.8286005,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","Tammoz Square, قرب Al-Naseej Street, Kut",2,183
+369,مطعم ابن السمين,ChIJ82Sab2C54z8REkib5EAed78,32.5240025,45.8150376,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","GRF8+J23, Kut",2,6
+370,مطعم حبايبنا,ChIJMewc9ly54z8RhEUSKXo1gRk,32.4974238,45.82540239999999,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRWG+X5F، المشروع، كوت،, Kut",2,75
+371,COPD Restaurant,ChIJMcjrxLC44z8RIJKXXfLFwNs,32.4999277,45.8205671,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRXC+W5C, Kut",2,288
+372,مطعم انوار واسط,ChIJHVWtOa244z8RVOQ6uPWscf0,32.4977887,45.8272684,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRXG+4W6, Kut",2,39
+373,Sadiq Aljassani Restaurant,ChIJxTmtEK244z8Ri-rRqeJUvbs,32.4969313,45.8265576,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRWG+QJF, Kut",2,286
+374,Restaurant Ibn Khramit,ChIJW1jXp9244z8RPhnkmaKyHqI,32.512378,45.8107064,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","تقاطع الهورة كفاءات، شارع المغرب, Kut",2,1711
+375,مطعم خيرات واسط للأكلات السريعة,ChIJKxqQ1JG54z8RZg0QjZuLCv0,32.501163,45.8258971,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR2G+F96، العباسية،, Kut",2,22
+376,كباب عبد النور,ChIJBX0HIce54z8RskdlcOUJ7UM,32.4982315,45.827646,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRXH+74R, عمارة ابو فواتي، شارع المحافظة، Al, Kut",2,0
+377,مطعم الرسول 2,ChIJWZAGnn-54z8Ri-1fk2ppV1U,32.5208699,45.8188268,3.4,"['restaurant', 'point_of_interest', 'food', 'establishment']","GRC9+8GW، Unnamed Road, Kut",2,79
+378,مطعم جوهرة واسط,ChIJxzGjWgqt4z8RY97-8RIKSOE,32.5722862,45.6367752,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']",6,2,291
+379,مطعم أبو سيف,ChIJ_5VA7sm54z8RG3_kqO9Am60,32.53388,45.7992429,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","GQMX+HM5، Unnamed Road, Kut",2,2
+380,مطعم حسان السياحي,ChIJVwL1_qiw4z8RZ04CR5Be8wY,32.5354788,45.7495148,3.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","GPPX+5RR, Kut",2,37
+381,مطعم الرسول,ChIJl0SLgde44z8RjDU8gxWSkTA,32.5206133,45.8182751,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRC9+689, Al-Zaharaa ST, Kut",2,1119
+382,كباب و مشويات الاحمد,ChIJ37qGX3y54z8RJuH1ZnejG6E,32.5326629,45.8238137,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRMF+3G8، شارع 15, Kut",2,4
+383,مطعم وكافيه ليفانت,ChIJveLfg8O54z8ROrr8UjTUzns,32.5111169,45.8099697,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR66+F26, Kut",2,82
+384,مطعم أبو رائد,ChIJA-0S-ya54z8RVSEC7iez3BA,32.5302557,45.7970824,2.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQJW+4R4، Unnamed Road, Kut",2,9
+385,مطعم السلطان للأكلات الشرقية والغربية,ChIJr-SNGsO54z8R1uMktba_XWE,32.506632,45.8271453,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR4G+MV6, 7, Kut",2,0
+386,Home restaurant,ChIJbUZqtVK_4z8RG8owPZCWsCk,32.4984237,45.8281041,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRXH+969, Kut",2,25
+387,Fayyad Restaurant,ChIJD92dSa244z8RSYD6cWBcNyE,32.4982253,45.8276468,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRXH+73R، شارع المقاهي, Kut",2,43
+388,مطعم تايم سكوير الخاچيه,ChIJgwSce9y54z8RBqZ1h3ZP4zE,32.530369,45.79792399999999,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GQJX+45V، الكوت،,2,3
+389,مطعم Hk Berker,ChIJ678oWEO54z8RgQDAv3E4l4M,32.5092488,45.81479410000001,2.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",17 شارع الهورة، الكوت،,2,7
+390,Abo sara’s BBQ restaurant,ChIJjehBNWe54z8RZZDEg3fDPjk,32.5066598,45.8239788,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR4F+MH9, Kut",2,2
+391,مندي الخاجية,ChIJW6F6tlS54z8ReXenh9dd1vA,32.5380672,45.8020143,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRQ2+7R2, Kut",2,2
+392,Light moon pizza,ChIJoV4ocd244z8R3d3t3UG6UIo,32.5115771,45.80972490000001,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR65+JWC, Kut",2,154
+393,مأكولات فارس حساني 2,ChIJd6gM3OK54z8RUkVaNP37m5g,32.5078726,45.8257939,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR5G+48V, Kut",2,26
+394,مطعم تارو - Taro Rest,ChIJc0ybEu-54z8RTh8vOdeKXG4,32.5142334,45.8129266,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR77+M5V، شارع المغرب, Kut",2,5
+395,مطعم بركات الجوادين,ChIJxyequy-z4z8RbBF_heNfqh8,32.5142135,45.611206,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GJ76+MFM، Unnamed Road, Al Husayniyah",2,6
+396,مطعم باجه الفيصلي,ChIJF2sb9Ve54z8RGphhNoIJCLQ,32.4972124,45.8268549,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRWG+VPQ، سوق الكوت الكبير، الكوت،،, Kut",2,3
+397,كافتريا حسون ابو العمبه,ChIJEVwtKoa54z8RYWL5pSXqk44,32.523229,45.8159793,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",GRF8+79X، الكوت، حي الزهراء,2,76
+398,مشويات ومخللات الجوراني,ChIJheKATAi_4z8RRcm3LPEsbzI,32.5063261,45.8310494,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR4J+GCM، 40/114 شارع تموز, Kut",2,0
+399,مطعم ومشويات ياس الكببجي واولادة,ChIJA8iIZyK54z8RctdbAWJvu0E,32.5065684,45.8272925,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR4G+GWW, Kut",2,1
+400,مطعم البلام,ChIJCxuh9rWz4z8RtWc4ECne-7A,32.5197961,45.6086292,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","GJ95+WF6، طريق الحسنينة - الكوت،, Al Husayniyah",2,16
+401,مطعم بيت الكرم,ChIJMww6XaK54z8RTRdY-cwA0KE,32.527829,45.8056475,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRH4+47V، Unnamed Road, Kut",2,2
+402,كافتريا فلاح القريشي,ChIJqdM1jUfH4z8RTTjivxjvlN4,32.4755064,45.8184173,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRG9+693، شارع الكراج،, Kut",2,1
+403,مشاوي البدوي,ChIJ9bHwqSu54z8RGoG9LWj2K3s,32.5153719,45.814872,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GR87+4XJ، شارع المغرب،، الكوت،,2,1
+404,مطعم سيف الكرار للمشويات بأدارة اسعد,ChIJ1RqejNG54z8RJ_Bm7S0jzYw,32.4968627,45.8236415,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRWF+PFM، شارع كورنيش الكوت, Kut",2,3
+405,كفتريه ابوشهد,ChIJ-2s8CWev4z8RTKPXl5d5X8M,32.6024094,45.7520985,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JQ22+XR9، واسط محافظة،, Kut",2,0
+406,محمد سالم _للوجبات السريعة,ChIJk0ERm4y54z8Rr7bnfswgaJE,32.535862,45.7956497,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQPW+87R، كوت،, Kut",2,0
+407,مأكولات دار دور,ChIJxVJlvVK54z8RKpaaZ1l6qkA,32.5164541,45.8160257,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR88+HCJ, Kut",2,1
+408,مطعم بيت المندي,ChIJ1RRmlHi54z8RpqXNg7HIpkc,32.5123427,45.8116871,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR66+WMW، مجمع كرستال، تقاطع الهورة كفاءات،, Kut",2,79
+409,مطعم اللؤلؤة,ChIJXcBaFkC54z8R_EQ4HsrWNXQ,32.5398155,45.823998,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRQF+XHQ, Kut",2,1
+410,مطعم زيتونة,ChIJHYnS7A_B4z8R2A0PBuysVSE,32.4832929,45.8390732,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRMQ+7MR, Kut",2,0
+411,مشويات ليالي دجله,ChIJvyzw-Ua54z8R5ow3rrnkFk8,32.4987289,45.82194639999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",1 شارع الكورنيش، الكوت،,2,0
+412,مطعم عبدالله السياحي,ChIJMb_S1p-v4z8RE3eQt9icZqQ,32.6024094,45.7520985,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","JQ22+XR9, Kut",2,8
+413,مطعم عبود بيتزا abod pizza,ChIJsTeYjXm54z8RekL5ZZdbb-s,32.5291995,45.80736460000001,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",تقاطع ابو علي الكهربائي شارع الزهراء الكوت حي الزهراء,2,10
+414,مأكولات الكوخ,ChIJf6mtLcy54z8RduNYedp4wE8,32.5093456,45.8145716,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR57+PRW, Kut",2,2
+415,Hatabgy حطبچي للاكلات السريعة,ChIJO9I4Pom54z8RUGdMRuccjEE,32.5119066,45.810797,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR66+Q87, Al Kut",2,4
+416,مطعم كباب السلطان,ChIJC5jtL9W54z8RrG5M1VNytgk,32.5333144,45.8235803,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع 15، الكوت،,2,4
+417,مطعم كباب الاحمد 2,ChIJq94YeI654z8RzKdjq3Pu1vs,32.5250115,45.8254834,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",17 شارع دور العمال، الكوت،,2,34
+418,مطعم المذاق,ChIJUQs_MBu54z8RS80H2RicfWY,32.5206537,45.810787,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRC6+787، شارع الكراج, Kut",2,0
+419,مطعم ابو وردة,ChIJLxKAZpe54z8RA7rnDLEkoKI,32.53992780000001,45.8248717,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRQF+XX2, Kut",2,1
+420,مأكولات شهاب,ChIJ_TPwDi654z8RiLLJ6ORW3l4,32.4970237,45.82558179999999,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FRWG+R69، شارع 6،،، الكوت،,2,1
+421,مأكولات الكرار,ChIJQceB53-_4z8RriEsXTo0no8,32.5366088,45.8300755,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRPJ+J2Q, Kut",2,3
+422,ماكولات جوز و لوز (عباس العتبي),ChIJo0ofCLfH4z8RHOscMmnvhSQ,32.4777303,45.8199792,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRH9+3XX, Kut",2,1
+423,مأكولات مستر سلطع,ChIJkxODmEPH4z8R3_PecqsoAPY,32.4775613,45.8198629,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FRH9+3XX، الكوت،,2,6
+424,مطعم المذاق,ChIJUQs_MBu54z8RS80H2RicfWY,32.5206537,45.810787,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRC6+787، شارع الكراج, Kut",2,0
+425,ماكولات سديه,ChIJD2LDJ4K54z8Rkt_gtJE7jLk,32.5356289,45.8047322,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRP3+7V4, Kut",2,0
+426,ماكولات السوسن المميزة,ChIJAR3nQnC54z8RwoJtJ3rgMUg,32.4975359,45.8229956,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع 6،، الكوت،,2,13
+427,مأكولات فارس,ChIJeckGewy54z8Ruxv420coKDc,32.4973365,45.8253144,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRWG+W4P، المشروع، كوت،، الكوت،, Kut",2,3
+428,اسواق ومأكولات العتابي,ChIJuWcZcS2_4z8RZuqPSCYZp7w,32.517049,45.8597394,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GV85+MFQ، الكوت،, Al Kut",2,8
+429,مأكولات الكوخ,ChIJf6mtLcy54z8RduNYedp4wE8,32.5093456,45.8145716,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR57+PRW, Kut",2,2
+430,مأكولات ماشاء الله,ChIJtXsO6pO54z8RVdMH1EG6NCE,32.5078635,45.81326079999999,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR57+583، دور المعلمين، الكوت،, Kut",2,1
+431,ماكولات ماهر الشمالي,ChIJ8bdF8kS54z8RRQPlscnMH9Q,32.508132,45.8167231,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR58+7M5, Al Horh St, Kut",2,4
+432,مأكولات فارس حساني 2,ChIJd6gM3OK54z8RUkVaNP37m5g,32.5078726,45.8257939,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR5G+48V, Kut",2,26
+433,مأكولات دار دور,ChIJxVJlvVK54z8RKpaaZ1l6qkA,32.5164541,45.8160257,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR88+HCJ, Kut",2,1
+434,مأكولات أبو حوري,ChIJ6183lku54z8RcvTF_JYSo94,32.4882191,45.8198823,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FRQ9+7WQ، FRQ9+9XR، الكوت،،، الكوت،,2,0
+435,فلافل ابن جاني,ChIJhVtZnZO54z8RxM8yz1klD-w,32.4992503,45.8238287,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FRXF+PG4، كوت،,2,2
+436,محمد أبو الشربت,ChIJJVHaKvG54z8RH6cbQpAgsw8,32.515517,45.8158249,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","فلكة العمارة, Kut",2,1
+437,مطعم و ماكولات علي شاكر,ChIJsckhR9ez4z8Rpmq7OckhyJI,32.5214661,45.6057995,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",طريق الحسنينة - الكوت، الحسينية،، GJC4+J6M، الحسينية،,2,1
+438,فلافل مازن,ChIJCzqFlL654z8RSu1GQtRpRD0,32.5116744,45.8098353,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR65+MW8, Maghreb St, Kut",2,1
+439,يم يم 2,ChIJVbbEWcPB4z8RI1aY0Ka8Vm0,32.4856064,45.84094899999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRPR+69W, Kut",2,2
+440,مأكولات عمو عباس,ChIJKRZNryq_4z8R901_nWwB3iI,32.5074624,45.8447483,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GR4V+XVQ، الكوت،,2,0
+441,مطعم اللؤلؤة,ChIJXcBaFkC54z8R_EQ4HsrWNXQ,32.5398155,45.823998,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRQF+XHQ, Kut",2,1
+442,كافترية حيدر الزبيدي,ChIJPwF_ZE-z4z8Ryy5DmvJc3zY,32.5212037,45.6043979,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GJC3+FQJ، طريق الحسنينة - الكوت، الحسينية،, Al Husayniyah",2,0
+443,مطعم زيتونة,ChIJHYnS7A_B4z8R2A0PBuysVSE,32.4832929,45.8390732,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRMQ+7MR, Kut",2,0
+444,مطعم دكتور سناك بركر,ChIJE7uJ9oK54z8RDGyzf8lJxOE,32.5308815,45.7981121,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",GQJX+965، GQJX+837، الكوت،،، الكوت،,2,3
+445,Mr potato,ChIJ4VpLiUi_4z8RILo8k7_0VmE,32.49894440000001,45.8405988,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FRXR+J6M، الكوت،,2,2
+446,Mandi Sanaa Kut Branch,ChIJid8vHVS54z8RkPpBotvzY4A,32.5079795,45.8161475,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR58+5FR, Kut",2,16
+447,فلافل حساني,ChIJefez_J254z8Rq4c5nUahyVY,32.5210717,45.81877619999999,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع الزهراء, Kut",2,1
+448,اسماك ابو شهد,ChIJiSyoC4O_4z8RHAjMym8N8OQ,32.5087418,45.83184199999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR5J+FPW، شارع ١٤ تموز, Kut",2,0
+449,مطعم كرار,ChIJXR3oiLm_4z8R8cTmt9Cny1s,32.536627,45.8301312,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRPJ+M32, Kut",2,38
+450,مطعم ومشويات ياس الكببجي واولادة,ChIJA8iIZyK54z8RctdbAWJvu0E,32.5065684,45.8272925,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR4G+GWW, Kut",2,1
+451,تك توك للأكلات السريعة,ChIJeVYI2_C54z8R_oGcqQ4tlso,32.4968187,45.81474009999999,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","13/218، الكوت،، الكوت،،, Kut",2,24
+452,فلافل وماكولات حيدر,ChIJJ4WmUKW54z8ROxtrA7r0cuE,32.5174126,45.8050255,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR83+XX5, Kut",2,118
+453,فلافل لبنان,ChIJl8s1rb-54z8RSvEphF4eMA0,32.512161,45.8113049,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR66+VG7, Kut",2,9
+454,فلافل AZ(عجين الفلافل +طرشي بانواعه),ChIJwzPY7Y7H4z8Rc7qYeT_RWG8,32.474591,45.8156048,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الجهاد،، الحي،,2,1
+455,مشويات ابو وهج,ChIJI5tyfpG_4z8RHt3SazeSfAU,32.5172089,45.8386623,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GR8Q+RCJ، الكوت،,2,1
+456,بتيته سلك بالدهن الحر,ChIJnxvM71y54z8RWRDcT-6MXTo,32.5240974,45.8223207,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRFC+JWP، 36/303, Kut",2,0
+457,مطعم رياض,ChIJ6878kSa54z8RF0aV5mEAxIc,32.5517894,45.8064598,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","HR24+PH8, Kut",2,7
+458,بوابه وطريق الترابي للامام المحسن ع,ChIJ2wkR6Rvr4z8RZvye2NPxMio,32.4910966,45.9640121,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FXR7+CJJ، دجيلي,2,1
+459,برگر city,ChIJpenorJK54z8R3asDluKRD0E,32.533313,45.8028985,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","مركز صحي, Kut",2,13
+460,مطعم Hk Berker,ChIJ678oWEO54z8RgQDAv3E4l4M,32.5092488,45.81479410000001,2.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",17 شارع الهورة، الكوت،,2,7
+461,موكب ابو سجاد الدبي,ChIJZ-HKnM-V4z8RTmM6Qw2mULw,32.6020611,45.9558031,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",JX24+R8، الكوت،,2,0
+462,مطعم حبايبنا,ChIJMewc9ly54z8RhEUSKXo1gRk,32.4974238,45.82540239999999,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRWG+X5F، المشروع، كوت،, Kut",2,75
+463,سجاد محمد الدلفي,ChIJ6xsixdnp4z8RvTX6no1nhRs,32.4491729,45.9675489,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",CXX9+M27، جسر الدجيلي، الكوت،،، دجيلي,2,0
+464,دكتور سناك,ChIJvachBz-54z8RApcNCK7AyFk,32.5296149,45.7959272,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GQHW+V98، الكوت،,2,1
+465,مطعم ابن السمين,ChIJ82Sab2C54z8REkib5EAed78,32.5240025,45.8150376,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRF8+J23, Kut",2,6
+466,ماكولات عبوسي التركي,ChIJxde-6Cm54z8RAbOS5aRmjnY,32.4988315,45.8178377,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Kut Barrage, Kut",2,0
+467,هوت بركر Hot burger,ChIJQQn9o8a54z8RuJq9QafWId8,32.5104385,45.8102445,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR66+53H، كوت،, Kut",2,3
+468,مشويات الكوثر,ChIJO5wKFw-54z8RxSs6xeRQVrE,32.5190319,45.8015207,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR92+HHX، كوت، الكوت،, Kut",2,0
+469,food house,ChIJ6xjZI8654z8RmHV20wKqgOE,32.5073988,45.8174356,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR48+XX3, Kut",2,1
+470,مطعم عبد الواحد العزاوي,ChIJFVWdwDfH4z8R3VBj_JvMwWg,32.4843109,45.8229329,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FRMF+J5F، الكوت،,2,1
+471,tenafood,ChIJcWJrRre54z8RYpsV0gq00bo,32.53693760000001,45.8246714,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",داموك 200، الكوت،,2,0
+472,مطعم أبو سيف,ChIJ_5VA7sm54z8RG3_kqO9Am60,32.53388,45.7992429,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQMX+HM5، Unnamed Road, Kut",2,2
+473,Hatabgy حطبچي للاكلات السريعة,ChIJO9I4Pom54z8RUGdMRuccjEE,32.5119066,45.810797,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR66+Q87, Al Kut",2,4
+474,واسط,ChIJD8Vw-wKv4z8RGfGotPKNWbE,32.6024094,45.7520985,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",JQ22+XR9,2,0
+475,استراحه بغداد,ChIJO-x6YlGx4z8RvDizqf5tU7k,32.539309,45.73632509999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GPQP+PGX, Kut",2,0
+476,همبركر ابن هويدي,ChIJ6cBwJCq_4z8R3Qr7mgDBuYE,32.5120037,45.8581084,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",GV65+W78، الكوت،,2,5
+477,مطعم الذوق السليم,ChIJe29xn6244z8R2HvRSi0OkY4,32.4971756,45.8253322,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRWG+V4G, Kut",2,68
+478,Vikings Burger,ChIJ0b4t4Ye54z8RDyteEGeeIMg,32.5155269,45.81433740000001,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",GR87+6P8، الكوت،,2,54
+479,مطعم ركن الاوائل,ChIJaWD2LlO_4z8Rq1lOuNCNVLg,32.4986692,45.8281916,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","11 شارع الحرية،, Kut",2,0
+480,كوفي شوب كوستا costa coffee,ChIJxSQ-evOz4z8RWPE7DuvncVU,32.5191532,45.6089875,4.8,"['cafe', 'food', 'point_of_interest', 'establishment']","GJ95+MH9, Al Husayniyah",2,11
+481,كافيه مود | MOOD CAFE,ChIJMZTM7_G54z8R-4s8loQiN2c,32.5303577,45.7860535,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","GQJP+4CV, Kut",2,4
+482,حكاية كافيه,ChIJsX4kJDe54z8RYh5g_FgjVLo,32.5315998,45.8063187,3.3,"['cafe', 'food', 'point_of_interest', 'establishment']","GRJ4+HG3, حي الزهراء قرب تقاطع هكوري الكوت قرب تقاطع هكوري، الكوت،،",2,6
+483,Alkoogh café كافيه الكوخ,ChIJSTIO27-54z8R1FC2dZ4e_TM,32.5195222,45.8027862,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","GR93+R42, Kut",2,52
+484,مقهى الكورنيش,ChIJbwTqbie54z8RVlg94Vgzaac,32.498759,45.82191960000001,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']","FRXC+GQF, Kut",2,23
+485,Coffee Friends,ChIJMzG5dLK44z8Ruv3X63wFPB4,32.4981366,45.8244068,3.6,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FRXF+7Q3, Kut",2,71
+486,كوفي شوب دخنچي,ChIJWYDYZrO54z8RRAh8G9emx6U,32.5164536,45.8160263,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR88+HCJ, Kut",2,0
+487,London cafe,ChIJY6qTlj254z8R5hzYq3uUdto,32.5310084,45.8099094,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']","GRJ5+9XH, Kut",2,59
+488,ليالي دجله كافيه,ChIJef77pJ-54z8RyhT9_MS1BfA,32.4993609,45.8212294,4.1,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","1 شارع الكورنيش،, Kut",2,12
+489,كوفي شوب دخنچي,ChIJa3Ocawq54z8RJJ1thPxeO0I,32.4962084,45.81422569999999,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRW7+FPR, Kut",2,0
+490,مقهى ياسر,ChIJ9eF6CG254z8RcKz9su-hZyw,32.4961957,45.810862,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","شارع 10،, Kut",2,1
+491,Brothers cafe the four,ChIJJUQmDo6t4z8R4UNxR-nI1Xo,32.5664767,45.6521171,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']",HM82+HRX، بتار,2,28
+492,شاي ابو علي,ChIJo8623yK54z8R_QuUBbTo3Tw,32.4968627,45.8236414,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRWF+PFM، شارع كورنيش الكوت, Kut",2,0
+493,كوفي شوب الباشا,ChIJO7bLJGnH4z8RmH5T9Hjv8OQ,32.4732855,45.8148651,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","FRF7+8X3, Kut",2,6
+494,كوفي شوب بيانو _ Paino Cafe,ChIJLd0aDEi54z8RyHFZm_rXr2g,32.5121829,45.8104714,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","شارع المغرب، الكوت، الكوت / تقاطع الهورة _ كفاءات, Kut",2,7
+495,Damas Cafe,ChIJc6sUmU654z8ROkvaurjb2UQ,32.5276815,45.8108211,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","GRH6+38G, Kut",2,15
+496,Cafe Etap,ChIJBdosW6244z8RFARC_pSJekA,32.4984347,45.827262,3.8,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FRXG+9WC, Kut",2,343
+497,كوفي سماور,ChIJx8UKpR2_4z8R-6Xarw52ejo,32.530423,45.8299781,2.5,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","GRJJ+92X, Kut",2,2
+498,كوفي شوب البارون,ChIJDXYH_-K54z8RQUgqmt3alLI,32.4976359,45.8236247,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']",FRXF+3F2، شارع مثلجات فستقه،، شارع كورنيش الكوت، السده،,2,55
+499,Sultan Cafe,ChIJL6lzYUTH4z8RE0DMG6wXdsg,32.4728344,45.8146894,3.2,"['cafe', 'food', 'point_of_interest', 'establishment']","FRF7+4VP, Al Kut",2,26
+500,Samra cafe - سمرة كافيـــه,ChIJ6aEKW9254z8ROHljh-g0Iig,32.50931870000001,45.8153197,4.7,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","GR57+QXX, Kut",2,3
+501,البارون كافي,ChIJz-4yTvS_4z8R0wAU-H_R0j0,32.53156999999999,45.8292161,3.7,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",16/302، الكوت،,2,3
+502,Poets Cafe Wasit,ChIJgbp87bG44z8RsP_vhMSdQFU,32.4980194,45.82264809999999,3.6,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FRXF+62H, Kut",2,162
+503,كوفي SA,ChIJY3fP_FK54z8RtmwMqTUiakw,32.516464,45.8061622,4.7,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","GR84+HFJ, Kut",2,3
+504,كوفي كناري,ChIJgydxRcOz4z8R796lQaEyG5s,32.5230331,45.6041984,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","GJF3+6M8، طريق الحسنينة - الكوت، الحسينية،, Al Husayniyah",2,7
+505,القهونجي,ChIJebhCSaa54z8Rat0MmPvLWCM,32.5220226,45.8169646,3.6,"['cafe', 'food', 'point_of_interest', 'establishment']","GRC8+QQV, Kut",2,8
+506,مقهى الكلاسكو,ChIJTeRxWZbH4z8ROLnju_dUpcs,32.4726124,45.816215,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRF8+3F3, Kut",2,3
+507,كوفي شوب السكوندي,ChIJy2ycjA6v4z8RFhr2Ora9Lbg,32.6024094,45.7520985,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",شارع النفط,2,0
+508,Huda cafe,ChIJPVW1k7G44z8Ra4i0tZ5hfnE,32.498322,45.8224981,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","FRXC+8XH, Kut",2,64
+509,مقهى الروشه,ChIJjaS2na244z8R0fF3O9KCJZ8,32.4975827,45.8254062,3.4,"['cafe', 'food', 'point_of_interest', 'establishment']","FRXG+255, Kut",2,25
+510,شاي السيد,ChIJLVwlpLm54z8Rdsb-tb1lugU,32.4970691,45.8263166,4.4,"['cafe', 'food', 'point_of_interest', 'establishment']","FRWG+RGG, Kut",2,5
+511,مقهى حنانيش,ChIJeQnbRKTH4z8RR0Na7KmxcRI,32.4769473,45.8191965,3.2,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","شارع الكراج, Kut",2,5
+512,مقهى ابو حاتم,ChIJDXOaObi_4z8RldYudDAB9jo,32.4978687,45.829044,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FRXH+4HP, كوت،، الكوت،، الكوت،, Kut",2,0
+513,Coffee shop Azzouz,ChIJk6YteXK54z8R1d1tXSL8IXI,32.5347696,45.7994542,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']","شارع ٤٠, Kut",2,76
+514,SRT Cafe,ChIJn4NYvP254z8RG0XEDMNsrV8,32.512133,45.810412,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR66+V52، شارع المغرب، الكوت،, Kut",2,0
+515,باكو كافيهBakuCafe,ChIJbwoto2O54z8RJnaFdfJaTqo,32.5086233,45.8153504,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']",الهورة، الكوت، كوت هوره,2,35
+516,مقهى كوف كافيه,ChIJPVdVXAW54z8RFwL-FSyAX8Y,32.5108017,45.8102805,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR66+84F، شارع المغرب، الكوت،، الكوت،, Kut",2,1
+517,Meridian cafe,ChIJqbdZGye54z8RcXftfco02G0,32.5232039,45.81550740000001,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']","GRF8+75H, Al-Zaharaa ST, Kut",2,33
+518,كوفي شوب العايذي,ChIJpVfdvxG54z8RpJz0c3OWuPQ,32.51529910000001,45.81478389999999,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","GR87+4W7، شارع المغرب، الكوت،, Kut",2,4
+519,3D Hasson,ChIJR3BJoq244z8RDg99ZsCsP-8,32.49687979999999,45.8252702,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","FRWG+Q42، شارع 6, Kut",2,10
+520,كوفي شوب وحدائق الحجي,ChIJS21z9kC_4z8RHJ-PQiXWmSo,32.4992412,45.8481455,3.4,"['cafe', 'food', 'point_of_interest', 'establishment']","FRXX+M6M, Kut",2,9
+521,Paris cafe,ChIJv9VTHLG44z8RWcgFqOrSUw0,32.4995077,45.8208882,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","FRXC+R92, Kut",2,60
+522,كوب كافيه,ChIJXWYSCy654z8R1esYZey9jC8,32.5107938,45.8104285,1.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR66+84X، شارع المغرب، الكوت،, Kut",2,1
+523,Parlo Cafe بارلو كافي,ChIJB68gZdy44z8ReEr9ct8nuwU,32.5137517,45.8130765,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR77+F6W، شارع المغرب, Kut",2,103
+524,كافيه البيت العربي,ChIJMQmgDRq54z8R8fP3aHGsU7E,32.5300499,45.8204636,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']",GRHC+X25، الكوت، الكوت شارع داموك,2,4
+525,مقهى العوادي,ChIJ8crleKG54z8RZeUO1JnSA44,32.497563,45.8229413,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']",FRXF+25G، شارع 6،،، الكوت،,2,27
+526,مقهى الاخوين,ChIJUxk0B6e54z8RKVWOmexaPmI,32.496966,45.8256388,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRWG+Q7J، المشروع، الكوت،, Kut",2,2
+527,مقهى وبليارد الأنيق,ChIJe8g27d654z8RE0XwUKuCFDc,32.4984054,45.8275611,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRXH+927، شارع المقاهي، الكوت،, Kut",2,0
+528,مقهى الملكي,ChIJh1hY2OXH4z8R4ic_TvkKtV0,32.477591,45.8160636,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRH8+2CP, Kut",2,3
+529,مقهى أبو خالد,ChIJia6TVF6_4z8REjhNxKIO1Ak,32.5374576,45.8322845,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","GRQJ+2VG، Unnamed Road, Kut",2,8
+530,مقهی گنش,ChIJUVY5g2m54z8R5KfXrqFDDKk,32.49885800000001,45.8218725,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRXC+GQF, Kut",2,21
+531,مقهى حفيد جبار الاكرع,ChIJqVFTRdG54z8RyZNQi8MR38E,32.4940391,45.8257777,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRVG+Q73, Kut",2,0
+532,كوفي النمور,ChIJgUIqa7Gv4z8RuRr__hdhL5s,32.6024094,45.7520985,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","JQ22+XR9, Kut",2,0
+533,كوفي احمد الوشام,ChIJwT8wrLq54z8R9_aODEm3t9M,32.4946964,45.817357,4.5,"['cafe', 'food', 'point_of_interest', 'establishment']",12/218، الكوت،,2,10
+534,مقهى جليل,ChIJS6IYYAW_4z8RlXIGthmloBE,32.4950469,45.8281648,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","FRWH+277، شارع سكونه شارع عگـد الكراد، الكوت،, Kut",2,23
+535,مقهئ مشمش,ChIJ6dQTAy-54z8RlitEAayAMA4,32.5102626,45.8268745,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR6G+4Q2, Al Kut",2,1
+536,مقهى الضفاف,ChIJHRbgM0DH4z8ROP2uXrA0up0,32.4784231,45.8246592,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",FRHF+9V7، واسط٬,2,0
+537,cafe المطعم التركي,ChIJd_0aZBG54z8RRJt2wWBoxQc,32.5156513,45.8077584,3.8,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","GR85+739, Kut",2,62
+538,ريد روز,ChIJS9uhywW_4z8Rr654OszC3-M,32.5315557,45.8292252,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","GRJH+JMH, Kut",2,15
+539,Cafeteria Alchloba,ChIJbWlxFq244z8ROjtelGAfQX8,32.4973943,45.8267289,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRWG+XM5, Kut",2,7
+540,حكاية كافيه,ChIJsX4kJDe54z8RYh5g_FgjVLo,32.5315998,45.8063187,3.3,"['cafe', 'point_of_interest', 'food', 'establishment']","GRJ4+HG3, حي الزهراء قرب تقاطع هكوري الكوت قرب تقاطع هكوري، الكوت،،",2,6
+541,Damas Cafe,ChIJc6sUmU654z8ROkvaurjb2UQ,32.5276815,45.8108211,4.2,"['cafe', 'point_of_interest', 'food', 'establishment']","GRH6+38G, Kut",2,15
+542,كوفي الشام,ChIJ2zbAgHS54z8R_aoxZcdYPEU,32.5244742,45.8129127,4.0,"['cafe', 'point_of_interest', 'food', 'establishment']","GRF7+Q5M، Unnamed Road, Kut",2,100
+543,ريد روز,ChIJS9uhywW_4z8Rr654OszC3-M,32.5315557,45.8292252,3.9,"['cafe', 'point_of_interest', 'food', 'establishment']","GRJH+JMH, Kut",2,15
+544,مقهى العوادي,ChIJ8crleKG54z8RZeUO1JnSA44,32.497563,45.8229413,4.0,"['cafe', 'point_of_interest', 'food', 'establishment']",FRXF+25G، شارع 6،،، الكوت،,2,27
+545,مقهى الضفاف,ChIJHRbgM0DH4z8ROP2uXrA0up0,32.4784231,45.8246592,0.0,"['cafe', 'point_of_interest', 'food', 'establishment']",FRHF+9V7، واسط٬,2,0
+546,Parlo Cafe بارلو كافي,ChIJB68gZdy44z8ReEr9ct8nuwU,32.5137517,45.8130765,4.0,"['cafe', 'point_of_interest', 'food', 'establishment']","GR77+F6W، شارع المغرب, Kut",2,103
+547,القهونجي,ChIJebhCSaa54z8Rat0MmPvLWCM,32.5220226,45.8169646,3.6,"['cafe', 'point_of_interest', 'food', 'establishment']","GRC8+QQV, Kut",2,8
+548,Sultan Cafe,ChIJL6lzYUTH4z8RE0DMG6wXdsg,32.4728344,45.8146894,3.2,"['cafe', 'point_of_interest', 'food', 'establishment']","FRF7+4VP, Al Kut",2,26
+549,كوفي كناري,ChIJgydxRcOz4z8R796lQaEyG5s,32.5230331,45.6041984,3.9,"['cafe', 'point_of_interest', 'food', 'establishment']","GJF3+6M8، طريق الحسنينة - الكوت، الحسينية،, Al Husayniyah",2,7
+550,مقهى الخيمة,ChIJPdz6g4G_4z8R9hfIGFjm0vY,32.5181101,45.8634702,4.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","GV97+7C3, Kut",2,6
+551,مقهى كوف كافيه,ChIJPVdVXAW54z8RFwL-FSyAX8Y,32.5108017,45.8102805,4.0,"['cafe', 'point_of_interest', 'food', 'establishment']","GR66+84F، شارع المغرب، الكوت،، الكوت،, Kut",2,1
+552,Poets Cafe Wasit,ChIJgbp87bG44z8RsP_vhMSdQFU,32.4980194,45.82264809999999,3.6,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","FRXF+62H, Kut",2,162
+553,مقهى سيف العكيلي,ChIJnScTBCS_4z8Rcdi4kfhVypc,32.5108141,45.8439551,4.3,"['cafe', 'point_of_interest', 'food', 'establishment']","GR6V+8HG، Unnamed Road, Kut",2,11
+554,مقهى الكلاسكو,ChIJTeRxWZbH4z8ROLnju_dUpcs,32.4726124,45.816215,5.0,"['cafe', 'point_of_interest', 'food', 'establishment']","FRF8+3F3, Kut",2,3
+555,كوفي شوب الباشا,ChIJO7bLJGnH4z8RmH5T9Hjv8OQ,32.4732855,45.8148651,3.8,"['cafe', 'point_of_interest', 'food', 'establishment']","FRF7+8X3, Kut",2,6
+556,Brothers cafe the four,ChIJJUQmDo6t4z8R4UNxR-nI1Xo,32.5664767,45.6521171,3.5,"['cafe', 'point_of_interest', 'food', 'establishment']",HM82+HRX، بتار,2,28
+557,المصطفى للسكائر والاراكيل,ChIJZe0Ayr254z8Rmsn71v8eKGw,32.52294620000001,45.8158225,5.0,"['cafe', 'point_of_interest', 'food', 'establishment']","GRF8+58F, Kut",2,1
+558,مقهى حنانيش,ChIJeQnbRKTH4z8RR0Na7KmxcRI,32.4769473,45.8191965,3.2,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","شارع الكراج, Kut",2,5
+559,مقهى جليل,ChIJS6IYYAW_4z8RlXIGthmloBE,32.4950469,45.8281648,4.2,"['cafe', 'point_of_interest', 'food', 'establishment']","FRWH+277، شارع سكونه شارع عگـد الكراد، الكوت،, Kut",2,23
+560,كوفي شوب كوستا costa coffee,ChIJxSQ-evOz4z8RWPE7DuvncVU,32.5191532,45.6089875,4.8,"['cafe', 'food', 'point_of_interest', 'establishment']","GJ95+MH9, Al Husayniyah",2,11
+561,كوفي احمد الوشام,ChIJwT8wrLq54z8R9_aODEm3t9M,32.4946964,45.817357,4.5,"['cafe', 'food', 'point_of_interest', 'establishment']",12/218، الكوت،,2,10
+562,ليالي دجله كافيه,ChIJef77pJ-54z8RyhT9_MS1BfA,32.4993609,45.8212294,4.1,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","1 شارع الكورنيش،, Kut",2,12
+563,مقهى ابو خالد abu khalid coffee,ChIJbRKHTsS_4z8Rhv0eIVFSBJ4,32.5377587,45.8320394,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","GRQJ+3R9، داموك، الكوت،, Kut",2,1
+564,كوفي النمور,ChIJgUIqa7Gv4z8RuRr__hdhL5s,32.6024094,45.7520985,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","JQ22+XR9, Kut",2,0
+565,كوب كافيه,ChIJXWYSCy654z8R1esYZey9jC8,32.5107938,45.8104285,1.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR66+84X، شارع المغرب، الكوت،, Kut",2,1
+566,Huda cafe,ChIJPVW1k7G44z8Ra4i0tZ5hfnE,32.498322,45.8224981,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","FRXC+8XH, Kut",2,64
+567,دله ابو احمد,ChIJIeo33vO54z8R6K-3plTQH0w,32.5113337,45.8125001,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","17 شارع, Kut",2,0
+568,مقهى شحمايه,ChIJ289YWfO54z8R_6XAZTLTImo,32.5474435,45.8258231,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GRWG+X85, Kut",2,0
+569,مقهى,ChIJ47MSnUG54z8RKfCDV_mJI6w,32.49194670000001,45.8129473,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']","الشارع المحاذي لنهر الدجيل, Kut",2,4
+570,باكو كافيهBakuCafe,ChIJbwoto2O54z8RJnaFdfJaTqo,32.5086233,45.8153504,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']",الهورة، الكوت، كوت هوره,2,35
+571,مقهى الاخوين,ChIJUxk0B6e54z8RKVWOmexaPmI,32.496966,45.8256388,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRWG+Q7J، المشروع، الكوت،, Kut",2,2
+572,مقهى الملكي,ChIJh1hY2OXH4z8R4ic_TvkKtV0,32.477591,45.8160636,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRH8+2CP, Kut",2,3
+573,مقهى السعادة,ChIJA1mnopa54z8RA-GvjXFz0hc,32.4970441,45.8268965,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FRWG+RQ6, Kut",2,0
+574,مقهى,ChIJkxXWDCXB4z8RNbfYTfc-bBM,32.4862566,45.8603729,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","زين القوس شارع الجوبة, Kut",2,0
+575,مقهى أبو خالد,ChIJia6TVF6_4z8REjhNxKIO1Ak,32.5374576,45.8322845,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","GRQJ+2VG، Unnamed Road, Kut",2,8
+576,كافيه البيت العربي,ChIJMQmgDRq54z8R8fP3aHGsU7E,32.5300499,45.8204636,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']",GRHC+X25، الكوت، الكوت شارع داموك,2,4
+577,كوفي شوب العايذي,ChIJpVfdvxG54z8RpJz0c3OWuPQ,32.51529910000001,45.81478389999999,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","GR87+4W7، شارع المغرب، الكوت،, Kut",2,4
+578,كوفي شوب البارون,ChIJDXYH_-K54z8RQUgqmt3alLI,32.4976359,45.8236247,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']",FRXF+3F2، شارع مثلجات فستقه،، شارع كورنيش الكوت، السده،,2,55
+579,SRT Cafe,ChIJn4NYvP254z8RG0XEDMNsrV8,32.512133,45.810412,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR66+V52، شارع المغرب، الكوت،, Kut",2,0
+580,Meridian cafe,ChIJqbdZGye54z8RcXftfco02G0,32.5232039,45.81550740000001,3.5,"['cafe', 'point_of_interest', 'food', 'establishment']","GRF8+75H, Al-Zaharaa ST, Kut",2,33
+581,London cafe,ChIJY6qTlj254z8R5hzYq3uUdto,32.5310084,45.8099094,3.7,"['cafe', 'point_of_interest', 'food', 'establishment']","GRJ5+9XH, Kut",2,59
+582,مقهى الحكيم الرياضي,ChIJTV-EkNO_4z8R3e2mycKSJc4,32.5389042,45.8558818,3.6,"['cafe', 'point_of_interest', 'food', 'establishment']","GVQ4+H96, Kut",2,7
+583,مقهى الروشه,ChIJjaS2na244z8R0fF3O9KCJZ8,32.4975827,45.8254062,3.4,"['cafe', 'point_of_interest', 'food', 'establishment']","FRXG+255, Kut",2,25
+584,كوفي شوب وحدائق الحجي,ChIJS21z9kC_4z8RHJ-PQiXWmSo,32.4992412,45.8481455,3.4,"['cafe', 'point_of_interest', 'food', 'establishment']","FRXX+M6M, Kut",2,9
+585,Alkoogh café كافيه الكوخ,ChIJSTIO27-54z8R1FC2dZ4e_TM,32.5195222,45.8027862,3.9,"['cafe', 'point_of_interest', 'food', 'establishment']","GR93+R42, Kut",2,52
+586,مقهى الأدباء,ChIJxUJYcrK44z8RmX76kHVHKO4,32.4983454,45.8245558,3.6,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","FRXF+8RP, Kut",2,58
+587,مقهى الكورنيش,ChIJbwTqbie54z8RVlg94Vgzaac,32.498759,45.82191960000001,3.7,"['cafe', 'point_of_interest', 'food', 'establishment']","FRXC+GQF, Kut",2,23
+588,البارون كافي,ChIJz-4yTvS_4z8R0wAU-H_R0j0,32.53156999999999,45.8292161,3.7,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",16/302، الكوت،,2,3
+589,شاي السيد,ChIJLVwlpLm54z8Rdsb-tb1lugU,32.4970691,45.8263166,4.4,"['cafe', 'point_of_interest', 'food', 'establishment']","FRWG+RGG, Kut",2,5
+590,مقهى علاوي السيد,ChIJfcRnTofH4z8RpQN3guELgbY,32.4805037,45.8218235,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","جسر حي الجهاد، شارع السوق, Kut",2,0
+591,Paris cafe,ChIJv9VTHLG44z8RWcgFqOrSUw0,32.4995077,45.8208882,3.8,"['cafe', 'point_of_interest', 'food', 'establishment']","FRXC+R92, Kut",2,60
+592,Cafe Etap,ChIJBdosW6244z8RFARC_pSJekA,32.4984347,45.827262,3.8,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","FRXG+9WC, Kut",2,343
+593,cafe المطعم التركي,ChIJd_0aZBG54z8RRJt2wWBoxQc,32.5156513,45.8077584,3.8,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","GR85+739, Kut",2,62
+594,مقهی گنش,ChIJUVY5g2m54z8R5KfXrqFDDKk,32.49885800000001,45.8218725,4.0,"['cafe', 'point_of_interest', 'food', 'establishment']","FRXC+GQF, Kut",2,21
+595,مقهى وبليارد الأنيق,ChIJe8g27d654z8RE0XwUKuCFDc,32.4984054,45.8275611,0.0,"['cafe', 'point_of_interest', 'food', 'establishment']","FRXH+927، شارع المقاهي، الكوت،, Kut",2,0
+596,مقهى عباس جبار,ChIJIZUYiK254z8RGplRhn3nTJ8,32.4958541,45.8132123,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",FRW7+7M7 متنزه، الكوت،,2,0
+597,كهوة حنوش,ChIJXXUGwIe_4z8RcH4jXiY48CU,32.5007863,45.8338415,5.0,"['cafe', 'point_of_interest', 'food', 'establishment']",13/112، الكوت،,2,1
+598,مكتب السيد للاركيلة والمعسلات,ChIJF_hhV_zH4z8RIA0a5bFzfUA,32.4770098,45.8122216,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","مركز الشباب, Kut",2,0
+599,مقهى ساحة العامل,ChIJ0amIJx254z8RQNZbXQdufMM,32.4981472,45.8275101,3.4,"['cafe', 'point_of_interest', 'food', 'establishment']","FRXG+CWH Al Amel Squir، FRXG+9WC، الكوت،, Kut",2,5

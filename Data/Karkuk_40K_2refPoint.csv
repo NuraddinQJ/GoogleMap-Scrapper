@@ -1,0 +1,410 @@
+,Place Name,Place ID,Latitude,Longitude,Rating,Types,Vicinity,Price Level,User Rating tot
+0,چێشتخانەی ماڵی باوکم mali bawkm restaurant,ChIJjVZ_LjvVVBURL51tpQWjIDY,35.4879368,44.3845645,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9QM+5RG, 2, Kirkuk",2,91
+1,Full House restaurant,ChIJ8yZjKbDXVBUR3056Y7YfRw0,35.478137,44.3829854,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","Shari Almas, Kirkuk",2,19
+2,ڕێستۆرانتی شەوانی شارەکەم,ChIJX6MgAx4pVRURy02jAgJPuTU,35.4370195,44.4212329,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","CCPC+QGJ, Unnamed Road, Kirkuk",2,5
+3,Rayan Resturant,ChIJv-Mm-OwpVRUR6gO9_C7j30g,35.449378,44.4164093,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","CCX8+QGV, Kirkuk",2,0
+4,مطعم فريدون,ChIJVS9lMTfXVBURaSWEEdIdDn4,35.4782516,44.3831553,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9HM+872, Shari Almas, Kirkuk",2,124
+5,Azadi cafe and restaurant,ChIJ_XP6-SEpVRURobSCQRf7tZU,35.4686304,44.411788,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","FC96+CMM, Sulaimani - Kirkuk Rd, Kirkuk",2,5
+6,Tasty Fast food,ChIJL4MD7e4pVRURvvL9Ipn6bmk,35.4725933,44.4025905,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCF3+22Q, Kirkuk",2,170
+7,کەبابی ئەبو شەهاب,ChIJFbQcUyMrVRUR0cxsLCXvCz4,35.48082040000001,44.411753,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCJ6+8P2، بازاری ئازادی, Kirkuk",2,5
+8,big mama,ChIJgcQrrM7VVBURCHCIObLUboQ,35.5235666,44.383048,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","shoraw kirkuk 35.523566, 44.383045",2,19
+9,Chicker’s,ChIJy48vKIbXVBURtPcN_lS2A8E,35.4582222,44.3816535,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","F95J+7MJ, عمارة خليل أغا،, Baghdad Rd, Kirkuk",2,36
+10,Mali daikm restaurant,ChIJ_fXSgMQrVRURJAZZI2Bf3Cs,35.5079468,44.4017588,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GC52+7F, Kirkuk",2,4
+11,ماكولات ابوشهاب,ChIJQ-Ex-dfXVBURNqznPRYbMUw,35.4666329,44.3798895,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Kirkuk,2,1
+12,مطعم MC SMOKED,ChIJI35H2F7ZVBURnoa03Lemx6I,35.4086793,44.3621223,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","مقابل محلج القطن, Kirkuk",2,11
+13,Happy days restaurant and cafe,ChIJaVHzANHXVBUR6uQZgd1Z09g,35.4563324,44.3783374,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","F94H+FGR, كركوك،،, Kirkuk",2,5
+14,مطعم جودي -Judy restaurant,ChIJ061HjHjXVBURILnTvjmoEc4,35.4637459,44.378166,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","F97H+F7V, Unnamed Road, Kirkuk",2,16
+15,Special fastfood,ChIJfbiiRqzXVBURpF52QW9Mq9s,35.4769528,44.3795959,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9GH+QRQ, Shari Almas, Kirkuk",2,2
+16,ماكولات كرايب,ChIJoW1R4XrXVBURHWCN0ArgYYM,35.4104308,44.389511,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","C96Q+5R6, Kirkuk",2,9
+17,Flafilo,ChIJSSdy-qQpVRURP-icJbVqESo,35.4593585,44.4100902,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","FC56+P2W, Sulaimani - Kirkuk Rd, Kirkuk",2,11
+18,Abdullah Restaurant,ChIJM_9b1AfWVBURAVE1QvOJyQA,35.4766771,44.3900261,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9GR+M2C, Komari St, Kirkuk",2,652
+19,CARBO RESTAURANT,ChIJ1_S-_rPXVBURHebclyOesfU,35.4397179,44.377418,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","C9QG+WX4, Kirkuk",2,20
+20,مطعم وريا,ChIJ3YC5fkbZVBURp5BPtSezNhs,35.4138476,44.36494810000001,2.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","C977+GXV, Baghdad Rd, Kirkuk",2,3
+21,چێشتخانەی براکەم-مطعم اخي,ChIJkWVcTb3XVBURfGdGBhzxo1w,35.4742565,44.3902945,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","F9FR+H5W, Kirkuk",2,0
+22,کولێرە بەقیمەی پۆڵا,ChIJ5zlL0CwpVRURwtXdFgfRCI0,35.4404152,44.4261899,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","CCRG+5FG, Road",2,1
+23,خواردەمەنی کاکە حەمە,ChIJf1SpJpgpVRURLUHkmYNPdus,35.4390861,44.4133621,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","CCQ7+MGF, الحرية، كركوك،،, Kirkuk",2,0
+24,مطعم كباب وستاعزيز,ChIJLQE6kSUpVRURPcUmC0SuUxE,35.4725073,44.4027774,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FCF3+242, Kirkuk",2,50
+25,مطعم ومشويات فلامنكو,ChIJTSGj2kLVVBUROhIUYsZN7wc,35.4826595,44.3868417,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","F9MP+2MH, Kirkuk",2,1
+26,مەتعەم ایوب,ChIJjRD09fTXVBURYdLtYy52x7M,35.4666329,44.3798895,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","F98H+MX2, Kirkuk",2,0
+27,مأكولات شاد,ChIJySpPaknVVBURjJa6PNhnCO4,35.5155584,44.3971922,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","G98W+5PC, Kirkuk",2,1
+28,مطعم فاخر,ChIJl6EluNnXVBUR1VmhwduEEWA,35.4778062,44.3822311,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","F9HJ+4W2, Kirkuk",2,218
+29,FireFly Burger Kirkuk,ChIJa92niJjXVBURj3cLu0xJdXU,35.4449431,44.3759486,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","C9VG+X9X, Kirkuk",2,98
+30,خواردەمەنی هاوبەش,ChIJT0gtk5UrVRURaEWaZt_vKpg,35.4807822,44.4117621,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FCJ6+8P6, بازاری ئازادی،, كركوك،",2,0
+31,ماكولات دامبي واورهان,ChIJ8wAUMZDXVBURSTj_9HjUn44,35.4855805,44.3706926,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","F9PC+774, Kirkuk",2,2
+32,کولێرە بەگۆشتی ئانیا,ChIJ2_q0E-orVRURr5IfGOaII0Y,35.4808867,44.4109717,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FCJ6+995, بازاری ئازادی،, Kirkuk",2,0
+33,مأكولات ابو بلال,ChIJh7CYp3LZVBURiJr_6r9FoYU,35.4122583,44.3496129,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C86X+WV6, Kirkuk",2,0
+34,دكان بركر,ChIJQdBH0SLXVBUR0sTyioG0PkM,35.4322159,44.361918,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","C9J6+VQJ, Unnamed Road, Kirkuk",2,28
+35,مأكولات أير باص,ChIJkUBxg4bZVBURbwl5Y-dw3Fk,35.4110927,44.3644737,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C967+CQ, Kirkuk",2,0
+36,مأكولات هدى الرحمن,ChIJzf3-FHPXVBUR8pldszcvLPM,35.4691481,44.3863792,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","Mehakim Otobüs Durağı, Atles Caddesi،, Kirkuk",2,3
+37,Öncü Restaurent,ChIJPS-XDInXVBURbe0vVTgXfs8,35.4182445,44.3788832,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","C99H+7HR, Kirkuk",2,66
+38,دجاج ابي,ChIJr5Abua7XVBURAhqNBNA39sQ,35.4207397,44.3796609,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C9CH+8V3, Kirkuk",2,2
+39,مشويات ممد اسطه,ChIJ88QTwz_XVBURv89djq8IfD0,35.4330724,44.3659857,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C9M8+6C6 Unnamed Road، كركوك،، كركوك،, Kirkuk",2,0
+40,مطعم باب حسابات,ChIJE3ZmywQpVRUR52CpfdLoK-Y,35.4417719,44.4091842,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","CCR5+PM3, Unnamed Road, Kirkuk",2,71
+41,Corner Cafe,ChIJf4bF4d_VVBUR-JoGmFPYcDY,35.4953723,44.39534889999999,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9WW+44X, Unnamed Road, Kirkuk",2,2
+42,طاحونة ٢,ChIJedTDlW7XVBURmzopDFkQQVU,35.4723885,44.3876038,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9CQ+X24, Kirkuk",2,2
+43,مأكولات بابان,ChIJ8zmhKBjVVBUR6CjuzaaxjtY,35.4890643,44.3959199,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9QW+J9F, Road, Kirkuk",2,194
+44,Burger Town Kirkuk,ChIJcUh_6hMrVRURhVYRHTNG634,35.5102344,44.4098363,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","GC65+3WW, Kirkuk",2,17
+45,مطعم ابو حسن,ChIJ6aAjJvHXVBURiGKYtJk-Atk,35.4730232,44.3753766,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9FG+43W فلكة ساحة الطيران, Kirkuk",2,0
+46,لحم بعجين بنان,ChIJf4rbCdbVVBUR3Y2uyA0EYdQ,35.4873929,44.3852568,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9PP+W3X, Ali Mardan St, Kirkuk",2,1
+47,TODAY Rest & Cafe,ChIJuQenFzjWVBURQ6vNoi3Rkok,35.4568919,44.3814248,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F94J+QH3, Kirkuk",2,1369
+48,دجاج الفخار,ChIJScaZj8wpVRURp3YZZdDUvho,35.4723627,44.4029149,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCC3+W5V, Kirkuk",2,7
+49,مأكولات نارنج,ChIJ8-PfoGfXVBURgCOrvdvcRGI,35.4375327,44.3774684,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C9QH+22C, Kirkuk",2,3
+50,Baba Rest.,ChIJAV9zAS_XVBURLQouBjmHuQM,35.4815803,44.38205139999999,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9JJ+JR9, Kirkuk",2,5
+51,Viking Burger,ChIJy_7mg6vXVBURofe__dj0dSM,35.4617223,44.3846846,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","مجاور فندق الديوان, العراق، كركوك،, Province St",2,5
+52,مطعم و مشويات فريش,ChIJUfbX5eLVVBURWSPZPvtlSrA,35.4825724,44.3867404,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9MP+2MH, Kirkuk",2,49
+53,مطعم مالى شاهانه,ChIJd2TCLmDVVBUR-JVArk3YFtc,35.5019056,44.3930589,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","G92V+Q6J, Unnamed Road, Kirkuk",2,6
+54,Fast food farhad,ChIJwW9mBsvVVBURA_VOX4Jj7dw,35.5252145,44.3946696,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","G9GV+3VM, Kirkuk",2,1
+55,Kabab kanan,ChIJj_K5aRorVRURYPwDaN604zU,35.4732075,44.4073153,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCF4+7WP, Kirkuk",2,0
+56,Kirspy Rest & Cafe,ChIJ7Z5a77nXVBURqeDXX5e6pJk,35.4637427,44.3781712,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","F97H+F7V, Unnamed Road, Kirkuk",2,5
+57,مطعم و کباب ریان,ChIJG-To53cpVRURQUgN14yyZk0,35.4567863,44.4108716,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FC46+P96, Kirkuk",2,1
+58,ALI FISH,ChIJ6X9U880pVRURkTb99Rk_zhY,35.4379769,44.4090482,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","CCQ5+5JV, Unnamed Road, Kirkuk",2,14
+59,"Restaurant, مطعم، چێشتخانە",ChIJA79_yzkrVRURuj2zFycjjqE,35.4807022,44.4590323,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FFJ5+7J, Kirkuk",2,0
+60,Prince Seafood,ChIJC8UNe5_XVBURps7MtN-X8u0,35.4373369,44.3642956,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","C9P7+WPH, Kirkuk",2,30
+61,دجاج سيف أبو المحشي,ChIJia2xjBbZVBURV1aOtN3R5Aw,35.4115957,44.3360478,4.4,"['restaurant', 'point_of_interest', 'food', 'establishment']","C86P+JCF, Kirkuk",2,17
+62,Sultan Restaurant,ChIJ_ZGLGuLVVBURvIambp4R_18,35.4811095,44.3858926,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","F9JP+C9C, Kirkuk",2,118
+63,مطعم الديوان,ChIJhUueYj7WVBURVcwEsk15yt4,35.46150009999999,44.3844428,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","F96M+JQ4, Kirkuk",2,169
+64,Al_Tanoor Resturant مطعم التنور,ChIJP1ts5TjWVBURJPhsjIaL4f8,35.458725,44.3821431,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","F95J+FVP, Kirkuk",2,158
+65,Faraydun Restaurant,ChIJE5N4A4zVVBURv7hSN9-rP3A,35.4986842,44.3941095,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","F9XV+FJQ, Kirkuk",2,83
+66,مطعم فاخر,ChIJl6EluNnXVBUR1VmhwduEEWA,35.4778062,44.3822311,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","F9HJ+4W2, Kirkuk",2,218
+67,مطعم مصلى,ChIJ-epFlg3XVBURNUi4sCh0Xdo,35.4638478,44.3991325,4.4,"['restaurant', 'point_of_interest', 'food', 'establishment']","F97X+GMJ, Kirkuk",2,24
+68,Gunash Turkish Restaurant,ChIJpRGgOdnXVBURisAnyz9V_xI,35.4499153,44.37262,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",C9XF+X2M، الحمزلي،,2,46
+69,مطعم تيستي,ChIJC8xBC68pVRURLIkkL2OEFUY,35.47250289999999,44.4024933,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","FCF2+2X5، كركوك،, Kirkuk",2,7
+70,مطعم و مشويات فريش,ChIJUfbX5eLVVBURWSPZPvtlSrA,35.4825724,44.3867404,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","F9MP+2MH, Kirkuk",2,49
+71,مطعم كباب وستاعزيز,ChIJLQE6kSUpVRURPcUmC0SuUxE,35.4725073,44.4027774,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FCF3+242, Kirkuk",2,50
+72,Kebab Hajji Safri Restaurant,ChIJN4VrYGrWVBURT8xJnMiNyhQ,35.4678025,44.3779477,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","F99H+454, Republic St, Kirkuk",2,16
+73,مطعم الباشا,ChIJl8_EBeLVVBURZCB-dni64k8,35.4811298,44.3855768,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","F9JP+C6W, Kirkuk",2,138
+74,مطعم حجي محمد,ChIJW5STP_PXVBURiMz9wQRoEHA,35.465638,44.375956,4.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","F98G+795، العراق،كركوك،فلكة ساحة العمال, Kirkuk",2,10
+75,مطعم ومشويات فلامنكو,ChIJTSGj2kLVVBUROhIUYsZN7wc,35.4826595,44.3868417,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","F9MP+2MH, Kirkuk",2,1
+76,مطعم صمد,ChIJC2YN-gDdVBUR2INOpseuWZ8,35.3632991,44.3138505,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",مطعم صمد، كركوك، ميتو,2,9
+77,SAMAD Restaurant,ChIJSxrIZrXZVBURVaEEDdSqnV4,35.40391,44.36020480000001,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C936+H38, Kirkuk",2,1019
+78,Abdullah Restaurant,ChIJM_9b1AfWVBURAVE1QvOJyQA,35.4766771,44.3900261,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","F9GR+M2C, Komari St, Kirkuk",2,652
+79,Abdullah Restaurant,ChIJSWDxhivVVBURODeWiE4v1Wo,35.5579087,44.3660116,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","H958+5C6, 2, Sekanyan",2,914
+80,مطعم المذاق الموصلي Taste of Mosul Rest.,ChIJw7OlRK_XVBUR8C1K65Ip88Y,35.4778599,44.3824225,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9HJ+4XP, Kirkuk",2,5
+81,مأكولات الساعة (مأكولات سيد),ChIJBZfCGiLZVBURFgDPzEI0Yns,35.40435009999999,44.3604862,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","C936+P5H, Kirkuk",2,14
+82,مطعم وكباب وستا رزاق,ChIJ5ezDpUUrVRURNYqJD-ghbiM,35.4695923,44.4100692,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FC96+R2P, Kirkuk",2,0
+83,مطعم تنتون,ChIJNSf34K3XVBURZrXd9MvYfyg,35.4292282,44.3745567,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","C9HF+MRV, Kirkuk",2,19
+84,مطعم باب حسابات,ChIJE3ZmywQpVRUR52CpfdLoK-Y,35.4417719,44.4091842,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","CCR5+PM3, Unnamed Road, Kirkuk",2,71
+85,مطعم بيك ماما,ChIJTw0wk_fVVBURK2ZtCf3ZfwU,35.5235158,44.3830044,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",G9FM+C62، شوراو،,2,15
+86,مطعم كركوك سواره,ChIJY2zRzRjdVBURXtWGSonMbs0,35.3635514,44.3099581,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",9875+CX7,2,22
+87,مطعم ومشويات الرسام,ChIJgd-c-_TXVBURLn7BTC7NYpg,35.4235189,44.39502179999999,1.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","C9FV+CWQ، Unnamed Road، كركوك،, Kirkuk",2,2
+88,Hemin Kebab And Restaurant,ChIJza2FXv8pVRUR_ghZt9gmq_M,35.47254059999999,44.4030547,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCF3+266, Kirkuk",2,65
+89,Best Fast Food,ChIJbbMyPjnVVBURTFDwSQdipFo,35.4940867,44.3956378,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",F9VW+J7C، رحيماوه،,2,128
+90,مطعم اشرف,ChIJ9yiu4hnWVBURuUdhjwBp9po,35.4650817,44.3899249,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","F98Q+2X3, Kirkuk",2,133
+91,مطعم ومشويات أوميد,ChIJ37Gn3JXZVBURfJC_yflTAWg,35.4010821,44.3693319,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","C929+CPP, Kirkuk",2,72
+92,Tasty Fast food,ChIJL4MD7e4pVRURvvL9Ipn6bmk,35.4725933,44.4025905,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCF3+22Q, Kirkuk",2,170
+93,مطعم ابو هيمن,ChIJYw_nthHcVBURXGGoOhXO-7g,35.3635176,44.31131999999999,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Kirkuk,2,86
+94,مطعم هيوا,ChIJRdBkLyrXVBURFWcghJUqAtY,35.4732324,44.3853346,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9FP+74X, Kirkuk",2,6
+95,مطعم فريدون,ChIJVS9lMTfXVBURaSWEEdIdDn4,35.4782516,44.3831553,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9HM+872, Shari Almas, Kirkuk",2,124
+96,مطعم وكباب عمر,ChIJm7jc1rrdVBURZzRNiLy4txo,35.3620226,44.3097936,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",9865+RW7، 9866+V7، سردجلي، كويو،،,2,0
+97,مطعم علي,ChIJyxW5JovXVBURMtJflvKJiss,35.4747525,44.3873635,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9FP+WW5, Kirkuk",2,12
+98,Ali Zaytuna restaurant,ChIJ5YIttagpVRURUmGqkf4snlk,35.4262664,44.40929120000001,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","CCG5+GP3، النصر،, Kirkuk",2,27
+99,مطعم فلافل اغا,ChIJB3q2BkLVVBURhNn99hOoUag,35.4809029,44.3863184,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9JP+9G8، Unnamed Road, Kirkuk",2,179
+100,مطعم حمه ناصر,ChIJbdnW014pVRURz6j5gEbWuYs,35.4540162,44.4125438,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FC37+H2P، Sulaimani - Kirkuk Road Kirkuk Shorja, Kirkuk",2,120
+101,مطعم جمال,ChIJ494UESbdVBURrnnzC5FGFsM,35.3665657,44.308014,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","9885+J6C، Unnamed Road, Çerdağli Köyü",2,102
+102,مطعم ملا نوري,ChIJGXcPdxfXVBUROUgYUOx0e3Q,35.47765800000001,44.3814617,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9HJ+3H8, Shari Almas, Kirkuk",2,246
+103,مطعم ومشويات الأمير,ChIJMVfRwtXbVBURkgLeRL4tirk,35.3903845,44.2837932,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",97RM+4GR,2,31
+104,Sulaimani Restaurant,ChIJ0dVSKgbWVBURE_pVfY6Nz3Q,35.4792123,44.38927520000001,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع الماس، كركوك،,2,110
+105,مطعم وكباب رازاوه,ChIJzd0AM-kpVRUR1-JPNm6auV8,35.4574753,44.4104466,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FC46+X5W, Kirkuk",2,71
+106,Baghdad restaurant,ChIJq_kN0BHWVBURR6Jt_7Bu-A8,35.4707822,44.3868071,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9CP+8P7, Kirkuk",2,22
+107,مطعم الشيف حنان,ChIJBU5b_kLXVBURiKis6i_AKm0,35.4350894,44.3695813,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","C9P9+2RP، Unnamed Road, Kirkuk",2,14
+108,مطعم طماطم,ChIJp2sdqH7XVBURVJe1sF5pryk,35.4363908,44.3732327,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","C9PF+H74، شارع القدس،, Kirkuk",2,67
+109,مطعم عشاق المندي,ChIJ8zwrhhzXVBURFcx76nLM9q0,35.4771493,44.3801932,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9GJ+V3F, Shari Almas, Kirkuk",2,376
+110,مطعم النور الكبير,ChIJx-2v5ozXVBURfhJHXNk9XbU,35.4275856,44.3736918,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","C9HF+2FP, Kirkuk",2,19
+111,Dilshad,ChIJezSRTYnVVBURg8LusQOVC6A,35.4973897,44.3950793,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9WW+X32, Market Street, Kirkuk",2,163
+112,TODAY Rest & Cafe,ChIJuQenFzjWVBURQ6vNoi3Rkok,35.4568919,44.3814248,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F94J+QH3, Kirkuk",2,1369
+113,مطعم ديوان 2,ChIJrVN0O3HXVBURkEBxqawGQPA,35.443316,44.3787038,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C9VH+8FG, Baghdad Rd, Kirkuk",2,89
+114,مطعم القلعة,ChIJA5fLem_XVBURBOqfY8Wk3o4,35.4206303,44.3698874,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","C9C9+7X2, Baghdad Rd, Kirkuk",2,7
+115,Ayub Kabab and Restaurant,ChIJMwqNDuLVVBURix89fhkvJNc,35.4808138,44.3871565,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9JP+8VC, Kirkuk",2,512
+116,كص رازكۆ,ChIJJ9dWo4vVVBURaFr29aD_Uaw,35.4845397,44.3964611,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9MW+RH8، Unnamed Road, Kirkuk",2,154
+117,Full House restaurant,ChIJ8yZjKbDXVBUR3056Y7YfRw0,35.478137,44.3829854,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","Shari Almas, Kirkuk",2,19
+118,Dukan Restaurant,ChIJFwkj45XXVBURqv2sCJYnSx8,35.431767,44.3757028,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","C9JG+P82, Kirkuk",2,46
+119,مطعم سبايسي طريق بغداد,ChIJJdNXhk_XVBURc3rR-GZFpX4,35.4395317,44.3778662,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",C9QH+R49، جامع الحاجة صبرية، طريق بغداد، كركوك،،، كركوك،,2,126
+120,ماكولات بتام,ChIJ884607bXVBURwt4EqGaJmXM,35.4738519,44.3862522,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9FP+GGJ, Republic St, Kirkuk",2,0
+121,ماكولات وستا محمد,ChIJPZY2S34pVRURjA1NLdD4xuE,35.4105819,44.42356590000001,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","CC6F+6CP، القادسية الثانية، كركوك،, Kirkuk",2,0
+122,ماكولات سريعة,ChIJ92O7R3zZVBURFklZIRz5nLw,35.3975115,44.3640576,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","99X7+2J4, Kirkuk",2,2
+123,ماكولات مصطفى,ChIJJ5eHL_XVVBUR84vBfVwi4n4,35.4783174,44.3912652,2.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9HR+8GC, Kirkuk",2,2
+124,SUNBULA Fast Food,ChIJE7eH6LbXVBUR5AXqM9_Tdfo,35.443424,44.3769219,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C9VG+9RC, Kudus Cd, Kirkuk",2,271
+125,مأكولات ابو سند,ChIJcyfzM6HXVBURryzgh0tf2zw,35.4399864,44.36315159999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",C9R7+27، كركوك،،,2,6
+126,ماكولات كرايب,ChIJoW1R4XrXVBURHWCN0ArgYYM,35.4104308,44.389511,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","C96Q+5R6, Kirkuk",2,9
+127,مأكولات سوران,ChIJIwgzEgTXVBURhOav0iEGr1E,35.4666329,44.3798895,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F98H+MX2، كركوك،, Kirkuk",2,0
+128,Saeed Restaurant ماكولات سعيد,ChIJYdsO7DjWVBUR6ZVa5ygai0Y,35.4590992,44.3818175,3.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","Baghdad Rd, Kirkuk",2,7
+129,ماكولات ابو علي,ChIJpXbnMF7dVBURrDvQvQV-w0E,35.3637885,44.3075599,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع الوكلاء،,2,3
+130,Food Zabid,ChIJfSWIvpbXVBURVQlsy3nSxd8,35.4297721,44.37493,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","C9HF+WX3, Baghdad Rd, Kirkuk",2,568
+131,ماكولات دايي,ChIJu1HCyR3ZVBURzRROK6ggBOY,35.412544,44.3647009,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",C977+2V8، طريق بغداد،، كركوك،,2,2
+132,مأكولات يحيى,ChIJE6Qs7JDFVBURXbjXVpD5964,35.4454476,44.2408008,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",كركوك يايسي كسباسي 36001 كركوك يايجي,2,4
+133,مأكولات ئالان وئاسو,ChIJafMPaRDVVBURVGmPXLAJ1LU,35.4889773,44.3981751,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",F9QX+H7V، رحيماوه،,2,4
+134,مأكولات ناطق ابو القوزي,ChIJsztutbHXVBURy_pGxZ1flQk,35.4195409,44.3688754,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","C999+VH8، طريق بغداد، كركوك،, Kirkuk",2,7
+135,مأكولات الساعة (مأكولات سيد),ChIJBZfCGiLZVBURFgDPzEI0Yns,35.40435009999999,44.3604862,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","C936+P5H, Kirkuk",2,14
+136,مأكولات يا هلا,ChIJWR8eVMgpVRUR-T0QnvMUPIc,35.4165168,44.4192943,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","CC89+JP4, Kirkuk",2,0
+137,مأكولات حيدر,ChIJW_GRSyMpVRUR_NAcXkpZFgw,35.4366014,44.421067,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",CCPC+JCW، كركوك،,2,2
+138,مأكولات شاهين,ChIJbfmnwlLXVBUR1rgdMizxqI4,35.4695653,44.38504289999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",F99P+R2W، كركوك،،,2,0
+139,ماكولات گوران,ChIJddPgd9ApVRURCiLjJX22t-o,35.4590452,44.4101516,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","FC56+J36، شورجة، كركوك،, Kirkuk",2,2
+140,ماكولات المصطفى,ChIJrYDEAZ8pVRURMGOngeNclaI,35.4391946,44.4137861,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","CCQ7+MGF، الحرية، كركوك،, Kirkuk",2,1
+141,مأكولات جمانه,ChIJb20GBhrXVBURupQP_61Xfbg,35.414884,44.3967303,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C97W+XM5, Kirkuk",2,0
+142,مأكولات ابو بلال,ChIJh7CYp3LZVBURiJr_6r9FoYU,35.4122583,44.3496129,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C86X+WV6, Kirkuk",2,0
+143,Master Food,ChIJ4d4D0vvXVBUR_NivwYS10U0,35.4349209,44.376795,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","C9MG+WPC, Kirkuk",2,309
+144,مأكولات علي,ChIJt-IV3IUpVRURDFK4jGLDkvg,35.4194918,44.41934,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","CC99+QPW، Unnamed Road، كركوك،, Kirkuk",2,26
+145,ماكولات سيد بهروز,ChIJ-5FEceIpVRURoRMml82vg-U,35.45257180000001,44.4115599,4.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","FC36+2JV، كركوك،, Kirkuk",2,8
+146,مأكولات اركان,ChIJO8EfPmnWVBURsiX3v1Bijj0,35.4717811,44.3741679,3.4,"['restaurant', 'point_of_interest', 'food', 'establishment']","F9CF+PM7، العراق كركوك شارع ساحه الطيران, Kirkuk",2,5
+147,Food paradise,ChIJB-YJDWXVVBURPHDFEiRUiCI,35.49025779999999,44.3956423,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']",F9RW+473، رحيماوه،,2,17
+148,ماكولات روما,ChIJndzlRFzXVBURVWAZN2khccs,35.4130002,44.39141739999999,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","C97R+5HV, Asraa Caddesi, Kirkuk",2,26
+149,مأكولات شاهانه,ChIJ3_4JewEpVRURYev_RsyRBsM,35.4331987,44.41785369999999,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","CCM9+74H, Kirkuk",2,2
+150,ماكولات رياض,ChIJBbgImr0pVRURUwjE14ldYEo,35.4630459,44.4066396,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FC74+6M6, Kirkuk",2,1
+151,ماكولات رشيد,ChIJD7VrSHPXVBUR9HCQ5_LIY-Y,35.4701533,44.3832356,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",كركوك،، F9CM+38F، كركوك،,2,1
+152,ماكولات ابوشهاب,ChIJQ-Ex-dfXVBURNqznPRYbMUw,35.4666329,44.3798895,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",Kirkuk,2,1
+153,مأكولات نارنج,ChIJ8-PfoGfXVBURgCOrvdvcRGI,35.4375327,44.3774684,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C9QH+22C, Kirkuk",2,3
+154,مأكولات البركه,ChIJ53-QEuLZVBURdtuAMUBoGrI,35.4178869,44.3565716,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","C994+8Q7, Kirkuk",2,0
+155,Prince Seafood,ChIJC8UNe5_XVBURps7MtN-X8u0,35.4373369,44.3642956,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","C9P7+WPH, Kirkuk",2,30
+156,ماكولات دامبي واورهان,ChIJ8wAUMZDXVBURSTj_9HjUn44,35.4855805,44.3706926,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","F9PC+774, Kirkuk",2,2
+157,مأكولات أومييد,ChIJZYfTtjApVRURFZ0SIQqJpfw,35.4364338,44.4213391,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",CCPC+HGG، كركوك،,2,0
+158,مأكولات هيمن,ChIJR_oI9uYrVRURK_UDQakBlD0,35.4837085,44.4139615,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FCM7+FHG، Unnamed Road, Kirkuk",2,0
+159,مأكولات عنايات,ChIJEd6vJazdVBURtVGwwe7YaW8,35.3638488,44.3081339,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",شارع الوكلاء،,2,0
+160,مطعم شعبي,ChIJTxKGqE7TVBURBgpAnKR0YL4,35.5241983,44.3110952,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","G8F6+MCH، Unnamed Road, Kirkuk",2,7
+161,مأكولات عوافي,ChIJ8-6TRrfXVBURmt7jQ0UKQwQ,35.4785634,44.3846768,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9HM+CVF, Kirkuk",2,55
+162,مأكولات بابان,ChIJ8zmhKBjVVBUR6CjuzaaxjtY,35.4890643,44.3959199,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9QW+J9F, Road, Kirkuk",2,194
+163,‏مأكولات واي بابامد واي,ChIJ4ZuS1C3XVBURBy0dFomxbg4,35.4732067,44.3856407,2.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","مركز مدينة, حي المنصور، Kirkuk",2,11
+164,مأكولات أبو يوسف,ChIJvYlpuzfdVBURKZzJU_KZmPc,35.3639624,44.3124951,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","حي الصناعة كركوك, صناغ",2,0
+165,مأكولات مريوان,ChIJlcDGIjLdVBURR-ywxx4NxnY,35.3634594,44.30833579999999,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع الوكلاء،,2,2
+166,ماكولات الفراشه,ChIJbU-0XyDXVBURN8BzUY_NnD8,35.4168005,44.37785830000001,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C98H+P4H، Unnamed Road, Kirkuk",2,0
+167,ماكولات هاني,ChIJVW6ib0PdVBUR_lQk8JNIWNQ,35.3649259,44.3102761,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9876+X4C, Kirkuk",2,0
+168,مأكولات ايبو,ChIJ-bKgPN3VVBURhzpYH5pnQBQ,35.4979769,44.3941964,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",F9XV+5MW، كركوك،,2,0
+169,مأكولات مهدي,ChIJn1n99QrXVBUR8oZ1GXajYMI,35.4729375,44.3855625,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Kirkuk,2,3
+170,مأكولات بالا,ChIJJ31tEc6FAEARNcIgjH2TV0w,35.6348679,44.3794103,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","J9MH+WQV، Unnamed Road, حەسار،، حەسار،، حەسار",2,3
+171,ماكولات حسن,ChIJJScFnqnXVBURV6T05uut2kw,35.4666329,44.3798895,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F98H+MX2, Kirkuk",2,0
+172,مأكولات حسكي,ChIJXXnH6H4pVRURLH_pvfsWvo8,35.4340335,44.4001848,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الشهداء الثانية، كركوك، CCM2+J3F كركوك حي الشهداء الثانيه,2,1
+173,مأكولات ابراهيم سندوتشات القيمة,ChIJA_yb3hPWVBUR1y83amjNEno,35.4691001,44.3848835,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","F99M+MX8، گەڕەکی بەگلەر، كركوك،, Kirkuk",2,12
+174,مطعم ماكولات كاك شيرزاد,ChIJd439OSIpVRURHo03bRlYCCo,35.3963125,44.4459375,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",9CWW+G9، كركوك،,2,2
+175,مأكولات الحجي,ChIJcwjEFUopVRURJm8CWxyyTT0,35.4106944,44.4235697,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","CC6F+7CG، كركوك،, Kirkuk",2,0
+176,مأكولات غازي,ChIJ4ePr4EfXVBUR3KZ_AtkRCtw,35.4312587,44.3498813,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",C8JX+9W8، كركوك،,2,1
+177,مأكولات علي,ChIJ9z0sf1rZVBURzbIjzUNb-ig,35.4143169,44.3270312,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C87G+PR6, Kirkuk",2,0
+178,مأكولات حماده.restorant.hamada,ChIJc0KDRUfVVBURt903qc9Wt84,35.5128304,44.3938442,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Kirkuk,2,0
+179,مأكولات البيك,ChIJL0r_4gPXVBUR4BL0tx6qMus,35.447928,44.3707183,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C9XC+579, شارع تسعين, Kirkuk",2,2
+180,The lounge cafe - البهو,ChIJhbx_RNTXVBURBLNAmP5jdjQ,35.4390139,44.37656579999999,4.0,"['cafe', 'point_of_interest', 'food', 'establishment']","Qudes, street",2,20
+181,Papula Cafe,ChIJAfA5eYbVVBURXIUUn-0LiuM,35.5216844,44.3822279,3.4,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']","G9FJ+2WX, Kirkuk",2,7
+182,CoffeedbyViiix,ChIJNYJ2LTUpVRURZXvD35gNsgI,35.4666247,44.4095643,0.0,"['cafe', 'point_of_interest', 'food', 'establishment']","Al-Baghdady Center, Azadi Hospital street, Kirkuk",2,0
+183,Daimond Cafe,ChIJcVfMODLXVBURcKhk1yoF35c,35.4811306,44.3833669,3.9,"['cafe', 'point_of_interest', 'food', 'establishment']","F9JM+F85, Kirkuk",2,339
+184,Tasty Gardens Cafe & Rest,ChIJRYmmeQcpVRUR1rd62kMAY98,35.4725942,44.4025914,5.0,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']","FCF3+22Q, Kirkuk",2,1
+185,كوفي شوب بوبجي,ChIJ5RxB9dHZVBURdMbHEmLGRKo,35.421648,44.3430205,4.0,"['cafe', 'point_of_interest', 'food', 'establishment']","C8CV+M66, Kirkuk",2,12
+186,Box Cafe,ChIJY2AdJ4LXVBURdGe7ADqVZNM,35.4451261,44.3764997,4.5,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']","Kudus Cd, Kirkuk",2,118
+187,Box Cafe,ChIJ4bVVg8vZVBURw2AYD7cEwbc,35.4158309,44.3671388,4.5,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']","Mosque - Shop Number 1106, Baghdad Street - Next to Tariq Saraf, Kirkuk",2,145
+188,Nitro Café,ChIJZTR7cmHXVBURxNE7TNGfOW4,35.4711083,44.3740128,3.9,"['cafe', 'point_of_interest', 'food', 'establishment']","F9CF+CJR, Unnamed Road, Kirkuk",2,15
+189,Rozh Cafe,ChIJof94N3bVVBUR4Ytqk0pzHkE,35.4909648,44.3881198,4.4,"['cafe', 'point_of_interest', 'food', 'establishment']","F9RQ+96H, Ali Mardan St, Kirkuk",2,47
+190,كوفي الرشيد -Cafe Alrashid,ChIJhdl11krZVBURFAZ2xgo2cDw,35.3961969,44.3879063,4.2,"['cafe', 'point_of_interest', 'food', 'establishment']","99WQ+F5M, شارع دوميز،،, Kirkuk",2,5
+191,BBA Cafe,ChIJd-q_oIvVVBURINaRcZ78jVI,35.4971127,44.3973168,0.0,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']","F9WW+RW, Kirkuk",2,0
+192,Lalo cafe,ChIJRwiJlIrXVBURtoAx20SKOnc,35.476949,44.3795843,4.0,"['cafe', 'point_of_interest', 'food', 'establishment']","F9GH+QRQ, Shari Almas, Kirkuk",2,1
+193,Classico Cafe,ChIJiQzHi6nXVBURQQe1IATJo5w,35.4720386,44.38488299999999,5.0,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']","F9CM+RX6, Republic St, Kirkuk",2,2
+194,Grand cafe & lounge,ChIJ-YQY5XYpVRURGjbZUJ9osq8,35.4595719,44.4099661,4.7,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']","FC55+RXG, Kirkuk",2,3
+195,Castro Cafè,ChIJ2VLDDD7XVBURdGIaQAobU8I,35.4590326,44.3821778,4.5,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']","طريق بغداد،شارع محافظة كركوك العراd bfhxbcvxfgsgcnxgnckzbx &"". ;"":; :;/// *ق",2,22
+196,Dialogue cafe,ChIJUdaL40_XVBUR179pbUzumJQ,35.4763106,44.38949299999999,4.3,"['cafe', 'point_of_interest', 'food', 'establishment']","F9GQ+GQH, Republic St, Kirkuk",2,12
+197,Holiday café,ChIJvYYKTWzXVBURMou3PBkYkxg,35.4376268,44.375689,3.5,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']","C9QG+372, Kudus Cd, Kirkuk",2,2
+198,Paradise cafe,ChIJvYy6upnXVBUR6Wmn_72N01M,35.4346761,44.3703521,4.0,"['cafe', 'point_of_interest', 'food', 'establishment']",شارع القدس، قرب جامع أبرار كركوك،، Iraq,2,254
+199,Lokma cafe,ChIJiWqjqmbXVBUR37aFwbDdg6A,35.4571689,44.3816754,4.4,"['cafe', 'point_of_interest', 'food', 'establishment']","F94J+VM7, Baghdad Rd, Kirkuk",2,7
+200,كوفي الأسطورة حسون,ChIJO0U3vebXVBUR_V1mQ8zBEUI,35.4321275,44.361683,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","C9J6+RPV, Kirkuk",2,1
+201,Layalina Cafe,ChIJObLnuJXXVBURrYU6I-msXGE,35.4368667,44.3602104,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","C9P6+P3W, Khathra, near khathra petrol station, Kirkuk",2,0
+202,Shar coffee,ChIJJRLq7QnWVBURqU3mQnSZozk,35.4798821,44.3857177,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","F9HP+X73, Kirkuk",2,58
+203,كوفي شوب ليالي عرفة layalee arafa cofe shop,ChIJBdl0K3jWVBURzoiWTvvtz5g,35.4856432,44.3707183,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","F9PC+774, Kirkuk",2,28
+204,H&h Cafeteria,ChIJH2dSYpQrVRUR_hm3o_CXNp4,35.4728155,44.4131954,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","FCF7+47G, Kirkuk",2,17
+205,مقهى الانسان الثقافي,ChIJ1VekX6rXVBURmIb0VbUGNto,35.4710766,44.3848102,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","F9CM+CWM, Kirkuk",2,3
+206,Kirkuk cultural cafe,ChIJK6D5ZL_VVBUR5K1cAT_dQOk,35.4850594,44.3967778,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']","F9PW+2PC, Unnamed Road, Kirkuk",2,3
+207,قاپوتەکان,ChIJmf1klsPXVBUR1QHkTxAVgfI,35.4706948,44.3836465,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","F9CM+6C8, Kirkuk",2,0
+208,كافتريا حمودي كوفي,ChIJORwozM7ZVBURGAnT4aKirXI,35.4122527,44.3496317,4.5,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C86X+WV6, Kirkuk",2,11
+209,القيثارة الخضراء,ChIJW-umNkrXVBURaMg_flT5CJQ,35.5013732,44.3353273,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","G82P+H44, Unnamed Road, Kirkuk",2,11
+210,Coffee shop Kirkuk Park,ChIJ0VtMlyXYVBURmJFdurEqJb4,35.410658,44.3718694,3.6,"['cafe', 'food', 'point_of_interest', 'establishment']","C96C+5PW, Kirkuk",2,8
+211,Paradise cafe,ChIJhdjT9j7XVBURYiDHVDE1uuk,35.4496126,44.3841516,3.2,"['cafe', 'food', 'point_of_interest', 'establishment']","C9XM+QMR، شارع القدس, Kirkuk",2,5
+212,Box Cafe,ChIJ8zU19RjZVBURhpGJhqH057g,35.3944147,44.3392326,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","University of Kirkuk, Kirkuk",2,3
+213,Apple cafteria,ChIJYyGCRHgpVRURQ3ou0U-fkQM,35.4597419,44.414328,3.3,"['cafe', 'food', 'point_of_interest', 'establishment']","FC57+WQ6, Kirkuk",2,24
+214,Cafe4:42,ChIJpy03KM7XVBUR-QvIxn1JnR8,35.4666329,44.3798895,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","مدرسة حطين, ساحة طيران مقابيل, Kirkuk",2,1
+215,Coffee180,ChIJLbrTe_PXVBURNZNLrfDXBq0,35.4405625,44.3766875,4.1,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","Kudus Cd, Kirkuk",2,7
+216,مقهى تريو treo cafe,ChIJY1xqXKfXVBURvAxh5UacoTY,35.4244087,44.3722086,1.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C9FC+QV8، طريق بغداد، كركوك،, Kirkuk",2,1
+217,Deal Dough Cafe,ChIJWVmjpN7XVBUR9xMQtye_nuQ,35.4692746,44.36698699999999,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","F998+PQ5, Kirkuk",2,0
+218,كافتريا خةيام,ChIJmRihFSGDAEAR96Ljo9HPy10,35.6348508,44.3045558,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","J8M3+WRV, Kalwor",2,7
+219,OSCAR CAFE,ChIJudAkKknZVBURK9ua7CbiEO0,35.4076653,44.3615607,4.2,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C956+3JC، طريق بغداد، كركوك،, Kirkuk",2,32
+220,Empire Cafe & Wash,ChIJHeBBAo7VVBURyil2JEDygMY,35.51151249999999,44.38595309999999,3.4,"['cafe', 'food', 'point_of_interest', 'establishment']","G96P+J94, Kirkuk",2,5
+221,MARS Coffee House,ChIJm7ni-TTXVBURobiVFV-6910,35.4383527,44.3762012,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","C9QG+9FH Green Mall، Qudes Street, Kirkuk",2,123
+222,T café,ChIJQ9-IX7yBAEARfeXtXn3fnTQ,35.5724827,44.3672937,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","H9C8+XWV, Kirkuk",2,0
+223,Kofi Jadiriyah,ChIJaW1Yrp7XVBURh9oVhSzIFHs,35.4331855,44.3663958,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","C9M8+7HC, Kudus Cd, Kirkuk",2,235
+224,MARS Coffee House 2,ChIJMYyF8KvXVBURpmJG3zC_pns,35.443225,44.3797891,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","Baghdad Road / boulevard, Kirkuk",2,73
+225,Moscow Cafe,ChIJUYFZLUspVRURgKwUmYuaN34,35.4716458,44.4044759,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FCC3+MQ4, Kirkuk",2,0
+226,Dario Cafe - Kirkuk - Time Center Mall,ChIJtxv4nkLVVBUR6J4WMVzHcE8,35.4959003,44.3954356,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","Time Centre Mall, Kirkuk",2,119
+227,Esina Cafe,ChIJrxYpmDXWVBURVMXjX2N3Qjg,35.4502409,44.3814258,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","F92J+3HW, Kirkuk",2,162
+228,انيشتاين كافيه كركوك - einstein cafe Kirkuk,ChIJ6Xkz76fXVBUReCToYMG7mLA,35.4573125,44.3816875,4.3,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","طريق بغداد، كركوك،, Kirkuk",2,26
+229,Malek cafe,ChIJr464qfErVRUReVOgQgckENc,35.4875921,44.4051354,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FCQ4+22X, ريكاى بردى ئازادى, Kirkuk",2,0
+230,ليالي كركوك كافيه,ChIJcx7jvnfXVBURaozncvH-TEQ,35.4786223,44.3848648,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","F9HM+CWX، كركوك،, Kirkuk",2,20
+231,داون تاون كافيه,ChIJ_-mRaifXVBURz2wuQJqjyr0,35.4528708,44.3831215,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",F93M+56، كركوك،,2,2
+232,مقهى بشكتاش,ChIJYQJNQfbXVBURDXvZBfg4uiE,35.4671156,44.3790503,4.3,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","F98H+RJV, Unnamed Road, Kirkuk",2,7
+233,o1 cafe,ChIJ1awrk4PZVBURhV9XAMw-XRc,35.4152443,44.35087499999999,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","C972+W32, Kirkuk",2,0
+234,Roma Cafe,ChIJ2ckZcBsqVRUREvtIDS8kQH0,35.4742817,44.4104851,4.2,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FCF6+P67, Kirkuk",2,92
+235,Kayf cafe kirkuk,ChIJScr-sUrXVBUR2rlpFjk3tB8,35.4572486,44.3816909,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","F94J+VMW، طريق بغداد،شارع المحافظة، كركوك،, Kirkuk",2,27
+236,Coffee shadow,ChIJD5KMGjDZVBURiy5sc7u54ao,35.4199211,44.3501081,4.8,"['cafe', 'food', 'point_of_interest', 'establishment']","C992+X29, Kirkuk",2,4
+237,Boba Town,ChIJLwWlHrLXVBURJmPKFxtdfhs,35.4610304,44.3835104,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","F96M+CC9, Province St, Kirkuk",2,3
+238,مقهى الخيمة Al Khaimah Cafe,ChIJ_ROX86fZVBURl9hYXBkf03s,35.4101483,44.3631534,2.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",C967+374، C957+VG2، كركوك،،، كركوك،,2,1
+239,Lale cafe,ChIJEeCRiHTXVBURXi3l1s1SS30,35.46425139999999,44.3879088,4.8,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",F9FQ+94V، كركوك،,2,4
+240,Kirspy Rest & Cafe,ChIJedlOuW-bVBUR8trP5EulTWU,35.3292014,43.9436788,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8WHV+MFM, Unnamed Road Kristen, Al Qasad",2,1
+241,مشويات عامر,ChIJ141YP-6dUxURZCbWu3L1u-c,35.2764905,43.6264401,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","7JGG+HHW, Arsah",2,6
+242,مشويات ابو ايهم,ChIJCxCE1JCdUxURSIfCvnWGWXk,35.2746507,43.6253316,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","7JFG+V48, Arsah",2,4
+243,مطعم الحويجة,ChIJ4ZO3YIx_UxURGIvyk7r6Vhc,35.3218428,43.76958519999999,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QC9+QR3, Hawija",2,123
+244,مطعم ومشويات فرات,ChIJn8DJqXJ_UxURNPFlPmnJzkY,35.3175463,43.7672195,3.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","اعدادية الحويجة للبنين، سايدين جسر التحدي قرب، جسر التحدي, Hawija",2,5
+245,مشويات دجله,ChIJ4Ui8pwJ_UxUR4JNnntEZTV0,35.3227904,43.7704265,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QFC+457, Hawija",2,5
+246,مطعم وگص عزيز,ChIJE9_zZ6N_UxURvk6cjqBNQgE,35.3241195,43.7730482,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","Unnamed Road, Hawija",2,22
+247,مطعم ابن هلال,ChIJTXpV7iZ_UxURGzKy0RSZjeM,35.3205318,43.7677961,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QC9+642، الحويجة،،,2,1
+248,مطعم ركن العزائم,ChIJ_dNttI5_UxURccTG1M--EYg,35.3250599,43.7735755,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QGF+2CG, Hawija",2,167
+249,مطعم شناشيل بغداد,ChIJGevWbpF_UxURj2SeYDKh56Q,35.3245114,43.7765735,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFG+RM7، الحويجة،،,2,0
+250,طرشي ومخللات الزيتونه,ChIJJ7hCghSdUxURVe5-llANnpg,35.2745439,43.5943213,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","السوق الكبير, Al-Abbasi",2,1
+251,فلافل و دجاج الريان,ChIJtykQgxSHVBURZWsYnYWHjXY,35.26599059999999,43.908751,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",7W85+9GR، القصد،,2,2
+252,دجاج هوبي,ChIJVzEuoWd_UxUR2BvdvzXVAxw,35.324521,43.7726491,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFF+M5G، الحويجة،,2,6
+253,مطعم ومشويات ماشاء الله,ChIJYUIk2PCDVBURipT3KDH7MIA,35.3431281,43.8090938,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",8RV5+6M، الحويجة،,2,5
+254,ماكولات,ChIJHebwGZR_UxURGcoxHJYswPI,35.3248248,43.7669217,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QF8+WQF، الحويجة،,2,0
+255,مشويات الاخوين محمد و احمد,ChIJLRaxnHKdUxURS_XXBf20sJc,35.27449,43.5945831,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","7HFV+QRW, Al-Abbasi",2,1
+256,مطعم شناشيل بغداد,ChIJqRDppbZ_UxURhyAFXT5UGoc,35.3248248,43.7669217,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QF8+WQF، الحويجة، كركوك،, Hawija",2,0
+257,دجاج مدحت,ChIJXfcKeqJ_UxURcfey7YklGfA,35.3248248,43.7669217,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QF8+WQF, Hawija",2,0
+258,ماكولات سعد,ChIJNTDi9s1_UxURA9HpaR0jnCg,35.3226285,43.7706041,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFC+376، الحويجة،,2,0
+259,دجاج صوفي,ChIJ5zVGNut_UxUREbmgWPagsno,35.3253906,43.7717411,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QGC+5M5، الحويجة،,2,0
+260,مأكولات الريحانه لحم بعجين وبيتزأ وكاهي,ChIJBaMZvWJ_UxUR2K3mZFYKH2c,35.3248248,43.7669217,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QF8+WQF، الحويجة،,2,0
+261,مطعم مهند ابو الكص,ChIJ-wut5ax_UxURCL4JgO4QIpU,35.3252986,43.7755359,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QGG+467، الحويجة،,2,1
+262,دجاج عبدالقادر,ChIJnXzCT01_UxURM7uats4xJ1A,35.3246578,43.7720609,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFC+VR7، 8QFF+M5G، الحويجة،،، الحويجة،,2,0
+263,مطعم باسل ابو الكص,ChIJXVYvRnp_UxURaKiNE20WI8U,35.3245896,43.7761352,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFG+RFV، الحويجة،،,2,2
+264,شوايه غازي,ChIJiQdXILh_UxURSe2wBF2o9bs,35.3245086,43.7763079,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QFG+QGV، الحويجة،،،, Hawija",2,1
+265,مأكولات ياسر,ChIJvabadXR_UxURm0kRQE6Dk2w,35.3242495,43.7735866,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QFF+PC7، Unnamed Road،، الحويجة،, Hawija",2,4
+266,مشويات حيدر الواسم,ChIJKyVPNXZ_UxURt2N4hcETkNM,35.3227836,43.77043399999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QFC+457, Hawija",2,0
+267,مطعم ومشويات أثير الجبوري,ChIJtcyDxQJ_UxURacFyJ2uryXA,35.3248248,43.7669217,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع القصاصيب, Hawija",2,0
+268,مطعم الدخيل,ChIJeb5_IEl_UxURCtejZgEYqTs,35.322422,43.773319,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QCF+X88، جسر التحدي، الحويجة،, Hawija",2,1
+269,مطعم وگص مهند,ChIJtbj4BnF_UxUR2j1zxW68Csg,35.3301691,43.77035,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QJC+349، Unnamed Road، الحويجة،، الحويجة،، الحويجة،, Hawija",2,1
+270,مطعم ومشويات ابو زيد,ChIJT4scOhGDVBUR9oWfIckrjF0,35.3404764,43.8039196,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8RR4+G37، الحويجة،،,2,1
+271,مشويات ومأكولات عبدالله حياتي,ChIJfSMa5PR_UxURaDUVcIyTOZ0,35.3224775,43.7703984,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QCC+X5R، Unnamed Road، الحويجة،, Hawija",2,15
+272,مطعم وكباب الهلال,ChIJ0QBWSqR_UxURcQpmu3LQEO4,35.32305729999999,43.7736407,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","كركوك الحويجة، جسر التحدي, مقابل",2,192
+273,مشويات ابو العيس,ChIJKRBg9Rh_UxURlCRgk_e9q3Q,35.3232364,43.7731157,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFF+76X، الحويجة،,2,0
+274,مشويات صلاح الجميلي,ChIJF39uJAh_UxURum_CMng3s7g,35.3226895,43.77032310000001,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFC+34G، الحويجة،,2,1
+275,قهوة دهر الكبيت,ChIJv3vUhnF_VBUR3g_I_lY-S9A,35.2063228,43.80478960000001,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","6R43+GWF, Alsafrh",2,13
+276,محلت عيسى المحسن,ChIJZx-S3MB5UxUR-OU6JiXSqtE,35.3868454,43.6378798,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",9JPQ+Q45,2,1
+277,سوق الكصاصيب,ChIJA8x_ckabUxUR3sHLSUJQdS4,35.2724165,43.5913766,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","7HCR+XG9، Unnamed Road, Al-Abbasi",2,6
+278,محلات فيصل الفارس,ChIJw7hi_IubUxURSwY0XNUPCso,35.2737977,43.5929701,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","7HFV+G59, Al-Abbasi",2,1
+279,سوق الدجاج,ChIJQ1mTKW5_UxUReKWRSHttef8,35.3220541,43.7708133,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QCC+R8G، الحويجة،,2,4
+280,محل سلام ابو جمانه,ChIJ0Snog6CdUxURwyVSkuOWCmk,35.2758081,43.6229192,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",7JGF+952، عرصة،,2,0
+281,مشويات الواحه,ChIJ8ygWDf5_UxURmlOrH3-dM6c,35.3238013,43.7632436,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QF7+G7H, Hawija",2,0
+282,محل خميس الصياد لبيع الدجاج الحي,ChIJf1DJM8d_UxURBHAQTDDtpkQ,35.32738790000001,43.7682255,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QG9+X75, Hawija",2,3
+283,سوق قصابة الحويجة,ChIJKwCbhnh_UxUR1bKVYViuz-0,35.322312,43.7701766,2.0,"['store', 'restaurant', 'food', 'point_of_interest', 'establishment']","8QCC+W3P، Unnamed Road، الحويجة،, Hawija",2,1
+284,مطعم الحويجة,ChIJ4ZO3YIx_UxURGIvyk7r6Vhc,35.3218428,43.76958519999999,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QC9+QR3, Hawija",2,123
+285,مطعم ركن العزائم,ChIJ_dNttI5_UxURccTG1M--EYg,35.3250599,43.7735755,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QGF+2CG, Hawija",2,167
+286,فلافل و دجاج الريان,ChIJtykQgxSHVBURZWsYnYWHjXY,35.26599059999999,43.908751,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",7W85+9GR، القصد،,2,2
+287,مأكولات الريحانه لحم بعجين وبيتزأ وكاهي,ChIJBaMZvWJ_UxUR2K3mZFYKH2c,35.3248248,43.7669217,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QF8+WQF، الحويجة،,2,0
+288,مطعم ومشويات فرات,ChIJn8DJqXJ_UxURNPFlPmnJzkY,35.3175463,43.7672195,3.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","اعدادية الحويجة للبنين، سايدين جسر التحدي قرب، جسر التحدي, Hawija",2,5
+289,مطعم ابن هلال,ChIJTXpV7iZ_UxURGzKy0RSZjeM,35.3205318,43.7677961,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QC9+642، الحويجة،،,2,1
+290,مطعم الدخيل,ChIJeb5_IEl_UxURCtejZgEYqTs,35.322422,43.773319,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QCF+X88، جسر التحدي، الحويجة،, Hawija",2,1
+291,مشويات ومأكولات عبدالله حياتي,ChIJfSMa5PR_UxURaDUVcIyTOZ0,35.3224775,43.7703984,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QCC+X5R، Unnamed Road، الحويجة،, Hawija",2,15
+292,مطعم ومشويات ماشاء الله,ChIJYUIk2PCDVBURipT3KDH7MIA,35.3431281,43.8090938,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",8RV5+6M، الحويجة،,2,5
+293,Kirspy Rest & Cafe,ChIJedlOuW-bVBUR8trP5EulTWU,35.3292014,43.9436788,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8WHV+MFM, Unnamed Road Kristen, Al Qasad",2,1
+294,مطعم ومشويات أثير الجبوري,ChIJtcyDxQJ_UxURacFyJ2uryXA,35.3248248,43.7669217,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع القصاصيب, Hawija",2,0
+295,مشويات ابو ايهم,ChIJCxCE1JCdUxURSIfCvnWGWXk,35.2746507,43.6253316,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","7JFG+V48, Arsah",2,4
+296,مطعم وگص عزيز,ChIJE9_zZ6N_UxURvk6cjqBNQgE,35.3241195,43.7730482,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","Unnamed Road, Hawija",2,22
+297,مطعم ومشويات ابو زيد,ChIJT4scOhGDVBUR9oWfIckrjF0,35.3404764,43.8039196,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8RR4+G37، الحويجة،،,2,1
+298,مطعم وكباب الهلال,ChIJ0QBWSqR_UxURcQpmu3LQEO4,35.32305729999999,43.7736407,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","كركوك الحويجة، جسر التحدي, مقابل",2,192
+299,مشويات دجله,ChIJ4Ui8pwJ_UxUR4JNnntEZTV0,35.3227904,43.7704265,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QFC+457, Hawija",2,5
+300,مشويات صلاح الجميلي,ChIJF39uJAh_UxURum_CMng3s7g,35.3226895,43.77032310000001,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFC+34G، الحويجة،,2,1
+301,قهوة دهر الكبيت,ChIJv3vUhnF_VBUR3g_I_lY-S9A,35.2063228,43.80478960000001,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","6R43+GWF, Alsafrh",2,13
+302,شوايه غازي,ChIJiQdXILh_UxURSe2wBF2o9bs,35.3245086,43.7763079,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QFG+QGV، الحويجة،،،, Hawija",2,1
+303,طرشي ومخللات الزيتونه,ChIJJ7hCghSdUxURVe5-llANnpg,35.2745439,43.5943213,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","السوق الكبير, Al-Abbasi",2,1
+304,مطعم باسل ابو الكص,ChIJXVYvRnp_UxURaKiNE20WI8U,35.3245896,43.7761352,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFG+RFV، الحويجة،،,2,2
+305,مطعم مهند ابو الكص,ChIJ-wut5ax_UxURCL4JgO4QIpU,35.3252986,43.7755359,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QGG+467، الحويجة،,2,1
+306,مشويات حيدر الواسم,ChIJKyVPNXZ_UxURt2N4hcETkNM,35.3227836,43.77043399999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QFC+457, Hawija",2,0
+307,محلت عيسى المحسن,ChIJZx-S3MB5UxUR-OU6JiXSqtE,35.3868454,43.6378798,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",9JPQ+Q45,2,1
+308,مشويات الاخوين محمد و احمد,ChIJLRaxnHKdUxURS_XXBf20sJc,35.27449,43.5945831,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","7HFV+QRW, Al-Abbasi",2,1
+309,ماكولات,ChIJHebwGZR_UxURGcoxHJYswPI,35.3248248,43.7669217,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QF8+WQF، الحويجة،,2,0
+310,مأكولات ياسر,ChIJvabadXR_UxURm0kRQE6Dk2w,35.3242495,43.7735866,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QFF+PC7، Unnamed Road،، الحويجة،, Hawija",2,4
+311,مطعم شناشيل بغداد,ChIJGevWbpF_UxURj2SeYDKh56Q,35.3245114,43.7765735,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFG+RM7، الحويجة،،,2,0
+312,مطعم شناشيل بغداد,ChIJqRDppbZ_UxURhyAFXT5UGoc,35.3248248,43.7669217,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QF8+WQF، الحويجة، كركوك،, Hawija",2,0
+313,مطعم وگص مهند,ChIJtbj4BnF_UxUR2j1zxW68Csg,35.3301691,43.77035,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QJC+349، Unnamed Road، الحويجة،، الحويجة،، الحويجة،, Hawija",2,1
+314,مشويات ابو العيس,ChIJKRBg9Rh_UxURlCRgk_e9q3Q,35.3232364,43.7731157,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFF+76X، الحويجة،,2,0
+315,دجاج عبدالقادر,ChIJnXzCT01_UxURM7uats4xJ1A,35.3246578,43.7720609,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFC+VR7، 8QFF+M5G، الحويجة،،، الحويجة،,2,0
+316,ماكولات سعد,ChIJNTDi9s1_UxURA9HpaR0jnCg,35.3226285,43.7706041,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFC+376، الحويجة،,2,0
+317,دجاج مدحت,ChIJXfcKeqJ_UxURcfey7YklGfA,35.3248248,43.7669217,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QF8+WQF, Hawija",2,0
+318,دجاج هوبي,ChIJVzEuoWd_UxUR2BvdvzXVAxw,35.324521,43.7726491,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFF+M5G، الحويجة،,2,6
+319,مشويات عامر,ChIJ141YP-6dUxURZCbWu3L1u-c,35.2764905,43.6264401,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","7JGG+HHW, Arsah",2,6
+320,دجاج صوفي,ChIJ5zVGNut_UxUREbmgWPagsno,35.3253906,43.7717411,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QGC+5M5، الحويجة،,2,0
+321,مشويات الواحه,ChIJ8ygWDf5_UxURmlOrH3-dM6c,35.3238013,43.7632436,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QF7+G7H, Hawija",2,0
+322,محلات فيصل الفارس,ChIJw7hi_IubUxURSwY0XNUPCso,35.2737977,43.5929701,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","7HFV+G59, Al-Abbasi",2,1
+323,سوق الكصاصيب,ChIJA8x_ckabUxUR3sHLSUJQdS4,35.2724165,43.5913766,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","7HCR+XG9، Unnamed Road, Al-Abbasi",2,6
+324,محل سلام ابو جمانه,ChIJ0Snog6CdUxURwyVSkuOWCmk,35.2758081,43.6229192,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",7JGF+952، عرصة،,2,0
+325,سوق الدجاج,ChIJQ1mTKW5_UxUReKWRSHttef8,35.3220541,43.7708133,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QCC+R8G، الحويجة،,2,4
+326,سوق قصابة الحويجة,ChIJKwCbhnh_UxUR1bKVYViuz-0,35.322312,43.7701766,2.0,"['restaurant', 'food', 'store', 'point_of_interest', 'establishment']","8QCC+W3P، Unnamed Road، الحويجة،, Hawija",2,1
+327,محل خميس الصياد لبيع الدجاج الحي,ChIJf1DJM8d_UxURBHAQTDDtpkQ,35.32738790000001,43.7682255,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QG9+X75, Hawija",2,3
+328,ماكولات,ChIJHebwGZR_UxURGcoxHJYswPI,35.3248248,43.7669217,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QF8+WQF، الحويجة،,2,0
+329,ماكولات سعد,ChIJNTDi9s1_UxURA9HpaR0jnCg,35.3226285,43.7706041,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFC+376، الحويجة،,2,0
+330,مأكولات ياسر,ChIJvabadXR_UxURm0kRQE6Dk2w,35.3242495,43.7735866,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QFF+PC7، Unnamed Road،، الحويجة،, Hawija",2,4
+331,مشويات ومأكولات عبدالله حياتي,ChIJfSMa5PR_UxURaDUVcIyTOZ0,35.3224775,43.7703984,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QCC+X5R، Unnamed Road، الحويجة،, Hawija",2,15
+332,مشويات ابو ايهم,ChIJCxCE1JCdUxURSIfCvnWGWXk,35.2746507,43.6253316,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","7JFG+V48, Arsah",2,4
+333,مأكولات الريحانه لحم بعجين وبيتزأ وكاهي,ChIJBaMZvWJ_UxUR2K3mZFYKH2c,35.3248248,43.7669217,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QF8+WQF، الحويجة،,2,0
+334,مطعم باسل ابو الكص,ChIJXVYvRnp_UxURaKiNE20WI8U,35.3245896,43.7761352,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFG+RFV، الحويجة،،,2,2
+335,مطعم الدخيل,ChIJeb5_IEl_UxURCtejZgEYqTs,35.322422,43.773319,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QCF+X88، جسر التحدي، الحويجة،, Hawija",2,1
+336,طرشي ومخللات الزيتونه,ChIJJ7hCghSdUxURVe5-llANnpg,35.2745439,43.5943213,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","السوق الكبير, Al-Abbasi",2,1
+337,مطعم شناشيل بغداد,ChIJqRDppbZ_UxURhyAFXT5UGoc,35.3248248,43.7669217,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QF8+WQF، الحويجة، كركوك،, Hawija",2,0
+338,مشويات عامر,ChIJ141YP-6dUxURZCbWu3L1u-c,35.2764905,43.6264401,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","7JGG+HHW, Arsah",2,6
+339,مطعم شناشيل بغداد,ChIJGevWbpF_UxURj2SeYDKh56Q,35.3245114,43.7765735,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFG+RM7، الحويجة،،,2,0
+340,مطعم ومشويات فرات,ChIJn8DJqXJ_UxURNPFlPmnJzkY,35.3175463,43.7672195,3.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","اعدادية الحويجة للبنين، سايدين جسر التحدي قرب، جسر التحدي, Hawija",2,5
+341,مطعم ومشويات ماشاء الله,ChIJYUIk2PCDVBURipT3KDH7MIA,35.3431281,43.8090938,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",8RV5+6M، الحويجة،,2,5
+342,محل سلام ابو جمانه,ChIJ0Snog6CdUxURwyVSkuOWCmk,35.2758081,43.6229192,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",7JGF+952، عرصة،,2,0
+343,مطعم ابن هلال,ChIJTXpV7iZ_UxURGzKy0RSZjeM,35.3205318,43.7677961,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QC9+642، الحويجة،،,2,1
+344,Kirspy Rest & Cafe,ChIJedlOuW-bVBUR8trP5EulTWU,35.3292014,43.9436788,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8WHV+MFM, Unnamed Road Kristen, Al Qasad",2,1
+345,مطعم ومشويات ابو زيد,ChIJT4scOhGDVBUR9oWfIckrjF0,35.3404764,43.8039196,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8RR4+G37، الحويجة،،,2,1
+346,مطعم ومشويات أثير الجبوري,ChIJtcyDxQJ_UxURacFyJ2uryXA,35.3248248,43.7669217,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع القصاصيب, Hawija",2,0
+347,دجاج مدحت,ChIJXfcKeqJ_UxURcfey7YklGfA,35.3248248,43.7669217,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QF8+WQF, Hawija",2,0
+348,مطعم مهند ابو الكص,ChIJ-wut5ax_UxURCL4JgO4QIpU,35.3252986,43.7755359,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QGG+467، الحويجة،,2,1
+349,فلافل و دجاج الريان,ChIJtykQgxSHVBURZWsYnYWHjXY,35.26599059999999,43.908751,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",7W85+9GR، القصد،,2,2
+350,مشويات ابو العيس,ChIJKRBg9Rh_UxURlCRgk_e9q3Q,35.3232364,43.7731157,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFF+76X، الحويجة،,2,0
+351,مطعم وگص عزيز,ChIJE9_zZ6N_UxURvk6cjqBNQgE,35.3241195,43.7730482,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","Unnamed Road, Hawija",2,22
+352,شوايه غازي,ChIJiQdXILh_UxURSe2wBF2o9bs,35.3245086,43.7763079,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QFG+QGV، الحويجة،،،, Hawija",2,1
+353,دجاج هوبي,ChIJVzEuoWd_UxUR2BvdvzXVAxw,35.324521,43.7726491,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFF+M5G، الحويجة،,2,6
+354,دجاج صوفي,ChIJ5zVGNut_UxUREbmgWPagsno,35.3253906,43.7717411,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QGC+5M5، الحويجة،,2,0
+355,دجاج عبدالقادر,ChIJnXzCT01_UxURM7uats4xJ1A,35.3246578,43.7720609,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFC+VR7، 8QFF+M5G، الحويجة،،، الحويجة،,2,0
+356,مطعم وگص مهند,ChIJtbj4BnF_UxUR2j1zxW68Csg,35.3301691,43.77035,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QJC+349، Unnamed Road، الحويجة،، الحويجة،، الحويجة،, Hawija",2,1
+357,مطعم الحويجة,ChIJ4ZO3YIx_UxURGIvyk7r6Vhc,35.3218428,43.76958519999999,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QC9+QR3, Hawija",2,123
+358,مشويات الواحه,ChIJ8ygWDf5_UxURmlOrH3-dM6c,35.3238013,43.7632436,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QF7+G7H, Hawija",2,0
+359,محل خميس الصياد لبيع الدجاج الحي,ChIJf1DJM8d_UxURBHAQTDDtpkQ,35.32738790000001,43.7682255,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QG9+X75, Hawija",2,3
+360,مشويات صلاح الجميلي,ChIJF39uJAh_UxURum_CMng3s7g,35.3226895,43.77032310000001,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QFC+34G، الحويجة،,2,1
+361,مشويات الاخوين محمد و احمد,ChIJLRaxnHKdUxURS_XXBf20sJc,35.27449,43.5945831,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","7HFV+QRW, Al-Abbasi",2,1
+362,مشويات دجله,ChIJ4Ui8pwJ_UxUR4JNnntEZTV0,35.3227904,43.7704265,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8QFC+457, Hawija",2,5
+363,محلت عيسى المحسن,ChIJZx-S3MB5UxUR-OU6JiXSqtE,35.3868454,43.6378798,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",9JPQ+Q45,2,1
+364,سوق الدجاج,ChIJQ1mTKW5_UxUReKWRSHttef8,35.3220541,43.7708133,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",8QCC+R8G، الحويجة،,2,4
+365,محلات فيصل الفارس,ChIJw7hi_IubUxURSwY0XNUPCso,35.2737977,43.5929701,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","7HFV+G59, Al-Abbasi",2,1
+366,سوق قصابة الحويجة,ChIJKwCbhnh_UxUR1bKVYViuz-0,35.322312,43.7701766,2.0,"['restaurant', 'food', 'store', 'point_of_interest', 'establishment']","8QCC+W3P، Unnamed Road، الحويجة،, Hawija",2,1
+367,Alwa Hawija of vegetables and fruits,ChIJWdjTDm5-UxURJDMQto78ioo,35.3286548,43.7666381,3.8,"['food', 'store', 'point_of_interest', 'establishment']","8QH8+FM6, Hawija",2,95
+368,قهوة دهر الكبيت,ChIJv3vUhnF_VBUR3g_I_lY-S9A,35.2063228,43.80478960000001,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","6R43+GWF, Alsafrh",2,13
+369,كشك,ChIJgTvcS2d_UxURXGjo_FDFNtE,35.3230066,43.7733509,0.0,"['cafe', 'point_of_interest', 'food', 'establishment']","حي اليرموك، شارع العقارات شارع العقارات, Hawija",2,0
+370,مطعم ابو انوس,ChIJK0ggEyR_UxUR2b4ifvW_7uk,35.3229163,43.7697715,0.0,"['point_of_interest', 'food', 'store', 'establishment']","8QF9+5W3, Hawija",2,0
+371,محل ابو فراح للمواد الغذائية والطحين,ChIJez_W6_5_UxURUWfFMjy5BzA,35.3248248,43.7669217,0.0,"['point_of_interest', 'food', 'establishment']",8QF8+WQF، الحويجة،,2,0
+372,مشويات حيدر الواسم,ChIJKyVPNXZ_UxURt2N4hcETkNM,35.3227836,43.77043399999999,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8QFC+457, Hawija",2,0
+373,سوق الكصاصيب,ChIJA8x_ckabUxUR3sHLSUJQdS4,35.2724165,43.5913766,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","7HCR+XG9، Unnamed Road, Al-Abbasi",2,6
+374,جملة سنتر بغداد,ChIJvbyxJiB_UxURQff7C25K7-8,35.3212116,43.7703661,0.0,"['point_of_interest', 'food', 'establishment']","8QCC+F4Q، Unnamed Road، الحويجة،, Hawija",2,0
+375,مطعم وكباب الهلال,ChIJ0QBWSqR_UxURcQpmu3LQEO4,35.32305729999999,43.7736407,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","كركوك الحويجة، جسر التحدي, مقابل",2,192
+376,كوفي شوب ليالي اسطنبول,ChIJZ3WT3tt_UxUROv7JVQXtS6o,35.3273839,43.7710081,4.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","8QGC+XC, Hawija",2,19
+377,كوفي شوب الهيبة,ChIJf9ZKW_t_UxUR77vzCnbkh-o,35.3227602,43.77334399999999,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","8QFF+485، Unnamed Road, Hawija",2,11
+378,كوفي شوب الحجي,ChIJkTeJ7Ch_UxUR7fYzMOiJjaE,35.3240374,43.77709919999999,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","شارع الاطباء, Hawija",2,91
+379,الشايب كوفي,ChIJ7bYBElN_UxUR3GmbR5Tkj-E,35.3248248,43.7669217,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","8QF8+WQF، النمرود مفرق حويجه الحصان،, Hawija",2,1
+380,كافتريا بوشنكي,ChIJ1yyXzsJ_UxURo9SSWkzhEI8,35.3241766,43.7747691,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","8QFF+MWC، Unnamed Road، الحويجة،, Hawija",2,21
+381,محسن عباس,ChIJN6LoPN55UxUR79FirnXJRUg,35.361457,43.6678346,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9M69+G4X, Hawija",2,0
+382,ضياء الويس,ChIJ71G29ox5UxURCxGiFEh8djk,35.3506981,43.7025991,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",9P23+72H، الحويجة،،,2,0
+383,كوفي شوب كرز,ChIJw7JuH0x_UxURdFDAtWqQaFY,35.3228608,43.7708277,4.2,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","8QFC+48Q, Hawija",2,95
+384,خيمة ابو جبل و طه الزغيت,ChIJme75CUF_UxURfqPG6nPxq6c,35.3302127,43.7791763,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","8QJH+3J9, Hawija",2,1
+385,النايف,ChIJ6xGE9HN5UxUR-93ywxHW6fg,35.3614571,43.6678345,4.5,"['cafe', 'food', 'point_of_interest', 'establishment']","9M69+G4X, Tall 'Ali",2,8
+386,كوفي حمودي الصالح,ChIJ5zkAiWx_UxUREQ37vCZSqNA,35.3242104,43.7765968,5.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",8QFG+MJ3، الحويجة،,2,1
+387,مرطبات زياد,ChIJz7l0BdKdUxURolHgf9FZQO0,35.2727965,43.5965848,4.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","7HFW+4J8, Al-Abbasi",2,1
+388,سبتمبر كافيه,ChIJed6iVb-bVBUR-KF4Ncyx5FI,35.3292014,43.9436788,0.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","8WHV+MFM, Al Qasad",2,0
+389,كوفي سناب,ChIJyQCHvyN_UxURLc9EF3sSajI,35.3194297,43.7584368,0.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","8Q95+Q9F, Hawija",2,0
+390,مرطبات زياد الندئ,ChIJL22MNYGdUxUR3ktHbF9wXT4,35.2728285,43.5966032,0.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","7HFW+4J8, Al-Abbasi",2,0
+391,كوفي بلاك,ChIJSe1hd8J_UxURuYiLQzLGZNA,35.3209067,43.76905989999999,3.3,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",8QC9+9MV، الحويجة،,2,3
+392,keyf cafe,ChIJKbSUeh6bVBURU-37b6_cdrM,35.3292014,43.9436788,3.0,"['cafe', 'food', 'point_of_interest', 'establishment']","8WHV+MFM, Al Qasad",2,2
+393,Kirspy Rest & Cafe,ChIJedlOuW-bVBUR8trP5EulTWU,35.3292014,43.9436788,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8WHV+MFM, Unnamed Road Kristen, Al Qasad",2,1
+394,كوفي snip,ChIJpw8D31N_UxURmBPte-FWeag,35.3194817,43.7580804,0.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","8Q95+Q7C, Hawija",2,0
+395,كوفي بلاك-koffe bllak,ChIJea7Yo2N_UxURQ0uegvWIfN4,35.320998,43.7689616,4.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",8QC9+CJ6، الحويجة،,2,5
+396,مرطبات روابي زمزم,ChIJe6eY4seHUxUR8ooc_XO9okA,35.2193861,43.7142484,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","6P97+QM5, Al-Muradiya",2,1
+397,كوفي شوب الزعيم,ChIJV2_x4S6dUxUR8Egi5Gkg3g4,35.274485,43.5944346,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",7HFV+QQV، Unnamed Road،،، عباسي،,2,1
+398,Mazaj cafe,ChIJ899wnH5_UxURbnxGK7rCnDc,35.325011,43.7724582,0.0,"['point_of_interest', 'establishment']","8QGC+2X4, Hawija",2,0
+399,متنره حطين,ChIJnb8lk3F_UxUR75lviU0Mehc,35.3269228,43.7851776,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",8QGP+Q37، الحويجة،,2,2
+400,عمر الريوك الصباحي,ChIJdc4dL0R_UxURNxgkF3eiicg,35.3211788,43.77012209999999,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","8QCC+F3J، Unnamed Road, Hawija",2,0
+401,مقهى وليد مقهى العطلات,ChIJ4xQdmwN_UxURf6VOviuoTFU,35.3227289,43.77028,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","8QFC+457, Hawija",2,0
+402,وليدحياش,ChIJozOqgep_UxURTKJxJctB9kw,35.3189449,43.7738832,1.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","8Q9F+HHC, Hawija",2,1
+403,كوافير مصطفى العبيدي,ChIJB_vNXtl7UxURmSHSsTaJutY,35.3871151,43.6925083,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']",9MPR+VX5، الحويجة،,2,1
+404,فيصل نصرالدين (دام ضله),ChIJTcW2V4-bVBUREbOH8hrF80I,35.3699583,43.8867901,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","الحولي, Hawija",2,1
+405,كشك,ChIJgTvcS2d_UxURXGjo_FDFNtE,35.3230066,43.7733509,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","حي اليرموك، شارع العقارات شارع العقارات, Hawija",2,0
+406,الحويجه السوق الكبير,ChIJDRlYZjx_UxURg0DsT8ZCPqE,35.3248248,43.7669217,4.6,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","8QF8+WQF, Hawija",2,13
+407,قاعة وكوفي خميس لألعاب البلياردو,ChIJAboRU55_UxURv3G3fakVjcs,35.326359,43.76687980000001,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","8QG8+GQJ، قضاء الحويجة ، كركوك،, Hawija",2,0
+408,مرطبات السياب,ChIJcfaww_aHVBUR-9MRbhxh8xo,35.26703790000001,43.9095506,5.0,"['store', 'food', 'point_of_interest', 'establishment']",7W85+RR7، العراق كركوك ناحية,2,2

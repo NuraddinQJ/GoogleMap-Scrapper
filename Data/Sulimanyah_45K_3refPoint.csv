@@ -1,0 +1,662 @@
+,Place Name,Place ID,Latitude,Longitude,Rating,Types,Vicinity,Price Level,User Rating tot
+0,Jollas Restaurant,ChIJ89bOmLgxAEARGHSuuYZj_LY,35.57251249999999,45.3522303,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","H9F2+2V5, Kirkuk Road, Sulaymaniyah",2,37
+1,Grill House Restaurant گریل هاوس ریستورانت,ChIJUXKteIbSAUAR-8aCMcCdoh4,35.628201,45.495104,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","Setak - 200 meters after Peshraw Tunnel, Sulaymaniyah",2,51
+2,Patra Restaurant,ChIJcb87vIjSAUARKM0BWLxHidI,35.6281262,45.4955125,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","سلێمانی - سیتەک- خوار تونێلی پێشرەو, Azmar Rd",2,64
+3,Shameran Restaurant مطعم شه ميران,ChIJwQumSeUtAEAR-S3ETo_l1-o,35.5753446,45.4665226,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","50 / 218, Sulaymaniyah",2,38
+4,Emerald Restaurant مطعم اميرالد,ChIJvxm25RYtAEARIaTpX0dC2PA,35.557151,45.4285821,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","Ramada by Wyndham Sulaymaniyah Salim Street, Second Floor, Salim Street, Sulaymaniyah",2,77
+5,Diwan Restaurant,ChIJtYv4hSQsAEAR9sewWjOYYgM,35.5609395,45.4340056,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","HC6M+9JC, Sulaymaniyah",2,464
+6,Hazarmerd restaurant,ChIJP5rGnAQlAEARn0FqRAQHdtk,35.5194492,45.356384,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","G994+QHJ, Unnamed Road, Sulaymaniyah",2,57
+7,Nepali Restaurant & Bar,ChIJyUKt8iQtAEARvXavJltjeuI,35.5558244,45.4325185,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","HC4J+CXF, Nepali Restaurant &Bar, Salim Street, Sulaymaniyah",2,38
+8,خواردەمەنی تین تین Tin Tin Restaurant,ChIJ2cIitLUvAEARfH_JS8x25rc,35.5642853,45.402104,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","HC72+PR9, Salim Street, Sulaymaniyah",2,103
+9,Sazy Fast food گەسی سازی,ChIJNY047EMsAEARdKejUi5BRDE,35.568308,45.45260210000001,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","Tuy Malik St, Sulaymaniyah",2,268
+10,مطعم نەورۆز :newroz restaurant,ChIJV73NGrItAEARxDOEU6o3Zdw,35.5532442,45.4396227,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","HC3Q+8R4, Kawa St, Sulaymaniyah",2,17
+11,Starwood restaurant,ChIJHarwPBYtAEARUpmjwUcm55c,35.5807765,45.4040061,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","HCJ3+8J6, Malik Mahmud Ring Road, Sulaymaniyah",2,2
+12,Ninova Restaurant,ChIJ-S5CJ4guAEARZwJWUybtUd8,35.5591282,45.4026778,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","HC53+M33, Tri St, Sulaymaniyah",2,163
+13,Dublin Restaurant,ChIJ6TChWdwtAEARZX152rLksRc,35.5611,45.4404,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","HC6R+C5J, Unnamed Road, Sulaymaniyah",2,11
+14,Primo Cafe and Restaurant,ChIJ45wImvUtAEAR3cg0PBdh5M0,35.5769621,45.4598476,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']",Tuimalik street Sulaymaniyah Zmain rood,2,228
+15,Sazy restaurant 1,ChIJrwOGVpMvAEARWYLgUs2-vWM,35.5626574,45.4064114,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","Salim Street, Sulaymaniyah",2,68
+16,Bryani Fooda - مطعم برياني - خواردەمەنی بریانی,ChIJ3YRrGi8zAEARh9y1hzYZP7g,35.5822982,45.375289,4.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","H9JG+V48, Sulaymaniyah",2,7
+17,Rihanna Rest & Cafe,ChIJcfr_jtstAEARqzO2ZckWIwg,35.5603587,45.4275677,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","17 Şeqamî Bêxud, Sulaymaniyah",2,88
+18,Viola's Restaurant,ChIJm72LAtsvAEARLUYbNUFV5Jk,35.5433433,45.39823639999999,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","G9VX+982, Unnamed Road, Sulaymaniyah",2,51
+19,Best Shawarma,ChIJkytYRwctAEARJqBFG7Ov00E,35.5671076,45.455756,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","HF94+35X, Sulaymaniyah",2,2
+20,Salute,ChIJDTXHo-ItAEARSQhBE6o55Xk,35.577108,45.386452,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Sarchinar Main Street, Sulaymaniyah",2,21
+21,Zoya Restaurant,ChIJDfVenwotAEAReMl6Lpmbxw8,35.6080752,45.45314219999999,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","JF53+67J, Unnamed Road, Sulaymaniyah",2,30
+22,مطعم الصمد Al-Samad restaurant,ChIJ3z1ulRQtAEARoq-CmOZMQAU,35.5565873,45.4430051,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC4V+J4F, Sulaymaniyah",2,6
+23,Zhalla restaurant (کەباب و چێشتخانەی ژاڵە),ChIJA9dbs6EpAEARVzaobpyYapA,35.506955,45.44530400000001,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GC5V+3VX, Sulaymaniyah",2,4
+24,Sfrachi Restaurant پڕۆژەی سفرەچی,ChIJGyvxeWYtAEARI-LVIAw-EIw,35.5723348,45.4298648,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HCCH+WWQ, Ashti St, Sulaymaniyah",2,2
+25,Xanim Restaurant,ChIJby5jTy0tAEARC9LB6dHeJCo,35.562377,45.4166681,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC68+XM3, Qadam Kher St, Sulaymaniyah",2,59
+26,Ady's Beef House,ChIJc50WrpwvAEARyGaPZsBqCOY,35.5706232,45.3944798,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","Bakhtiari Taza St, Sulaymaniyah",2,186
+27,ڕێستۆرانتی میرشاد - Mirshad Restaurant,ChIJ00aGwLkxAEARUkVvwNCMYtI,35.5772479,45.3439217,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","Qaiwan City Road, Sulaymaniyah",2,20
+28,Zhyar Restaurant,ChIJZ0cX0m8tAEARzWnbKZbds-o,35.5704368,45.4426734,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","HCCV+53F, Sulaymaniyah",2,14
+29,Valeriya cafe & restaurant,ChIJx_G6ObMtAEARKye0oYoGVf4,35.5639967,45.4180585,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC79+H6V, Sulaymaniyah",2,41
+30,Caesar Restaurant & Cafè,ChIJKx1Cvj4uAEARuPM1f_wAB9s,35.5639102,45.3680498,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","Bakrajo Main Road Sulaymaniyah Sulaymaniyah governorate in Northern Iraq, Rêgay Bekreco, Sulaymaniyah",2,100
+31,Jeshana restaurant,ChIJUVHzTfUlAEAR7hB0lLpcKEU,35.5194081,45.356078,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","G994+QC8, Unnamed Road, Sulaymaniyah",2,49
+32,Mingle Restaurant,ChIJ24a7_cMxAEARJBN0foH9IMk,35.5728124,45.3521854,2.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","H9F2+4VF, Sulaymaniyah",2,10
+33,Downtown,ChIJv0i7o-ItAEARzEtkXM1lKTc,35.577125,45.386495,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","Sarchinar Main Street, Sulaymaniyah",2,8
+34,Bakhan Restaurant,ChIJFWWQOq4tAEARPlDzMfhoVi4,35.5770482,45.3955175,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","H9GW+R66, Malik Mahmud Ring Road, Sulaymaniyah",2,383
+35,Restaurant Amsterdam Food,ChIJzTyLyUAsAEARYYuxlXTZ2Es,35.5659296,45.4480543,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']",missu mitran السليمانية unvirsty,2,303
+36,Sfrachi Restaurant,ChIJLfoZ_vgtAEAR9nEb1yEpCBU,35.5678111,45.4240719,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC9F+4JQ, Sulaymaniyah",2,105
+37,Paru Restaurant,ChIJHcAcjzcsAEARZ_5cy05JS8w,35.5676779,45.4393554,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","Mamostayan Street, as",2,187
+38,Stage Restaurant & Bar,ChIJrwmAHbUvAEARg3qgZklWICo,35.5631906,45.3678762,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","Main Road, Sulaymaniyah",2,26
+39,Buraq restaurant- مطعم بوراق,ChIJHRuJ8WYtAEARi-6hKxXQK_s,35.5586875,45.4301875,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",Sulaymaniyah,2,51
+40,Diyarbakir Kitchen,ChIJD57vNDosAEAR7d-AcbyzpXQ,35.5689667,45.3998569,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","H99X+HWQ, Sulaymaniyah",2,121
+41,Waran Restaurant چێشتخانە و کەبابی واران,ChIJ1QrA16ErAEAR8rUpdPrwWGw,35.5454016,45.4744904,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",Kanishka Rd,2,33
+42,Hamwan Fish Restaurant. ماسی برژاوی هەموان,ChIJi0itJe8rAEARes8TnmQnf-k,35.5451334,45.4751057,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GFWG+325, Kanishka Rd, Sulaymaniyah",2,85
+43,Babo restaurant,ChIJ28rm7v4tAEARTIZ81YLP9lQ,35.5863412,45.3861536,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","H9PP+GFJ, Tavga Road, Sulaymaniyah",2,0
+44,Nasma,ChIJvygZNYYxAEAR_6MPfGT6kpI,35.5723373,45.3521829,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","H9C2+WVP, Sulaymaniyah",2,42
+45,Shary spy Restaurant,ChIJOzV8LbspAEARlO_7nRjpBYs,35.5294669,45.4593563,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","GFH5+QPQ, Sulaymaniyah",2,20
+46,D&S restaurant,ChIJu5NP_4AuAEARLVMguQJpD4s,35.5618273,45.4128486,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC67+P4Q, Sulaymaniyah",2,19
+47,Sherwan chicken,ChIJjWK00f0vAEARlZEAJjm2byA,35.5628208,45.4059421,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC74+599 Rand Gallery, Salim Street, Sulaymaniyah",2,0
+48,Nare Restaurant & Café,ChIJkTnrHIEtAEARycn6t02d550,35.5784643,45.4622034,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","HFH6+CW6, Malik Mahmud Ring Road, Sulaymaniyah",2,29
+49,Restaurant,ChIJebwWkuYvAEARyCm8M9knASc,35.5663526,45.4022546,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","109 Salim Street, Sulaymaniyah",2,2
+50,360 Revolving Restaurant,ChIJ7cgZkNktAEAR7TeTCJJ9leM,35.571152,45.40622500000001,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","Bakhtiary, Sulaymaniyah",2,73
+51,رەشماڵ Rashmal Restaurant,ChIJRSzqfjsxAEARQoujzbRE3ng,35.5975947,45.3403427,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","H8XR+24P, Sulaymaniyah",2,1
+52,Fenk All Day Dining,ChIJ7cgZkNktAEARcK0zhYbdoRc,35.571152,45.40622500000001,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","Bakhtiary, Sulaymaniyah",2,9
+53,A1,ChIJh5v_hxUuAEAR1xueboBA7U0,35.5656449,45.3722746,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","H98C+7W2, Sulaymaniyah",2,76
+54,Rangin Restaurant,ChIJkylTNt4tAEARrXJIxxZT6Tg,35.556878,45.4415983,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC4R+QJ5, Unnamed Road, Sulaymaniyah",2,4
+55,Narnj restaurant,ChIJvbqJ5AwvAEARXZfnvT215WA,35.5545236,45.392126,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","H93R+RV2, Sulaymaniyah",2,39
+56,برژاوی بەلەزەت,ChIJIeSvLCktAEARFXwxvu4vi9g,35.567978,45.4614315,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","HF96+5HV, شەقامی ئیسماعیل بێشکچی،, السليمانية،",2,4
+57,Mashkhal Restaurant,ChIJZ35eEfQtAEAR8dpwSBIWLo0,35.5582268,45.4398503,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC5Q+7WX, Sulaymaniyah",2,0
+58,جيشتخانه وه ستا كاوه Wasta Kawa Restaurant,ChIJUTwOAvctAEARHweIhVBipaA,35.5568084,45.437622,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC4Q+P3J, Mawlawi St, Sulaymaniyah",2,5
+59,Xani Cafe & Beakfast,ChIJC1myI0IuAEARWECIr3fnHQY,35.5612525,45.3791618,4.1,"['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment']","sule sulaimany, near sulaymaniyah governorate , awbara 2 side main road 0046",2,250
+60,Patra Restaurant,ChIJcb87vIjSAUARKM0BWLxHidI,35.6281262,45.4955125,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","سلێمانی - سیتەک- خوار تونێلی پێشرەو, Azmar Rd",2,64
+61,Firdaws Restaurant,ChIJC8y2784tAEAREi4lvz0tqcw,35.5823072,45.4184746,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",HCJ9+W9H، شارع الملك محمود الدائري،، السليمانية،,2,129
+62,مطعم اسطه كاوه,ChIJk6FpqaUtAEAR4KKtwHop-UQ,35.5556741,45.4367779,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC4P+7P6, Sulaymaniyah",2,2
+63,مطعم دارا,ChIJTX6iXDYtAEARTaeCz6jbdHg,35.5669453,45.4177033,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","14 Shekh Farid St, Sulaymaniyah",2,85
+64,Narnj restaurant,ChIJvbqJ5AwvAEARXZfnvT215WA,35.5545236,45.392126,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","H93R+RV2, Sulaymaniyah",2,39
+65,Wasta Hasan مطعم اسطه حسن,ChIJr_Nyj0MsAEARSpaXGYC_5_Q,35.5688649,45.4530459,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","HF93+G6J, Sulaymaniyah",2,107
+66,Zhyar Restaurant,ChIJZ0cX0m8tAEARzWnbKZbds-o,35.5704368,45.4426734,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","HCCV+53F, Sulaymaniyah",2,14
+67,Mali Khatoon Cultural Restaurant چێشتخانەی کلتووری ماڵی خاتوون,ChIJhWBzmHYvAEARilysVNcQ3Hc,35.5749773,45.38765249999999,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","مۆتێل دیاری, بەرامبەر, گردی سەرچنار, Sulaymaniyah",2,59
+68,Sardar Restaurant,ChIJC6SxblssAEAR-GXuGfLvaD0,35.5715911,45.4561579,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","HFC4+JFM، شەقامی ئیسماعیل بێشکچی, Sulaymaniyah",2,928
+69,مطعم صالح,ChIJWzhXpdsvAEARDuXttiQ1nQ8,35.5635724,45.4049817,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC74+F22, Salim Street, Sulaymaniyah",2,199
+70,Wasta Salih Restaurant,ChIJrzmuo34uAEARLo0RjdIcPLo,35.5637162,45.4052111,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC74+F4J, Sulaymaniyah",2,296
+71,مطعم مزاج طاجن,ChIJbwUOT_UvAEARywRrAGy_jmo,35.5635076,45.4033324,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","Lowara Tower, Sulaymaniyah",2,6
+72,Sara Restaurant,ChIJozt5GXwuAEARJp_Ff5L5HIk,35.5632329,45.40422179999999,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC73+8MX, Sulaymaniyah",2,165
+73,مطعم دارياس Daryas resturant,ChIJM9wGOqMvAEAR6HOy0TDL-KA,35.560261,45.403428,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC63+493, Sulaymaniyah",2,377
+74,Tabeekh Restaurant,ChIJJYetgd8vAEARs9ZIglv2YMU,35.5655017,45.3943559,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","H98V+6P5, Salim Street, Sulaymaniyah",2,753
+75,Diyarbakir Kitchen,ChIJD57vNDosAEAR7d-AcbyzpXQ,35.5689667,45.3998569,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","H99X+HWQ, Sulaymaniyah",2,121
+76,مطعم عشاق آلمندي,ChIJDba5ql8tAEAR-so6hzL8tp0,35.565424,45.3925079,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","بجانب مجازف ئوتو، سەرەتای شەقامی سالم تەنیشت مجازف ئۆتۆ, بدایةشارع سالم, Sulaymaniyah",2,121
+77,Ham Restaurant,ChIJJ75tT3AuAEARyBuki4_m3PM,35.5655198,45.39418209999999,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",Salim Street Sulaymaniyah Kurdistan Region,2,448
+78,Kabab Ali,ChIJhXd9KEgtAEARqE7g1NiKKjQ,35.575354,45.3941419,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","60 Malik Mahmud Ring Road, Sulaymaniyah",2,26
+79,مطعم باب الحارة,ChIJR_Q0OaQvAEARaSdq4goXW9k,35.56396429999999,45.4003703,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC72+H4Q, Sulaymaniyah",2,4
+80,Haji Osman Restaurant,ChIJgf1QHBvTAUARhTZNdMkjnBs,35.63505019999999,45.5016815,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","JGP2+2P7, Sitak",2,234
+81,مطعم خانم,ChIJQzsZ3P0tAEARAfzvSwqbpzQ,35.5623705,45.416663,2.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","HC68+WMV, Qadam Kher St, Sulaymaniyah",2,8
+82,مطعم,ChIJJ28og5cuAEARYB3ueqdGEKI,35.5513503,45.4197075,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","HC29+GVW, Sulaymaniyah",2,11
+83,Papacedo,ChIJ1exYSqQtAEARmYkODpIJ-ZM,35.5843651,45.432998,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","HCMM+Q6G, Malik Mahmud Ring Road, Sulaymaniyah",2,271
+84,falafelo,ChIJ4Z28YN8tAEAR6AJFlY5yzIE,35.5712805,45.3985379,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","H9CX+GC6, falafelo Kon St,, Sulaymaniyah",2,421
+85,Shameran Restaurant مطعم شه ميران,ChIJwQumSeUtAEAR-S3ETo_l1-o,35.5753446,45.4665226,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","50 / 218, Sulaymaniyah",2,38
+86,Halsho Restaurant,ChIJeTPPwvLNAUARGWWLMdqVT8U,35.6405408,45.4990133,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","JFRX+HV Sitak, Iraq sulaymaniyah Sitak, Sulaymaniyah 00964 Sitak, Sulaymaniyah",2,611
+87,مطعم بابا گرگر,ChIJG7AGOCIsAEARSfZ3cllUVMw,35.5585593,45.435895,4.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","HC5P+C9C، Prezga Street, Sulaymaniyah",2,7
+88,Grill House Restaurant گریل هاوس ریستورانت,ChIJUXKteIbSAUAR-8aCMcCdoh4,35.628201,45.495104,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","Setak - 200 meters after Peshraw Tunnel, Sulaymaniyah",2,51
+89,Shkar Restaurant,ChIJ86q8wXEuAEARlEuoWCRxsak,35.5659441,45.3921128,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","H98R+9RH, Salim Street, Sulaimania",2,514
+90,Grgashee Restaurant,ChIJH0nTn03PAUAR99oRNenOSpI,35.6957581,45.52922359999999,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","MGWH+8M5, Qala chwalan",2,249
+91,Bakhan Restaurant,ChIJFWWQOq4tAEARPlDzMfhoVi4,35.5770482,45.3955175,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","H9GW+R66, Malik Mahmud Ring Road, Sulaymaniyah",2,383
+92,Buraq restaurant- مطعم بوراق,ChIJHRuJ8WYtAEARi-6hKxXQK_s,35.5586875,45.4301875,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']",Sulaymaniyah,2,51
+93,Paru Restaurant,ChIJHcAcjzcsAEARZ_5cy05JS8w,35.5676779,45.4393554,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","Mamostayan Street, as",2,187
+94,Sfrachi Restaurant,ChIJLfoZ_vgtAEAR9nEb1yEpCBU,35.5678111,45.4240719,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","HC9F+4JQ, Sulaymaniyah",2,105
+95,Dal's Burger,ChIJT0QuMaQtAEARfNxkobGgwKM,35.5842617,45.4329987,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","HCMM+M5X, Malik Mahmud Ring Road, Sulaymaniyah",2,592
+96,Diwan Restaurant,ChIJtYv4hSQsAEAR9sewWjOYYgM,35.5609395,45.4340056,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","HC6M+9JC, Sulaymaniyah",2,464
+97,Hazarmerd restaurant,ChIJP5rGnAQlAEARn0FqRAQHdtk,35.5194492,45.356384,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","G994+QHJ, Unnamed Road, Sulaymaniyah",2,57
+98,Sfrachi Restaurant,ChIJvTr-Y5UtAEAR76Ur2ShEn-I,35.5557603,45.4351181,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",HC4P+825، fgr,2,1
+99,Xanim Restaurant,ChIJby5jTy0tAEARC9LB6dHeJCo,35.562377,45.4166681,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","HC68+XM3, Qadam Kher St, Sulaymaniyah",2,59
+100,Wasta Saman Restaurant,ChIJ6Xd3OX3NAUARuoejp5b6oF4,35.6455,45.5008056,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JGW2+58V, Unnamed Road, Sitak",2,298
+101,مطعم يورو,ChIJq2scKi4vAEARp566KmrGZ30,35.5589695,45.4214216,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC5C+HHM, Salim Street, Sulaymaniyah",2,1
+102,Ninova Restaurant,ChIJ-S5CJ4guAEARZwJWUybtUd8,35.5591282,45.4026778,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC53+M33, Tri St, Sulaymaniyah",2,163
+103,مطعم نەورۆز :newroz restaurant,ChIJV73NGrItAEARxDOEU6o3Zdw,35.5532442,45.4396227,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC3Q+8R4, Kawa St, Sulaymaniyah",2,17
+104,Dabashan Fish Restaurant,ChIJVQbmGk0sAEARtXW33TklyDE,35.5755698,45.4413451,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HCGR+5GJ, Sulaymaniyah",2,371
+105,Sultan Restaurant,ChIJERj-UJ0uAEARhVPcKwHRNgk,35.5590464,45.4225291,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC5F+J26, Sulaymaniyah",2,16
+106,Shkar 2 Restaurant,ChIJx8xVUXMuAEARp-5EB2JVwV8,35.5703093,45.3894411,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","H9CQ+4QG, Malik Mahmud Ring Road, Sulaymaniyah",2,246
+107,Bethlehem Restaurant,ChIJt5zMB-EtAEARhTMbTp1AorM,35.575284,45.3946718,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","60 Malik Mahmud Ring Road, Sulaymaniyah",2,96
+108,مطعم رەفیق,ChIJj97s1OAvAEARAhOYaz1NaTg,35.5644871,45.4011415,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC72+QFR, Salim Street, Sulaymaniyah",2,0
+109,Mandela Bistro,ChIJ7XtDgZ0uAEAR-uy9iPV1sZI,35.5579741,45.42476740000001,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","15 Salim Street, Sulaymaniyah",2,242
+110,مطعم كباب يورو,ChIJq1iN2RstAEAR0OC-RNSuRnY,35.5791352,45.3980256,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",H9HX+M59، 60 Street، السليمانية،,2,2
+111,مطعم دارا الفرع الثاني,ChIJT48BxXYtAEAR5RVGjUqr5Gc,35.5754395,45.3935186,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",60 شارع الملك محمود الدائري،، السليمانية،,2,15
+112,مطعم وكافيه سراج,ChIJGW-50AwvAEAR5TySqot7KgA,35.5660243,45.4072187,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC84+CV4, Sulaymaniyah",2,1
+113,Anya Fast food,ChIJa-9cWD4xAEARmt_w7vyVcdA,35.5769926,45.343983,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","H8GV+QJP, Road, Sulaymaniyah",2,116
+114,مطعم مينا خاتون,ChIJ63TVExAvAEARJVQj8kIsT5o,35.552526,45.4348386,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']",HC3M+2W8، السليمانية،,2,9
+115,Wali Kabab,ChIJy3tjwxAsAEARxhGozYRdQjI,35.5574748,45.4485927,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC4X+XCR, Sulaymaniyah",2,164
+116,Emerald Restaurant مطعم اميرالد,ChIJvxm25RYtAEARIaTpX0dC2PA,35.557151,45.4285821,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Ramada by Wyndham Sulaymaniyah Salim Street, Second Floor, Salim Street, Sulaymaniyah",2,77
+117,مطعم ئاریز,ChIJSettqwDNAUARorYWS6e_Uq8,35.6445365,45.5011941,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","JGV2+RF8, Unnamed Road, Sitak",2,10
+118,Soran restaurant,ChIJ74jeX1stAEARQ5qJNyoKHUQ,35.5784917,45.46212269999999,2.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","HFH6+9R, Sulaymaniyah",2,3
+119,مطعم فاروق,ChIJRxJgT9gtAEARQVlmbTSPE6g,35.5532159,45.43828269999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC3Q+79R, Sulaymaniyah",2,1
+120,Spinach Food,ChIJRyJkPi0vAEARf-VLPu6C5WA,35.5538069,45.3773358,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",H93G+GWG، Unnamed Road،، السليمانية،,2,22
+121,fast food LÜBEK,ChIJ40fZPDEvAEARQjBS33cyjgw,35.5603665,45.35689259999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","H964+4QR, Sulaymaniyah",2,0
+122,3pj fast food,ChIJuc_-dsstAEARmL2YaanpTi8,35.5878302,45.39073339999999,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","H9QR+47X، السليمانية سرجنار, Sulaymaniyah",2,2
+123,مأكولات شيخاني,ChIJexJKwP13_z8R3smBny0HfZQ,35.377467,45.61068299999999,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",9JG6+X7M، کەمپی کوردانی ڕۆژهەڵات,2,1
+124,Malik Dimashqi Fast Food شاورمەی مەلیك الدیمشقی,ChIJxbT1e8stAEARDDDpuKPeNn0,35.5824931,45.3904132,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","H9MR+24H, Sulaymaniyah",2,0
+125,سمك شوي ميران,ChIJ3cuhfTktAEARu2LMJfEXItI,35.5840131,45.4104371,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Unnamed Road, Sulaymaniyah",2,3
+126,ماكولات وردة الشمال,ChIJ62AM1Z4tAEAR0IKE34KXAcw,35.5782292,45.3850287,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","H9HP+72V, Sulaymaniyah",2,0
+127,Sham King Fastfood,ChIJYxe5pmIuAEARUsJH2iKiDvw,35.5592076,45.4027272,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC53+M3P, Sulaymaniyah",2,393
+128,Barkul fast food,ChIJizFjikAtAEARU8QKrxHr1a0,35.5557603,45.4351181,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",HC4P+825، سليمانيه،,2,2
+129,مطعم کولێرە,ChIJn14mNictAEARCxIgLgzm0Ls,35.5734917,45.4292972,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",HCFH+9PV، السليمانية،,2,2
+130,Xalla Hama fast food,ChIJy0_TWZgtAEARCx1qpNxytOk,35.5865699,45.42063719999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HCPC+J7J, Sulaymaniyah",2,0
+131,Aryan Food,ChIJpzWQsh4tAEARNwBZqCJp5hs,35.5877887,45.4287012,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","HCQH+4F8, Unnamed Road, Sulaymaniyah",2,25
+132,Sara Restaurant,ChIJozt5GXwuAEARJp_Ff5L5HIk,35.5632329,45.40422179999999,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC73+8MX, Sulaymaniyah",2,165
+133,که باب ماسی,ChIJX1yJAJ4tAEARsuw7pXhWqlQ,35.5557603,45.4351181,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC4P+825, Sulaymaniyah",2,0
+134,Nuri Sarupe,ChIJC2RADugtAEARcne7Yy_eP2Y,35.55635650000001,45.43936859999999,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC4Q+GPX, Unnamed Road, Sulaymaniyah",2,9
+135,Lazia fast food,ChIJo7AX5O8tAEARN-D-tIW6ppg,35.5840889,45.41621869999999,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","HCM8+JFP, towers Road, Sarwari Rd, Sulaymaniyah",2,4
+136,Dabashan Fast Food,ChIJN9tr4VctAEARibHBuWHW1Ew,35.5722672,45.45640789999999,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HFC4+WH3، Malik St, Tuy, Tuy Malik St, Sulaymaniyah",2,134
+137,Taco Land,ChIJ8R8s3aQtAEARGlwiMbBTYG4,35.5689047,45.4056313,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC94+P5F, Bakhtiari Taza St, Sulaymaniyah",2,1
+138,Nepali Restaurant & Bar,ChIJyUKt8iQtAEARvXavJltjeuI,35.5558244,45.4325185,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC4J+CXF, Nepali Restaurant &Bar, Salim Street, Sulaymaniyah",2,38
+139,Shary Mamostayan Fast Food,ChIJixrwSJIpAEARj0x4e4eeAys,35.4973125,45.4715625,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FFWC+WJ, Shekh Waisawa",2,0
+140,Xan Food,ChIJ39tgpLAtAEARyGeiujDcaaY,35.5677682,45.4546347,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","HF93+3RX, Unnamed Road, Sulaymaniyah",2,30
+141,The Rib Shop,ChIJoQ6BfLotAEAR29dluwTJYak,35.5663535,45.4201995,4.4,"['restaurant', 'point_of_interest', 'food', 'establishment']","HC8C+G63, Sulaymaniyah",2,52
+142,Wow fast food واو فاست فود,ChIJK36PUTQtAEARAHNAGb3o180,35.55314389999999,45.451443,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","HF32+7H8، Unnamed Road, Sulaymaniyah",2,84
+143,خواردەمەنی عەبوود \ مأكولات عبود,ChIJl8sgXTUtAEARczzJv_79ACg,35.5794866,45.3983005,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",Iraq-kurdistan sulaymaniyah Zargata taza Sulaymaniyah Zargata,2,2
+144,"Habib Beirut, Sulaymaniyah",ChIJS4hXFwEvAEARiQ8HuA1pgic,35.5412108,45.4294178,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","Family mall, Baban St, Sulaymaniyah",2,112
+145,كباب برهم,ChIJd_U4oSktAEARxlJVb0MzzRc,35.5605853,45.4416982,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","HC6R+6MP, Court St, Sulaymaniyah",2,0
+146,Bita Fast Food-بیتا فاست فود,ChIJr6lSizspAEARXGTE3o-G6Z8,35.534628,45.457165,4.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","GFM4+RVV, Sulaymaniyah",2,5
+147,Chity healthy food,ChIJQ1tRDBktAEARwaEtqYl0vqQ,35.5809147,45.4242861,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","HCJF+9PC, Qasimlu St, Sulaymaniyah",2,0
+148,Azzurro Ristorante,ChIJYWNjBkQvAEARvUHWEJ0WGY8,35.5419599,45.42919999999999,4.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","GCRH+RC, Sulaymaniyah",2,10
+149,Master Food,ChIJzyehdc0tAEAR4t_PIEU1KFQ,35.5738152,45.4573074,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","HFF4+GW2, Tuy Malik St, Sulaymaniyah",2,2
+150,Santorini food,ChIJIehI9fItAEARVlR1QXGsZlU,35.5828499,45.3887756,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","H9MQ+4G2, Sulaymaniyah",2,0
+151,Mazi 2 fast food,ChIJxZjrmHAtAEARpf4gAkLC6rA,35.5730519,45.4295067,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","HCFH+5RP, Sulaymaniyah",2,1
+152,Fahita Fast Food,ChIJOY4wQ9gtAEARt6Z2PjV-LMw,35.5479381,45.4469428,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GCXX+643, Sulaymaniyah",2,0
+153,Tarxoon Fast-Food,ChIJSya76rsvAEARba6e-DRTsNs,35.5545496,45.3897959,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","H93Q+RW7, تاقیگەی عومەر عوسمان، ناوچەی پیشەسازی-پشتی گەراجی بەغداد Industrial Area road, Sulaymaniyah",2,0
+154,British food,ChIJg_FHkuwvAEARsrCbVV_lo14,35.5458688,45.3673916,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","G9W8+8XR, Sulaymaniyah",2,4
+155,چێشتخانەی داوا,ChIJ-4eH3XkzAEAR-iK6-NbgqyI,35.5899458,45.3755519,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","H9QG+X6G، طريق قلياسان،, Sulaymaniyah",2,4
+156,miri Slemani fast food,ChIJ1YriKjApAEARy05MKKNjjp8,35.5348857,45.4574398,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",Saiwan St,2,1
+157,Noqta Fast Food,ChIJ37r0Up0rAEARMgD7P1OCWWE,35.5382512,45.4690379,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","GFQ9+8J3, Qirga - Ibrahim, Ahmed،",2,5
+158,Frawla food,ChIJteCjtUMtAEAREE_h133wa34,35.5705968,45.4252883,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","koraw, 28 104-69, Sulaymaniyah",2,2
+159,Flora fast food,ChIJ285pDwItAEARoAIZowYq98w,35.5581785,45.42749449999999,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","HC5G+7XH, Sulaymaniyah",2,14
+160,Pepper Food,ChIJ2xLcgYsvAEARwfUPNMw4ri0,35.5498254,45.3662156,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","G9X8+X8C, Sulaymaniyah",2,0
+161,DAF FAST FOOD,ChIJjbjkA-QtAEARVw2IYS-lBIc,35.562495,45.446085,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC6W+MMH, Qanat St, Sulaymaniyah",2,1
+162,Lamo fast food,ChIJYSno148tAEARRj6mXzcB8gE,35.5737172,45.4355217,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HCFP+F6J, Sulaymaniyah",2,15
+163,Street Food Shawarma & Grill,ChIJSaMmxXsvAEARIe3PoxWrUbg,35.5705013,45.3949503,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","H9CV+6X4, Sulaymaniyah",2,4
+164,B food,ChIJX0p4cyMtAEARq_PHRI6qeKU,35.5783878,45.4204511,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","5 Qasimlu St, Sulaymaniyah",2,17
+165,Anya Fast food,ChIJa-9cWD4xAEARmt_w7vyVcdA,35.5769926,45.343983,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","H8GV+QJP, Road, Sulaymaniyah",2,116
+166,فەلافل و شاورما ئیبرۆ Ebro,ChIJKXG1iLAxAEARDGKRYMtmsVU,35.5852663,45.3319746,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","H8PJ+4Q5, Unnamed Road, Sulaymaniyah",2,64
+167,yummy yummy fast food,ChIJF4PJTyspAEARf_48NwGR27A,35.5351382,45.4573166,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Saiwan St,2,47
+168,Restaurant Amsterdam Food,ChIJzTyLyUAsAEARYYuxlXTZ2Es,35.5659296,45.4480543,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']",missu mitran السليمانية unvirsty,2,303
+169,Good Food - Fast Food & Breakfast,ChIJIVXAWMQtAEARsAc4nMafAW0,35.5695329,45.4264287,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC9G+RH7, Sulaymaniyah",2,43
+170,Street Food,ChIJZ_qKAmEvAEARJJa0oLgagKQ,35.5665585,45.407469,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC84+JXH, Bakhtiari Kon St, Sulaymaniyah",2,109
+171,وەزی فاست فود,ChIJ7WNiH98tAEAR4Ad8dmF-LfY,35.5557603,45.4351181,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HC4P+825, Sulaymaniyah",2,0
+172,Shawqi Restaurant,ChIJH1dvtbAzAEARLJhjVMZzrYE,35.605222,45.41049839999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JC46+35Q, Unnamed Road, Hawary Shar, Sulaymaniyah",2,0
+173,شاورمە و پیتزای لانۆ - Lano Fast food,ChIJIfG0-PwvAEARhzKRnSImKsw,35.5448623,45.40122239999999,3.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","GCV2+WFW, Sulaymaniyah",2,54
+174,لەفە خۆشەکە (Fast Food),ChIJw0jdX-4vAEARMXGKBUg6Fi4,35.5450574,45.4409365,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GCWR+29F, Sulaymaniyah",2,0
+175,Barakat Restaurant,ChIJA7_xssUvAEARDR7OGLrESzE,35.5602758,45.3543205,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","H963+3PV, Sulaymaniyah",2,0
+176,falafelo,ChIJ4Z28YN8tAEAR6AJFlY5yzIE,35.5712805,45.3985379,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","H9CX+GC6, falafelo Kon St,, Sulaymaniyah",2,421
+177,فالح ابو العمبة,ChIJU49iqWovAEARzcwu_Cv1lPE,35.5760252,45.3877692,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","Kurdistan 2 super market, Sarchinar Road, Sulaymaniyah",2,13
+178,Bayar restaurant,ChIJezsYgpjNAUARevr1uiv79KI,35.63992810000001,45.4973313,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JFQW+XW, Sitak",2,82
+179,MigMig fastfood,ChIJY5_IT9MtAEARvakOjKYHlis,35.5667447,45.4177644,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",baranan street,2,246
+180,Blue Cafe,ChIJoR1TLHwuAEARY6DWOkCRheM,35.5627964,45.4055262,4.2,"['cafe', 'restaurant', 'store', 'food', 'point_of_interest', 'establishment']","Rand Gallery, Salim Street, Sulaymaniyah",2,189
+181,zaman cafe,ChIJ4YCdqzMvAEARkLu0dNlo6Tk,35.5623597,45.3626286,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","H967+W3R, New Bakrajo, Sulaymaniyah",2,0
+182,Mawlawi Cafe,ChIJ2T3XM6gtAEARj_5BCxLYHW4,35.5561478,45.4371927,4.4,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","HC4P+FV4, Mawlawi St, Sulaymaniyah",2,128
+183,TaTa Cafe,ChIJH6mdFkIvAEARObAHWSwSBBk,35.564086,45.4100219,4.6,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","71 Ararat Street, Sulaymaniyah",2,46
+184,Break Café,ChIJnzs3DH4uAEARGSUAmgjj968,35.562127,45.4079384,4.4,"['cafe', 'food', 'point_of_interest', 'establishment']","HC65+V54, Sulaymaniyah",2,27
+185,Dilman Cafe,ChIJtdo7C3ctAEARnfG97124wNo,35.56523809999999,45.4505272,4.5,"['cafe', 'food', 'point_of_interest', 'establishment']","HF82+36R, Tuy Malik St, Sulaymaniyah",2,15
+186,Jan Coffee & Breakfast,ChIJgbGxClItAEAR-jxk8M0dogE,35.5581302,45.43259339999999,4.5,"['cafe', 'food', 'point_of_interest', 'establishment']","khanzad13 3aqary, Sulaymaniyah",2,253
+187,Barista Cafe,ChIJy1gK43svAEARMgA98XnG2S4,35.5629611,45.4057324,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","Salim street, sulaymaniyah, Sulaymaniyah",2,71
+188,CC Cafe & Rest,ChIJG40xmC4sAEARk8KdP4eEKcI,35.56432710000001,45.4243946,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']",Shoresh St Sulaymaniyah Ali Naji St,2,177
+189,Music Cafe,ChIJVXwG7z8sAEARu3GTnff4B_A,35.5637433,45.449278,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","HC7X+GP2, Piramerd St, Sulaymaniyah",2,61
+190,bahar lounge & cafe,ChIJdZ2gv9wvAEARMqKbpJtlQAc,35.5570073,45.4275672,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","behind The public library of, Salim Street, Sulaymaniyah",2,103
+191,‪‎Cafe Barbera,ChIJs5KIs1ssAEAR3kZ2SNUDeX4,35.5734055,45.45704540000001,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","Tuy Malik St, Sulaymaniyah",2,461
+192,LapLata Cafe & Food,ChIJfVwpYcsrAEARtcqXCRPTVRc,35.5305939,45.4971036,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","GFJW+6RP, Sulaymaniyah",2,8
+193,City Cafe,ChIJa7Qo2QkuAEAROJOxv3-RnGo,35.5757565,45.3880809,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","H9GQ+876, Sarchinar Road, Sulaymaniyah",2,42
+194,Kashkol Cafe,ChIJiddWHQUtAEARoPzRIjEDsdI,35.5654622,45.4223915,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","HC8C+5XJ, Sulaymaniyah",2,162
+195,Java Cafe Suli,ChIJuScVGHAtAEARVwa-6Qm4YRs,35.5776467,45.4628026,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","opposite Chavi Land Circle, Malik Mahmud Street, Sulaymaniyah",2,0
+196,Makan Cafe,ChIJR87F0EwvAEARNjOFtMuC-qw,35.5534641,45.4268414,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","HC3G+9PP, Sulaymaniyah",2,1
+197,cafe HAHA,ChIJV4YtJ6YvAEAR2jqaMOFuKyw,35.5522773,45.3594685,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","H925+WQ8, Sulaymaniyah",2,0
+198,Cup cafe,ChIJK85Yj90tAEAR2TLJVFwpDWo,35.5562653,45.4379016,4.6,"['cafe', 'food', 'point_of_interest', 'establishment']","HC4Q+G52, Mawlawi St, Sulaymaniyah",2,10
+199,ranko cafe,ChIJlzdbKcEtAEARKEIbJznCSyo,35.5587882,45.4373651,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","HC5P+GW9, Kaneskan St, Sulaymaniyah",2,1
+200,Bellucci cafe 3,ChIJJX5JHEkvAEARwasWdhF2sR8,35.5652162,45.3728156,4.7,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","Kirkuk Road, Sulaymaniyah",2,13
+201,Retro Cafe,ChIJ8Zkvs6UtAEARytlfkXKZiYk,35.5710625,45.3998125,4.1,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","H9CX+CWF, Sulaymaniyah",2,33
+202,ماڵى كافێ malî cafe,ChIJmyodFzYvAEARNDhGZYwx-F8,35.5622229,45.4164649,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","HC68+VHP, Sulaymaniyah",2,27
+203,B Cafe (gallery and cafeteria) kareem chawsheen gallery,ChIJKSb7cPUtAEAR5NhH6dXEP6E,35.5568449,45.4477297,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","Goran Street Sulaymaniyah 46001, Goran Street, Sulaymaniyah",2,19
+204,Shary Roshnbiran cafe (چایخانەی شاری ڕۆشنبیران),ChIJCW9g4nktAEARlRaUqlF7eFY,35.5585158,45.4251863,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","HC5G+C35 Chamber of Commerce, 45 Salim Street, Sulaymaniyah",2,1
+205,Aylan cafe,ChIJB5ECvO8pAEARVkDrSH-13BI,35.5370404,45.4426902,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","GCPV+R2X, Malik Mahmud Ring Road, Sulaymaniyah",2,0
+206,کافتریای نمەی باران cafe,ChIJ9Wq3l6-D_z8RgoAgKOrP-TM,35.4258783,45.5889096,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","CHGQ+9H, Arbat",2,0
+207,Shahen cafe,ChIJX2qoY_0tAEAROn--Ceto3KE,35.5712175,45.3984965,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","H9CX+F9Q, Tawar Street, Sulaymaniyah",2,0
+208,Nali’s Cafe,ChIJR6Ajkf0tAEARi3KTQZPE_vo,35.579315,45.3831021,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","Road, Sulaymaniyah",2,401
+209,cafe shexan,ChIJnw1V0p0tAEARG5SmGpQVSjE,35.5775601,45.44167059999999,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","HCHR+2MF, Azmar Rd, Sulaymaniyah",2,3
+210,Bellucci Cafe 1,ChIJz-7hOj4uAEARSv44pW8CKng,35.5653983,45.3719788,4.0,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']","Bellucci Cafe Majidi Mall Majidi Mall, Sulaymaniyah",2,414
+211,Monaco Cafe,ChIJuRSYel4tAEARW2md7ix87M0,35.5669662,45.4275609,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","HC8H+Q2M, Azadi Park Road, Sulaymaniyah",2,2
+212,Black & white cafe,ChIJvaJQO2UtAEAR3HOmef0hJBE,35.5706202,45.4255068,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","HCCG+66R, Koraw St, Sulaymaniyah",2,0
+213,Basan cafe,ChIJVQv7FGstAEARUeKT2-bSqpc,35.558719,45.4329736,3.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","HC5M+F5Q, Shorish Street،, السليمانية،",2,2
+214,Pyalla Cafe,ChIJyUoig7ctAEARS2jL6Q9alcg,35.5738327,45.4009808,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","Tawar Street, Bakhtiari Taza St",2,7
+215,Xazalnus Cafe,ChIJVVVFpYMuAEAROEC-zQWmUVk,35.5594593,45.4166186,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","HC58+QJQ, Salim Street, Sulaymaniyah",2,54
+216,White Cafe,ChIJiX9O_UwxAEARjLpt89rh_RA,35.5798091,45.3484589,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","H8HX+V9W, Sulaymaniyah",2,6
+217,Ako Chkol cafe 2,ChIJ3SsBMN0tAEARm-9iXEo0bvk,35.56038059999999,45.4224987,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","HC6C+5X7, Badirkhan Street, Sulaymaniyah",2,4
+218,Picasso Art House Cafe,ChIJg1YB0vgvAEAROxooZNvGWyQ,35.5708048,45.3856459,4.6,"['cafe', 'food', 'point_of_interest', 'establishment']","H9CP+87F, Across Pak City،, Sulaymaniyah",2,18
+219,Rashmal rest & cafe,ChIJGR9bNsgtAEARMwDa6kJcUMY,35.558929,45.4280122,4.3,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","HC5H+H6J, 35th St, Sulaymaniyah",2,47
+220,Estera Café,ChIJDyXZbjwxAEARrxhpkrNWk6s,35.5865957,45.3320509,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","H8PJ+JRV, Sulaymaniyah",2,7
+221,Xani Cafe & Beakfast,ChIJC1myI0IuAEARWECIr3fnHQY,35.5612525,45.3791618,4.1,"['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment']","sule sulaimany, near sulaymaniyah governorate , awbara 2 side main road 0046",2,250
+222,Vynil Cafe,ChIJSXvJKastAEAR9xWhI4bCWMc,35.5581935,45.444157,4.6,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","HC5V+7MF, Piramerd St, Sulaymaniyah",2,7
+223,Kazi Cafe,ChIJmwU51xgsAEARfSfH_DPp1C8,35.5563984,45.43917330000001,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","HC4Q+HM3, Mawlawi St, Sulaymaniyah",2,62
+224,Vara cafe,ChIJef_Bd6AtAEAR-cU7_fm-zQ4,35.5829819,45.426186,4.7,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","HCMG+5FV, Kareza Wishk St, Sulaymaniyah",2,3
+225,Mina cafe,ChIJ74RYiwstAEAR8hef7U9qIco,35.5573154,45.4437907,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","1 Goran Street, Sulaymaniyah",2,1
+226,Balen cafe,ChIJjeMDcYstAEAR8-uC5XPD03c,35.5554408,45.4351901,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","HC4P+53G, Baban St, Sulaymaniyah",2,0
+227,Varin Cafe,ChIJmU28L_gtAEARldOuZBEmA1g,35.5562445,45.4497329,4.4,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","Talari Shari Pzishkan, Goran Street, Sulaymaniyah",2,5
+228,Kashxa Cafe,ChIJHSZFUxcsAEARp_I_AEQhDXc,35.5572415,45.44630309999999,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","HC4W+VGV, Goran Street, Sulaymaniyah",2,37
+229,Kashk Café and Restaurant,ChIJI-JOxaotAEARpe1GVSStf2c,35.5695188,45.4420809,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","HC9R+QRW, Madam Mitterrand, Sulaymaniyah",2,42
+230,Sardar Cafe,ChIJgR2-wJAtAEARkkjr9dpYs-c,35.557227,45.4459151,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","HC4W+V9V, Sulaymaniyah",2,1
+231,Every day cafe,ChIJu5KLSXMuAEAR-D97fGh2-z4,35.5700771,45.38880109999999,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","H9CQ+2HH, Sulaymaniyah",2,12
+232,Xayyam Cafe,ChIJY6dmWxksAEARutd5Hz7t_Hs,35.5555624,45.4416193,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","HC4R+6JH, Kawa St, Sulaymaniyah",2,6
+233,AC Cafe,ChIJkcVQ0XUuAEARqBGsSkjP5B4,35.56979949999999,45.396752,3.6,"['cafe', 'food', 'point_of_interest', 'establishment']","39, Bakhtiari Kon St, Sulaymaniyah",2,15
+234,Amsterdam Café,ChIJf2s7V50uAEARxQHfGXsS0y8,35.5591337,45.4228386,3.6,"['cafe', 'food', 'point_of_interest', 'establishment']","HC5F+J4P, Salim Street, Sulaymaniyah",2,156
+235,Cafe Barbera Bakhtyari,ChIJzWYZjEQvAEARIOmBF0kEXRU,35.5685874,45.4000077,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","Main St, Sulaymaniyah",2,408
+236,Can Cafe,ChIJ039KcxAsAEARmqQsUbx7cfI,35.5562449,45.4497327,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","HC4X+FVW, Road, Sulaymaniyah",2,5
+237,Bus cafe Slemani,ChIJBVD3nr4vAEARDFzggWTXpgY,35.5707664,45.3922691,4.6,"['cafe', 'food', 'point_of_interest', 'establishment']","H9CR+8W2, Bakhtiari Kon St, Sulaymaniyah",2,40
+238,Net Cafe,ChIJ45sa9iktAEAR9vz0sylUqqU,35.5627426,45.4260217,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']","HC7G+3CR, Sulaymaniyah",2,15
+239,Cafe,ChIJ0ZYe1KEvAEARtoe3YrfMwNo,35.5640115,45.4090902,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","Salim Street, Sulaymaniyah",2,0
+240,چێشتخانە و کەبابی وەستا باقی,ChIJ-6QVVXdz_z8RCGEf7SkKvgA,35.322399,45.685274,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCP+W3W, Ararat Street, Sulaymaniyah",2,0
+241,چێشتخانەی شاروزوورــ مطعم شارزور,ChIJsY7OgAEV_z8REnxrVwZAWxY,35.3555427,45.8681294,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V49+676, سەید صادق،",2,0
+242,چێشتخانەی میرەدێ mirade restaurant,ChIJCU-UyJQN_z8RsvXUuG7aEIY,35.2435629,45.68926320000001,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MVQ+CPC, 4, Miradee",2,12
+243,New Pizza پیتزای نوێ,ChIJp0xp1ehz_z8RBM1FuXj90O8,35.3226255,45.6837672,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","kan, Halebjaiyekan Halabjaya, District",2,15
+244,چێشتخانە و کەبابی کوردستان,ChIJxdPzyHIn_z8RovmtupPago4,35.2059174,46.0125818,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6247+928, Unnamed Road, Halabja",2,8
+245,ماسی برژاوی خورماڵ,ChIJIYPmWgQl_z8RAsIqqdB3Tew,35.2995917,46.0352525,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","72XP+R4J, Khurmal",2,2
+246,چێشتخانە و کەبابخانەی سلێمانی,ChIJ0zf7V_Vz_z8R2z85eS_tJF8,35.381243,45.7074467,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PJ4+FXW, 46, Kani Panka",2,8
+247,کەبابی هێرش,ChIJI5p5Bop1_z8RcgfiAUxdeCA,35.3067037,45.68033399999999,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",Zarayan,2,6
+248,خواردەمەنی شێخە,ChIJo_TA99lz_z8R5_JpF1nnZq4,35.3220309,45.6826601,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCM+R37, Halebjai Taza",2,0
+249,کەبابخانەی حاجی یەعقوب,ChIJy1eUy5B1_z8RkkZgJL2fHF8,35.3147856,45.6719387,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M7C+WR, Zarayan",2,3
+250,کەبابخانەی پێنجوێن,ChIJYRM3E3Nz_z8R1dXFrho4Ta4,35.3813928,45.7074343,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PJ4+HX3, Kani Panka",2,3
+251,Wasta Ibrahim Restaurant,ChIJbV2xrBon_z8RqglHgmv3P1o,35.2101822,46.0131042,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","6267+36H, Unnamed Road, Gundi Eneb",2,14
+252,کەباب خانەی وەستاباقی,ChIJkc4I_h9z_z8R1qPNvstIUGg,35.3226728,45.6829688,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MFM+358, Unnamed Road, Zarayan",2,1
+253,ماسی برژاوی زمکان,ChIJ76DKogd1_z8RiT94AlaO93Q,35.3139292,45.6726166,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","گەڕەکی ڕاپەڕین, Zarayan",2,1
+254,نانی بەیانی,ChIJXwNLG5Bz_z8Rn3dh9Ydtr9Y,35.3815125,45.7079531,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PJ5+J54, Kani Panka",2,0
+255,Brzhawy sarko,ChIJbehBzVIV_z8RMm-r2QvtdSA,35.3539047,45.8649788,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V38+C3J, Said Sadiq",2,0
+256,خواردەمەنی ڕەزوان,ChIJ_Wlxtc8l_z8RvioJB1JyMYY,35.2971744,46.03963419999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Khurmal,2,0
+257,FastFood Mabast,ChIJv8OZK7oV_z8R0Uyh59zaHpQ,35.37110190000001,45.8564576,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9VC4+CHW, Said Sadiq",2,0
+258,FastFood Mabast,ChIJjxL6lSYV_z8RKvRfUrWwe-M,35.3698255,45.8793357,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V9H+RPF, Said Sadiq",2,2
+259,مارکێتی ئۆکەی Ok Market,ChIJL779FoEl_z8RomMY_UV5m6o,35.2963543,46.0380149,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","72WP+HWM, Khurmal",2,1
+260,برژاوی فەرموو ٢,ChIJd1lirURr_z8RbydJVKggGjg,35.3705606,45.8348038,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","46, Said Sadiq",2,3
+261,pizza tower,ChIJDzvOBQ9z_z8RI2o9Jw7IGrs,35.3190871,45.6950562,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M9W+J2M, Unnamed Road, Zarayan",2,2
+262,چایخانەی هەورامان,ChIJEUjGAEMl_z8ROLtTO-fBehw,35.2986674,46.0373437,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","72XP+GRQ, Khurmal",2,0
+263,کەبابخانەی شکۆ,ChIJ95QNVzAV_z8RfA5lASsuGlc,35.3541463,45.8674064,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V38+MX3, سەید صادق،",2,0
+264,مریشکی برژارو,ChIJ93WE-Zsl_z8Rvn-V7yTRNSw,35.2984704,46.0371803,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","گه‌ره‌كی قه‌لا،, خورمال،",2,0
+265,Pizza Yam Yam,ChIJ2aAkBBxz_z8RnKH--JImiVk,35.3216702,45.681664,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCJ+MM7, Halebjai Taza",2,9
+266,کەبابخانەی وەستا یاسین کانی پانکە,ChIJkZo1ds5z_z8RGZN7xShNLKc,35.3813381,45.7091137,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PJ5+GJ, Kani Panka",2,5
+267,ماسی برژاوی کانی پانکە,ChIJxROf4Qpz_z8RZpTjUaza37E,35.3815236,45.709426,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PJ5+JQ3, 46, Kani Panka",2,0
+268,خواردەمەنی كەریم,ChIJ4bRk1Zh0_z8Rj90evdrAgaU,35.314891,45.6715031,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M7C+XJ2, Sulaymaniya Rd, Zarayan",2,4
+269,ماسي برژاوی بیساران,ChIJo9u___sV_z8R9Kk9QEtNnxk,35.3535771,45.8675176,3.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V39+C2J, Said Sadiq",2,7
+270,خواردەمەنی رەزوان(لەفە),ChIJYY_qMk4l_z8RAJfCYSCaKIs,35.299557,46.0362228,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Shaqamy gshty, Khurmal",2,2
+271,کەبابخانەی خورماڵ,ChIJT9Kqdbgl_z8R42M52SfRiWY,35.2993339,46.0366154,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","72XP+PJW, Jadai Gom Pskit Rd, Khurmal",2,0
+272,مریشک فرۆشی شار Chicken of Shar,ChIJ6bKGNEgV_z8R7gTmh_wBVQU,35.3552022,45.86468120000001,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V47+3VM, سەید صادق،",2,0
+273,Masi Mlakawa,ChIJbZb360h1_z8RI1CLDz0gGDQ,35.3161299,45.6712662,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M8C+FG2, Zarayan",2,0
+274,Xarpany,ChIJhYUnKWko_z8RFKuHu3rDU40,35.2178462,46.07107449999999,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","639C+4CP, Halabja",2,45
+275,سامان نصراللە,ChIJUw6PoHoV_z8RYm7oQYS5RNs,35.3544559,45.8670948,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V38+QRQ, Said Sadiq",2,2
+276,کەبابخانەی وەستا محمد,ChIJXwoa8MEl_z8RXiql8J6yNjE,35.2993331,46.0369645,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","72XP+QPR, Khurmal",2,0
+277,Dlsha fast food,ChIJtWgq3l5z_z8RES0oWD6yup4,35.32225440000001,45.6825149,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCM+W22, Halebjai Taza",2,0
+278,uk pizza,ChIJfWBdfgcV_z8REL_M2axLg3k,35.3546943,45.8634104,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V37+VF2, Said Sadiq",2,0
+279,کەبابخانەی نەوشیروان,ChIJ1ZE8G6sl_z8RCSAWQ3anGOk,35.2994894,46.0368595,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","72XP+QPR, Khurmal",2,0
+280,Aras pizza,ChIJQ1QsbTEl_z8RSSsfrRAKLqY,35.2973929,46.0395371,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","گه‌ره‌كی قه‌لا،, خورمال،",2,1
+281,برژاوی زرێبار,ChIJ50ZElhcV_z8Rd1NSevwyLZo,35.3629493,45.8405,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9R7R+55H، Unnamed Road, Said Sadiq",2,0
+282,Kabab xanae wasta baxtyar,ChIJTcmexfRz_z8RmK7IGU-QbQc,35.3812646,45.70824,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PJ5+G75, 46, Kani Panka",2,0
+283,بيتزا فينلاند,ChIJJUIclKxz_z8RAD0OGhIHNOE,35.3240415,45.685728,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8MFP+J79, Halebjai Taza",2,0
+284,بێ حەل,ChIJv-g9locV_z8RoxYxWPA7ue8,35.3560956,45.8690513,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9V49+CJM, Said Sadiq",2,2
+285,کباب کلار /کەبابخانەی کەلار,ChIJvZMhvzZ1_z8R26bUjUHW76k,35.3148951,45.671825,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","8M7C+XP4, Sulaymaniya Rd, Zarayan",2,12
+286,مریشک فرۆشی عەتا,ChIJ1-A40ngV_z8RG6jmHHe_dEU,35.37110190000001,45.8564576,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9VC4+CHW, Said Sadiq",2,0
+287,بيتزا بالاس,ChIJW0XLUhlz_z8RUhV_fnKIi44,35.3204697,45.680029,4.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","8MCJ+52 Halabjaekan Sharazur, Zarayan",2,28
+288,برژاوی زرێبار,ChIJ0a0T6x0V_z8RnI9hweBTqV0,35.352276,45.8692202,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9V29+WMH، Unnamed Road, Said Sadiq",2,0
+289,دوکانی زمناکۆشیرەمەڕی,ChIJJYQqnQoV_z8RKCV3Df9IMUQ,35.3511252,45.88056,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9V2J+F64، Unnamed Road, Said Sadiq",2,1
+290,مطعم كباب خؤشخؤر,ChIJJUJN0Slz_z8RxO2KbihDfxY,35.3810278,45.7071349,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']",شارع سليمانية كأني بانكه سليماني,2,5
+291,نانی کوردی عەنبەر خاتوون,ChIJYwi0yqV1_z8RfnXTrbR6pWU,35.316305,45.66973,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8M89+GVH, 4, Zarayan",2,0
+292,برژاوی شار,ChIJo4bIlKkV_z8RsN-i7CJ-Fuk,35.358169,45.8500722,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","46, Said Sadiq",2,0
+293,گص و پیزای ناپۆلی,ChIJnXXztyJ1_z8RHkDSMBWjuKg,35.3160508,45.6713609,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",8M8C+CG9، زريان،,2,2
+294,نانی کوردی عەنبەر خاتوون,ChIJYwi0yqV1_z8RfnXTrbR6pWU,35.316305,45.66973,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M89+GVH, 4, Zarayan",2,0
+295,خواردەمەنی كەریم,ChIJ4bRk1Zh0_z8Rj90evdrAgaU,35.314891,45.6715031,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M7C+XJ2, Sulaymaniya Rd, Zarayan",2,4
+296,Wasta Ibrahim Restaurant,ChIJbV2xrBon_z8RqglHgmv3P1o,35.2101822,46.0131042,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","6267+36H, Unnamed Road, Gundi Eneb",2,14
+297,چێشتخانەی میرەدێ mirade restaurant,ChIJCU-UyJQN_z8RsvXUuG7aEIY,35.2435629,45.68926320000001,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MVQ+CPC, 4, Miradee",2,12
+298,چێشتخانەی شاروزوورــ مطعم شارزور,ChIJsY7OgAEV_z8REnxrVwZAWxY,35.3555427,45.8681294,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V49+676, سەید صادق،",2,0
+299,بيتزا بالاس,ChIJW0XLUhlz_z8RUhV_fnKIi44,35.3204697,45.680029,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCJ+52 Halabjaekan Sharazur, Zarayan",2,28
+300,کەبابخانەی خورماڵ,ChIJT9Kqdbgl_z8R42M52SfRiWY,35.2993339,46.0366154,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","72XP+PJW, Jadai Gom Pskit Rd, Khurmal",2,0
+301,کەبابخانەی نەوشیروان,ChIJ1ZE8G6sl_z8RCSAWQ3anGOk,35.2994894,46.0368595,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","72XP+QPR, Khurmal",2,0
+302,Dlsha fast food,ChIJtWgq3l5z_z8RES0oWD6yup4,35.32225440000001,45.6825149,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCM+W22, Halebjai Taza",2,0
+303,بێ حەل,ChIJv-g9locV_z8RoxYxWPA7ue8,35.3560956,45.8690513,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V49+CJM, Said Sadiq",2,2
+304,مطعم كباب خؤشخؤر,ChIJJUJN0Slz_z8RxO2KbihDfxY,35.3810278,45.7071349,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع سليمانية كأني بانكه سليماني,2,5
+305,برژاوی شار,ChIJo4bIlKkV_z8RsN-i7CJ-Fuk,35.358169,45.8500722,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","46, Said Sadiq",2,0
+306,ماسی برژاوی خورماڵ,ChIJIYPmWgQl_z8RAsIqqdB3Tew,35.2995917,46.0352525,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","72XP+R4J, Khurmal",2,2
+307,برژاوی زرێبار,ChIJ50ZElhcV_z8Rd1NSevwyLZo,35.3629493,45.8405,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9R7R+55H، Unnamed Road, Said Sadiq",2,0
+308,برژاوی زرێبار,ChIJ0a0T6x0V_z8RnI9hweBTqV0,35.352276,45.8692202,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V29+WMH، Unnamed Road, Said Sadiq",2,0
+309,کباب کلار /کەبابخانەی کەلار,ChIJvZMhvzZ1_z8R26bUjUHW76k,35.3148951,45.671825,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M7C+XP4, Sulaymaniya Rd, Zarayan",2,12
+310,ماسي برژاوی بیساران,ChIJo9u___sV_z8R9Kk9QEtNnxk,35.3535771,45.8675176,3.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V39+C2J, Said Sadiq",2,7
+311,برژاوی فەرموو ٢,ChIJd1lirURr_z8RbydJVKggGjg,35.3705606,45.8348038,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","46, Said Sadiq",2,3
+312,دوکانی زمناکۆشیرەمەڕی,ChIJJYQqnQoV_z8RKCV3Df9IMUQ,35.3511252,45.88056,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V2J+F64، Unnamed Road, Said Sadiq",2,1
+313,مریشک فرۆشی عەتا,ChIJ1-A40ngV_z8RG6jmHHe_dEU,35.37110190000001,45.8564576,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9VC4+CHW, Said Sadiq",2,0
+314,خواردەمەنی ڕەزوان,ChIJ_Wlxtc8l_z8RvioJB1JyMYY,35.2971744,46.03963419999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Khurmal,2,0
+315,مریشکی برژارو,ChIJ93WE-Zsl_z8Rvn-V7yTRNSw,35.2984704,46.0371803,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","گه‌ره‌كی قه‌لا،, خورمال،",2,0
+316,New Pizza پیتزای نوێ,ChIJp0xp1ehz_z8RBM1FuXj90O8,35.3226255,45.6837672,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","kan, Halebjaiyekan Halabjaya, District",2,15
+317,کەبابی هێرش,ChIJI5p5Bop1_z8RcgfiAUxdeCA,35.3067037,45.68033399999999,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",Zarayan,2,6
+318,کەبابخانەی حاجی یەعقوب,ChIJy1eUy5B1_z8RkkZgJL2fHF8,35.3147856,45.6719387,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M7C+WR, Zarayan",2,3
+319,بيتزا فينلاند,ChIJJUIclKxz_z8RAD0OGhIHNOE,35.3240415,45.685728,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MFP+J79, Halebjai Taza",2,0
+320,خواردەمەنی شێخە,ChIJo_TA99lz_z8R5_JpF1nnZq4,35.3220309,45.6826601,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCM+R37, Halebjai Taza",2,0
+321,pizza tower,ChIJDzvOBQ9z_z8RI2o9Jw7IGrs,35.3190871,45.6950562,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M9W+J2M, Unnamed Road, Zarayan",2,2
+322,چێشتخانە و کەبابی کوردستان,ChIJxdPzyHIn_z8RovmtupPago4,35.2059174,46.0125818,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6247+928, Unnamed Road, Halabja",2,8
+323,خواردەمەنی رەزوان(لەفە),ChIJYY_qMk4l_z8RAJfCYSCaKIs,35.299557,46.0362228,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Shaqamy gshty, Khurmal",2,2
+324,ماسی برژاوی زمکان,ChIJ76DKogd1_z8RiT94AlaO93Q,35.3139292,45.6726166,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","گەڕەکی ڕاپەڕین, Zarayan",2,1
+325,کەبابخانەی وەستا محمد,ChIJXwoa8MEl_z8RXiql8J6yNjE,35.2993331,46.0369645,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","72XP+QPR, Khurmal",2,0
+326,سامان نصراللە,ChIJUw6PoHoV_z8RYm7oQYS5RNs,35.3544559,45.8670948,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V38+QRQ, Said Sadiq",2,2
+327,کەباب خانەی وەستاباقی,ChIJkc4I_h9z_z8R1qPNvstIUGg,35.3226728,45.6829688,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MFM+358, Unnamed Road, Zarayan",2,1
+328,چایخانەی هەورامان,ChIJEUjGAEMl_z8ROLtTO-fBehw,35.2986674,46.0373437,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","72XP+GRQ, Khurmal",2,0
+329,FastFood Mabast,ChIJjxL6lSYV_z8RKvRfUrWwe-M,35.3698255,45.8793357,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V9H+RPF, Said Sadiq",2,2
+330,FastFood Mabast,ChIJv8OZK7oV_z8R0Uyh59zaHpQ,35.37110190000001,45.8564576,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9VC4+CHW, Said Sadiq",2,0
+331,Pizza Yam Yam,ChIJ2aAkBBxz_z8RnKH--JImiVk,35.3216702,45.681664,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCJ+MM7, Halebjai Taza",2,9
+332,نانی بەیانی,ChIJXwNLG5Bz_z8Rn3dh9Ydtr9Y,35.3815125,45.7079531,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PJ5+J54, Kani Panka",2,0
+333,کەبابخانەی پێنجوێن,ChIJYRM3E3Nz_z8R1dXFrho4Ta4,35.3813928,45.7074343,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PJ4+HX3, Kani Panka",2,3
+334,Masi Mlakawa,ChIJbZb360h1_z8RI1CLDz0gGDQ,35.3161299,45.6712662,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8M8C+FG2, Zarayan",2,0
+335,چێشتخانە و کەبابی وەستا باقی,ChIJ-6QVVXdz_z8RCGEf7SkKvgA,35.322399,45.685274,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8MCP+W3W, Ararat Street, Sulaymaniyah",2,0
+336,uk pizza,ChIJfWBdfgcV_z8REL_M2axLg3k,35.3546943,45.8634104,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9V37+VF2, Said Sadiq",2,0
+337,گص و پیزای ناپۆلی,ChIJnXXztyJ1_z8RHkDSMBWjuKg,35.3160508,45.6713609,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",8M8C+CG9، زريان،,2,2
+338,Xarpany,ChIJhYUnKWko_z8RFKuHu3rDU40,35.2178462,46.07107449999999,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","639C+4CP, Halabja",2,45
+339,Brzhawy sarko,ChIJbehBzVIV_z8RMm-r2QvtdSA,35.3539047,45.8649788,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9V38+C3J, Said Sadiq",2,0
+340,کەبابخانەی وەستا یاسین کانی پانکە,ChIJkZo1ds5z_z8RGZN7xShNLKc,35.3813381,45.7091137,4.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PJ5+GJ, Kani Panka",2,5
+341,Aras pizza,ChIJQ1QsbTEl_z8RSSsfrRAKLqY,35.2973929,46.0395371,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","گه‌ره‌كی قه‌لا،, خورمال،",2,1
+342,مارکێتی ئۆکەی Ok Market,ChIJL779FoEl_z8RomMY_UV5m6o,35.2963543,46.0380149,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","72WP+HWM, Khurmal",2,1
+343,چێشتخانە و کەبابخانەی سلێمانی,ChIJ0zf7V_Vz_z8R2z85eS_tJF8,35.381243,45.7074467,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PJ4+FXW, 46, Kani Panka",2,8
+344,کەبابخانەی شکۆ,ChIJ95QNVzAV_z8RfA5lASsuGlc,35.3541463,45.8674064,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9V38+MX3, سەید صادق،",2,0
+345,مریشک فرۆشی شار Chicken of Shar,ChIJ6bKGNEgV_z8R7gTmh_wBVQU,35.3552022,45.86468120000001,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9V47+3VM, سەید صادق،",2,0
+346,Dlsha fast food,ChIJtWgq3l5z_z8RES0oWD6yup4,35.32225440000001,45.6825149,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCM+W22, Halebjai Taza",2,0
+347,کەبابخانەی خورماڵ,ChIJT9Kqdbgl_z8R42M52SfRiWY,35.2993339,46.0366154,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","72XP+PJW, Jadai Gom Pskit Rd, Khurmal",2,0
+348,کەباب خانەی وەستاباقی,ChIJkc4I_h9z_z8R1qPNvstIUGg,35.3226728,45.6829688,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MFM+358, Unnamed Road, Zarayan",2,1
+349,ماسی برژاوی خورماڵ,ChIJIYPmWgQl_z8RAsIqqdB3Tew,35.2995917,46.0352525,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","72XP+R4J, Khurmal",2,2
+350,بيتزا فينلاند,ChIJJUIclKxz_z8RAD0OGhIHNOE,35.3240415,45.685728,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MFP+J79, Halebjai Taza",2,0
+351,کەبابخانەی وەستا محمد,ChIJXwoa8MEl_z8RXiql8J6yNjE,35.2993331,46.0369645,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","72XP+QPR, Khurmal",2,0
+352,FastFood Mabast,ChIJjxL6lSYV_z8RKvRfUrWwe-M,35.3698255,45.8793357,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V9H+RPF, Said Sadiq",2,2
+353,FastFood Mabast,ChIJv8OZK7oV_z8R0Uyh59zaHpQ,35.37110190000001,45.8564576,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9VC4+CHW, Said Sadiq",2,0
+354,کەبابخانەی حاجی یەعقوب,ChIJy1eUy5B1_z8RkkZgJL2fHF8,35.3147856,45.6719387,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M7C+WR, Zarayan",2,3
+355,ماسی برژاوی زمکان,ChIJ76DKogd1_z8RiT94AlaO93Q,35.3139292,45.6726166,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","گەڕەکی ڕاپەڕین, Zarayan",2,1
+356,گص و پیزای ناپۆلی,ChIJnXXztyJ1_z8RHkDSMBWjuKg,35.3160508,45.6713609,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8M8C+CG9، زريان،,2,2
+357,خواردەمەنی كەریم,ChIJ4bRk1Zh0_z8Rj90evdrAgaU,35.314891,45.6715031,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M7C+XJ2, Sulaymaniya Rd, Zarayan",2,4
+358,برژاوی شار,ChIJo4bIlKkV_z8RsN-i7CJ-Fuk,35.358169,45.8500722,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","46, Said Sadiq",2,0
+359,برژاوی فەرموو ٢,ChIJd1lirURr_z8RbydJVKggGjg,35.3705606,45.8348038,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","46, Said Sadiq",2,3
+360,مطعم كباب خؤشخؤر,ChIJJUJN0Slz_z8RxO2KbihDfxY,35.3810278,45.7071349,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع سليمانية كأني بانكه سليماني,2,5
+361,بێ حەل,ChIJv-g9locV_z8RoxYxWPA7ue8,35.3560956,45.8690513,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V49+CJM, Said Sadiq",2,2
+362,مریشک فرۆشی عەتا,ChIJ1-A40ngV_z8RG6jmHHe_dEU,35.37110190000001,45.8564576,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9VC4+CHW, Said Sadiq",2,0
+363,Wasta Ibrahim Restaurant,ChIJbV2xrBon_z8RqglHgmv3P1o,35.2101822,46.0131042,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","6267+36H, Unnamed Road, Gundi Eneb",2,14
+364,برژاوی زرێبار,ChIJ50ZElhcV_z8Rd1NSevwyLZo,35.3629493,45.8405,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9R7R+55H، Unnamed Road, Said Sadiq",2,0
+365,برژاوی زرێبار,ChIJ0a0T6x0V_z8RnI9hweBTqV0,35.352276,45.8692202,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V29+WMH، Unnamed Road, Said Sadiq",2,0
+366,کەبابی هێرش,ChIJI5p5Bop1_z8RcgfiAUxdeCA,35.3067037,45.68033399999999,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",Zarayan,2,6
+367,Masi Mlakawa,ChIJbZb360h1_z8RI1CLDz0gGDQ,35.3161299,45.6712662,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M8C+FG2, Zarayan",2,0
+368,خواردەمەنی شێخە,ChIJo_TA99lz_z8R5_JpF1nnZq4,35.3220309,45.6826601,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCM+R37, Halebjai Taza",2,0
+369,دوکانی زمناکۆشیرەمەڕی,ChIJJYQqnQoV_z8RKCV3Df9IMUQ,35.3511252,45.88056,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V2J+F64، Unnamed Road, Said Sadiq",2,1
+370,pizza tower,ChIJDzvOBQ9z_z8RI2o9Jw7IGrs,35.3190871,45.6950562,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M9W+J2M, Unnamed Road, Zarayan",2,2
+371,بيتزا بالاس,ChIJW0XLUhlz_z8RUhV_fnKIi44,35.3204697,45.680029,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCJ+52 Halabjaekan Sharazur, Zarayan",2,28
+372,کباب کلار /کەبابخانەی کەلار,ChIJvZMhvzZ1_z8R26bUjUHW76k,35.3148951,45.671825,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M7C+XP4, Sulaymaniya Rd, Zarayan",2,12
+373,چێشتخانەی شاروزوورــ مطعم شارزور,ChIJsY7OgAEV_z8REnxrVwZAWxY,35.3555427,45.8681294,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V49+676, سەید صادق،",2,0
+374,چێشتخانەی میرەدێ mirade restaurant,ChIJCU-UyJQN_z8RsvXUuG7aEIY,35.2435629,45.68926320000001,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MVQ+CPC, 4, Miradee",2,12
+375,New Pizza پیتزای نوێ,ChIJp0xp1ehz_z8RBM1FuXj90O8,35.3226255,45.6837672,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","kan, Halebjaiyekan Halabjaya, District",2,15
+376,نانی کوردی عەنبەر خاتوون,ChIJYwi0yqV1_z8RfnXTrbR6pWU,35.316305,45.66973,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M89+GVH, 4, Zarayan",2,0
+377,مریشکی برژارو,ChIJ93WE-Zsl_z8Rvn-V7yTRNSw,35.2984704,46.0371803,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","گه‌ره‌كی قه‌لا،, خورمال،",2,0
+378,چایخانەی هەورامان,ChIJEUjGAEMl_z8ROLtTO-fBehw,35.2986674,46.0373437,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","72XP+GRQ, Khurmal",2,0
+379,کەبابخانەی وەستا یاسین کانی پانکە,ChIJkZo1ds5z_z8RGZN7xShNLKc,35.3813381,45.7091137,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PJ5+GJ, Kani Panka",2,5
+380,چێشتخانە و کەبابی کوردستان,ChIJxdPzyHIn_z8RovmtupPago4,35.2059174,46.0125818,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6247+928, Unnamed Road, Halabja",2,8
+381,مریشک فرۆشی شار Chicken of Shar,ChIJ6bKGNEgV_z8R7gTmh_wBVQU,35.3552022,45.86468120000001,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V47+3VM, سەید صادق،",2,0
+382,Pizza Yam Yam,ChIJ2aAkBBxz_z8RnKH--JImiVk,35.3216702,45.681664,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCJ+MM7, Halebjai Taza",2,9
+383,ماسي برژاوی بیساران,ChIJo9u___sV_z8R9Kk9QEtNnxk,35.3535771,45.8675176,3.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","9V39+C2J, Said Sadiq",2,7
+384,Xarpany,ChIJhYUnKWko_z8RFKuHu3rDU40,35.2178462,46.07107449999999,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","639C+4CP, Halabja",2,45
+385,خواردەمەنی ڕەزوان,ChIJ_Wlxtc8l_z8RvioJB1JyMYY,35.2971744,46.03963419999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Khurmal,2,0
+386,Cafy,ChIJh8_t23IV_z8RNAxnIl_SLOE,35.3549742,45.868455,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",Iraq Slemany Saedsadq Caftrya,2,0
+387,City Cafe,ChIJRfQPO2Rz_z8RGTxjWmayCPI,35.32294480000001,45.6826641,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","8MFM+53F, Halebjai Taza",2,44
+388,chay xanay mllaxurd,ChIJKV8EyYgl_z8R7Y_aCgLC08I,35.2988147,46.037034,4.5,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","72XP+GRF, Khurmal",2,8
+389,چایخانەی دار تووەکەی خورماڵ,ChIJSxk6N8gl_z8R7Ygmcsp09HA,35.3019375,46.02091919999999,4.4,"['cafe', 'food', 'point_of_interest', 'establishment']","822C+Q9F, Khurmal",2,12
+390,rehana coffee,ChIJ8zFVf94V_z8RWboiVN5qkZ4,35.3545047,45.8671362,3.3,"['cafe', 'food', 'point_of_interest', 'establishment']",9V38+GFJ Said Sadiq saidsadq bazari zardasht,2,3
+391,Xazal Cafe,ChIJbRyDtuQV_z8RTkpezxaFIIc,35.3552013,45.8682917,4.8,"['cafe', 'food', 'point_of_interest', 'establishment']","9V49+38F, Said Sadiq",2,4
+392,PARIS CAFFE,ChIJ5XaNrQ0V_z8RAFK7OC6nLXQ,35.3534909,45.868106,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9V39+96X, Unnamed Road, Said Sadiq",2,4
+393,Shko Tea Service,ChIJSR48IQIV_z8R7gO5fDkMF-s,35.3541504,45.8673912,4.4,"['cafe', 'food', 'point_of_interest', 'establishment']","9V38+MX2, Said Sadiq",2,5
+394,Lala fruity,ChIJUcLPuXwV_z8R80-Bgnce-aw,35.3534337,45.8660192,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9V38+CC8, Said Sadiq",2,1
+395,B&B cafe,ChIJociC7GoV_z8Rv0a8erAMAL4,35.3550941,45.8685099,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9V49+3FC، به ر کیو،, سەید صادق،",2,0
+396,Vanis Cafe,ChIJsxcFmgMV_z8Rn0KTVyndLPk,35.35680370000001,45.8698503,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","9V49+PWQ, 46, Said Sadiq",2,35
+397,کافتریای شەوانی لادێ,ChIJzyRabAxz_z8RU_oA2OOitFk,35.3056484,45.682959,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","8M4M+754, Halebjai Taza",2,1
+398,چایخانەی شەعب,ChIJC9Upz-4V_z8RfRw1_PUR6Ww,35.3542124,45.8666083,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","9V38+PJF، سەید صادق،, Said Sadiq",2,1
+399,چاخانەی لالۆ,ChIJ32SMvTt1_z8R4YJp3RtluTo,35.3158431,45.67157719999999,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","8M8C+7MM, Zarayan",2,0
+400,چایخانەی کاک عەلی,ChIJE961gn91_z8R-U0xEiPqvSA,35.3148771,45.671824,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","8M7C+XP4, Zarayan",2,0
+401,Chavoshi tea,ChIJz_pIlRAV_z8RpC-hcybXtV4,35.3543207,45.8671623,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","46, Said Sadiq",2,2
+402,کاک سەمێع,ChIJbUGzOZQl_z8RNKqmA5DbQM0,35.2936191,46.0383322,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","72VQ+C8W, Khurmal",2,0
+403,کافتریای شێخان,ChIJpQ-z_ycV_z8RG_TNVClEoGo,35.360998,45.85984089999999,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9V65+CW3, Said Sadiq",2,0
+404,چایخانەی کلتوری زەڕایەن,ChIJXeEquG11_z8Rfn3aWx1LzCY,35.3152759,45.6714324,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","Sulaymaniya Rd, Zarayan",2,0
+405,Istatica coffee,ChIJl1s1dJlz_z8RTYb-el02_qU,35.3209961,45.6809495,4.7,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",Halebjai Taza,2,9
+406,چایخانه‌ی زه‌لان,ChIJI8ECC2kV_z8RvyQwTA5BcsQ,35.3534023,45.8663563,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","9V38+CC8, Said Sadiq",2,0
+407,SahyCafe☕ساهی کافێ,ChIJpTpk7F5z_z8RcKxNwLmLhTM,35.3232294,45.6845879,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","8MFM+7RW, Halebjai Taza",2,0
+408,ICE AGE FRUITY,ChIJrT5tiWYV_z8RggmP9M4NyNY,35.35296840000001,45.8680774,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","9V39+57J, Said Sadiq",2,0
+409,بەلاش خۆرەکان,ChIJ9U3et2sj_z8RNYGavkb4F4Q,35.2554991,45.9377442,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","7W4Q+44P, Sirwan",2,1
+410,Chia Home,ChIJ3xhRwy1z_z8RO11uJEj7L10,35.3170727,45.69058090000001,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","8M8R+R6G, Halebjai Taza",2,0
+411,کــافتریای دانکیخ,ChIJacaXwMYl_z8RS_q2MS9xPvI,35.2987257,46.0368049,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","72XP+FPV, Khurmal",2,18
+412,چایخانەی فریدون,ChIJORfCMZ90_z8RZxN_rtoNlzQ,35.31474559999999,45.6718837,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']",Zarayan,2,30
+413,چاخانەی جمال,ChIJWTPPQE8V_z8RYpEx6ISrZr4,35.3543023,45.86714509999999,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","جسر سيدصادق، 46, Said Sadiq",2,0
+414,زانای چایچی,ChIJeRfvqpoV_z8Rdk-GT6MvcvY,35.3544835,45.8670301,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9V38+QRR, Said Sadiq",2,2
+415,چایی خانەی جەماوەر,ChIJSViJr5wl_z8RLff62xRnaOM,35.2994587,46.0362973,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","72XP+QGM, Khurmal",2,2
+416,چایخانەی جاف,ChIJc6vhiDpz_z8R-tte2rvwPtY,35.315904,45.6905116,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","8M8R+966, Unnamed Road, Zarayan",2,11
+417,کافتریای زەڕایەن,ChIJ582mEkB1_z8RnkKP9oGu6zA,35.31792220000001,45.6693268,3.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","8M99+5P8, Zarayan",2,2
+418,چاخانەی ئارێز&cofe arez,ChIJ9XrpndNz_z8RIbJDeyrXHss,35.3223604,45.6831504,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","ahmad moktar, Halebjai Taza",2,0
+419,چایخانەی گەنجان,ChIJhaau6KN1_z8RO5o7AoIQkY4,35.3148854,45.67091490000001,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","4, Zarayan",2,0
+420,چایخانەی کلتوری خورماڵ,ChIJqxDWyVsl_z8RokJil9Glhis,35.2996353,46.0360903,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","72XP+RC4, Jadai Gom Pskit Rd, Khurmal",2,1
+421,چایخانەی سەرچڵ,ChIJ08pUO3p1_z8R03Vp-ev7M7I,35.3161555,45.6712333,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","8M8C+FG2, Zarayan",2,0
+422,Coffe zarayan,ChIJKz4ACBl1_z8RTE8PMapWR2A,35.315173,45.67079649999999,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","4, Zarayan",2,3
+423,چایخانەی توی مەلیک,ChIJe8NWEelz_z8REBG_blHA0Fw,35.3152789,45.6900301,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","8M8R+427, Unnamed Road،, Zarayan",2,0
+424,چێشتخانەی بانی خێڵان,ChIJx6Q-cKMB_z8Rr019f6YiOe0,35.0703665,45.6733153,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","3MCF+4CF, Kalar Road, Darbandikhan",2,0
+425,چێشتخانە و کەبابی وەستا باقی,ChIJ-6QVVXdz_z8RCGEf7SkKvgA,35.322399,45.685274,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCP+W3W, Ararat Street, Sulaymaniyah",2,0
+426,کەبابخانەی وەستا ناسیح,ChIJ6Z2jSLEF_z8RanS3OC9nHQk,35.1140039,45.68025369999999,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M7J+J42, 30 Meter Street, Darbandikhan",2,13
+427,کولێرە بە قیمە,ChIJW5oWrNYF_z8ReeCLPsnbbig,35.1080419,45.68760229999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M5Q+629, 4, Darbandikhan",2,1
+428,مطعم ريبوار,ChIJR6JaG40F_z8R1nrISl15Hco,35.1125809,45.6876226,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M7Q+22Q, Kani Too Street, Darbandikhan",2,56
+429,چێشتخانەی میرەدێ mirade restaurant,ChIJCU-UyJQN_z8RsvXUuG7aEIY,35.2435629,45.68926320000001,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MVQ+CPC, 4, Miradee",2,12
+430,Grilled sabah,ChIJk0hjQq4F_z8RSdSnQa1vlCw,35.1158772,45.6839805,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M8M+9H, Darbandikhan",2,0
+431,خواردەمەنی پێشمەرگە,ChIJT9G8Y1YB_z8RgGB7ptqo3tc,35.0706198,45.6735637,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","3MCF+4CF, Kalar Road, Darbandikhan",2,0
+432,کەبابی هێرش,ChIJI5p5Bop1_z8RcgfiAUxdeCA,35.3067037,45.68033399999999,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",Zarayan,2,6
+433,خواردەمەنی شێخە,ChIJo_TA99lz_z8R5_JpF1nnZq4,35.3220309,45.6826601,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCM+R37, Halebjai Taza",2,0
+434,New Pizza پیتزای نوێ,ChIJp0xp1ehz_z8RBM1FuXj90O8,35.3226255,45.6837672,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","kan, Halebjaiyekan Halabjaya, District",2,15
+435,pizza ayan,ChIJR4eY9vgF_z8RdYTVEpEws4k,35.1134171,45.6851512,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M7P+936, Unnamed Road, Darbandikhan",2,1
+436,Shankar Fast food (خواردەمەنی شەنکار),ChIJq74G8yoE_z8RnQOTChML1PU,35.1187691,45.67765989999999,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M9H+G33, Qara Dakh Road, Darbandikhan",2,41
+437,pizza sarwar,ChIJuYVDxbMF_z8RjbrriXoh0z8,35.1134171,45.6851512,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M7P+936, Unnamed Road, Darbandikhan",2,1
+438,darban,ChIJ754U2rMF_z8Ry-TKVfuQJBw,35.10541660000001,45.6839455,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M4M+6V7, Darbandikhan",2,3
+439,کەبابخانەی حاجی یەعقوب,ChIJy1eUy5B1_z8RkkZgJL2fHF8,35.3147856,45.6719387,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M7C+WR, Zarayan",2,3
+440,خواردنگەی ژیرۆ,ChIJJ40mNuAF_z8RV4PT944fduk,35.1214067,45.6803983,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","4MCJ+H56, Darbandikhan",2,7
+441,کەباب خانەی وەستاباقی,ChIJkc4I_h9z_z8R1qPNvstIUGg,35.3226728,45.6829688,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MFM+358, Unnamed Road, Zarayan",2,1
+442,ماسی برژاوی زمکان,ChIJ76DKogd1_z8RiT94AlaO93Q,35.3139292,45.6726166,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","گەڕەکی ڕاپەڕین, Zarayan",2,1
+443,pizza tower,ChIJDzvOBQ9z_z8RI2o9Jw7IGrs,35.3190871,45.6950562,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M9W+J2M, Unnamed Road, Zarayan",2,2
+444,چای خانەی زانا,ChIJ2y8gNWIF_z8RAwZMrlyeVGs,35.1105435,45.6875552,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","4M6Q+627, 4, Darbandikhan",2,0
+445,Pizza Yam Yam,ChIJ2aAkBBxz_z8RnKH--JImiVk,35.3216702,45.681664,3.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","8MCJ+MM7, Halebjai Taza",2,9
+446,Restaurant and Supermarket of Banixellan,ChIJZfslYdsB_z8RnCkvfie3lFM,35.0699159,45.6733957,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","3M9F+X96, Darbandikhan",2,68
+447,Bani Khellan Water Factory,ChIJX7QRcFkB_z8Rm2kLvIwUxCw,35.070301,45.6735343,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","3MCF+4CF, Kalar Road, Darbandikhan",2,241
+448,خواردەمەنی كەریم,ChIJ4bRk1Zh0_z8Rj90evdrAgaU,35.314891,45.6715031,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8M7C+XJ2, Sulaymaniya Rd, Zarayan",2,4
+449,Masi Mlakawa,ChIJbZb360h1_z8RI1CLDz0gGDQ,35.3161299,45.6712662,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8M8C+FG2, Zarayan",2,0
+450,Jeictkhanhy Sta Luxury,ChIJeWTTnDwE_z8RadEBN1RT2pc,35.1116832,45.6875752,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","4M6Q+M2G, Darbandikhan",2,39
+451,مطعم بيارة,ChIJszWHeT4F_z8R2YT5TS4lSlk,35.1124935,45.6876016,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","Kani Too، Main Street, Darbandikhan",2,25
+452,چایخانەی هەورامان,ChIJyeplDL0F_z8RuqmiH1jhFYc,35.111948,45.687539,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","4M6Q+Q2F, 4, Darbandikhan",2,30
+453,Dlsha fast food,ChIJtWgq3l5z_z8RES0oWD6yup4,35.32225440000001,45.6825149,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8MCM+W22, Halebjai Taza",2,0
+454,بيتزا بالاس,ChIJW0XLUhlz_z8RUhV_fnKIi44,35.3204697,45.680029,4.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","8MCJ+52 Halabjaekan Sharazur, Zarayan",2,28
+455,بيتزا فينلاند,ChIJJUIclKxz_z8RAD0OGhIHNOE,35.3240415,45.685728,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8MFP+J79, Halebjai Taza",2,0
+456,کباب کلار /کەبابخانەی کەلار,ChIJvZMhvzZ1_z8R26bUjUHW76k,35.3148951,45.671825,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","8M7C+XP4, Sulaymaniya Rd, Zarayan",2,12
+457,نانی کوردی عەنبەر خاتوون,ChIJYwi0yqV1_z8RfnXTrbR6pWU,35.316305,45.66973,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8M89+GVH, 4, Zarayan",2,0
+458,گص و پیزای ناپۆلی,ChIJnXXztyJ1_z8RHkDSMBWjuKg,35.3160508,45.6713609,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",8M8C+CG9، زريان،,2,2
+459,cafe bedaran shaw,ChIJp8ne-igF_z8RM2DCw-kRa3E,35.1140785,45.6782663,0.0,"['cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",Park Awarakan، shahedan flkae,2,0
+460,مطعم بيارة,ChIJszWHeT4F_z8R2YT5TS4lSlk,35.1124935,45.6876016,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","Kani Too، Main Street, Darbandikhan",2,25
+461,Restaurant and Supermarket of Banixellan,ChIJZfslYdsB_z8RnCkvfie3lFM,35.0699159,45.6733957,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","3M9F+X96, Darbandikhan",2,68
+462,خواردەمەنی كەریم,ChIJ4bRk1Zh0_z8Rj90evdrAgaU,35.314891,45.6715031,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M7C+XJ2, Sulaymaniya Rd, Zarayan",2,4
+463,بيتزا بالاس,ChIJW0XLUhlz_z8RUhV_fnKIi44,35.3204697,45.680029,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCJ+52 Halabjaekan Sharazur, Zarayan",2,28
+464,مطعم ريبوار,ChIJR6JaG40F_z8R1nrISl15Hco,35.1125809,45.6876226,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M7Q+22Q, Kani Too Street, Darbandikhan",2,56
+465,Grilled sabah,ChIJk0hjQq4F_z8RSdSnQa1vlCw,35.1158772,45.6839805,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M8M+9H, Darbandikhan",2,0
+466,Dlsha fast food,ChIJtWgq3l5z_z8RES0oWD6yup4,35.32225440000001,45.6825149,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCM+W22, Halebjai Taza",2,0
+467,New Pizza پیتزای نوێ,ChIJp0xp1ehz_z8RBM1FuXj90O8,35.3226255,45.6837672,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","kan, Halebjaiyekan Halabjaya, District",2,15
+468,darban,ChIJ754U2rMF_z8Ry-TKVfuQJBw,35.10541660000001,45.6839455,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M4M+6V7, Darbandikhan",2,3
+469,کولێرە بە قیمە,ChIJW5oWrNYF_z8ReeCLPsnbbig,35.1080419,45.68760229999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M5Q+629, 4, Darbandikhan",2,1
+470,کەبابخانەی وەستا ناسیح,ChIJ6Z2jSLEF_z8RanS3OC9nHQk,35.1140039,45.68025369999999,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M7J+J42, 30 Meter Street, Darbandikhan",2,13
+471,چایخانەی هەورامان,ChIJyeplDL0F_z8RuqmiH1jhFYc,35.111948,45.687539,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M6Q+Q2F, 4, Darbandikhan",2,30
+472,خواردنگەی ژیرۆ,ChIJJ40mNuAF_z8RV4PT944fduk,35.1214067,45.6803983,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","4MCJ+H56, Darbandikhan",2,7
+473,کەبابخانەی حاجی یەعقوب,ChIJy1eUy5B1_z8RkkZgJL2fHF8,35.3147856,45.6719387,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M7C+WR, Zarayan",2,3
+474,چێشتخانەی بانی خێڵان,ChIJx6Q-cKMB_z8Rr019f6YiOe0,35.0703665,45.6733153,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","3MCF+4CF, Kalar Road, Darbandikhan",2,0
+475,بيتزا فينلاند,ChIJJUIclKxz_z8RAD0OGhIHNOE,35.3240415,45.685728,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MFP+J79, Halebjai Taza",2,0
+476,کەبابی هێرش,ChIJI5p5Bop1_z8RcgfiAUxdeCA,35.3067037,45.68033399999999,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",Zarayan,2,6
+477,خواردەمەنی شێخە,ChIJo_TA99lz_z8R5_JpF1nnZq4,35.3220309,45.6826601,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCM+R37, Halebjai Taza",2,0
+478,pizza tower,ChIJDzvOBQ9z_z8RI2o9Jw7IGrs,35.3190871,45.6950562,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M9W+J2M, Unnamed Road, Zarayan",2,2
+479,خواردەمەنی پێشمەرگە,ChIJT9G8Y1YB_z8RgGB7ptqo3tc,35.0706198,45.6735637,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","3MCF+4CF, Kalar Road, Darbandikhan",2,0
+480,ماسی برژاوی زمکان,ChIJ76DKogd1_z8RiT94AlaO93Q,35.3139292,45.6726166,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","گەڕەکی ڕاپەڕین, Zarayan",2,1
+481,Jeictkhanhy Sta Luxury,ChIJeWTTnDwE_z8RadEBN1RT2pc,35.1116832,45.6875752,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M6Q+M2G, Darbandikhan",2,39
+482,نانی کوردی عەنبەر خاتوون,ChIJYwi0yqV1_z8RfnXTrbR6pWU,35.316305,45.66973,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M89+GVH, 4, Zarayan",2,0
+483,کەباب خانەی وەستاباقی,ChIJkc4I_h9z_z8R1qPNvstIUGg,35.3226728,45.6829688,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MFM+358, Unnamed Road, Zarayan",2,1
+484,چێشتخانەی میرەدێ mirade restaurant,ChIJCU-UyJQN_z8RsvXUuG7aEIY,35.2435629,45.68926320000001,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MVQ+CPC, 4, Miradee",2,12
+485,cafe bedaran shaw,ChIJp8ne-igF_z8RM2DCw-kRa3E,35.1140785,45.6782663,0.0,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",Park Awarakan، shahedan flkae,2,0
+486,pizza sarwar,ChIJuYVDxbMF_z8RjbrriXoh0z8,35.1134171,45.6851512,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M7P+936, Unnamed Road, Darbandikhan",2,1
+487,Pizza Yam Yam,ChIJ2aAkBBxz_z8RnKH--JImiVk,35.3216702,45.681664,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCJ+MM7, Halebjai Taza",2,9
+488,pizza ayan,ChIJR4eY9vgF_z8RdYTVEpEws4k,35.1134171,45.6851512,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M7P+936, Unnamed Road, Darbandikhan",2,1
+489,Shankar Fast food (خواردەمەنی شەنکار),ChIJq74G8yoE_z8RnQOTChML1PU,35.1187691,45.67765989999999,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M9H+G33, Qara Dakh Road, Darbandikhan",2,41
+490,کباب کلار /کەبابخانەی کەلار,ChIJvZMhvzZ1_z8R26bUjUHW76k,35.3148951,45.671825,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M7C+XP4, Sulaymaniya Rd, Zarayan",2,12
+491,Masi Mlakawa,ChIJbZb360h1_z8RI1CLDz0gGDQ,35.3161299,45.6712662,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M8C+FG2, Zarayan",2,0
+492,چێشتخانە و کەبابی وەستا باقی,ChIJ-6QVVXdz_z8RCGEf7SkKvgA,35.322399,45.685274,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCP+W3W, Ararat Street, Sulaymaniyah",2,0
+493,گص و پیزای ناپۆلی,ChIJnXXztyJ1_z8RHkDSMBWjuKg,35.3160508,45.6713609,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",8M8C+CG9، زريان،,2,2
+494,Bani Khellan Water Factory,ChIJX7QRcFkB_z8Rm2kLvIwUxCw,35.070301,45.6735343,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","3MCF+4CF, Kalar Road, Darbandikhan",2,241
+495,چای خانەی زانا,ChIJ2y8gNWIF_z8RAwZMrlyeVGs,35.1105435,45.6875552,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M6Q+627, 4, Darbandikhan",2,0
+496,Dlsha fast food,ChIJtWgq3l5z_z8RES0oWD6yup4,35.32225440000001,45.6825149,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8MCM+W22, Halebjai Taza",2,0
+497,کەباب خانەی وەستاباقی,ChIJkc4I_h9z_z8R1qPNvstIUGg,35.3226728,45.6829688,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8MFM+358, Unnamed Road, Zarayan",2,1
+498,بيتزا فينلاند,ChIJJUIclKxz_z8RAD0OGhIHNOE,35.3240415,45.685728,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8MFP+J79, Halebjai Taza",2,0
+499,کەبابخانەی وەستا ناسیح,ChIJ6Z2jSLEF_z8RanS3OC9nHQk,35.1140039,45.68025369999999,4.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","4M7J+J42, 30 Meter Street, Darbandikhan",2,13
+500,مطعم بيارة,ChIJszWHeT4F_z8R2YT5TS4lSlk,35.1124935,45.6876016,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","Kani Too، Main Street, Darbandikhan",2,25
+501,چایخانەی هەورامان,ChIJyeplDL0F_z8RuqmiH1jhFYc,35.111948,45.687539,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","4M6Q+Q2F, 4, Darbandikhan",2,30
+502,کەبابخانەی حاجی یەعقوب,ChIJy1eUy5B1_z8RkkZgJL2fHF8,35.3147856,45.6719387,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8M7C+WR, Zarayan",2,3
+503,ماسی برژاوی زمکان,ChIJ76DKogd1_z8RiT94AlaO93Q,35.3139292,45.6726166,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","گەڕەکی ڕاپەڕین, Zarayan",2,1
+504,گص و پیزای ناپۆلی,ChIJnXXztyJ1_z8RHkDSMBWjuKg,35.3160508,45.6713609,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",8M8C+CG9، زريان،,2,2
+505,Restaurant and Supermarket of Banixellan,ChIJZfslYdsB_z8RnCkvfie3lFM,35.0699159,45.6733957,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","3M9F+X96, Darbandikhan",2,68
+506,خواردەمەنی كەریم,ChIJ4bRk1Zh0_z8Rj90evdrAgaU,35.314891,45.6715031,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8M7C+XJ2, Sulaymaniya Rd, Zarayan",2,4
+507,cafe bedaran shaw,ChIJp8ne-igF_z8RM2DCw-kRa3E,35.1140785,45.6782663,0.0,"['cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",Park Awarakan، shahedan flkae,2,0
+508,کەبابی هێرش,ChIJI5p5Bop1_z8RcgfiAUxdeCA,35.3067037,45.68033399999999,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']",Zarayan,2,6
+509,Masi Mlakawa,ChIJbZb360h1_z8RI1CLDz0gGDQ,35.3161299,45.6712662,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8M8C+FG2, Zarayan",2,0
+510,خواردنگەی ژیرۆ,ChIJJ40mNuAF_z8RV4PT944fduk,35.1214067,45.6803983,3.4,"['restaurant', 'point_of_interest', 'food', 'establishment']","4MCJ+H56, Darbandikhan",2,7
+511,خواردەمەنی شێخە,ChIJo_TA99lz_z8R5_JpF1nnZq4,35.3220309,45.6826601,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8MCM+R37, Halebjai Taza",2,0
+512,pizza tower,ChIJDzvOBQ9z_z8RI2o9Jw7IGrs,35.3190871,45.6950562,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","8M9W+J2M, Unnamed Road, Zarayan",2,2
+513,Shankar Fast food (خواردەمەنی شەنکار),ChIJq74G8yoE_z8RnQOTChML1PU,35.1187691,45.67765989999999,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","4M9H+G33, Qara Dakh Road, Darbandikhan",2,41
+514,خواردەمەنی پێشمەرگە,ChIJT9G8Y1YB_z8RgGB7ptqo3tc,35.0706198,45.6735637,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","3MCF+4CF, Kalar Road, Darbandikhan",2,0
+515,کباب کلار /کەبابخانەی کەلار,ChIJvZMhvzZ1_z8R26bUjUHW76k,35.3148951,45.671825,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","8M7C+XP4, Sulaymaniya Rd, Zarayan",2,12
+516,چێشتخانەی میرەدێ mirade restaurant,ChIJCU-UyJQN_z8RsvXUuG7aEIY,35.2435629,45.68926320000001,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","6MVQ+CPC, 4, Miradee",2,12
+517,New Pizza پیتزای نوێ,ChIJp0xp1ehz_z8RBM1FuXj90O8,35.3226255,45.6837672,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","kan, Halebjaiyekan Halabjaya, District",2,15
+518,نانی کوردی عەنبەر خاتوون,ChIJYwi0yqV1_z8RfnXTrbR6pWU,35.316305,45.66973,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M89+GVH, 4, Zarayan",2,0
+519,darban,ChIJ754U2rMF_z8Ry-TKVfuQJBw,35.10541660000001,45.6839455,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M4M+6V7, Darbandikhan",2,3
+520,Grilled sabah,ChIJk0hjQq4F_z8RSdSnQa1vlCw,35.1158772,45.6839805,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M8M+9H, Darbandikhan",2,0
+521,Pizza Yam Yam,ChIJ2aAkBBxz_z8RnKH--JImiVk,35.3216702,45.681664,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCJ+MM7, Halebjai Taza",2,9
+522,مطعم ريبوار,ChIJR6JaG40F_z8R1nrISl15Hco,35.1125809,45.6876226,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M7Q+22Q, Kani Too Street, Darbandikhan",2,56
+523,چای خانەی زانا,ChIJ2y8gNWIF_z8RAwZMrlyeVGs,35.1105435,45.6875552,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M6Q+627, 4, Darbandikhan",2,0
+524,چێشتخانەی بانی خێڵان,ChIJx6Q-cKMB_z8Rr019f6YiOe0,35.0703665,45.6733153,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","3MCF+4CF, Kalar Road, Darbandikhan",2,0
+525,چایخانەی فریدون,ChIJORfCMZ90_z8RZxN_rtoNlzQ,35.31474559999999,45.6718837,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']",Zarayan,2,30
+526,Harzan bazary paris,ChIJQaUUx6Nz_z8RGtl-9zeRUcY,35.3157413,45.6900475,0.0,"['grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment']","8M8R+822, Halebjai Taza",2,0
+527,فالودە و دۆندرمەی ڕاستگۆ,ChIJR0Ivs6sF_z8Ri3vqNRDI6AQ,35.1103602,45.6899099,5.0,"['store', 'food', 'point_of_interest', 'establishment']","4M6Q+5W, Darbandikhan",2,3
+528,چێشتخانە و کەبابی وەستا باقی,ChIJ-6QVVXdz_z8RCGEf7SkKvgA,35.322399,45.685274,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8MCP+W3W, Ararat Street, Sulaymaniyah",2,0
+529,کولێرە بە قیمە,ChIJW5oWrNYF_z8ReeCLPsnbbig,35.1080419,45.68760229999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M5Q+629, 4, Darbandikhan",2,1
+530,Bani Khellan Water Factory,ChIJX7QRcFkB_z8Rm2kLvIwUxCw,35.070301,45.6735343,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","3MCF+4CF, Kalar Road, Darbandikhan",2,241
+531,pizza sarwar,ChIJuYVDxbMF_z8RjbrriXoh0z8,35.1134171,45.6851512,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M7P+936, Unnamed Road, Darbandikhan",2,1
+532,نجع خضير,ChIJRXVHkuF1_z8Rldr-a8V-ktU,35.3144014,45.67279629999999,0.0,"['convenience_store', 'store', 'food', 'point_of_interest', 'establishment']","سوبر ماركت, Zarayan",2,0
+533,pizza ayan,ChIJR4eY9vgF_z8RdYTVEpEws4k,35.1134171,45.6851512,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M7P+936, Unnamed Road, Darbandikhan",2,1
+534,Jeictkhanhy Sta Luxury,ChIJeWTTnDwE_z8RadEBN1RT2pc,35.1116832,45.6875752,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M6Q+M2G, Darbandikhan",2,39
+535,DB Cafe,ChIJBTFHQqUF_z8RCVxBry0oamc,35.1111028,45.6950894,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","4M6W+C2W, Darbandikhan",2,0
+536,Caffe Asena,ChIJ0f5JtxcE_z8Ri2K46Uvu2KI,35.10606,45.687973,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","4M4Q+C5H, Darbandikhan Dam Tunnel, Darbandikhan",2,20
+537,Jan cafe,ChIJIapzvsWP_z8RsluNTjaXrU4,35.3096619,45.3909108,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","895R+V97, Darbandikhan - Qaradagh Rd, Qara Dagh",2,0
+538,City Cafe,ChIJRfQPO2Rz_z8RGTxjWmayCPI,35.32294480000001,45.6826641,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","8MFM+53F, Halebjai Taza",2,44
+539,Roshnbiran Cafe,ChIJ79km0hcE_z8RVQEuGGarjao,35.1070819,45.6878874,4.4,"['cafe', 'food', 'point_of_interest', 'establishment']","4M4Q+R5J, 4, Darbandikhan",2,10
+540,Zeren cafe,ChIJFWbnUdyX_z8RLmnBxpQMgj8,35.2037958,45.4468666,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","6C3W+GP9, Takiya",2,0
+541,Faraidoon Tea House,ChIJwVIzED0E_z8RX_9kN6E4Oqo,35.1098442,45.6877212,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","4M5Q+W3Q, 4, Darbandikhan",2,39
+542,Lisa Cafe & Rest,ChIJI3rR0OYF_z8RYEHHW9n5uFg,35.114964,45.680912,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",Darbandikhan,2,9
+543,cafe bedaran shaw,ChIJ_w0Q8LMF_z8RQvKYHCNQoQg,35.1192836,45.7158981,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","Park Awarakan, darbandixan، shahedan flkae، slemani",2,0
+544,کافتریای شەوانی لادێ,ChIJzyRabAxz_z8RU_oA2OOitFk,35.3056484,45.682959,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","8M4M+754, Halebjai Taza",2,1
+545,Ella Nutela,ChIJ31lIp9IF_z8Runjc_vnnLfo,35.1089377,45.6877077,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","4M5Q+H3G, shaqami gshti Darbandikhan Sulimani, Darbandikhan",2,5
+546,دەربەندیخان شەقامی گشتی بەرامبەر مزگەوتی گەورە,ChIJE_G3UZEF_z8R-6nooWhCjwM,35.1080453,45.6876021,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","4M5Q+629, 4, Darbandikhan",2,16
+547,چاخانەی لالۆ,ChIJ32SMvTt1_z8R4YJp3RtluTo,35.3158431,45.67157719999999,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","8M8C+7MM, Zarayan",2,0
+548,Dark House Cafe,ChIJ1y9sCkgF_z8R9GOoU1iFo28,35.119631,45.6825077,2.8,"['cafe', 'food', 'point_of_interest', 'establishment']",Darbanikhan,2,8
+549,چایخانەی کاک عەلی,ChIJE961gn91_z8R-U0xEiPqvSA,35.3148771,45.671824,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","8M7C+XP4, Zarayan",2,0
+550,قاوەخانەی کولتوری دەربەندیخان,ChIJ-5U_ZsEF_z8RK2gtoffrIoc,35.1085515,45.6872463,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","4M5P+CVH, Darbandikhan",2,1
+551,cafe bedaran shaw,ChIJp8ne-igF_z8RM2DCw-kRa3E,35.1140785,45.6782663,0.0,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",Park Awarakan، shahedan flkae,2,0
+552,چایخانەی کلتوری زەڕایەن,ChIJXeEquG11_z8Rfn3aWx1LzCY,35.3152759,45.6714324,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","Sulaymaniya Rd, Zarayan",2,0
+553,Istatica coffee,ChIJl1s1dJlz_z8RTYb-el02_qU,35.3209961,45.6809495,4.7,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",Halebjai Taza,2,9
+554,Dolfin Cafe & Swimming,ChIJPYqzUewF_z8RaxMYwwWN5f8,35.1076164,45.68409339999999,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","4M5M+2JW, Darbandikhan",2,9
+555,SahyCafe☕ساهی کافێ,ChIJpTpk7F5z_z8RcKxNwLmLhTM,35.3232294,45.6845879,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","8MFM+7RW, Halebjai Taza",2,0
+556,Pasha cafe,ChIJn9ID7CeP_z8RS9uuyfvpMMw,35.3102301,45.3912385,5.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","Qeredax, Qara Dagh",2,4
+557,Chia Home,ChIJ3xhRwy1z_z8RO11uJEj7L10,35.3170727,45.69058090000001,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","8M8R+R6G, Halebjai Taza",2,0
+558,چایخانەی فریدون,ChIJORfCMZ90_z8RZxN_rtoNlzQ,35.31474559999999,45.6718837,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']",Zarayan,2,30
+559,چایخانەی جاف,ChIJc6vhiDpz_z8R-tte2rvwPtY,35.315904,45.6905116,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","8M8R+966, Unnamed Road, Zarayan",2,11
+560,کافتریای زەڕایەن,ChIJ582mEkB1_z8RnkKP9oGu6zA,35.31792220000001,45.6693268,3.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","8M99+5P8, Zarayan",2,2
+561,چاخانەی ئارێز&cofe arez,ChIJ9XrpndNz_z8RIbJDeyrXHss,35.3223604,45.6831504,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","ahmad moktar, Halebjai Taza",2,0
+562,ساردەمەنی و شیرینی کۆکتێل,ChIJ2_ON6fMF_z8RLrsNtNle68E,35.1080453,45.6876021,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","4M5Q+629, 4, Darbandikhan",2,2
+563,چایخانەی سەرچڵ,ChIJ08pUO3p1_z8R03Vp-ev7M7I,35.3161555,45.6712333,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","8M8C+FG2, Zarayan",2,0
+564,چاخانه‌ی كوردۆ,ChIJuWMFehcF_z8Rg5ZhAvWc1O8,35.110602,45.687614,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","4M6Q+62X, Darbandikhan",2,3
+565,ماسی برژاوی زمکان,ChIJ76DKogd1_z8RiT94AlaO93Q,35.3139292,45.6726166,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","گەڕەکی ڕاپەڕین, Zarayan",2,1
+566,کەبابخانەی حاجی یەعقوب,ChIJy1eUy5B1_z8RkkZgJL2fHF8,35.3147856,45.6719387,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M7C+WR, Zarayan",2,3
+567,ساردەمەنی و شیرینی ڤینۆس,ChIJCffPlNBz_z8R7zi1srjZ2i8,35.3151853,45.68925429999999,5.0,"['food', 'store', 'point_of_interest', 'establishment']","8M8Q+3PC, Unnamed Road, Zarayan",2,2
+568,Jeictkhanhy Sta Luxury,ChIJeWTTnDwE_z8RadEBN1RT2pc,35.1116832,45.6875752,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4M6Q+M2G, Darbandikhan",2,39
+569,Masi Mlakawa,ChIJbZb360h1_z8RI1CLDz0gGDQ,35.3161299,45.6712662,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8M8C+FG2, Zarayan",2,0
+570,Bani Khellan Water Factory,ChIJX7QRcFkB_z8Rm2kLvIwUxCw,35.070301,45.6735343,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","3MCF+4CF, Kalar Road, Darbandikhan",2,241
+571,چایخانەی گەنجان,ChIJhaau6KN1_z8RO5o7AoIQkY4,35.3148854,45.67091490000001,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","4, Zarayan",2,0
+572,موتيل نوشة,ChIJWX_lVIFFAEAR9NSZLrk7dIU,35.6457337,45.0009649,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",Sulaimani - Kirkuk Rd,2,39
+573,Shawqi Restaurant,ChIJfWoILs0zAEARcs7muaLwdRc,35.60193230000001,45.4019624,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","JC22+QQG, Unnamed Road, Sulaymaniyah",2,8
+574,مطعم و مشاوي,ChIJK7BVTby5AUARfsdUPguuvLI,35.7968291,45.4130481,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","QCW7+P6, Kunamasi",2,1
+575,خواردنگەی وەستا ڕەووف,ChIJGYJVRfFNAEARCcmSJI4fO3s,35.7315466,45.1455879,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","P4JW+M34, Piramagroon",2,0
+576,چێشتخانە و کەبابی بازیان,ChIJxWXrNadHAEARDDPs6iRCMRY,35.613655,45.1185261,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",Sulaimani - Kirkuk Rd,2,17
+577,Pshtiwan,ChIJd_AfulMzAEARXA5aP9nWQ7o,35.6002573,45.40395909999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JC46+6C5, Hawary Shar, Sulaymaniyah",2,0
+578,چێشتخانەی عەلوەی ڕۆژئاوا,ChIJvfzlcDc3AEARvXXG0p2RCK0,35.627409,45.2239228,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","J6GF+WJ, Kalawanan",2,6
+579,چێشتخانە و کەبابی هەواری شار,ChIJSwbdeqIzAEARsMr_W_4adWU,35.5980588,45.4003063,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","HCX2+64F, Hawary Shar, Sulaymaniyah",2,6
+580,لەفەخانەی وەستا ڕەفیق,ChIJa2ZkvJ9NAEARMVftW6YVOVs,35.73311169999999,45.144911,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",P4MV+MVQ Piramagroon Bazzar,2,0
+581,کەبابخانەی وەستا یادگار,ChIJLfDz5J9NAEARLcrAnbdzpKM,35.7304513,45.1459209,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","P4JW+59M, Piramagrun Street, السليمانية",2,2
+582,چەرەساتی شارەکەم,ChIJvXvu6tQzAEARcqQ2XVJw7io,35.605678,45.4109183,5.0,"['restaurant', 'store', 'food', 'point_of_interest', 'establishment']","دووسایدی هەواری شار, Hawary Shar, Sulaymaniyah",2,7
+583,خواردەمەنی بەتام,ChIJbbf9eBZFAEARqZ2U90bV3d4,35.6506875,45.0659375,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","M328+79, Barda Qaraman",2,1
+584,چێشتخانە و برژاوی سەلەمۆن,ChIJsQSP7UyxAUAR68hqimmaFjg,35.7702906,45.2850484,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","Q7CP+427, Qzlar",2,19
+585,چێشتخانەی ماڵەكەم,ChIJzYB-izZNAEARn1IW9zTlbQM,35.7333319,45.1453844,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","P4MW+85J, Unnamed Road, Piramagroon",2,1
+586,slemmany,ChIJawubRQEzAEARxC-3l0ce6xQ,35.6036155,45.4085688,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Hawary Shar,2,1
+587,خواردەمەنی مژدە/Mzhda Fast Food,ChIJEbMx59JNAEARIUM2FGUF4lQ,35.7315299,45.1455688,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","P4JW+M34, Piramagroon",2,1
+588,Shawqi Restaurant,ChIJH1dvtbAzAEARLJhjVMZzrYE,35.605222,45.41049839999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JC46+35Q, Unnamed Road, Hawary Shar, Sulaymaniyah",2,0
+589,Nusha Restaurant and Motel,ChIJA3CtwNxFAEARPqE3OTLeeV8,35.6462508,45.00508480000001,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",J2W4+G24، السليمانية,2,15
+590,Basha Al sham,ChIJP4i4OBEzAEARxWCY_s_HLWI,35.6094612,45.4151085,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Hawary Shar,2,2
+591,Jpsy mnu to/Lalo,ChIJPaIUOHkzAEARqQWFSbFZFKI,35.6151875,45.3721875,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","J98C+3V, Sulaymaniyah",2,0
+592,رەشماڵ Rashmal Restaurant,ChIJRSzqfjsxAEARQoujzbRE3ng,35.5975947,45.3403427,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","H8XR+24P, Sulaymaniyah",2,1
+593,شاورمە و نانی بەیانی حەپسەخان,ChIJS01Jam4zAEARF5fLQ7-nRs0,35.5980189,45.4005251,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","HCX2+662, Hawary Shar, Sulaymaniyah",2,23
+594,Kani Shaytan Restauran,ChIJs4eUFltEAEARmhbQCn5edRo,35.6444313,44.9942636,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']",Sulaimani - Kirkuk Rd,2,269
+595,Masi,ChIJ7Sk6FJQxAEARzYYCcQhxRh4,35.5972368,45.3384306,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","H8WQ+VMV, Sulaymaniyah",2,0
+596,مریشک فرۆشی یوسف chicken of Yousif,ChIJf-LXKjAzAEAR_qEVeAWZA2U,35.6083547,45.4122985,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","Hawary Shar, Sulaymaniyah",2,1
+597,Kani Lan,ChIJ6yGhw7qxAUARdDVLlD1MbL4,35.7952078,45.2534988,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","Q7W3+3CJ, Unnamed Road, Yakhsamar",2,12
+598,مریشک فرۆشی زانیار,ChIJaW6qLlZNAEARcUMWAO6cdXM,35.729972,45.1437671,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","P4HV+XGJ, Piramagroon",2,0
+599,Sagrma,ChIJy_kJNGVFAEARUEJG0TdFYWs,35.6423685,45.0442866,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",Sulaimani - Kirkuk Rd,2,21
+600,Pizza,ChIJdarL7jo5AEAR51rLSDcLxok,35.5975959,45.1367531,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","H4XP+25X, Bazian",2,0
+601,Naritafood,ChIJj9rpjt0xAEAR1IdelORuGpM,35.5985973,45.3404405,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","H8XR+96G, Sulaymaniyah",2,0
+602,مصيف سركلو بركلو,ChIJI4jh0MmpAUAR2jXspzyml8Q,35.869977,45.165153,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","V598+X3R, Unnamed Road, Sargallu",2,81
+603,Kaniawa Restaurant,ChIJe6I_uVtEAEARiXW9q7h9ins,35.6450648,44.9935198,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","JXWV+2CC, Takiya",2,169
+604,موتيل نوشة,ChIJWX_lVIFFAEAR9NSZLrk7dIU,35.6457337,45.0009649,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",Sulaimani - Kirkuk Rd,2,39
+605,مطعم كاني شي يتان,ChIJV794XWhFAEARtZcSZwCxEXc,35.6442099,44.9938014,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Sulaimani - Kirkuk Rd,2,29
+606,كاني وتمان.مطعم هواري ديرين,ChIJ3zKR9YCrAUAR36JHYZEWLgM,35.8450835,45.0285665,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",طريق دوكان،,2,2
+607,Sagrma,ChIJy_kJNGVFAEARUEJG0TdFYWs,35.6423685,45.0442866,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Sulaimani - Kirkuk Rd,2,21
+608,مطعم و مشاوي,ChIJK7BVTby5AUARfsdUPguuvLI,35.7968291,45.4130481,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","QCW7+P6, Kunamasi",2,1
+609,Shawqi Restaurant,ChIJH1dvtbAzAEARLJhjVMZzrYE,35.605222,45.41049839999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JC46+35Q, Unnamed Road, Hawary Shar, Sulaymaniyah",2,0
+610,خواردنگەی وەستا ڕەووف,ChIJGYJVRfFNAEARCcmSJI4fO3s,35.7315466,45.1455879,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","P4JW+M34, Piramagroon",2,0
+611,Kani Shaytan Restauran,ChIJs4eUFltEAEARmhbQCn5edRo,35.6444313,44.9942636,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",Sulaimani - Kirkuk Rd,2,269
+612,Shawqi Restaurant,ChIJfWoILs0zAEARcs7muaLwdRc,35.60193230000001,45.4019624,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","JC22+QQG, Unnamed Road, Sulaymaniyah",2,8
+613,کەبابخانەی وەستا یادگار,ChIJLfDz5J9NAEARLcrAnbdzpKM,35.7304513,45.1459209,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","P4JW+59M, Piramagrun Street, السليمانية",2,2
+614,مطعم بافي حمودي,ChIJ6SNM-ZkzAEARhBUz_WW5jRw,35.5965742,45.3457036,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","H8WW+J7G, Sulaymaniyah",2,4
+615,مریشک فرۆشی زانیار,ChIJaW6qLlZNAEARcUMWAO6cdXM,35.729972,45.1437671,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","P4HV+XGJ, Piramagroon",2,0
+616,چێشتخانە و برژاوی سەلەمۆن,ChIJsQSP7UyxAUAR68hqimmaFjg,35.7702906,45.2850484,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","Q7CP+427, Qzlar",2,19
+617,لەفەخانەی وەستا ڕەفیق,ChIJa2ZkvJ9NAEARMVftW6YVOVs,35.73311169999999,45.144911,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",P4MV+MVQ Piramagroon Bazzar,2,0
+618,رەشماڵ Rashmal Restaurant,ChIJRSzqfjsxAEARQoujzbRE3ng,35.5975947,45.3403427,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","H8XR+24P, Sulaymaniyah",2,1
+619,خواردەمەنی مژدە/Mzhda Fast Food,ChIJEbMx59JNAEARIUM2FGUF4lQ,35.7315299,45.1455688,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","P4JW+M34, Piramagroon",2,1
+620,Basha Al sham,ChIJP4i4OBEzAEARxWCY_s_HLWI,35.6094612,45.4151085,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Hawary Shar,2,2
+621,شاورمە و نانی بەیانی حەپسەخان,ChIJS01Jam4zAEARF5fLQ7-nRs0,35.5980189,45.4005251,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","HCX2+662, Hawary Shar, Sulaymaniyah",2,23
+622,چێشتخانە و کەبابی هەواری شار,ChIJSwbdeqIzAEARsMr_W_4adWU,35.5980588,45.4003063,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","HCX2+64F, Hawary Shar, Sulaymaniyah",2,6
+623,slemmany,ChIJawubRQEzAEARxC-3l0ce6xQ,35.6036155,45.4085688,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Hawary Shar,2,1
+624,خواردەمەنی بەتام,ChIJbbf9eBZFAEARqZ2U90bV3d4,35.6506875,45.0659375,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","M328+79, Barda Qaraman",2,1
+625,چێشتخانە و کەبابی بازیان,ChIJxWXrNadHAEARDDPs6iRCMRY,35.613655,45.1185261,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",Sulaimani - Kirkuk Rd,2,17
+626,Naritafood,ChIJj9rpjt0xAEAR1IdelORuGpM,35.5985973,45.3404405,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","H8XR+96G, Sulaymaniyah",2,0
+627,Masi,ChIJ7Sk6FJQxAEARzYYCcQhxRh4,35.5972368,45.3384306,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","H8WQ+VMV, Sulaymaniyah",2,0
+628,Nusha Restaurant and Motel,ChIJA3CtwNxFAEARPqE3OTLeeV8,35.6462508,45.00508480000001,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",J2W4+G24، السليمانية,2,15
+629,Pshtiwan,ChIJd_AfulMzAEARXA5aP9nWQ7o,35.6002573,45.40395909999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JC46+6C5, Hawary Shar, Sulaymaniyah",2,0
+630,چێشتخانەی ماڵەكەم,ChIJzYB-izZNAEARn1IW9zTlbQM,35.7333319,45.1453844,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","P4MW+85J, Unnamed Road, Piramagroon",2,1
+631,مصيف سركلو بركلو,ChIJI4jh0MmpAUAR2jXspzyml8Q,35.869977,45.165153,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","V598+X3R, Unnamed Road, Sargallu",2,81
+632,چەرەساتی شارەکەم,ChIJvXvu6tQzAEARcqQ2XVJw7io,35.605678,45.4109183,5.0,"['restaurant', 'food', 'store', 'point_of_interest', 'establishment']","دووسایدی هەواری شار, Hawary Shar, Sulaymaniyah",2,7
+633,Kaniawa Restaurant,ChIJe6I_uVtEAEARiXW9q7h9ins,35.6450648,44.9935198,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","JXWV+2CC, Takiya",2,169
+634,چێشتخانەی عەلوەی ڕۆژئاوا,ChIJvfzlcDc3AEARvXXG0p2RCK0,35.627409,45.2239228,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","J6GF+WJ, Kalawanan",2,6
+635,Kani Lan,ChIJ6yGhw7qxAUARdDVLlD1MbL4,35.7952078,45.2534988,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","Q7W3+3CJ, Unnamed Road, Yakhsamar",2,12
+636,چێشتخانەی عەلوەی ڕۆژئاوا,ChIJvfzlcDc3AEARvXXG0p2RCK0,35.627409,45.2239228,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","J6GF+WJ, Kalawanan",2,6
+637,ماوەت,ChIJ78DoJBijAUARATyzTFuqygg,35.8991269,45.4092807,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",VCX5+MP2، ماوت،,2,1
+638,كاني وتمان.مطعم هواري ديرين,ChIJ3zKR9YCrAUAR36JHYZEWLgM,35.8450835,45.0285665,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",طريق دوكان،,2,2
+639,چێشتخانەو کەبابی قزلەر,ChIJFRdo2ogzAEARTYJ05duN4N8,35.6066526,45.4121064,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Hawary Shar,2,0
+640,ساردەمەنی و شیرینی کلاسیک,ChIJU2xInZIzAEARzdJOg2zq7yg,35.6061805,45.4120335,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",JC46+FR4، السليمانية،,2,1
+641,كباب و بيتزا ئارا,ChIJ_bABtx8xAEARoWOcAW1BLOA,35.5975795,45.340269,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",H8XR+24C,2,0
+642,Shawqi Restaurant,ChIJH1dvtbAzAEARLJhjVMZzrYE,35.605222,45.41049839999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JC46+35Q, Unnamed Road, Hawary Shar, Sulaymaniyah",2,0
+643,Kaniawa Restaurant,ChIJe6I_uVtEAEARiXW9q7h9ins,35.6450648,44.9935198,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","JXWV+2CC, Takiya",2,169
+644,خواردەمەنی مژدە/Mzhda Fast Food,ChIJEbMx59JNAEARIUM2FGUF4lQ,35.7315299,45.1455688,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","P4JW+M34, Piramagroon",2,1
+645,مطعم و مشاوي,ChIJK7BVTby5AUARfsdUPguuvLI,35.7968291,45.4130481,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","QCW7+P6, Kunamasi",2,1
+646,خواردنگه ي بازيان,ChIJbxq4LaxHAEARu1Y2vhvRGPU,35.6137776,45.119329,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",J479+GP، بازيان،,2,1
+647,لەفەخانەی وەستا ڕەفیق,ChIJa2ZkvJ9NAEARMVftW6YVOVs,35.73311169999999,45.144911,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",P4MV+MVQ Piramagroon Bazzar,2,0
+648,Naritafood,ChIJj9rpjt0xAEAR1IdelORuGpM,35.5985973,45.3404405,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","H8XR+96G, Sulaymaniyah",2,0
+649,خواردەمەنی بەتام,ChIJbbf9eBZFAEARqZ2U90bV3d4,35.6506875,45.0659375,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","M328+79, Barda Qaraman",2,1
+650,Sagrma,ChIJy_kJNGVFAEARUEJG0TdFYWs,35.6423685,45.0442866,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Sulaimani - Kirkuk Rd,2,21
+651,خلیل ی نوسینگە,ChIJLaBSd_QzAEARFgFWkYVBmwc,35.631634,45.4035722,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","JCJ3+MC4، Unnamed Road, Sulaymaniyah",2,0
+652,کەبابخانەی وەستا یادگار,ChIJLfDz5J9NAEARLcrAnbdzpKM,35.7304513,45.1459209,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","P4JW+59M, Piramagrun Street, السليمانية",2,2
+653,Basha Al sham,ChIJP4i4OBEzAEARxWCY_s_HLWI,35.6094612,45.4151085,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Hawary Shar,2,2
+654,مطعم بافي حمودي,ChIJ6SNM-ZkzAEARhBUz_WW5jRw,35.5965742,45.3457036,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","H8WW+J7G, Sulaymaniyah",2,4
+655,Dublin Coffee,ChIJ3x0AhpgzAEAREgbDWpkWRew,35.6069433,45.4285226,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","Park, Hawary Shar, Sulaymaniyah",2,24
+656,VERA CAFFE,ChIJD71WGDdNAEARig8MgLMpV_8,35.7351287,45.1440326,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","vera caffe, peramagrun, Piramagrun St, Sulaymaniyah",2,31
+657,Ahmad Kaya Caffe,ChIJ-TQd98o5AEARCQy5EKEDf7g,35.5991552,45.1346432,3.0,"['cafe', 'food', 'point_of_interest', 'establishment']",slemani bazyan cafe,2,5
+658,Kiskapan ancient cafe,ChIJAe4NfW9VAEARCxZ8_zVi3V0,35.8101156,45.0065557,4.5,"['cafe', 'food', 'point_of_interest', 'establishment']","R264+2JV, Dokan",2,4
+659,شیرنیقە ڵات,ChIJr4M8y-xNAEARj1ez_dtJcmA,35.7320421,45.1426949,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","P4JV+R38, Piramagroon",2,2
+660,cafe nyork,ChIJV3BapztSAEARRSEWP5_k7fY,35.7427714,45.0621595,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","P3V6+4V3, Sulaymaniyah",2,0

@@ -1,0 +1,719 @@
+,Place Name,Place ID,Latitude,Longitude,Rating,Types,Vicinity,Price Level,User Rating tot
+0,Eat & Sweet,ChIJwxcRXfWZxD8R3vPfibYzvnk,30.5360373,47.8082477,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","GRP5+C79, Dinar Street, Jubaylah",2,116
+1,مطعم فلامنقو,ChIJY0bxj6ifxD8R2L69URjBCjY,30.5687584,47.7800178,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","HQ9J+H2, البصرة،",2,1
+2,مطبخ أريدو للأكلات الشرقية والمشاوي,ChIJ6y6gr6-ZxD8ROV_-de_1x4I,30.5105847,47.8314513,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR6J+6HF, Basrah",2,2
+3,Firefly burger,ChIJSbLJuKWXxD8RDBBSBfy52kw,30.5013779,47.8324067,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR2J+HX3, Basrah",2,172
+4,مطعم البراق,ChIJcT0xGreZxD8RSuCYe0tq37Q,30.5146911,47.841634,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR7R+VMC, Basrah",2,10
+5,360 Restaurants,ChIJNe5iVA-ZxD8R7AQ7d-qj94U,30.5205379,47.8196543,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",Basrah,2,462
+6,Zarzour Restaurant,ChIJ5aACikOXxD8Rlau0KTFoIB0,30.4931944,47.8275015,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']",Basrah,2,1838
+7,مطعم ايلول,ChIJgfwKthmbxD8RfvKYXEDP_a4,30.5289267,47.8427386,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","GRHV+H3H, كردلان، البصرة، البصرة،, Basrah",2,142
+8,Grand bbq,ChIJdaUPLF-ZxD8RQ0U3cQ_Fep4,30.5125767,47.8273296,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR7G+2WQ, Basrah",2,74
+9,H21 Restaurant,ChIJY8kKODuXxD8R6GwZvMSmz9M,30.5033947,47.83651649999999,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR3P+9H5, Unnamed Rd, Basrah",2,28
+10,مطعم ريحان,ChIJL16Kpl6XxD8Ri_z6b1geAlk,30.4898172,47.8258154,4.4,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRRG+269, Basrah",2,7
+11,AlTazaj Snack Restaurant,ChIJlYzL31CXxD8Rc7cTdgO4gK4,30.5039863,47.8351981,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR3P+F6C، 14 Tamooz (14th of july) Street, Oman, front of bin Ghazwan HospitalBasrah, Basrah",2,2381
+12,Lodge Restaurant,ChIJ446bouCXxD8RcrkMGK3HSn8,30.5051756,47.8395303,4.4,"['restaurant', 'point_of_interest', 'food', 'establishment']","مقابل بنك الائتمان, Saadi Street, شارع السعدي، Basrah",2,19
+13,Floating Restaurant,ChIJDQFvFqmQxD8R1YWXKeoNMJk,30.5118619,47.8492624,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR6X+PPR, Basrah",2,39
+14,Marina Chicken,ChIJtWUFyjOXxD8RDSePV8xfow4,30.5009452,47.8331578,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR2M+C68, Basrah",2,0
+15,مطعم الحسون,ChIJCVjES_2ZxD8R4mvCVVZlo28,30.5098327,47.8330829,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']",Basrah,2,1769
+16,Al Baghdadi Restaurant,ChIJ8dXTwfiZxD8RTdGvijK5Qeg,30.5180139,47.8412987,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR9R+6G8, Basrah",2,104
+17,اسماك الأخوين,ChIJPzog3haXxD8RFFivZPisgB4,30.416846,47.7814371,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","CQ8J+PH, Abu Al-Khaseeb",2,1
+18,مطعم بيت المندي,ChIJK3itHFGXxD8Rx6qOp1P6mB4,30.5033603,47.8355474,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR3P+86V, Basrah",2,581
+19,مطعم نجمة عشتار,ChIJEdyaWGGRxD8Rxq6y-SgVHhU,30.5093548,47.8470352,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR5W+PRG, البصرة،،",2,13
+20,مطعم ومقهى الفصول الاربعة,ChIJhf64uO6ZxD8RzOfCKefPpIA,30.5384701,47.7994462,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQQX+9QX, شارع البهو،،, Basrah",2,31
+21,سايلو برگر,ChIJKwn6jEOZxD8RpUAynGQBQYE,30.5385106,47.810987,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRQ6+CC7, Unnamed Road، البصرة،،, Basrah",2,7
+22,Basrah Franchies,ChIJAbXCygOZxD8R3gPIDbQHpHc,30.5417422,47.8056339,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRR4+J8R, Basrah",2,20
+23,مشويات Grilled meat,ChIJiQXqxnCZxD8R83Uqco2bKTo,30.5202274,47.8332031,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRCM+465, Basrah",2,2
+24,Fast food mini corner,ChIJK_1-zcqZxD8RLzhCmHtsQXA,30.5497162,47.8317181,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRXJ+VMP, Basrah",2,0
+25,Firefly burger,ChIJ8ype-jaZxD8R5x-uiIencjE,30.5358341,47.8084553,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRP5+89F الجبيله الجبيله, Dinar Street, Basrah",2,68
+26,Pizzanini - بيتزانيني,ChIJuZdBAKKZxD8R53V4gPaAuBQ,30.5182953,47.8208545,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","Markaz Alrebat Street, Basrah",2,40
+27,BBQ Manqal,ChIJQQyE_liXxD8RM_l7-TsgIjk,30.514388,47.8140565,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",Basrah,2,2651
+28,Alkhaton restaurant,ChIJ75JM3_SXxD8RVbgBzhyklkU,30.4867152,47.8082443,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRP5+M7Q, المشراق الجديد، بصرة، البصره،, Basrah",2,6
+29,360 restaurant,ChIJ9Uwf26S9xD8RJmWiB227xG0,30.4015912,47.7074454,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","CP24+JXQ, Az Zubayr",2,22
+30,Barakat AlZahra barbeque,ChIJT-n3WAubxD8RX3zwEzzSWkE,30.5132218,47.8437444,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR7V+7FQ, Istiklal St, Basrah",2,3
+31,مطبخ العافية,ChIJ6RWbO2iZxD8RGJ--fxaZgF8,30.5191635,47.8176393,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR99+M36, Basrah",2,1
+32,Salwan for shawarma,ChIJr5BkBPeXxD8RFAWZbUAGQxY,30.50600919999999,47.8391698,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR4Q+CM3, Basrah",2,80
+33,Mcha’s restaurant,ChIJnzPdpA-XxD8RMre7lJY_iB8,30.50470769999999,47.83365630000001,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR3M+VFM, Basrah",2,0
+34,Grand BBQ,ChIJ906ay2S9xD8Rw8Im7D224DM,30.395583,47.7081403,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PW5+67J, Unnamed Road،, Az Zubayr",2,134
+35,بيج العافية,ChIJz__l2QqZxD8Rx8iXyIqwO7c,30.4993296,47.77577830000001,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQXG+P8J, Basrah",2,1
+36,Chilli house,ChIJrd7SMwKZxD8RDCWASK4msW8,30.541132,47.805418,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRR4+F53, Basrah",2,501
+37,HUNGRY Restaurant,ChIJS_Gl-HGZxD8R6S5r5w5TH_U,30.5168125,47.8130625,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR87+P64, Basrah",2,65
+38,Heroes burger,ChIJm6lqhNyZxD8Rpu84AH5PN8I,30.5186875,47.8160625,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",Basrah,2,94
+39,مأكولات ميكي ماوس,ChIJe7MTO5iZxD8RaciBrbiejkI,30.5182551,47.83773679999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR9Q+945, Basrah",2,0
+40,Delibox.rest,ChIJeajJqFyZxD8Rqq-f5Ibf1OM,30.5119049,47.8249741,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR6F+QX9, Unnamed Road, Basrah",2,117
+41,Alfayrouz restaurant,ChIJ4YnUtYmZxD8RA63RXIU3DjU,30.5054382,47.8307241,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع كيا، شارع الجزائر, Basrah",2,186
+42,مطعم ومشويات الوليمة,ChIJCx6kMpeXxD8RnKTmiaTuhEg,30.4662488,47.78635,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ8P+FGX, Unnamed Road, Basrah",2,202
+43,ANZU RESTAURANT & mini Market,ChIJOwhqg36ZxD8R9itMggqmDkM,30.5316168,47.7704094,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQJC+J5V, 6, Basrah",2,6
+44,بيتزا ابو علي,ChIJf3OVmh2ZxD8RnrzqlzdfwXo,30.5354978,47.7951855,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQPW+647, Basrah",2,0
+45,مطعم ومقهى ابو حمودي السوري العائلي,ChIJC-JWg26XxD8RFL-dD04K0Ns,30.5012198,47.832808,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","شنشل مول طابق المطاعم, Basrah",2,48
+46,مطعم السيد,ChIJv6QKEFOZxD8RNUq_0dGxOeo,30.4953372,47.78593559999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQWP+4CR, Basrah",2,0
+47,Tweety Snack Restaurant,ChIJQ1Q_4s2XxD8RyDxzqEI9mg4,30.46508459999999,47.7878294,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ8Q+24G، Unnamed Road, Basrah",2,63
+48,جزارة ومشويات الكربلائي,ChIJT1bR6LyXxD8RWkhNEnmSJ9g,30.472237,47.7816531,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQCJ+WJM, Unnamed Road, Basrah",2,2
+49,TCHE TCHE Cafe and Restaurant,ChIJSQzqdTmRxD8R1rS5ZTS1W5k,30.5066356,47.8444884,4.3,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']","GR4V+QR2, Basrah",2,188
+50,Snacktime restaurant,ChIJGb9NPpGZxD8RiU0m1dTW4cs,30.5409914,47.80554739999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRR4+96V, Basrah",2,1
+51,Shanashil Al-Basra Restaurant,ChIJgQwMtCiXxD8RE5yQNPqPShM,30.5012536,47.8325804,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR2M+G24, Basrah",2,870
+52,طرشي عمار,ChIJn-2CGNuZxD8ROQ-cZULTJU8,30.5026959,47.7847223,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","الخليج العربي الثالث، قرب مطعم السوري ، البصرة حي, Basrah",2,4
+53,House cuisine هاوس كوزين,ChIJJU62LhqXxD8R189eIwFao24,30.5046583,47.8324965,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR3J+VX9, Basrah",2,25
+54,مطعم ناندوز گرل,ChIJWcOARzWZxD8RVhqWVTezeow,30.5367952,47.8074919,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRP5+P2C, الجبيلة،",2,2
+55,Filis Restaurant,ChIJpbLdPLuZxD8RZaPp4a0CWtA,30.5295193,47.8162798,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRH8+RG2، Dinar, Basrah",2,434
+56,Mas Restaurant & Cafe,ChIJyZ0QpUufxD8R6xalKYJrjOM,30.5663851,47.78027429999999,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","HQ8J+H42, Dinar Street, Basrah",2,85
+57,Abo Mustafa Fast Food,ChIJpWxK7-WZxD8RPsllyvu7owo,30.5081033,47.7834888,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Rumaila, Markazia road , South, Basrah",2,1
+58,مناقيش بيروت,ChIJOXLChBKXxD8RLbtav1rQ8ic,30.4219418,47.7845168,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","CQCM+QQQ, Basrah",2,10
+59,Silwan Restaurant,ChIJRSLIB_qZxD8RpLHLSy4Kin4,30.5198916,47.8372424,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR9P+XV5، شارع المغايز, Basrah",2,91
+60,مطعم ومشويات الوليمة,ChIJCx6kMpeXxD8RnKTmiaTuhEg,30.4662488,47.78635,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ8P+FGX, Unnamed Road, Basrah",2,202
+61,Marina chicken,ChIJq6qq6uyZxD8RsVDoc4zUC88,30.5249946,47.8292216,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRGH+2M4, Basrah",2,46
+62,مطعم ومقهى خواطر,ChIJm4UCMQKZxD8R2p9QllcYGX8,30.5407749,47.805188,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRR4+837, مول البصره تايمز, سكوير, Basrah",2,209
+63,360 Restaurants,ChIJNe5iVA-ZxD8R7AQ7d-qj94U,30.5205379,47.8196543,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Basrah,2,462
+64,Abou Majed Restaurant,ChIJARyQTxi8xD8R14jblT6d7oY,30.3894715,47.7027165,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PQ3+Q3P, Az Zubayr",2,65
+65,مطعم البصرة,ChIJe0S7NIqZxD8RhPjXmC41yBE,30.5081033,47.7834888,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQ5M+69X، بصرة،, Basrah",2,3
+66,Shawki Restaurant,ChIJY4pXSnCXxD8RwfQmV27ObdQ,30.4888414,47.8118731,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع ١٤ تموز, Basrah",2,104
+67,مطعم مشويات الدراجي,ChIJTSAyjA-XxD8RARZQfIOp99g,30.4726317,47.8118615,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRF6+3P5, Basrah",2,71
+68,مطعم نرجس,ChIJf_SwpPSRxD8RJtJKTmMzgE0,30.4946497,47.9150186,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FWV8+V22، شارع الصالحيه العام، البصرة،, Basrah",2,3
+69,مطعم ومأكولات: (( مشويات الدوسري )),ChIJu8skDIK9xD8RS8zDrc_tb8I,30.3956975,47.70641879999999,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PW4+7HF، Unnamed Road, Az Zubayr",2,11
+70,مطعم مذاق البصرة,ChIJ5bVJhNWXxD8RpVxnMPX0IzA,30.4695633,47.8095242,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FR95+RRC، القبلة،, Basrah",2,45
+71,مطعم ابو مصطفى,ChIJRUSJaBq9xD8RiPbZJBKqn1w,30.4013227,47.6889501,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","CM2Q+GHP, Az Zubayr",2,10
+72,مطعم بيت المندي,ChIJK3itHFGXxD8Rx6qOp1P6mB4,30.5033603,47.8355474,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR3P+86V, Basrah",2,581
+73,مطعم ماريو٢ فرع الكرمه,ChIJWbLvoqChxD8R26meHmCwYlU,30.5897836,47.7567731,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","HQQ4+WP6, 6, Al-Hartha",2,42
+74,Restaurant & Dining Mustafa,ChIJAcq-GQ-XxD8RotnrJsA_9UM,30.4731548,47.80969959999999,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRF5+6VV, Basrah",2,14
+75,مطعم ايلول,ChIJgfwKthmbxD8RfvKYXEDP_a4,30.5289267,47.8427386,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRHV+H3H, كردلان، البصرة، البصرة،, Basrah",2,142
+76,مطبخ أريدو للأكلات الشرقية والمشاوي,ChIJ6y6gr6-ZxD8ROV_-de_1x4I,30.5105847,47.8314513,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR6J+6HF, Basrah",2,2
+77,Khuttar restaurant,ChIJxYrgIl6hxD8RSpo3HMAbsMA,30.5593549,47.7370257,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","HP5P+PRR، شارع ابو صخير العام، ابو صخير،, Basrah",2,42
+78,مطعم,ChIJ83V1HkeRxD8R36qnFgVGLdQ,30.5199803,47.8692947,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","GVC9+2M9, Basrah",2,13
+79,Al Azaim Restaurant,ChIJRfRLs3GXxD8RwYsk22b1ZiQ,30.488573,47.8114466,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRQ6+CHM, Tamooz St., Basrah",2,1989
+80,مطعم ماكس,ChIJSbv6Jb2ZxD8RGAJQJ3fBv-c,30.5180008,47.7989289,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQ9X+5H7, Basrah",2,1
+81,Sultanet han Restaurant & Cafe | مطعم ومقهى سلطانيت خان,ChIJExXctROZxD8RGHNEgbRSM4g,30.5403372,47.8028438,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","البصرة،الجنينة،شارع البهو، شارع البهو, Basrah",2,130
+82,Alkhaton restaurant,ChIJ75JM3_SXxD8RVbgBzhyklkU,30.4867152,47.8082443,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRP5+M7Q, المشراق الجديد، بصرة، البصره،, Basrah",2,6
+83,مطعم جنة البصرة,ChIJAd7dEDBdwz8RfFbgEzZAYF4,30.6968761,47.733064,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","MPWM+Q64, Al-Hartha",2,146
+84,Al Maqal's Heaven Restaurant,ChIJFT6cOMeYxD8RI_iqT6I34GA,30.5518323,47.78476089999999,3.7,"['bakery', 'restaurant', 'store', 'food', 'point_of_interest', 'establishment']","HQ2M+PWJ, Basrah",2,204
+85,مطعم فروج أحمد العبدالله AA Chicken,ChIJv_jTI7eZxD8R63l53Q-XhRo,30.5205211,47.81964019999999,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Alrbat Police, Station st, Basrah",2,123
+86,Silwan Restaurant,ChIJRSLIB_qZxD8RpLHLSy4Kin4,30.5198916,47.8372424,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR9P+XV5، شارع المغايز, Basrah",2,91
+87,Karrar Rest,ChIJaeEMzzmXxD8RXZ_fuN7N9_g,30.4866943,47.8320652,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRPJ+MRP, Basrah",2,165
+88,مطعم أتاوي Atawi Resturant,ChIJFaoc1KSZxD8RQ2BxU4KmbAQ,30.5188231,47.81600400000001,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR98+GCM، كوت السيد،, Basrah",2,12
+89,مطعم النورين,ChIJ66JXphCaxD8RLFYx6PbkffY,30.5303728,47.8529819,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GVJ3+46J، شارع التنومه العام, Basrah",2,58
+90,مطعم أهل الكرم,ChIJ2_JltkC9xD8Re9sD5SXVoN4,30.397208,47.7063475,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PW4+VGG، Unnamed Road، الزبير،, Az Zubayr",2,22
+91,مطعم كباب حجي خضير,ChIJcV1ub82ZxD8RWA7B5pCq9Ek,30.5205561,47.8366769,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRCP+6MF, شارع المغايز،, Basrah",2,0
+92,مطعم ومئكولات (للوجبات السريعه),ChIJbTTXQryZxD8RGPEm3_8BoRM,30.53786819999999,47.7990366,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQQX+5J4، شارع البهو،, Basrah",2,0
+93,Abou Youssef Restaurant,ChIJjwPAExi8xD8R33l5qAQUfYU,30.3907672,47.70369119999999,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PR3+8F4, Az Zubayr",2,77
+94,Restaurant,ChIJZfSJAJyXxD8RTwA779gz5VA,30.4649072,47.7947277,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ7V+XV9, Basrah",2,7
+95,مطعم وقاعة ليون,ChIJD8KkbxaNxD8Rjvade9cnn_M,30.4590449,47.9834156,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","FX5M+J97، طريق اللباني، ابي الخصيب،, Abu Al-Khaseeb",2,15
+96,مطعم سفن النجاة,ChIJAQAAAECYxD8RJSwojeNiN-0,30.5081033,47.7834888,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQ5M+69X, Basrah",2,44
+97,مطعم العافية,ChIJ913WRVaXxD8R1wzPWJQSflE,30.5085733,47.8360435,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR5P+CCF, Basrah",2,23
+98,مطعم ابو حمودي السوري بأدارة الشيف علاوي السوري,ChIJ79ppi1aXxD8RlB29Wrbb30I,30.5073494,47.8361337,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","دائرة الكهرباء, 14 Tamooz (14th of July) Street, Basrah",2,1072
+99,Zarzour Restaurant,ChIJ5aACikOXxD8Rlau0KTFoIB0,30.4931944,47.8275015,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",Basrah,2,1838
+100,مطعم الحسون,ChIJCVjES_2ZxD8R4mvCVVZlo28,30.5098327,47.8330829,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",Basrah,2,1769
+101,Nandos Grill,ChIJ0RUXEFWXxD8R6eRqqytG2_E,30.5103125,47.8408125,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",Basrah,2,513
+102,مطعم دينار,ChIJ85oyDruZxD8RvvLMukuRixM,30.530423,47.8148164,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRJ7+5W8, Basrah",2,394
+103,Shatt Al Arab Restauarant,ChIJeZ8rGa-QxD8RQ4aUo9k3aMc,30.5097117,47.8504586,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GV52+V5P, Basrah",2,711
+104,Filis Restaurant,ChIJpbLdPLuZxD8RZaPp4a0CWtA,30.5295193,47.8162798,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRH8+RG2، Dinar, Basrah",2,434
+105,مطعم نور الكرار السياحي,ChIJncShrgq9xD8RMtVwE4F7cbQ,30.3884975,47.7030417,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PQ3+96V, Az Zubayr",2,24
+106,مطعم ومشويات الحجي,ChIJOfaIAqO9xD8RU10ZaODYgrs,30.3922779,47.6882219,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","9MRQ+W79، Unnamed Road, Az Zubayr",2,130
+107,مطعم الايمان,ChIJoWJJSKaYxD8RcCj6IBFg7-M,30.5473745,47.7666929,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQW8+WMX, Basrah",2,27
+108,Tanour El Habayeb Restaurant,ChIJb8iYSRi8xD8RsYutOiaZWfs,30.3896575,47.7025021,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PQ3+V2F, Az Zubayr",2,33
+109,Hekaya Restaurant,ChIJUY_YNQKZxD8RJbK2EDnph6U,30.5416261,47.8053779,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRR4+J55، شارع البهو, Basrah",2,365
+110,مطعم ابو حسن,ChIJj5Ce1JKXxD8R6Jq1C56DH-s,30.505877,47.82754449999999,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR4H+923، شارع الجزائر،, Basrah",2,264
+111,Eiffel Tower Restaurant,ChIJxXtJwH-XxD8REWgn6d3ifcs,30.4965329,47.8045506,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRW3+JR7, Basrah",2,23
+112,مطعم وكازينو بلم عشاري,ChIJr4JIvLqQxD8RDOeuqhQkjQ8,30.4993003,47.8345495,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRXM+PRF, Basrah",2,708
+113,مطعم بركات الزهراء,ChIJAZJWnBegxD8R8vpKWrzKvn4,30.61150289999999,47.7531218,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",كرمة علي Karmat ali الهارثة الماجديه,2,49
+114,مطعم ومشويات حجي خضير,ChIJzUY-CP2RxD8RyleHPzOZXd4,30.5087609,47.8475462,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR5X+G23, Basrah",2,39
+115,مطعم فهودي,ChIJE-2zGYiZxD8Rl7wExmqXosQ,30.5153219,47.8409065,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR8R+49R, Basrah",2,10
+116,مطعم النبراس,ChIJx5jWy6eYxD8RnW51AJGmReQ,30.5472406,47.7658738,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQW8+W97, Basrah",2,63
+117,مطعم المصطفى,ChIJ6XEwfMO_xD8R6SSMpyGpoZ0,30.3852521,47.715284,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PP8+444، Unnamed Road, Az Zubayr",2,5
+118,مطعم فحم coal cuisine,ChIJOTg430SXxD8RIXp72S4J7bg,30.4746764,47.805229,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRF4+V39, Basrah",2,73
+119,Samer Zergany Restaurant,ChIJq2MWshi8xD8R1FjAhQruDck,30.3871651,47.7038969,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PP3+VH3، شارع المحكمة, Al Hillah",2,211
+120,مأكولات حيدر قاسم,ChIJ7SW_HVu7xD8Rb4gWm-udB8w,30.381973,47.68066049999999,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",9MJJ+Q7J، الزبير،,2,1
+121,مأكولات طربوش,ChIJpz5E1N2_xD8RfE8BKbTcOeY,30.3791094,47.7292608,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PHH+JPR, Az Zubayr",2,24
+122,ماكولات قاسم,ChIJdQgSNSubxD8RqPTClxJQObI,30.5351204,47.8601937,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GVP6+23W، شارع التنومه العام، البصرة،، البصرة،, Basrah",2,0
+123,مطعم مأكولات,ChIJmeV0kQyXxD8R_P-lKCHaLEI,30.4972834,47.8128742,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRW7+W49, Basrah",2,0
+124,مأكولات الحفرة,ChIJjZMe48GZxD8RTfoEJzpybAo,30.5428322,47.8372544,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GRVP+4WR، البصرة،, Basrah",2,2
+125,مأكولات حسين,ChIJcbHJAW2RxD8Rcy634vbr8so,30.5181696,47.8669704,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GV98+6MC, Basrah",2,0
+126,مأكولات الجامعة,ChIJQwZY9lSXxD8ROW0FfkjU0eM,30.4730139,47.8110355,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRF6+6C3، القبلة، البصرة،, Basrah",2,3
+127,Zahra food for fast food,ChIJEbNo3Ay8xD8RA8l6fOIb67A,30.3953107,47.691859,3.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","9MWR+4PH, Az Zubayr",2,12
+128,ماكولات الطيب,ChIJrQjmqLWfxD8RaiXx7JTkmuU,30.6287209,47.7793718,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","JQHH+FPQ، شارع حوطة - كتيبان, Basrah",2,2
+129,مأكولات برشلونة,ChIJPaBmlHeZxD8RjLpkbIQ73Vo,30.5294387,47.8166068,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",GRH8+QJW، البصرة،,2,19
+130,ماكولات صاج الريف 2,ChIJ-53ASjKbxD8R0-gS6VIFkWw,30.5255555,47.8575174,3.4,"['restaurant', 'point_of_interest', 'food', 'establishment']",GVG5+54X، البصرة،,2,10
+131,ماكولات ابو حيدر,ChIJ0_Kwbf-XxD8RgFvhAYYDvWY,30.5041142,47.8254123,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","شارع الجزائر, Al Basrah",2,1
+132,مأكولات كناري,ChIJX5HHcYKXxD8R4i8rWUSSwfg,30.4835356,47.7989324,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FQMX+9H5, Basrah",2,0
+133,مأكولات الشعيبة,ChIJG-tQRxSlxD8R67lGzAko9DQ,30.4724491,47.6480144,3.2,"['restaurant', 'point_of_interest', 'food', 'establishment']",شارع المدارس البصرة الشعيبة حي السكك,2,5
+134,مأكولات بنونة,ChIJD15EE6qbxD8Rjx1gcbh4A-k,30.5242403,47.8465177,4.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","GRFW+PJ4, Basrah",2,5
+135,مأكولات سنبله للوجبات السريعه,ChIJVQotK06hxD8RhzOtNKSRX64,30.5830993,47.7533225,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","HQM3+68P, 6, Al-Hartha",2,118
+136,مأكولات ابو عبدالله الطيبة,ChIJ1QddaJaZxD8RhJxw1EThZ-4,30.5117546,47.7838443,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",الموفقية، البصرة،، GQ6M+PMV، البصرة،,2,0
+137,ماكولات سمبل اغا,ChIJd8sgxqG7xD8RFnSKO2KUrK4,30.4409476,47.6707648,1.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",CMRC+98C، شعيبة،,2,2
+138,مأكولات. Blue,ChIJ325-xEihxD8R56O9z7DfwU8,30.5900625,47.7486875,3.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","HPRX+2FV البصرة, Al-Hartha",2,3
+139,ماكولات ماريو 3,ChIJ6y4WJX2jxD8R7CeM2Zifxcw,30.5101089,47.7605653,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GQ66+363، Unnamed Road، البصرة،, Basrah",2,3
+140,Restaurant & Dining Mustafa,ChIJAcq-GQ-XxD8RotnrJsA_9UM,30.4731548,47.80969959999999,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRF5+6VV, Basrah",2,14
+141,ماكولات ابو حيدر,ChIJx6Kb7DKZxD8RDC3rYgVLfJA,30.5257657,47.77379699999999,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GQGF+8G3، البصرة،, Basrah",2,0
+142,مطعم مأكولات الأمير,ChIJvVog8Z2XxD8RrjPhewMa7E0,30.4758124,47.8143855,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRG7+8QC، القبلة،, Basrah",2,4
+143,ماكولات الارنب الضايج,ChIJByN2gwGZxD8RwXezZDHk-f0,30.5381221,47.7992864,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",GQQX+7P3، شارع البهو،، البصرة،,2,1
+144,ماكولات الارنب الضايج,ChIJr3MuK7OZxD8ROPXZjU3f0M0,30.5097395,47.7966602,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GQ5W+VMV, Basrah",2,0
+145,مأكولات حسن يعقوب,ChIJUaicOFGXxD8Rdqa5iLI4PXg,30.4864063,47.8318117,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRPJ+HP7, Basrah",2,0
+146,ماكولات امجد عبود,ChIJGd760cy9xD8R_zOZ2XdKGik,30.3864487,47.7144567,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PP7+HQG, Az Zubayr",2,2
+147,مأكولات ابو عيسى,ChIJS4OwK8abxD8RsH-dljMIR4E,30.5423185,47.8639168,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GVR7+WGQ, Basrah",2,1
+148,مأكولات ابو مصطفى,ChIJDb1lnrCXxD8R-EBHLie6MDo,30.5037822,47.8320629,4.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR3J+GR8, Basrah",2,4
+149,مأكولات ابو مريم للوجبات السريعة,ChIJu1QJADSZxD8R71l9-LjtpCI,30.5490447,47.7692907,4.3,"['meal_takeaway', 'restaurant', 'point_of_interest', 'food', 'establishment']",GQX9+JP7، البصرة،,2,6
+150,ماكولات تعتومه,ChIJUSgeu3KZxD8RH4JAbTgz9PM,30.5028524,47.812615,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR37+42X, Basrah",2,14
+151,Al Habayib Corner Restaurant,ChIJoxwt242RxD8RGGPEGz14nOE,30.46675,47.8977031,3.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","FV8X+M3W, Basrah",2,44
+152,مأكولات علي دبل,ChIJQcCds12ZxD8Rj-4C8ICanMQ,30.5207208,47.8338299,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",FRHQ+H94، البصرة،,2,1
+153,مأكولات البركة,ChIJFWu7DR-ZxD8R9uOQeKJzieo,30.5042474,47.8198739,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GR39+PX2, Al Basrah",2,0
+154,مأكولات الأمير,ChIJ0c-ZMYKRxD8RGLzxvBc4V_Q,30.4754414,47.8693949,4.4,"['restaurant', 'point_of_interest', 'food', 'establishment']","FVG9+5QC, Abu Al-Khaseeb",2,5
+155,مأكولات حارث,ChIJyea705eRxD8Rc3N6fKGff4w,30.5065105,47.8500318,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","GV42+J23, Basrah",2,0
+156,ماكولات ومشويات حبايبنا,ChIJoWm9X96fxD8R88WS4Ch2Y-s,30.5889521,47.7924258,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","HQQR+HXM, Basrah",2,0
+157,ماكولات ابو احمد,ChIJ-eMwAduXxD8RIIn-YduD1yA,30.4739933,47.8129584,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRF7+J53، برج الحياة ايرثلنك للانترنت، حي الجامعة، البصرة،، البصرة،, Basrah",2,4
+158,مأكولات حمادة,ChIJo0oSwB-XxD8Riqwt6G4xw-I,30.4590618,47.8014811,4.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","FR52+JHH، القبلة،, Basrah",2,11
+159,مأكولات التوت الشامي,ChIJMwAZCjW7xD8Rlj6iQn6Y--Y,30.3852361,47.6814344,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9MPJ+4H3, Az Zubayr",2,2
+160,Let's eat,ChIJQYiUHeCZxD8RwAuuqRNGasU,30.5263123,47.7708358,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQGC+G8G, Basrah",2,11
+161,مطعم مأكولات الكوثر,ChIJA_lTXtqfxD8Rhc5mp7oRcmk,30.598772,47.8031026,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","HRX3+G65, Basrah",2,4
+162,مأكولات رحمن الدحام,ChIJZYX6wyCXxD8RkMS596WgnBE,30.468753,47.7983407,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FQ9X+F8W، البصرة،,2,0
+163,مأكولات ابو مهدي,ChIJf0kIzIiXxD8RI8URXgwXhPA,30.4630176,47.8100535,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FR76+623، القبله حي القائم خلف جامع القبلة الكبير, Basrah",2,0
+164,مأكولات الأرنب الضاحك,ChIJh_FdzVuXxD8ROvOzhKtam48,30.5023933,47.8303132,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR2J+W4W, 14 Tamooz (14th of July) Street, Basrah",2,621
+165,مأكولات دلع كرشك,ChIJM0H6ZmqZxD8R0G9j4jg_9To,30.5178033,47.8144707,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR97+4Q9، Unnamed Road, Basrah",2,239
+166,مأكولات أبوعباس,ChIJu1JedKiZxD8RVY5snS8RsmM,30.5526885,47.7852587,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","HQ3P+33H، المعقل، البصرة،, Basrah",2,3
+167,مأكولات البركه(1)لبيع الفلافل,ChIJS8cXtmmZxD8RfR1YOQuXBcw,30.5039119,47.81851289999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GR39+HC6، التحسينية الجديدة، البصرة،, Basrah",2,0
+168,مأكولات فرقان الشهيه,ChIJQ0cLR_afxD8RkBNCkoqJ_0U,30.5768236,47.768359,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","HQG9+P8Q, Basrah",2,5
+169,مأكولات الوزان,ChIJkamxWf-ZxD8RdvBiVKQhVrw,30.5041059,47.8181885,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GR39+G8M، البصرة،,2,0
+170,ماكولات بربر,ChIJv_n18B2bxD8RMn5BowUe4qc,30.5271382,47.8438869,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRGV+VH2، Unnamed Road, Basrah",2,0
+171,مطعم السيد,ChIJv6QKEFOZxD8RNUq_0dGxOeo,30.4953372,47.78593559999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQWP+4CR, Basrah",2,0
+172,مأكولات الكوثر,ChIJUaAgRZefxD8RiGnAJTFu2gQ,30.6128802,47.7903677,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","JQ7R+545، شارع حوطة - كتيبان، البصرة، بصره كباسي, Basrah",2,3
+173,مطعم ومأكولات عبود,ChIJc4BV1ruZxD8RO3tNw9ZKNso,30.5257693,47.8002259,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRG2+84F، شارع المكاتب،, Basrah",2,3
+174,مشويات و ماكولات البصره القديمة,ChIJE76H42aXxD8RQhj6eKIBD0A,30.5010376,47.8181912,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GR29+C78، البصرة،,2,0
+175,مأكولات الكحلي,ChIJWb50NsOXxD8RWknCsLEgQ9I,30.488186,47.8102786,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRQ6+74C، المشراق الجديد، البصرة،, Basrah",2,4
+176,مطعم,ChIJCVIlS8KZxD8RdwEcomf9i4M,30.5220011,47.8230777,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GRCF+Q6Q، كوت السيد،, Basrah",2,2
+177,FAST FOOD,ChIJs1GgYQSZxD8Re4lHkVlGrsQ,30.5071291,47.7944478,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GQ4V+VQJ، شقق الفاو،, Basrah",2,2
+178,مأكولات النعيم,ChIJkVHFgr-XxD8RD22_FDAzHOs,30.4608025,47.7854429,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ6P+84X, Basrah",2,0
+179,"Chili house , Lees",ChIJGSNUVXeXxD8R37fw35DHCc8,30.5087336,47.8363476,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","شركة الابتداء، البصرة،، البصرة،, Basrah",2,545
+180,كوفي شوب صبح,ChIJc3E4_OSZxD8RwVTr7uY5Fp4,30.5193301,47.8328843,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","GR9M+P5J, Basrah",2,132
+181,Havana Cafe' | هاڤانا كافيه,ChIJ0eKeEnSXxD8RK1wvrlp9mXM,30.505269,47.82840789999999,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","GR4H+492, Algiers St, Basrah",2,6
+182,مقهى ميماتي,ChIJZQyTDbmXxD8RL4_CR1WZO_I,30.4725736,47.7818638,3.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FQFJ+2PQ, Unnamed Road, Basrah",2,5
+183,Yummy cafe,ChIJqyQ8aT2RxD8RsjvDtf6soYM,30.5043763,47.8458246,4.3,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","GR3W+Q84, Basrah",2,6
+184,مقهى الخيمة,ChIJYSrqG7aZxD8RgePhvL6L9U0,30.5224833,47.82137420000001,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GRCC+XGX, Basrah",2,0
+185,Havana cafe,ChIJGazIaICZxD8RVPZADm4e8As,30.5225029,47.8212917,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",شارع الطويسة اللجنة الاولمبية basra,2,0
+186,Public cafe - بوبلك كافية,ChIJBZQe4NaXxD8R64NGH8CMkhg,30.5019384,47.8364284,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR2P+QGH, oman hay, 14 Tamooz (14th of July) Street, Basrah،",2,1
+187,Mocha Coffee Shop,ChIJjzlDzkdewz8RtxjMCdB4B2I,30.6714973,47.74212259999999,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']","MPCR+HRX mocha coffee shop, Al-Hartha",2,54
+188,Basra Cafe,ChIJHdrM3RmRxD8RVSZSmb2ZbSE,30.5124981,47.8482069,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","GR6X+X7W, Corniche ٍ Street, Basrah",2,38
+189,كوفي بيروت,ChIJI7oylHCZxD8RCbU7YvYUC1o,30.4953498,47.7860206,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","FQWP+4CR, Basrah",2,10
+190,Getar cafe,ChIJcQP41luXxD8RaRD__XY7xug,30.5017291,47.8326787,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR2M+M3V, Basrah",2,3
+191,Roma Cafe | روما كافيه,ChIJ87YlCA2ZxD8RM4RwE3kdh8E,30.5356923,47.7781882,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']","GQPH+77P, Al Asatidha, Basrah",2,2
+192,هاڤانا كافية,ChIJg0FImXmZxD8RMna6so4LP4M,30.5396217,47.7945742,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GQQV+VR4, Basrah",2,0
+193,NooK نووك,ChIJuVxpL8GZxD8R6US1fTOzMkA,30.5093611,47.8328892,4.2,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",العباسية، شارع سيد حامد، الفرع المجاور لمطعم الحسون,2,192
+194,New city cafe,ChIJP5DXccCZxD8RZ8CyVu4A7uc,30.5225852,47.8212075,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","GRFC+2FP, Basrah",2,6
+195,Al Jawharah Cafe كوفي الجوهرة,ChIJ3z_jUha8xD8RdMev-thgrsE,30.3936099,47.7026319,3.4,"['cafe', 'food', 'point_of_interest', 'establishment']","9PV3+C3J, Unnamed Road, Az Zubayr",2,49
+196,Fayrouz cafe,ChIJ_aQut329xD8R5YKrtL3vbws,30.3930795,47.7022731,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9PV2+6WJ, Unnamed Road, Az Zubayr",2,15
+197,كرويته كافيه,ChIJK2kazEuZxD8RBwF6wx5UsEQ,30.5129333,47.826958,3.6,"['cafe', 'food', 'point_of_interest', 'establishment']","GR7G+5QG, Unnamed Road, Basrah",2,44
+198,Africa Cafe,ChIJT977UiGZxD8Re5HoguIFfnM,30.5227841,47.8216878,4.8,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","GRFC+3MR, Basrah",2,4
+199,Baku_cafe,ChIJE5JT_UGZxD8Rl2q9X9NqChU,30.5579878,47.7772991,3.8,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']","HQ5G+5WV, Station road Road, Basrah",2,20
+200,Alqaleia Cafe,ChIJN19IIlqXxD8Rh68Gv5jhNhk,30.5031419,47.8314625,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","GR3J+7H9, Basrah",2,20
+201,AVENUE CAFE,ChIJHTzIJrOXxD8Rxd4w9Pma_uY,30.4243085,47.7865605,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","CQFP+PJ2, Al-Amel",2,33
+202,Literary Café,ChIJeegT3gy8xD8RqkM-bqqKc3U,30.3951848,47.6920122,3.2,"['cafe', 'food', 'point_of_interest', 'establishment']","9MWR+3RC، شارع الزهراء عليها السلام, Az Zubayr",2,9
+203,Stayle Cafe,ChIJxxzWqwKZxD8RE8yCOEI9WOM,30.5441531,47.80368139999999,3.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","GRV3+MFJ, Dinar Street, Basrah",2,10
+204,TCHE TCHE Cafe and Restaurant,ChIJSQzqdTmRxD8R1rS5ZTS1W5k,30.5066356,47.8444884,4.3,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']","GR4V+QR2, Basrah",2,188
+205,Mazaj Cafe / كوفي مزاج,ChIJd6Uw3BmZxD8RIpduxdpMW90,30.5139508,47.8161382,2.7,"['cafe', 'food', 'point_of_interest', 'establishment']","GR78+HFJ, Unnamed Road, Basrah",2,11
+206,Coffee abody t,ChIJ172v4Ma7xD8R1BnQKeUD_H4,30.4410092,47.6707099,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","CMRC+C76, Unnamed Road, Basrah",2,1
+207,DALA W FINJAN Cafè,ChIJs8ErOC6ZxD8Ru8TJjbj5tDc,30.5179508,47.84167679999999,4.8,"['cafe', 'food', 'point_of_interest', 'establishment']","GR9R+5MC, Watan, Basrah",2,5
+208,كوفي دلة وفنجان,ChIJ16F5yL-ZxD8RaUsq_Qa0Q-A,30.5179031,47.8416107,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","مطعم الجبل, العشار - شارع الوطن - مقابل, Basrah",2,2
+209,Coffee shop Tsar,ChIJ02O-zA6XxD8RuKhbg045vIQ,30.4739603,47.8082585,3.6,"['cafe', 'food', 'point_of_interest', 'establishment']","FRF5+H8J, Basrah",2,9
+210,Miami Coffee,ChIJKawuCVGXxD8R2S4gTDfnyN0,30.5032954,47.8358516,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GR3P+889، شارع الجزائر, Basrah",2,283
+211,Hookah Café,ChIJwYw5PqmZxD8RhGhCL9BvZyw,30.5336876,47.8096055,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GRM5+FRH, Basrah",2,54
+212,Al Basha Cafe,ChIJcQXG67KQxD8RTtOa23FMJoY,30.5024518,47.8441657,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","GR2V+XMM, Unnamed Road, Basrah, Basrah",2,5
+213,Cash cafe مقهى كاش,ChIJLWjItS-XxD8R06NecaoXpbE,30.5009368,47.8331494,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","GR2M+977, Unnamed Road Basrah - البصرة‎،, Basrah",2,4
+214,88 Juice,ChIJKdqkey29xD8Rxt__2dbR4P8,30.3958418,47.7120136,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","9PW6+8RJ, Basrah",2,10
+215,NEXT LEVEL,ChIJu4K9j8OXxD8RYLfN62SHqZs,30.5018713,47.83855210000001,4.3,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","GR2Q+PCJ, Basrah",2,94
+216,coffee shop Hussam,ChIJQe-C_VmXxD8RB9asp4qdrj8,30.5044358,47.8328989,4.3,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","GR3M+Q5C, 14 Tamooz (14th of July) Street, Basrah",2,8
+217,Benz Café بنز كافيه,ChIJgbyZrAyXxD8RB9d2w9qqy_Q,30.5000903,47.8331999,4.1,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","Algiers St, Basrah",2,126
+218,كوفي شوب أميشة,ChIJOwlrg0uYxD8RmlzsuMwTYQw,30.5189686,47.80064590000001,3.6,"['cafe', 'food', 'point_of_interest', 'establishment']","مقهى، شارع الدفاع المدني, Basrah",2,59
+219,Jannat Alwatan cafe,ChIJh3x9ufiZxD8R_bM0Hnze1ms,30.5177722,47.8417239,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","GR9R+4M5, Basrah",2,170
+220,كوفي ريست Rest Cafe,ChIJPeV6FJGZxD8RNAk8vqYLdYE,30.52060839999999,47.805886,4.3,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",GRC4+5CC، البصرة،,2,45
+221,Rayan Cafe,ChIJVwAgdq-ZxD8RojRBw36cAjk,30.5616148,47.7870538,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","HQ6P+JRV, Dinar Street, Basrah",2,21
+222,Corner Coffee,ChIJ3yZTcciYxD8RTgFQZN322oE,30.5561596,47.7849923,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","HQ4M+FXG, Basrah",2,172
+223,Locus Basra,ChIJEdKOZI-ZxD8RP1JJop3z_qE,30.5189048,47.8066106,4.2,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","Trading Street, Basrah",2,332
+224,VIP Cafe,ChIJraJ64OGZxD8RcaAaAZ49k8s,30.5067649,47.82635759999999,3.3,"['cafe', 'food', 'point_of_interest', 'establishment']","GR4G+MGW, Basrah",2,33
+225,كافيه ومسبح باكو baku cafe,ChIJLYJC3MGZxD8RZ7kW0lL0bqE,30.5566362,47.7810222,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","HQ4J+MC2, شارع محطة القطار, Basrah",2,1
+226,The open cafe,ChIJndbPvoWZxD8RtwNEPTRbfOY,30.5099447,47.8331315,0.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","GR5M+X69, Basrah",2,0
+227,Coffee Classico,ChIJGQiJjD28xD8RsU3zB5xwWV8,30.3955102,47.7048669,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","9PW3+6W5, Az Zubayr",2,18
+228,City Cafe,ChIJGa9P41mXxD8RjaAnf2CTlM0,30.5045948,47.8325914,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","GR3M+R2P, Tamooz St., Basrah",2,94
+229,كوفي ذكريات,ChIJsSmwi4iZxD8Rre95g8SjpJg,30.5270415,47.788026,0.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","GQGQ+R67, Basrah",2,0
+230,Havana cafe,ChIJocxlbL-ZxD8RGGOhC8dBjrk,30.506269,47.8205067,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",البصره القديمه، ٢، 78400 Hhhhhhh,2,0
+231,Coffee shop Mondo,ChIJg9bf60WYxD8RXEc8s0TbEas,30.5172328,47.7923607,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GQ8R+VWX, Basrah",2,105
+232,كافيه ومعجنات لطيفة Latifah cafe,ChIJMbEpFtWZxD8RBbllRZwAy7Q,30.5411288,47.804966,3.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","GRR4+C32, Dinar Street, Basrah",2,2
+233,كوفي شوب ليالي دبي,ChIJ7wk7VdWXxD8R5T_ycdKUwXA,30.4500583,47.7946783,5.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","FQ2V+3RG, Basrah",2,1
+234,World of Italian Coffee عالم القهوة الايطالية,ChIJEVOl66KXxD8RgxURJ2iCTVg,30.4848576,47.8205703,4.4,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']",Basrah,2,36
+235,Bulvin cafe,ChIJNdvqynOZxD8RG2Hr88C8heU,30.5102649,47.8260963,0.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","GR6G+3CV, Basrah",2,0
+236,قهوة افريقيا 2,ChIJF6B4Z3mXxD8RdOP17r7Bctg,30.4899118,47.8144979,4.9,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","FRQ7+XR6, Basrah",2,7
+237,Coffee shop 777,ChIJV9O011eXxD8RUxaedndEJWI,30.508822,47.8357781,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","GR5P+G8C, Basrah",2,28
+238,Zad Coffee Shop,ChIJywA6SIuXxD8RSn491GAGMLo,30.5083577,47.8337721,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","Labour and Social Security، دائرة العمل والضمان الأجتماعي، البصرة،, Basrah",2,56
+239,Cafe senior companions,ChIJyVS9mv2WxD8RUDR9jrgE2hQ,30.4613484,47.8100543,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']","FR66+G2M, Basrah",2,63
+240,delhi572 restaurant,ChIJ9-nnh_xJwz8RUhB39FBcIjk,30.8322839,47.557984,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Mall Al, تنومة‎",2,0
+241,مطعم بطوش,ChIJ6b1r-9pIwz8Rc_xnNLLBnJw,30.7939137,47.5746596,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","QHVF+HVC, Ad Dayr",2,105
+242,مطعم السلطان,ChIJBzar97TT3D8RVT2y_yAeq68,31.0165543,47.4369305,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","Unnamed Road،, Al Qurnah",2,66
+243,مطعم الرسالة,ChIJcdSXfhDT3D8R_yQpyUQgQro,31.0099917,47.4328424,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C5M+X4, Al Qurnah",2,0
+244,فلافل سمير,ChIJLXXxaanb3D8RcRghh4zbhr8,30.95443139999999,47.26912000000001,2.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","X739+QJH, شارع البيان،, Al Madina",2,6
+245,Barakat Restaurant Ahl al-Bayt,ChIJRU4h59pIwz8ReM0dqpnEoX8,30.7941015,47.5753427,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","QHVG+J4W، طريق عمارة - بصرة, Ad Dayr",2,82
+246,مطعم فورجي,ChIJF5Cu6MLT3D8R1CvpsrL-Lx0,31.0071209,47.4391215,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C4Q+RMR, پارک، جسر القرنه العائم،،, Al Qurnah",2,43
+247,Restaurant statewide,ChIJZT1qVSHa3D8Rfw37miVnams,30.9540575,47.2677082,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","X739+J3G, Al Madina",2,65
+248,Karar Restaurant,ChIJKxBO6X3T3D8R5TZFnUiYoBo,31.0176096,47.4156329,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C98+27R, Al Qurnah",2,51
+249,Oasis Restaurant,ChIJMcq-4yPa3D8RyF-UTDrZFYE,30.9539184,47.26878139999999,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","X739+HG7, Al Madina",2,5
+250,موكب كنتاكي وفنگر,ChIJI5l6HlzR3D8RIxetFyNbnGI,30.9680105,47.2992231,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","X79X+6M5, شارع المدينه_الجبايش، Ezzedine Salim subdistrict, البصرة،",2,1
+251,Pomegranate Restaurant,ChIJvZsjxXHQ3D8RpCDczEvgdco,30.9223073,47.30155190000001,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","W8C2+WHH، شارع الجزائر, Al Madina",2,73
+252,popular restaurant,ChIJQ4xmDUHT3D8RlGf6_wbAvTo,31.0100423,47.4324685,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C6J+2X8, Al Qurnah",2,59
+253,Restaurant Zahra,ChIJPTQhOkstwz8Raz6CEVqBna0,30.9681709,47.4522042,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","XF92+7V8، الجسر اليوغزلافي, Al Sharish",2,46
+254,مطعم المرزوق,ChIJfyJ1_7nb3D8Rb9oKv9apWjQ,30.9549159,47.2665375,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","X738+XJP, كراج المدينة الموحد،, Al Madina",2,4
+255,Resalah Restaurant,ChIJ3a4THEfT3D8R9xP_dkCnh4E,31.0102316,47.4358892,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C6P+38W, Al Qurnah",2,68
+256,ابو احمد لتصليح الدراجات النارية,ChIJa0773HrT3D8RaN3LDX7gAmY,30.9778396,47.3931383,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",X9HV+47J,2,15
+257,Al Zahraa Bakery,ChIJVaEKXy3X3D8R73UwAIJzjqY,30.9814979,47.3218624,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","X8JC+JP4, Ezzedine Salim subdistrict",2,8
+258,مطعم ابو رضا,ChIJe5BI4FjT3D8RuKfAcH37fXI,31.0130017,47.4357023,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C7P+674, Al Qurnah",2,1
+259,مطعم شجرة ادم,ChIJS0wHrTnT3D8RGJJikLMniTo,31.0095317,47.43889,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C5Q+RH6، Unnamed Road, Al Qurnah",2,46
+260,بوابة القرنة,ChIJj3uKSc_T3D8R6qwBCxezZ9g,31.01400169999999,47.4320394,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C7J+JR3, Al Qurnah",2,1
+261,مطعم الحاج جودي,ChIJw9vr_lNJwz8R9YMyjM7zHSw,30.7987957,47.5742871,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","QHXF+GM4, Ad Dayr",2,0
+262,مطعم علي صبيح,ChIJwVjYziozwz8R8lw42I1YhSY,30.9535521,47.4591984,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","XF35+CMG, Al Sharish",2,12
+263,مطعم نور الهدى,ChIJy3RdKWDb3D8RLZywTS7A33w,30.9290353,47.2895961,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","W7HQ+JR9, Al Madina",2,0
+264,مطعم غصن الزيتون,ChIJ9zWYX2dJwz8R7SorLjlMD08,30.79479,47.5750562,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",6 الدير 1,2,20
+265,مطعم كرز,ChIJ0T0Zt7zR3D8RnWyydypJ4wI,30.9228908,47.3015854,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",Iraq,2,31
+266,مطعم عيون البصره,ChIJZ7RV6KdPwz8RzYC5Dq7k4pI,30.7819483,47.5936911,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",QHJV+QF، ابو غرب,2,1
+267,مطعم الفرات,ChIJyXh0APfT3D8RuIIYeeJH21k,31.00376049999999,47.4168497,3.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",2C38+GP، القرنة،,2,8
+268,غزوان فلافل,ChIJMUKpn1vb3D8RFP2SRuzTzEQ,30.9121712,47.2766783,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","W76G+VM6, Al Madina",2,0
+269,مطعم ابو عباس وعد,ChIJ_eZvwonR3D8R2smpgpfpoeY,30.9542514,47.3294027,3.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",X83H+PQ2,2,6
+270,لفات فلافل,ChIJ-csvtaDb3D8RXg55TyAk2Bc,30.9552544,47.2711187,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","X74C+4C5, Al Madina",2,0
+271,مطعم المصطفى,ChIJD8IAgQnb3D8RckECN2D-Nnw,30.9542128,47.2673672,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","X738+MXJ, Al Madina",2,12
+272,مطعم فورجي,ChIJ86b_AeDT3D8R6VcDMdgnmxA,31.0174199,47.4245714,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C8F+XRG، القرنة،, Al Qurnah",2,10
+273,اسواق,ChIJ8bd8ip3T3D8RW8qAtiVYH3M,30.9882427,47.4472666,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","XCQW+7WR, Al Sharish",2,0
+274,Restaurant Deira,ChIJI8hZ_iPT3D8RD8sYFsTibUc,30.9933551,47.43403499999999,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","XCVM+8JV, Al Qurnah",2,55
+275,مطعم السبطين,ChIJoaZG8x_T3D8RUyHfyicm3TA,30.9869478,47.4369964,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","XCPP+QRJ, Al Qurnah",2,0
+276,مطعم المندي اليمني,ChIJp71ZFdrT3D8RPg00MIKJVL8,31.0126948,47.4356279,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C7P+37C، القرنة،, Al Qurnah",2,13
+277,مأكولات المنتظر,ChIJ09NYpybV3D8RgyXklxWMPC8,31.0261657,47.4296489,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2CGH+FV6, Al Qurnah",2,0
+278,مطعم الواحة الخضراء,ChIJQcZYqirZ3D8RQOeXYJYBo3E,30.96279569999999,47.2691703,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","X779+4M7, Al Madina",2,73
+279,عظيم ألافندي,ChIJt8Jq7Rfb3D8R4r8ccJpI1HQ,30.9370625,47.2805781,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","W7PJ+R6G, Al Madina",2,0
+280,مطعم انوار الحجه,ChIJpY2XjN7b3D8RI3ay4eV6y2o,30.9369911,47.280517,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","W7PJ+Q6R، Unnamed Road, Al Madina",2,56
+281,مشويات ابو مهدي,ChIJhfGvot7T3D8R29QKQD6cSlA,31.0041788,47.4047513,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C33+MWC, Al Qurnah",2,1
+282,مأكولات دلع كرشك,ChIJewm9NojR3D8RfAQ6z3-ks5o,30.9686967,47.3014443,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","منطقة الخاص قرب فلكة الخاصالعراق، Unnamed Road, Al Khas",2,1
+283,مطعم محمد للوجبات السريعة,ChIJMV513Xs3wz8RqyBWQlrcC98,30.8658939,47.5489492,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",VG8X+9H4، البوبصيري،,2,2
+284,مطعم حبايبنا,ChIJFfmK6M7T3D8RtSQA2izoTrE,31.015286,47.4334776,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C8M+4CF، شارع النهيرات القرنة النهيرات _مقابل مستشفى القرنة العام، القرنة،, Al Qurnah",2,50
+285,مطعم الولاية 2,ChIJJU3ya_bb3D8RgNsyHU0y7yE,30.9381412,47.2803319,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","W7QJ+743، Unnamed Road, Al Madina",2,104
+286,فلافل ابو عباس,ChIJTfte60TR3D8Rf6TNMALOfr8,30.9628319,47.3387773,3.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",X87Q+4GJ,2,7
+287,مطعم مندي الدير,ChIJLbrxmWtJwz8RvqYSdVLV6FA,30.8012549,47.5766204,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","RH2G+GJ5، شارع مستشفى, Ad Dayr",2,8
+288,مطعم المذاق,ChIJ_2OOTKjb3D8RWNo0b0pgKRo,30.9332787,47.2845561,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",W7MM+8R7، المدينة،,2,164
+289,Fayhaa Restaurant,ChIJi5qqAtXQ3D8RDtOgwetHzZw,30.9815828,47.329064,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع المدينه_الجبايش,2,270
+290,مطعم صباح,ChIJBwWjiUfT3D8RtT9IjN-bg8Q,31.0044051,47.4166526,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",2C38+PM، القرنة،,2,2
+291,مطعم بركات الامام الصادق ع,ChIJNWKOO6lJwz8RVPZ56faS_e8,30.7949949,47.5748516,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","QHVF+XWX, 6, Ad Dayr",2,9
+292,مطعم الياسري,ChIJX7nQmr7T3D8RSjxsnz3CXx8,31.0108762,47.4349107,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C6M+9X3، Unnamed Road، القرنة،، القرنة،, Al Qurnah",2,20
+293,مطعم محسن خيون,ChIJXzncBH3R3D8R_AzNovRYtJQ,30.9673573,47.3523161,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",X982+WWW، البصرة،,2,1
+294,فلافل نبيل,ChIJRX982LHT3D8RrWhUMDXjbn4,31.0218057,47.4240353,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2CCF+PJ2، شارع الحسينية, Al Qurnah",2,4
+295,مطعم عمو صابر,ChIJ2S79Hx3V3D8RAd6qJRZ59kw,31.0261591,47.42956909999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2CGH+FR8, Al Qurnah",2,7
+296,مطعم الشهيد المهندس,ChIJHXSAULBJwz8R0mTllKIBEQk,30.8332205,47.5511176,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","RHM2+7CQ, ٩٨",2,0
+297,فلافل لبنان,ChIJQwC-LU7b3D8RASZb5nimxUU,30.9384965,47.2803936,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",W7QJ+95R، المدينة،,2,2
+298,كباب البصرة,ChIJYdQVWf7R3D8RaHVzsK3e-kw,30.9684515,47.3668188,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","X998+9PP، Unnamed Road،, Ezzedine Salim subdistrict",2,9
+299,مطعم رضا للكباب,ChIJ-cK_xRzb3D8RO_jPiP4Ujo4,30.9369448,47.2803487,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","W7PJ+Q4H, Al Madina",2,3
+300,مطعم المذاق,ChIJ_2OOTKjb3D8RWNo0b0pgKRo,30.9332787,47.2845561,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",W7MM+8R7، المدينة،,2,164
+301,مطعم فورجي,ChIJF5Cu6MLT3D8R1CvpsrL-Lx0,31.0071209,47.4391215,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C4Q+RMR, پارک، جسر القرنه العائم،،, Al Qurnah",2,43
+302,مطعم السلطان,ChIJBzar97TT3D8RVT2y_yAeq68,31.0165543,47.4369305,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","Unnamed Road،, Al Qurnah",2,66
+303,Fayhaa Restaurant,ChIJi5qqAtXQ3D8RDtOgwetHzZw,30.9815828,47.329064,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع المدينه_الجبايش,2,270
+304,Restaurant statewide,ChIJZT1qVSHa3D8Rfw37miVnams,30.9540575,47.2677082,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","X739+J3G, Al Madina",2,65
+305,Restaurant Deira,ChIJI8hZ_iPT3D8RD8sYFsTibUc,30.9933551,47.43403499999999,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","XCVM+8JV, Al Qurnah",2,55
+306,مطعم نرجس السياحي,ChIJrStnKwfR3D8Ry5zqJ45Hnu8,30.9714349,47.3082105,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع المدينه_الجبايش،, Ezzedine Salim subdistrict",2,27
+307,Barakat Restaurant Ahl al-Bayt,ChIJRU4h59pIwz8ReM0dqpnEoX8,30.7941015,47.5753427,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","QHVG+J4W، طريق عمارة - بصرة, Ad Dayr",2,82
+308,Restaurant Zahra,ChIJPTQhOkstwz8Raz6CEVqBna0,30.9681709,47.4522042,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","XF92+7V8، الجسر اليوغزلافي, Al Sharish",2,46
+309,مطعم الواحة الخضراء,ChIJQcZYqirZ3D8RQOeXYJYBo3E,30.96279569999999,47.2691703,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","X779+4M7, Al Madina",2,73
+310,ROYAL,ChIJwWB7ySPT3D8RJYB1A1U3ZjU,31.0144785,47.4376166,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","القرنة، الكورنيش, Al Qurnah",2,67
+311,مطعم فورجي,ChIJ86b_AeDT3D8R6VcDMdgnmxA,31.0174199,47.4245714,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C8F+XRG، القرنة،, Al Qurnah",2,10
+312,مطعم ومشويات الحاج قاسم الجبوري - مطعم الخيمة,ChIJwa2FFCRJwz8R28te4fnH0rs,30.8011185,47.5710506,2.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","RH2C+JR6, Ad Dayr",2,6
+313,موكب كنتاكي وفنگر,ChIJI5l6HlzR3D8RIxetFyNbnGI,30.9680105,47.2992231,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","X79X+6M5, شارع المدينه_الجبايش، Ezzedine Salim subdistrict, البصرة،",2,1
+314,مطعم حبايبنا,ChIJFfmK6M7T3D8RtSQA2izoTrE,31.015286,47.4334776,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C8M+4CF، شارع النهيرات القرنة النهيرات _مقابل مستشفى القرنة العام، القرنة،, Al Qurnah",2,50
+315,كافتريا الملاك,ChIJBVd9QgLR3D8RnizoHcPobaU,30.971606,47.3084238,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع المدينه_الجبايش،, Ezzedine Salim subdistrict",2,8
+316,مطعم العربي,ChIJrdA1RupJwz8RPRerSQWXIiM,30.83249799999999,47.5828134,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",RHMM+24H,2,9
+317,مطعم المنشولين,ChIJt72J72zT3D8R1qtgzYdi0i4,30.9728496,47.3840396,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",X9FM+4JM,2,2
+318,مطعم كباب عباس بدر,ChIJp8su747b3D8R00HzRE-nntI,30.9381222,47.2880522,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","W7QQ+66V، شارع الطوفة،, Al Madina",2,6
+319,مطعم الفرات,ChIJyXh0APfT3D8RuIIYeeJH21k,31.00376049999999,47.4168497,3.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",2C38+GP، القرنة،,2,8
+320,مطعم المصطفى,ChIJD8IAgQnb3D8RckECN2D-Nnw,30.9542128,47.2673672,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","X738+MXJ, Al Madina",2,12
+321,مطعم المصطفى للأكلات السريعة,ChIJv3sOhWPX3D8Rp4FuYdrWDNE,30.9795901,47.3175408,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","X8H9+R2M، الهوير،, Ezzedine Salim subdistrict",2,18
+322,مطعم جنه الفردوس,ChIJcZo4dw3T3D8RA4lsycHhHpQ,31.0103739,47.4342255,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C6M+6MG، Unnamed Road, Al Qurnah",2,10
+323,مطعم ابو علي,ChIJ1Si4C9bT3D8RvTk5h82MCmU,30.9969964,47.4340064,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","XCWM+RJ5, Al Qurnah",2,30
+324,مطعم غصن الزيتون,ChIJ9zWYX2dJwz8R7SorLjlMD08,30.79479,47.5750562,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",6 الدير 1,2,20
+325,)لفات القائم ) بإدارة ابو احمد الشهيرة,ChIJ-X0OIufR3D8RgcRlBERvDBU,30.9458374,47.3376353,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",عبد الغفار المنصوري، شارع السيد احمد بي زيد بن عيسى المدينة تقاطع المنصور شارع الشهيد الشيخ,2,15
+326,مطعم كرز,ChIJ0T0Zt7zR3D8RnWyydypJ4wI,30.9228908,47.3015854,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",Iraq,2,31
+327,مطعم MAS,ChIJn52XU0vR3D8R7Y_7UkIfc7s,30.9789053,47.3261672,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","X8HG+HFJ، الهوير،, Ezzedine Salim subdistrict",2,1
+328,مطعم انوار الحجه,ChIJpY2XjN7b3D8RI3ay4eV6y2o,30.9369911,47.280517,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","W7PJ+Q6R، Unnamed Road, Al Madina",2,56
+329,شنو آكل للوجبات السريعة,ChIJ77FJhMzR3D8RT_w6RYtAPVQ,30.97652969999999,47.3202201,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","X8GC+J39, Ezzedine Salim subdistrict",2,24
+330,مطعم الشهيد المهندس,ChIJHXSAULBJwz8R0mTllKIBEQk,30.8332205,47.5511176,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","RHM2+7CQ, ٩٨",2,0
+331,مطعم الولاية 2,ChIJJU3ya_bb3D8RgNsyHU0y7yE,30.9381412,47.2803319,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","W7QJ+743، Unnamed Road, Al Madina",2,104
+332,مطعم الحاج جودي,ChIJl026su5Pwz8Rx1P-rawauWc,30.7820711,47.5897374,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",6,2,56
+333,Oasis Restaurant,ChIJMcq-4yPa3D8RyF-UTDrZFYE,30.9539184,47.26878139999999,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","X739+HG7, Al Madina",2,5
+334,مطعم وكافتريا كرار ابو حيدر الحجاج,ChIJOVVqaaXR3D8RGzBXpEgermg,30.9618504,47.3327142,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",X86M+P3P,2,1
+335,مشويات ابو مهدي,ChIJhfGvot7T3D8R29QKQD6cSlA,31.0041788,47.4047513,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C33+MWC, Al Qurnah",2,1
+336,أكلات ميثاق الشهيره,ChIJFZO7kH7T3D8Rl3j7KT781do,31.0211901,47.4286542,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2CCH+F9P، شارع الحسينية, Al Qurnah",2,0
+337,مطعم وجزاره الاخوين,ChIJOSwQKOjT3D8RPaUlP2wbWgw,30.9723183,47.383994,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",X9CM+WHH، ناحية،,2,3
+338,مطعم ابو رضا,ChIJe5BI4FjT3D8RuKfAcH37fXI,31.0130017,47.4357023,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C7P+674, Al Qurnah",2,1
+339,الشيف مرتضى السريح,ChIJu7JCGvzb3D8RashN1E_3tHc,30.9378421,47.27551159999999,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","W7QG+46J، منطقة الخليفه، المدينة الخليفة, Al Madina",2,1
+340,مطعم شجرة ادم,ChIJS0wHrTnT3D8RGJJikLMniTo,31.0095317,47.43889,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C5Q+RH6، Unnamed Road, Al Qurnah",2,46
+341,مطعم محمد للوجبات السريعة,ChIJMV513Xs3wz8RqyBWQlrcC98,30.8658939,47.5489492,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",VG8X+9H4، البوبصيري،,2,2
+342,مطعم الزهراء الاكلات السريعه,ChIJfxyndFvR3D8R_eiZG_gz0M8,30.9285202,47.3361884,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']",العلم الصادق المدينة، أبو غريب,2,7
+343,مطعم السبطين,ChIJoaZG8x_T3D8RUyHfyicm3TA,30.9869478,47.4369964,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","XCPP+QRJ, Al Qurnah",2,0
+344,مطعم الموسوي,ChIJtTiiQpvR3D8RnwmtgCGqeM0,30.977618,47.3238102,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع الهوير العام, Ezzedine Salim subdistrict",2,0
+345,مطعم ومشويات حبايبنا 2,ChIJZYTvoIPR3D8R07Mgxp-2WZY,30.9764598,47.320403,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",X8GC+H5J، الهوير،،,2,28
+346,مطعم بطوش,ChIJ6b1r-9pIwz8Rc_xnNLLBnJw,30.7939137,47.5746596,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","QHVF+HVC, Ad Dayr",2,105
+347,مطعم الثورة,ChIJnSzV5TfT3D8R3cvsCLE-qfo,31.0103924,47.4345004,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C6M+5R2, Al Qurnah",2,2
+348,مطعم المندي اليمني,ChIJp71ZFdrT3D8RPg00MIKJVL8,31.0126948,47.4356279,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C7P+37C، القرنة،, Al Qurnah",2,13
+349,مطعم بين اهلنا,ChIJtbdOIrjR3D8REN9ZOp0RwOY,30.9736882,47.3168348,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","X8F8+FPG، الهوير،, Ezzedine Salim subdistrict",2,1
+350,مطعم الماس,ChIJYxJ6dgbR3D8RofVZj0EMQFw,30.9800522,47.3263018,4.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","ناحية عزالدين سليم, متنزه ناحية الشهيد عزالدين سليم، Ezzedine Salim subdistrict",2,24
+351,كافتيريا وحلويات قرمشات,ChIJt0C7yhstwz8RSSknr-UMkPk,30.977206,47.4528222,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","XFG3+V4P، Unnamed Road, Al Sharish",2,0
+352,مطعم ركن العزائم,ChIJie7F8CPT3D8RBELU4nOl6cY,30.99387949999999,47.4339257,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","XCVM+HH3, Al Sweelh",2,53
+353,مطعم عمو صابر,ChIJ2S79Hx3V3D8RAd6qJRZ59kw,31.0261591,47.42956909999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2CGH+FR8, Al Qurnah",2,7
+354,مطعم علي صبيح,ChIJwVjYziozwz8R8lw42I1YhSY,30.9535521,47.4591984,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","XF35+CMG, Al Sharish",2,12
+355,لفات فلافل,ChIJ-csvtaDb3D8RXg55TyAk2Bc,30.9552544,47.2711187,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","X74C+4C5, Al Madina",2,0
+356,مطعم الآخوين,ChIJwZ0xUI9Jwz8RTRhQOtkI3z0,30.8025538,47.5707807,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","6 البصرة, Ad Dayr",2,16
+357,مطعم الياسري,ChIJX7nQmr7T3D8RSjxsnz3CXx8,31.0108762,47.4349107,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C6M+9X3، Unnamed Road، القرنة،، القرنة،, Al Qurnah",2,20
+358,مطعم الواحة الخضراء 1,ChIJm-678_zZ3D8RfyGPA58f7w0,30.9657175,47.26877469999999,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","X789+7G, Al Madina",2,1
+359,جنة الضيافه,ChIJZ1vnZqvT3D8RrLnhDqQRG68,31.0147221,47.4486401,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C7X+VFJ, Al Qurnah",2,5
+360,مأكولات المنتظر,ChIJ09NYpybV3D8RgyXklxWMPC8,31.0261657,47.4296489,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2CGH+FV6, Al Qurnah",2,0
+361,محل قصي لبيع الفلافل,ChIJs-3a2dPR3D8RHgqsNYo2iVk,30.9581496,47.2982278,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","X75X+779, Al Khas",2,0
+362,مطعم الرسالة,ChIJcdSXfhDT3D8R_yQpyUQgQro,31.0099917,47.4328424,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C5M+X4, Al Qurnah",2,0
+363,مطعم سندباد,ChIJq7O31jDb3D8RexpRo1gHxZA,30.9522707,47.2714693,3.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",X72C+VHG، المدينة،,2,16
+364,مطعم للاكلات السريعه,ChIJyzu0p6PR3D8RHJYxOV8PZhM,30.9266975,47.3343012,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",W8GM+MPF,2,1
+365,مطعم كرشك يستاهل,ChIJxfEadAlJwz8Rh_9wEe7WKBU,30.8011896,47.5748925,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",RH2F+FXC، الدير،,2,3
+366,مطعم كرز,ChIJ0T0Zt7zR3D8RnWyydypJ4wI,30.9228908,47.3015854,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",Iraq,2,31
+367,مطعم الياسري,ChIJX7nQmr7T3D8RSjxsnz3CXx8,31.0108762,47.4349107,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C6M+9X3، Unnamed Road، القرنة،، القرنة،, Al Qurnah",2,20
+368,حسن للوجبات السريعة,ChIJK7AzRbUtwz8REBoJ6UR4Yfs,30.9844441,47.4497131,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",XCMX+QVF، الشرش القرنة الشاهين، الشريش،,2,3
+369,مأكولات الربيعي,ChIJ4V8DH1FJwz8Rl6xzvgTRyaM,30.79883539999999,47.57426659999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",QHXF+GMG، البصرة،,2,1
+370,مطعم ابو رضا,ChIJe5BI4FjT3D8RuKfAcH37fXI,31.0130017,47.4357023,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C7P+674, Al Qurnah",2,1
+371,مدرسه الشيخ ابو هاشم,ChIJqXbMOXPR3D8RcmY_6PeLWyw,30.9209783,47.3011744,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","W8C2+9FV، الجري،, Al Madina",2,0
+372,مطعم حبايبنا,ChIJFfmK6M7T3D8RtSQA2izoTrE,31.015286,47.4334776,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C8M+4CF، شارع النهيرات القرنة النهيرات _مقابل مستشفى القرنة العام، القرنة،, Al Qurnah",2,50
+373,مطعم الثورة,ChIJnSzV5TfT3D8R3cvsCLE-qfo,31.0103924,47.4345004,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C6M+5R2, Al Qurnah",2,2
+374,أكلات ميثاق الشهيره,ChIJFZO7kH7T3D8Rl3j7KT781do,31.0211901,47.4286542,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2CCH+F9P، شارع الحسينية, Al Qurnah",2,0
+375,شيخكم جعفر,ChIJe0PKSstJwz8RqUTiKXLEapU,30.7964423,47.5801252,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","QHWJ+J34, Ad Dayr",2,0
+376,جنة الضيافه,ChIJZ1vnZqvT3D8RrLnhDqQRG68,31.0147221,47.4486401,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C7X+VFJ, Al Qurnah",2,5
+377,مطعم ومشويات حبايبنا 2,ChIJZYTvoIPR3D8R07Mgxp-2WZY,30.9764598,47.320403,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",X8GC+H5J، الهوير،،,2,28
+378,فلافل لبنان,ChIJQwC-LU7b3D8RASZb5nimxUU,30.9384965,47.2803936,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",W7QJ+95R، المدينة،,2,2
+379,بيت لقمان,ChIJiz-uXsHb3D8REsimiKlbi_o,30.9496766,47.2775585,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","W7XH+V27, Al Madina",2,0
+380,مأكولات دلع كرشك,ChIJewm9NojR3D8RfAQ6z3-ks5o,30.9686967,47.3014443,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","منطقة الخاص قرب فلكة الخاصالعراق، Unnamed Road, Al Khas",2,1
+381,مطعم محمد للوجبات السريعة,ChIJMV513Xs3wz8RqyBWQlrcC98,30.8658939,47.5489492,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",VG8X+9H4، البوبصيري،,2,2
+382,كافتيريا وحلويات قرمشات,ChIJt0C7yhstwz8RSSknr-UMkPk,30.977206,47.4528222,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","XFG3+V4P، Unnamed Road, Al Sharish",2,0
+383,مطعم المندي اليمني,ChIJp71ZFdrT3D8RPg00MIKJVL8,31.0126948,47.4356279,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","2C7P+37C، القرنة،, Al Qurnah",2,13
+384,زاد بغداد,ChIJs-0t_O_T3D8RBh8Gmx346fg,31.0140694,47.4315121,4.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","2C7J+JJM, Al Qurnah",2,3
+385,مطعم سفينة النجاة,ChIJ2dtlvr7R3D8R4XqzJcPdhNE,30.9917244,47.3528203,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","X9V3+24P، شارع المدينه_الجبايش،, Al Madina",2,2
+386,فلافل نبيل,ChIJRX982LHT3D8RrWhUMDXjbn4,31.0218057,47.4240353,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","2CCF+PJ2، شارع الحسينية, Al Qurnah",2,4
+387,كافتريا الملاك,ChIJBVd9QgLR3D8RnizoHcPobaU,30.971606,47.3084238,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","شارع المدينه_الجبايش،, Ezzedine Salim subdistrict",2,8
+388,فلافل جواد الشهيرة,ChIJE9jU3dLb3D8R5MVnXK82xkw,30.9354952,47.2816622,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",W7PJ+6QQ، المدينة،,2,2
+389,مهنة غانم,ChIJt_-kOefT3D8Rwsw3XsxIPI8,31.0115761,47.4169973,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","2C68+JQF, Al Qurnah",2,0
+390,مطعم الاغا للوجبات السريعه,ChIJFbOKZU7T3D8RB0FjoVjCiIY,31.0110625,47.4384375,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","القرنة، Alkwrnesh street, Al Qurnah",2,14
+391,مطعم وكافتريا كرار ابو حيدر الحجاج,ChIJOVVqaaXR3D8RGzBXpEgermg,30.9618504,47.3327142,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",X86M+P3P,2,1
+392,مطعم الزهراء الاكلات السريعه,ChIJfxyndFvR3D8R_eiZG_gz0M8,30.9285202,47.3361884,3.4,"['restaurant', 'point_of_interest', 'food', 'establishment']",العلم الصادق المدينة، أبو غريب,2,7
+393,كاظم احمد الماحي,ChIJC1tQR21Jwz8Rm3GwREZFOCA,30.795749,47.5683204,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","QHW9+887, Ad Dayr",2,0
+394,مطعم ومشويات الحاج قاسم الجبوري - مطعم الخيمة,ChIJwa2FFCRJwz8R28te4fnH0rs,30.8011185,47.5710506,2.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","RH2C+JR6, Ad Dayr",2,6
+395,مطعم الواحة الخضراء 1,ChIJm-678_zZ3D8RfyGPA58f7w0,30.9657175,47.26877469999999,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","X789+7G, Al Madina",2,1
+396,لفات فلافل,ChIJ-csvtaDb3D8RXg55TyAk2Bc,30.9552544,47.2711187,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","X74C+4C5, Al Madina",2,0
+397,بوابة القرنة,ChIJj3uKSc_T3D8R6qwBCxezZ9g,31.01400169999999,47.4320394,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","2C7J+JR3, Al Qurnah",2,1
+398,باقر,ChIJtwnWBzTT3D8R93IF68TjrnU,31.0174193,47.424581,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","2C8F+XRG, Al Qurnah",2,0
+399,كافتريا قحطان,ChIJGxh8o6TT3D8RcoY5wyWQ8gk,31.0103463,47.433246,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","2C6M+47Q، القرنة،, Al Qurnah",2,0
+400,مطعم انوار الحجه,ChIJpY2XjN7b3D8RI3ay4eV6y2o,30.9369911,47.280517,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","W7PJ+Q6R، Unnamed Road, Al Madina",2,56
+401,غزوان فلافل,ChIJMUKpn1vb3D8RFP2SRuzTzEQ,30.9121712,47.2766783,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","W76G+VM6, Al Madina",2,0
+402,مطعم ابو علي,ChIJ1Si4C9bT3D8RvTk5h82MCmU,30.9969964,47.4340064,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","XCWM+RJ5, Al Qurnah",2,30
+403,مطعم MAS,ChIJn52XU0vR3D8R7Y_7UkIfc7s,30.9789053,47.3261672,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","X8HG+HFJ، الهوير،, Ezzedine Salim subdistrict",2,1
+404,مطعم المصطفى,ChIJD8IAgQnb3D8RckECN2D-Nnw,30.9542128,47.2673672,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","X738+MXJ, Al Madina",2,12
+405,مطعم بين اهلنا,ChIJtbdOIrjR3D8REN9ZOp0RwOY,30.9736882,47.3168348,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","X8F8+FPG، الهوير،, Ezzedine Salim subdistrict",2,1
+406,مطعم السبطين,ChIJoaZG8x_T3D8RUyHfyicm3TA,30.9869478,47.4369964,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","XCPP+QRJ, Al Qurnah",2,0
+407,مأكولات كوين,ChIJyWTzC-Utwz8RMy5azhONxqM,30.9767242,47.450244,0.0,"['bakery', 'food', 'store', 'point_of_interest', 'establishment']",XFG2+M3Q، الشريش،،,2,0
+408,مطعم وقصابة الخير,ChIJE-S5t0ZJwz8RBS6qRBTKKSA,30.793562,47.5755716,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",6 الدير شارع بغداد الدير,2,41
+409,مشويات الكوثر,ChIJofiUTBzR3D8Rro5xFWq33CY,30.9463368,47.3374423,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",البصرة /قضاء الصادق، الحدة,2,0
+410,شنو آكل للوجبات السريعة,ChIJ77FJhMzR3D8RT_w6RYtAPVQ,30.97652969999999,47.3202201,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","X8GC+J39, Ezzedine Salim subdistrict",2,24
+411,اسواق,ChIJ8bd8ip3T3D8RW8qAtiVYH3M,30.9882427,47.4472666,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","XCQW+7WR, Al Sharish",2,0
+412,مطعم عمو صابر,ChIJ2S79Hx3V3D8RAd6qJRZ59kw,31.0261591,47.42956909999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2CGH+FR8, Al Qurnah",2,7
+413,الشيف مرتضى السريح,ChIJu7JCGvzb3D8RashN1E_3tHc,30.9378421,47.27551159999999,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","W7QG+46J، منطقة الخليفه، المدينة الخليفة, Al Madina",2,1
+414,مطعم المصطفى للأكلات السريعة,ChIJv3sOhWPX3D8Rp4FuYdrWDNE,30.9795901,47.3175408,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","X8H9+R2M، الهوير،, Ezzedine Salim subdistrict",2,18
+415,مطعم ملتقى النهرين,ChIJq_xKnRfT3D8RyaoQkShIaVM,31.0021578,47.4330352,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","2C2M+V67، القرنة،, Al Qurnah",2,13
+416,مطعم الفرات,ChIJyXh0APfT3D8RuIIYeeJH21k,31.00376049999999,47.4168497,3.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",2C38+GP، القرنة،,2,8
+417,مطعم علي صبيح,ChIJwVjYziozwz8R8lw42I1YhSY,30.9535521,47.4591984,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","XF35+CMG, Al Sharish",2,12
+418,مطعم الماس,ChIJYxJ6dgbR3D8RofVZj0EMQFw,30.9800522,47.3263018,4.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","ناحية عزالدين سليم, متنزه ناحية الشهيد عزالدين سليم، Ezzedine Salim subdistrict",2,24
+419,مطعم قيمة وتمن,ChIJQ3-oxerT3D8RIi9HnhcjwDI,31.0111466,47.4348193,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع الفردوس القرنة، السوق,2,3
+420,كوفي ماكس,ChIJidskPc3T3D8Rof0tq2zkO0I,31.0141402,47.4326802,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","2C7M+M33, Al Dalla road, Al Qurnah",2,16
+421,كوفي روز,ChIJy51XgazT3D8Rhnz1zgiOHhg,31.0103921,47.4344957,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","2C6M+5Q5, Al Qurnah",2,31
+422,Taha Cafe | كوفي طه,ChIJO5lQQPTT3D8RJ-jNoalQjEM,30.9923156,47.434786,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",XCRM+WWF,2,0
+423,مطعم وكوفي السهل الاخضر,ChIJO0L4ISfT3D8RWLzLqH8JtAo,30.9909982,47.4354338,3.3,"['cafe', 'food', 'point_of_interest', 'establishment']","XCRP+95V, alsharish, Al Sweelh",2,45
+424,كوفي شوب شباب الدير,ChIJGZSRYB5Jwz8RRvN9LWA49tw,30.791852,47.5745842,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']","QHRF+PQG, Ad Dayr",2,13
+425,كوفي شوب فيروز,ChIJr2p19C5Jwz8R8Qtky7WQoJQ,30.7951213,47.5743084,4.3,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","QHWF+2PV, 6, Ad Dayr",2,9
+426,Coffee Shop Moon Light,ChIJi-B0NtLQ3D8RHOoc8K-XTAs,30.9775073,47.3236375,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","X8HF+3G5, Ezzedine Salim subdistrict",2,19
+427,كوفي وطن,ChIJ438UmB5Jwz8RhXqIO1Li5Ds,30.7987957,47.5742871,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","QHXF+GM4, Ad Dayr",2,0
+428,كوفي شوب الامراة,ChIJh5Yjm5nR3D8RwYTs6KCNFJs,30.9736882,47.3168348,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",X8F8+FPG، الهوير،,2,0
+429,كوفي شوب بوشنكي,ChIJdWMNRc_R3D8RX291rn8gSUU,30.9779989,47.3239229,4.4,"['cafe', 'food', 'point_of_interest', 'establishment']","X8HF+5HV, Ezzedine Salim subdistrict",2,14
+430,كوفي دراهم Cafe dirhams,ChIJB7CVcbHR3D8RNRr6JYecM_A,30.9769656,47.3207208,3.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",عزالدين سليم، الهوير، المدينة، البصرة، العراق مجمع شمال البصرة قضاء,2,1
+431,كوفي الاماره,ChIJNe4S0WBJwz8R0HkTKerINIM,30.79665,47.5736731,1.0,"['cafe', 'food', 'point_of_interest', 'establishment']","6, Ad Dayr",2,1
+432,كوفي حبايبنه,ChIJ_UCHTjzT3D8RycOg3A9e9ts,31.0137275,47.4347137,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","2C7M+FVW، Unnamed Road, Al Qurnah",2,16
+433,كوفي جيكو,ChIJkQUyYL7T3D8RF4lswwDWXDE,30.9887588,47.4370832,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","XCQP+FRV، شارع بغداد، بصرة،،, Al Sweelh",2,18
+434,كوفي الباشا,ChIJtVp_fSfT3D8RF38_a4qSSZM,30.9894552,47.4363225,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","XCQP+QGP، شارع بغداد، بصرة،, Al Sweelh",2,55
+435,كوفي خواطر المنصوري,ChIJmSEZwaXT3D8RGRWKzeoo0VQ,30.9950297,47.4245476,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']",6,2,19
+436,Crown of king Cafe,ChIJbWVqg3XT3D8Rorq7shMgYeo,31.0145124,47.4364074,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","2C7P+RH3, Al Qurnah",2,39
+437,Al-salam Cafe,ChIJy7XazkbT3D8ROIhnhaBvZSc,31.0107242,47.4347558,4.5,"['cafe', 'food', 'point_of_interest', 'establishment']","2C6M+7WJ, Al Qurnah",2,23
+438,كوفي شوب صياد,ChIJ0YRVS6xJwz8RZuCGOld059M,30.7893726,47.5773524,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","QHRH+C2G, Ad Dayr",2,2
+439,كوفي شوف الماهودي,ChIJ_wmMQ7DR3D8R_-2jTO3cNtg,30.9023555,47.2943971,4.6,"['cafe', 'food', 'point_of_interest', 'establishment']","W72V+WQR، Unnamed Road،, Al Madina",2,5
+440,كوفي الخيمة,ChIJCXUjMXBJwz8RvGzznv15LOE,30.7937376,47.5757358,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","6، شارع بغداد, Ad Dayr",2,1
+441,قهوه,ChIJh8ZkW8fb3D8RRY3EWveV0-Y,30.9279337,47.2816053,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","W7HJ+6J4, Al Madina",2,0
+442,شاي علي البراري,ChIJuyMSF3_b3D8R_LtkXHplUUg,30.9370678,47.2805721,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","W7PJ+R6G, Al Madina",2,0
+443,كوفي بشير المنصوري,ChIJS7kdfVvT3D8R_kkqS36KWyg,30.970815,47.37310309999999,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",X9CF+86H,2,0
+444,مقهى الجوادين,ChIJv_VlCEfT3D8RACeLM4mla3s,31.0100257,47.4366692,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","2C6P+2M7, Al Qurnah",2,7
+445,كوفي السلطان,ChIJ3xL5Hkbb3D8R9FOjfTPPsEM,30.9525812,47.2706706,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","X73C+27M، شارع الجزائر، المدينة،, Al Madina",2,5
+446,مقهى اكتوبر,ChIJnfdOaSPT3D8RPekM0s1vEkw,31.0092788,47.4360404,3.2,"['cafe', 'food', 'point_of_interest', 'establishment']","2C5P+PC6، Unnamed Road, Al Qurnah",2,6
+447,كوفي رائد,ChIJJcuk00_T3D8R39XF6lBs03E,31.0138211,47.4377037,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","2C7Q+G3, Al Qurnah",2,0
+448,كوفي بشير المنصوري,ChIJi_FoSPrR3D8RbhXMbUUa03M,30.937341,47.3426785,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",W8PV+W3M، ناحية الامام الصادق,2,0
+449,كوفي شوب ابن البومشيح,ChIJVQcIfElFwz8RhrnswJKB2ig,30.79103649999999,47.6212628,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']",QJRC+CG6، شارع زريجي نشوة، ابو غرب، قرب قرية، باعج,2,1
+450,يافا كافيه,ChIJe-UndOzb3D8RHJKhLH7GbEc,30.9511017,47.26772709999999,4.1,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","X729+C3X، Unnamed Road، المدينة،, Al Madina",2,65
+451,كوفي السيد,ChIJfbyZ-6bT3D8RX5SygFPvSWU,30.9794293,47.3959734,4.7,"['cafe', 'food', 'point_of_interest', 'establishment']","X9HW+Q9H، Unnamed Road،, Al Qurnah",2,11
+452,كوفي الهوير,ChIJ4VO_lR3R3D8Rs9dg485gPVI,30.9713116,47.3095708,4.4,"['cafe', 'food', 'point_of_interest', 'establishment']",X8C5+GRH، المدينة،,2,29
+453,كوفي شوب الديرة,ChIJrwii2Frb3D8RhHkLz60fcHQ,30.9078871,47.2915655,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']",W75R+4JR، القرنة,2,5
+454,مقهى عصام الحضري,ChIJMUJHWCLT3D8RK_TNuMuqATc,31.00997649999999,47.4364452,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","2C5P+XJ6, Al Qurnah",2,0
+455,مركز wifi للانترنيت,ChIJy9CT_tVJwz8R7ALZr9Jgztg,30.8005914,47.5751178,3.4,"['cafe', 'food', 'point_of_interest', 'establishment']",RH2G+62G، الدير،,2,5
+456,Sadiq Net,ChIJ_1aqGrsywz8R16qIXj-GkNk,30.9512516,47.4621321,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","XF26+GV2، طريق الوسط, Al Sharish",2,37
+457,كوفي ازمير (بادارة ابو وديع),ChIJKS6tAjLT3D8RsgQjERf4hjM,31.0100283,47.4367738,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","2C6P+2P6، Unnamed Road، القرنة،, Al Qurnah",2,2
+458,كوفي علي تحسين,ChIJOxglav4zwz8RWvk6YC9l98A,30.953454,47.45921,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","6, Al Sharish",2,1
+459,كافتريا ابو علي,ChIJv7w3ur_R3D8R7f_83D7PTo8,30.9623629,47.3349471,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",X86M+WXW,2,1
+460,كوفي شوب حكاية,ChIJHfQzrlhJwz8RXGRWf6clPvo,30.7961176,47.5757454,5.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","QHWG+C7X, Ad Dayr",2,2
+461,مرطبات نونه,ChIJwabFQqLT3D8RmT8TJ7_IBKA,30.9866042,47.44658829999999,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","XCPW+MJ4, Al Sharish",2,0
+462,محل عصائر,ChIJQac3FxXb3D8RcCKinQm3drU,30.9467805,47.2726417,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",W7WF+P36، المدينة،،,2,0
+463,حلاقه DJ,ChIJobkDDsDT3D8ROx9VtjnuwhE,31.0103737,47.4342232,4.5,"['cafe', 'point_of_interest', 'food', 'establishment']","2C6M+6MP، Unnamed Road, Al Qurnah",2,4
+464,كوفي الاصدقاء,ChIJb7nfQwjT3D8Rgo9v_3ZAbBc,31.008927,47.4302433,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","2C5J+H5C, Al Qurnah",2,0
+465,كوفي روز,ChIJNRkU4KHb3D8RM6qT4CQ1Jho,30.9530225,47.2705047,4.4,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",شارع الجزائر، المدينة،، المدينة،، X73C+573، المدينة،,2,8
+466,كوفي شوب,ChIJ9WzGK73b3D8RxY-4yisXdHM,30.9493626,47.27577170000001,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",W7XG+R6J، المدينة،,2,0
+467,كوفي البارون,ChIJVQ4mWKLb3D8RiE4xw2BMjTk,30.95239669999999,47.2679973,4.3,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","X729+X6C، المدينة، البصرة،, Al Madina",2,3
+468,كوفي شوب ابو شلش,ChIJ51P-gCVJwz8RdKkACHhiw_c,30.7958586,47.5764958,4.8,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","QHWG+8HX، Unnamed Road، الدير،, Ad Dayr",2,6
+469,مقهى الحبيب,ChIJffuw4HTb3D8RWdEonSLTlPw,30.9540704,47.2689794,3.6,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","X739+JHG، شارع الصادق, Al Madina",2,11
+470,مقهى الجوادين,ChIJUztQYxXT3D8Rg4-TksSyvr8,31.0174193,47.424581,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","2C8F+XRG، القرنة،, Al Qurnah",2,0
+471,مقهى صلاح,ChIJjctmIrPT3D8RQoyd3YKzWMs,31.0103979,47.4345809,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","2C6M+5R4, Al Qurnah",2,0
+472,كوفي الفرات,ChIJd21bdW7T3D8Rjwo7saEsZuI,31.0174193,47.4245809,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","2C8F+XRG, Al Qurnah",2,0
+473,كوفي الروان,ChIJXTZ6PqpJwz8Rfci0__Q1-wI,30.7853993,47.580442,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","QHPJ+37R, Ad Dayr",2,0
+474,كوفي البرنس,ChIJY_rKeDTb3D8RFR1DvehGTsw,30.9474606,47.2857141,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","W7WP+X7P، شارع الطوفة, Al Madina",2,0
+475,مرطبات نونه,ChIJu6mB2wfT3D8R4jPFUk9avdQ,30.9903549,47.4421329,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","XCRR+4MG, Al Sweelh",2,0
+476,مقهى الملوكvip,ChIJGay_D8vT3D8RYYMWDaELo_g,31.0144583,47.4362769,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","2C7P+QGJ, Al Qurnah",2,0
+477,كوفي شوب يامان,ChIJz5VJr3lFwz8RUX_z2xKN8rI,30.7505865,47.658162,5.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",شارع معمل الورق,2,2
+478,كوفي شوب مارينا,ChIJucCAM8TR3D8RZ_Ibmxv_bJ0,30.9760363,47.3204775,0.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","X8GC+C59، شارع المدينه_الجبايش, Ezzedine Salim subdistrict",2,0
+479,كوفي تشيلو,ChIJvaPnI7DT3D8RKfXCYHd_WMA,31.0135215,47.4335301,4.0,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']","فلكه الدله، القرنة، شارع الفردوس مقابيل صيدليه زمان, Al Qurnah",2,5
+480,Pickles and chillis,ChIJryzr5x2XxD8RWWpUIqI13Eg,30.4596171,47.7898645,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ5Q+VW4، شارع الميثاق, Basrah",2,0
+481,مطعم فحم coal cuisine,ChIJOTg430SXxD8RIXp72S4J7bg,30.4746764,47.805229,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRF4+V39, Basrah",2,73
+482,Karrar Rest,ChIJaeEMzzmXxD8RXZ_fuN7N9_g,30.4866943,47.8320652,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRPJ+MRP, Basrah",2,165
+483,اسماك الأخوين,ChIJPzog3haXxD8RFFivZPisgB4,30.416846,47.7814371,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","CQ8J+PH, Abu Al-Khaseeb",2,1
+484,Alkhaton restaurant,ChIJ75JM3_SXxD8RVbgBzhyklkU,30.4867152,47.8082443,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRP5+M7Q, المشراق الجديد، بصرة، البصره،, Basrah",2,6
+485,FOD,ChIJG8-pCxS6xD8RnmeZH7C-hAs,30.364433,47.6210976,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",9J7C+QCH، البرجسية,2,5
+486,1st Restaurant- DFAC,ChIJPezXZWNL2z8RjEDZJiKjmDg,30.2350492,47.4178883,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6CM9+VG2, Ar Rumaylah",2,1
+487,Grand BBQ,ChIJ906ay2S9xD8Rw8Im7D224DM,30.395583,47.7081403,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PW5+67J, Unnamed Road،, Az Zubayr",2,134
+488,مطعم بابا سنفور,ChIJb-_m6PWXxD8RRM-T-ukh6v8,30.4689628,47.7767381,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ9G+JPW, Basrah",2,4
+489,360 restaurant,ChIJ9Uwf26S9xD8RJmWiB227xG0,30.4015912,47.7074454,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","CP24+JXQ, Az Zubayr",2,22
+490,Sindibad Restaurant,ChIJA5AzL79L2z8RXIDXT5WfLcc,30.2341785,47.4188582,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6CM9+VG2, Ar Rumaylah",2,0
+491,Tweety Snack Restaurant,ChIJQ1Q_4s2XxD8RyDxzqEI9mg4,30.46508459999999,47.7878294,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ8Q+24G، Unnamed Road, Basrah",2,63
+492,مطعم ومشويات الوليمة,ChIJCx6kMpeXxD8RnKTmiaTuhEg,30.4662488,47.78635,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ8P+FGX, Unnamed Road, Basrah",2,202
+493,مطبخ بصرتنا,ChIJjyUPdVa9xD8RLC2K5xUUnmQ,30.4012766,47.7131736,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","محلة الشمال - شارع مستشفى الشفاء, Az Zubayr",2,30
+494,جزارة ومشويات الكربلائي,ChIJT1bR6LyXxD8RWkhNEnmSJ9g,30.472237,47.7816531,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQCJ+WJM, Unnamed Road, Basrah",2,2
+495,مناقيش بيروت,ChIJOXLChBKXxD8RLbtav1rQ8ic,30.4219418,47.7845168,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","CQCM+QQQ, Basrah",2,10
+496,Abou Majed Restaurant,ChIJARyQTxi8xD8R14jblT6d7oY,30.3894715,47.7027165,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PQ3+Q3P, Az Zubayr",2,65
+497,مطعم اليمن للمندي و المظبي,ChIJmSuhU7S7xD8RcMfm0ndQpBI,30.3913096,47.6123091,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9JR6+GWF, Albergesia",2,3
+498,مطبخ النگعه,ChIJo4rmZcmXxD8RK21PRaWo9hc,30.4583625,47.78548439999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ5P+85X، شارع المقيمين, Basrah",2,4
+499,مطعم ريحان,ChIJL16Kpl6XxD8Ri_z6b1geAlk,30.4898172,47.8258154,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRRG+269, Basrah",2,7
+500,Al Azaim Restaurant,ChIJRfRLs3GXxD8RwYsk22b1ZiQ,30.488573,47.8114466,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRQ6+CHM, Tamooz St., Basrah",2,1989
+501,فلافل القامشلي 2,ChIJiyhCFMe9xD8Ra3yL9k2uvVg,30.395445,47.7122486,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PW6+4R8, Az Zubayr",2,2
+502,مشويات ابو حامد,ChIJ6eUul7G9xD8RV8ORo3XWJF0,30.3933938,47.7024807,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PV2+8XG, Az Zubayr",2,0
+503,حلويات شيريني سراي,ChIJXeUek3CXxD8RLfA0Gy60Wk8,30.4843617,47.8202674,2.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRMC+Q3C, البصره شارع الوفود بعد تقاطع دويد قبل جسر, Basrah",2,2
+504,Abou Youssef Restaurant,ChIJjwPAExi8xD8R33l5qAQUfYU,30.3907672,47.70369119999999,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PR3+8F4, Az Zubayr",2,77
+505,مطعم فروج أحمد العبدالله -الزبير,ChIJL0jl2Fi9xD8RtDwISdf4_N4,30.4015911,47.7074357,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","CP24+JXQ, Az Zubayr",2,4
+506,مندي الحساوي,ChIJh9o7GxyXxD8RcHUhP0jvsXM,30.4896899,47.81482339999999,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRR7+2P5, Basrah",2,57
+507,ghost burger,ChIJoyhrpuG_xD8R37KQXtMs-MA,30.3769669,47.7007956,2.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PG2+Q8M، الزبير،, Az Zubayr",2,3
+508,Abu Sajjad grill,ChIJ26mi3w6XxD8RIO1gY0YdBdI,30.4736247,47.8093886,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRF5+CQR, Basrah",2,170
+509,Pizza Sham,ChIJvSRe0Q6XxD8RhNSfktq3fp8,30.4735698,47.80849569999999,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRF5+C9H, Basrah",2,20
+510,Restaurant,ChIJZfSJAJyXxD8RTwA779gz5VA,30.4649072,47.7947277,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ7V+XV9, Basrah",2,7
+511,Samer Zergany Restaurant,ChIJq2MWshi8xD8R1FjAhQruDck,30.3871651,47.7038969,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PP3+VH3، شارع المحكمة, Al Hillah",2,211
+512,Nour Karar Restaurant,ChIJjQhbfTy8xD8REAlkjcGaWyY,30.3958885,47.70897,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PW5+9HW, شارع, Az Zubayr",2,26
+513,Tanour El Habayeb Restaurant,ChIJb8iYSRi8xD8RsYutOiaZWfs,30.3896575,47.7025021,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PQ3+V2F, Az Zubayr",2,33
+514,Restaurant and Grill Hussam,ChIJp10cIA28xD8RlqTd-p0-YQ8,30.3952903,47.6923532,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","9MWR+4W8, Az Zubayr",2,37
+515,مطعم نور الكرار السياحي,ChIJncShrgq9xD8RMtVwE4F7cbQ,30.3884975,47.7030417,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PQ3+96V, Az Zubayr",2,24
+516,Kitchen folks mandi,ChIJ6Z4kwj6XxD8RL7g8rMDjHPU,30.4842323,47.8267238,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRMG+PPC, Trading Street, Basrah",2,37
+517,Al Baraka Restaurant and Grilles,ChIJ47ZNTpmXxD8Rn9NBcEmFnxY,30.4251005,47.78591429999999,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",CQGP+3MM، البصرة،,2,11
+518,مندي زعفران,ChIJTaTDkIe9xD8RyHSs_nEFqxE,30.3958515,47.7115774,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Zubair mani st Basra, Az Zubayr",2,0
+519,مأكولات طربوش,ChIJpz5E1N2_xD8RfE8BKbTcOeY,30.3791094,47.7292608,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PHH+JPR, Az Zubayr",2,24
+520,مأكولات حمادة,ChIJo0oSwB-XxD8Riqwt6G4xw-I,30.4590618,47.8014811,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","FR52+JHH، القبلة،, Basrah",2,11
+521,بيتزا بيرد,ChIJS89Kk4SXxD8ROVpu3cPDRMM,30.48754929999999,47.8308174,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRQJ+287, Basrah",2,1
+522,مأكولات سكنونو الشرقيه والغربية,ChIJHfMhV5PpxD8RNEjMLXa4NPk,30.2305844,47.779834,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6QJH+6WP، Unnamed Road, Khor Al Zubair",2,2
+523,Shawki Restaurant,ChIJY4pXSnCXxD8RwfQmV27ObdQ,30.4888414,47.8118731,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع ١٤ تموز, Basrah",2,104
+524,مطعم dustin,ChIJP851DAiXxD8R4G9axdpCGvI,30.4725744,47.8118163,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FRF6+3P8، البصرة،،، البصرة،,2,0
+525,مأكولات الجامعة,ChIJQwZY9lSXxD8ROW0FfkjU0eM,30.4730139,47.8110355,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRF6+6C3، القبلة، البصرة،, Basrah",2,3
+526,مطبخ شناشيل,ChIJ53Eea9KXxD8RUDzi2AclKDc,30.4635457,47.7902939,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ7R+F29, Basrah",2,1
+527,ابو اياد,ChIJiWlEHu-9xD8Rfch2_-3AIwA,30.3956013,47.7172122,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PW8+6VW, Az Zubayr",2,1
+528,كناري سناك,ChIJffUu8yCXxD8ROLY8dAip-R0,30.45689789999999,47.7989645,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ4X+QH5, Basrah",2,6
+529,Restaurant & Dining Mustafa,ChIJAcq-GQ-XxD8RotnrJsA_9UM,30.4731548,47.80969959999999,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRF5+6VV, Basrah",2,14
+530,ماكولات سمبل اغا,ChIJd8sgxqG7xD8RFnSKO2KUrK4,30.4409476,47.6707648,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",CMRC+98C، شعيبة،,2,2
+531,Al Anwar Restaurant,ChIJwTUpFBi8xD8RsQh2kA8_tQw,30.3906029,47.7035028,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PR3+6CF, Az Zubayr",2,7
+532,مطعم فطوطه,ChIJE9VoFP2XxD8RhbfHRkA2Gco,30.4626052,47.8074974,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع جامع القبله الكبير, Basrah",2,7
+533,ماكولات فلافل علاوي,ChIJnfUmZ4GXxD8R8Tkwqbilx68,30.4688084,47.7772637,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ9G+FRQ, Basrah",2,2
+534,مأكولات ومعجنات ليالي بيروت,ChIJleTotmG_xD8RGh1PwI6cpqs,30.3639997,47.7171471,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9P78+HVR, Az Zubayr",2,7
+535,مطعم المصطفى,ChIJ6XEwfMO_xD8R6SSMpyGpoZ0,30.3852521,47.715284,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PP8+444، Unnamed Road, Az Zubayr",2,5
+536,كافتريا ابو علي,ChIJd7rF5L-XxD8Ro48BAMKyQWU,30.4631611,47.81198999999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FR76+7Q9، Unnamed Road, Basrah",2,0
+537,مطعم جكن سيزر,ChIJB_gzUraXxD8RL_5enw_2rko,30.4823452,47.79555509999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQJW+W6M، الشهداء، المدينة، البصرة،, Basrah",2,5
+538,دار جايد,ChIJR0Nw53OXxD8RsOPYY1Bs6zc,30.4874049,47.8310589,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",FRPJ+XC7، البصرة،,2,3
+539,Bourne Fish,ChIJ8_vzIQ-XxD8RLzBWVJJjpPU,30.4732896,47.80920200000001,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRF5+8M5, Basrah",2,2
+540,مطعم ومشويات الوليمة,ChIJCx6kMpeXxD8RnKTmiaTuhEg,30.4662488,47.78635,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ8P+FGX, Unnamed Road, Basrah",2,202
+541,Abou Majed Restaurant,ChIJARyQTxi8xD8R14jblT6d7oY,30.3894715,47.7027165,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PQ3+Q3P, Az Zubayr",2,65
+542,مطعم مشويات الدراجي,ChIJTSAyjA-XxD8RARZQfIOp99g,30.4726317,47.8118615,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRF6+3P5, Basrah",2,71
+543,مطعم انيستا الاكلات والاسيست,ChIJ0z4zZqO_xD8RZmVMwG--QVo,30.3772774,47.7129584,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PG7+W66, Az Zubayr",2,2
+544,مطعم مذاق البصرة,ChIJ5bVJhNWXxD8RpVxnMPX0IzA,30.4695633,47.8095242,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FR95+RRC، القبلة،, Basrah",2,45
+545,Altazaj Snack zubayr,ChIJoVFjOJS_xD8RbMr9K_TAM3o,30.38547669999999,47.715179,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PP8+53X، Unnamed Road, Az Zubayr",2,419
+546,Shawki Restaurant,ChIJY4pXSnCXxD8RwfQmV27ObdQ,30.4888414,47.8118731,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع ١٤ تموز, Basrah",2,104
+547,Restaurant & Dining Mustafa,ChIJAcq-GQ-XxD8RotnrJsA_9UM,30.4731548,47.80969959999999,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRF5+6VV, Basrah",2,14
+548,مطعم ومأكولات: (( مشويات الدوسري )),ChIJu8skDIK9xD8RS8zDrc_tb8I,30.3956975,47.70641879999999,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PW4+7HF، Unnamed Road, Az Zubayr",2,11
+549,مطعم ابو مصطفى,ChIJRUSJaBq9xD8RiPbZJBKqn1w,30.4013227,47.6889501,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","CM2Q+GHP, Az Zubayr",2,10
+550,مطعم بركات الرضا (ع),ChIJ2TGZm5_pxD8RThoMBJoO3l8,30.2262317,47.7740368,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","علي مفتاح, Khor Al Zubair",2,0
+551,360 restaurant,ChIJ9Uwf26S9xD8RJmWiB227xG0,30.4015912,47.7074454,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","CP24+JXQ, Az Zubayr",2,22
+552,Al Azaim Restaurant,ChIJRfRLs3GXxD8RwYsk22b1ZiQ,30.488573,47.8114466,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRQ6+CHM, Tamooz St., Basrah",2,1989
+553,Abu Sajjad grill,ChIJ26mi3w6XxD8RIO1gY0YdBdI,30.4736247,47.8093886,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRF5+CQR, Basrah",2,170
+554,Alkhaton restaurant,ChIJ75JM3_SXxD8RVbgBzhyklkU,30.4867152,47.8082443,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRP5+M7Q, المشراق الجديد، بصرة، البصره،, Basrah",2,6
+555,مطعم الأخوين,ChIJfYmqFQKXxD8RJEClsfz1CKA,30.4847354,47.78082560000001,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQMJ+V8W, Basrah",2,2
+556,مطعم الحساوي 3,ChIJj_vPbamXxD8RF23DLELeYcw,30.4774669,47.814809,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRG7+XW, Basrah",2,107
+557,مطعم ومشويات ابو رضا,ChIJTWShd_O9xD8RTpbMUe408GI,30.3957103,47.69333839999999,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9MWV+78H, Az Zubayr",2,1
+558,مطعم ومشويات ابو مصطفى,ChIJnT4sd_W9xD8RNiznHe5sGDU,30.390001,47.70197520000001,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PQ2+XQQ، Unnamed Road، الزبير،, Az Zubayr",2,9
+559,Karrar Rest,ChIJaeEMzzmXxD8RXZ_fuN7N9_g,30.4866943,47.8320652,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRPJ+MRP, Basrah",2,165
+560,مطعم أهل الكرم,ChIJ2_JltkC9xD8Re9sD5SXVoN4,30.397208,47.7063475,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PW4+VGG، Unnamed Road، الزبير،, Az Zubayr",2,22
+561,Abou Youssef Restaurant,ChIJjwPAExi8xD8R33l5qAQUfYU,30.3907672,47.70369119999999,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PR3+8F4, Az Zubayr",2,77
+562,مطعم ومشويات وجزارة ليمونة,ChIJLzc2-SS_xD8RgAtMd3UoPm0,30.3671282,47.7207695,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","9P8C+V82، حي الشهداء، الحي،, Az Zubayr",2,45
+563,مطعم ع الفحم,ChIJMZrrKjC9xD8RHBuxn0rLq7s,30.3958146,47.7108936,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","مقابل مذاق, Az Zubayr",2,0
+564,Restaurant,ChIJZfSJAJyXxD8RTwA779gz5VA,30.4649072,47.7947277,3.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","FQ7V+XV9, Basrah",2,7
+565,مطعم الراقي,ChIJfSeBF3y9xD8R6Fm2gCRoayg,30.3866803,47.7148597,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",9PP7+MWQ، الزبير،,2,2
+566,مطعم فطوطه,ChIJE9VoFP2XxD8RhbfHRkA2Gco,30.4626052,47.8074974,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","شارع جامع القبله الكبير, Basrah",2,7
+567,مطعم الصادق,ChIJqxsn-bG9xD8Rak_aWI6OymM,30.3875322,47.7147385,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PQ7+2V9, Az Zubayr",2,1
+568,مطعم ومشويات ابو حسن,ChIJ-6q-IheXxD8RaFZ1koW32Ag,30.4634265,47.8118987,4.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","شارع المدراس جهه سوق المسطر, Basrah",2,9
+569,مطعم المصطفى,ChIJ6XEwfMO_xD8R6SSMpyGpoZ0,30.3852521,47.715284,3.4,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PP8+444، Unnamed Road, Az Zubayr",2,5
+570,مطعم ومشويات الحجي,ChIJOfaIAqO9xD8RU10ZaODYgrs,30.3922779,47.6882219,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","9MRQ+W79، Unnamed Road, Az Zubayr",2,130
+571,Al Anwar Restaurant,ChIJwTUpFBi8xD8RsQh2kA8_tQw,30.3906029,47.7035028,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PR3+6CF, Az Zubayr",2,7
+572,Nour Karar Restaurant,ChIJjQhbfTy8xD8REAlkjcGaWyY,30.3958885,47.70897,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PW5+9HW, شارع, Az Zubayr",2,26
+573,مطعم نور الكرار السياحي,ChIJncShrgq9xD8RMtVwE4F7cbQ,30.3884975,47.7030417,3.4,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PQ3+96V, Az Zubayr",2,24
+574,مطعم ومطبخ الدار,ChIJM6ZKC7a9xD8RkJBOeDev7cY,30.3989353,47.6967122,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']",9MXW+GVJ، الزبير،,2,5
+575,مطعم علي الشبيب,ChIJ-0jsoFWXxD8RfOSZUoeUE_0,30.4875806,47.8323925,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRQJ+2XJ, Basrah",2,1
+576,مطعم أبوكرار,ChIJ20La8xi8xD8R7q7kVrDFz7w,30.3885229,47.7030903,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PQ3+C64, Az Zubayr",2,27
+577,مطعم بركات الزهراء,ChIJmRK9tnXpxD8RttWKSTf3QUM,30.2330844,47.7687223,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","6QM9+7F4، خور الزبير،, Khor Al Zubair",2,5
+578,Samer Zergany Restaurant,ChIJq2MWshi8xD8R1FjAhQruDck,30.3871651,47.7038969,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PP3+VH3، شارع المحكمة, Al Hillah",2,211
+579,مطعم مأكولات الأمير,ChIJvVog8Z2XxD8RrjPhewMa7E0,30.4758124,47.8143855,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRG7+8QC، القبلة،, Basrah",2,4
+580,مطعم بيتزا سيفدا,ChIJE4N0TRu9xD8RELFqSGmcdTI,30.3883825,47.7148109,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PQ7+9W3، Unnamed Road, Az Zubayr",2,14
+581,مطعم ابو جعفر,ChIJU8g1UsqXxD8RS30OGZjooig,30.488688,47.82843800000001,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRQH+F97, Basrah",2,2
+582,Grand BBQ,ChIJ906ay2S9xD8Rw8Im7D224DM,30.395583,47.7081403,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PW5+67J, Unnamed Road،, Az Zubayr",2,134
+583,مطعم ابوماجد,ChIJVxmWegS9xD8RyA2oACZm1xg,30.3964557,47.7118443,3.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PW6+GPH، Unnamed Road, Az Zubayr",2,109
+584,مأكولات حمادة,ChIJo0oSwB-XxD8Riqwt6G4xw-I,30.4590618,47.8014811,4.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","FR52+JHH، القبلة،, Basrah",2,11
+585,Tanour El Habayeb Restaurant,ChIJb8iYSRi8xD8RsYutOiaZWfs,30.3896575,47.7025021,3.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PQ3+V2F, Az Zubayr",2,33
+586,مطعم ابو سجاد,ChIJq_EWQo6XxD8Rn-vTWK791Gc,30.4497452,47.80206159999999,4.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","CRX2+WR2، القبلة،, Basrah",2,4
+587,مطعم سناك جات,ChIJRV4VVvG9xD8RYsmGVAkLHX8,30.3872868,47.7040999,4.3,"['restaurant', 'point_of_interest', 'food', 'establishment']",محلة الكوت شارع المحكمة قرب الاورزدي الزبير شارع المحكمة,2,3
+588,Zahra food for fast food,ChIJEbNo3Ay8xD8RA8l6fOIb67A,30.3953107,47.691859,3.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","9MWR+4PH, Az Zubayr",2,12
+589,مطعم الدمشقي,ChIJCVG_CMG9xD8RaVErZOoagXc,30.3874399,47.71473839999999,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PP7+XVH, Az Zubayr",2,0
+590,مطعم بركات الزهراء,ChIJOWhL9A-XxD8RriIVf_yOUgs,30.4878911,47.82936850000001,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","مقابل مدرسة المطيحه, Al Basrah",2,2
+591,مطعم فداء,ChIJqQde6YOXxD8Rj2G0BORS5w4,30.4605506,47.8107918,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FR66+68F، القبلة،, Basrah",2,1
+592,مطعم و كوفي الشيف عماد المالكي,ChIJH-p55Ky9xD8RykKmCeSu8DM,30.3963847,47.700997,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","9PW2+G9F، الرشيدية، الزبير،, Az Zubayr",2,3
+593,مطعم فحم coal cuisine,ChIJOTg430SXxD8RIXp72S4J7bg,30.4746764,47.805229,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRF4+V39, Basrah",2,73
+594,Restaurant and Grill Hussam,ChIJp10cIA28xD8RlqTd-p0-YQ8,30.3952903,47.6923532,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","9MWR+4W8, Az Zubayr",2,37
+595,مطعم علاء,ChIJp0J4qw2XxD8RjnnP-AeBrwM,30.4767809,47.8150582,3.2,"['restaurant', 'point_of_interest', 'food', 'establishment']",FRG8+P24، القبلة، البصرة، الشارع العام، ٨٣٠,2,22
+596,Al Baraka Restaurant and Grilles,ChIJ47ZNTpmXxD8Rn9NBcEmFnxY,30.4251005,47.78591429999999,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']",CQGP+3MM، البصرة،,2,11
+597,مطعم انوار المسجد,ChIJVxglEEi9xD8Rq8Qsh1xuglk,30.3995625,47.7331875,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","حدائق خطوة الامام علي، 9PXM+R76، الزبير،, Az Zubayr",2,1
+598,مطعم علي حساوي,ChIJ2bmTzA-XxD8RBZcFgX7yO5M,30.4781906,47.82981909999999,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FRHH+7W7، المطيحة، البصرة،, Basrah",2,3
+599,مطعم ومشويات زنوبه,ChIJh2XLeJ_DxD8RDyGjfs2aNTw,30.2316721,47.7618967,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","6QJ6+MQ6، Unnamed Road, Khor Al Zubair",2,3
+600,مأكولات حيدر قاسم,ChIJ7SW_HVu7xD8Rb4gWm-udB8w,30.381973,47.68066049999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",9MJJ+Q7J، الزبير،,2,1
+601,مأكولات طربوش,ChIJpz5E1N2_xD8RfE8BKbTcOeY,30.3791094,47.7292608,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PHH+JPR, Az Zubayr",2,24
+602,مأكولات الجامعة,ChIJQwZY9lSXxD8ROW0FfkjU0eM,30.4730139,47.8110355,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRF6+6C3، القبلة، البصرة،, Basrah",2,3
+603,Zahra food for fast food,ChIJEbNo3Ay8xD8RA8l6fOIb67A,30.3953107,47.691859,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","9MWR+4PH, Az Zubayr",2,12
+604,مأكولات كناري,ChIJX5HHcYKXxD8R4i8rWUSSwfg,30.4835356,47.7989324,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQMX+9H5, Basrah",2,0
+605,مأكولات الشعيبة,ChIJG-tQRxSlxD8R67lGzAko9DQ,30.4724491,47.6480144,3.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع المدارس البصرة الشعيبة حي السكك,2,5
+606,مؤكولات علي ومشويات علي,ChIJmbyEWRi9xD8RSGr-X3YxH4M,30.3956746,47.7061058,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PW4+7C9, Az Zubayr",2,2
+607,ماكولات سمبل اغا,ChIJd8sgxqG7xD8RFnSKO2KUrK4,30.4409476,47.6707648,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",CMRC+98C، شعيبة،,2,2
+608,مأكولات سكنونو الشرقيه والغربية,ChIJHfMhV5PpxD8RNEjMLXa4NPk,30.2305844,47.779834,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6QJH+6WP، Unnamed Road, Khor Al Zubair",2,2
+609,مطعم مأكولات الأمير,ChIJvVog8Z2XxD8RrjPhewMa7E0,30.4758124,47.8143855,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRG7+8QC، القبلة،, Basrah",2,4
+610,مطعم ومأكولات: (( مشويات الدوسري )),ChIJu8skDIK9xD8RS8zDrc_tb8I,30.3956975,47.70641879999999,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PW4+7HF، Unnamed Road, Az Zubayr",2,11
+611,Restaurant & Dining Mustafa,ChIJAcq-GQ-XxD8RotnrJsA_9UM,30.4731548,47.80969959999999,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRF5+6VV, Basrah",2,14
+612,مأكولات حسن يعقوب,ChIJUaicOFGXxD8Rdqa5iLI4PXg,30.4864063,47.8318117,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRPJ+HP7, Basrah",2,0
+613,ماكولات امجد عبود,ChIJGd760cy9xD8R_zOZ2XdKGik,30.3864487,47.7144567,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PP7+HQG, Az Zubayr",2,2
+614,مطعم سناك جات,ChIJRV4VVvG9xD8RYsmGVAkLHX8,30.3872868,47.7040999,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",محلة الكوت شارع المحكمة قرب الاورزدي الزبير شارع المحكمة,2,3
+615,كوست بركر,ChIJadsc-g-9xD8RlD5w-GInQzk,30.3947406,47.7082939,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PV5+V8V, Az Zubayr",2,0
+616,ماكولات ابو احمد,ChIJ-eMwAduXxD8RIIn-YduD1yA,30.4739933,47.8129584,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRF7+J53، برج الحياة ايرثلنك للانترنت، حي الجامعة، البصرة،، البصرة،, Basrah",2,4
+617,مأكولات التوت الشامي,ChIJMwAZCjW7xD8Rlj6iQn6Y--Y,30.3852361,47.6814344,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9MPJ+4H3, Az Zubayr",2,2
+618,مطبخ ابو كرار للقيمة النجفية,ChIJ-aDSVvCXxD8RDs0H0oNe1gA,30.4665236,47.7743446,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",مدرسة كعب بن زهير، البصرة، حي الامن الداخلي، قرب,2,0
+619,مأكولات رحمن الدحام,ChIJZYX6wyCXxD8RkMS596WgnBE,30.468753,47.7983407,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FQ9X+F8W، البصرة،,2,0
+620,مأكولات حمادة,ChIJo0oSwB-XxD8Riqwt6G4xw-I,30.4590618,47.8014811,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","FR52+JHH، القبلة،, Basrah",2,11
+621,مأكولات ابو مهدي,ChIJf0kIzIiXxD8RI8URXgwXhPA,30.4630176,47.8100535,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FR76+623، القبله حي القائم خلف جامع القبلة الكبير, Basrah",2,0
+622,تجربه,ChIJWZdDwJ29xD8Rz4J2HiuA8Rs,30.3985582,47.7142352,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PX7+CMH، Unnamed Road،, Az Zubayr",2,0
+623,مطعم بركات الرضا (ع),ChIJ2TGZm5_pxD8RThoMBJoO3l8,30.2262317,47.7740368,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","علي مفتاح, Khor Al Zubair",2,0
+624,مأكولات الكحلي,ChIJWb50NsOXxD8RWknCsLEgQ9I,30.488186,47.8102786,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRQ6+74C، المشراق الجديد، البصرة،, Basrah",2,4
+625,مأكولات النعيم,ChIJkVHFgr-XxD8RD22_FDAzHOs,30.4608025,47.7854429,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ6P+84X, Basrah",2,0
+626,مطعم المصطفى,ChIJ6XEwfMO_xD8R6SSMpyGpoZ0,30.3852521,47.715284,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PP8+444، Unnamed Road, Az Zubayr",2,5
+627,فاطمه لفته عنصيل,ChIJXbuEIdu_xD8RwGptcL-ewe8,30.3821316,47.7070756,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PJ4+VR4، شارع العريض, Az Zubayr",2,0
+628,جعفر ابو لفات,ChIJZcG3qD69xD8R5fOoGRWAiTk,30.3966803,47.69564829999999,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","9MWW+M7C, Az Zubayr",2,6
+629,كافتريا ابو علي,ChIJd7rF5L-XxD8Ro48BAMKyQWU,30.4631611,47.81198999999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FR76+7Q9، Unnamed Road, Basrah",2,0
+630,مطعم ومشويات عبود سلفستر,ChIJv-gmsEe9xD8RxuFoeQ2bfs0,30.3903166,47.6918885,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","9MRR+4QC، Unnamed Road, Az Zubayr",2,5
+631,مأكولات ومعجنات ليالي بيروت,ChIJleTotmG_xD8RGh1PwI6cpqs,30.3639997,47.7171471,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9P78+HVR, Az Zubayr",2,7
+632,ماكولات فلافل علاوي,ChIJnfUmZ4GXxD8R8Tkwqbilx68,30.4688084,47.7772637,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ9G+FRQ, Basrah",2,2
+633,مأكولات كرار,ChIJQdMU5VKXxD8RDObvp0pmFvg,30.4748282,47.8245307,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRFF+WRJ، طريق حمدان، البصرة،، البصرة،, Basrah",2,0
+634,مطعم ومطبخ جوهرة البصرة,ChIJleVkHQeXxD8RywFZVVO-Ml4,30.46978889999999,47.8101816,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FR96+W37، البصرة،,2,0
+635,همبركر ابو سيف,ChIJ88f--zW9xD8RnvV3EGeuXEo,30.3952329,47.6919542,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",9MWR+3QW، الزبير،,2,0
+636,اسماك الأخوين,ChIJPzog3haXxD8RFFivZPisgB4,30.416846,47.7814371,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","CQ8J+PH, Abu Al-Khaseeb",2,1
+637,مطعم dustin,ChIJP851DAiXxD8R4G9axdpCGvI,30.4725744,47.8118163,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FRF6+3P8، البصرة،،، البصرة،,2,0
+638,مطعم بت باك,ChIJG_ik68-9xD8RSYMt_OCpvk0,30.3891897,47.7143055,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع الجاهزة, Az Zubayr",2,0
+639,مطعم ومشويات الحجي,ChIJOfaIAqO9xD8RU10ZaODYgrs,30.3922779,47.6882219,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","9MRQ+W79، Unnamed Road, Az Zubayr",2,130
+640,مطعم 7DAYS القبله - قرب البريد,ChIJTcyxy66XxD8RWC-XQlXubFk,30.4598758,47.8016659,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FR52+XM3, Basrah",2,0
+641,احمد,ChIJK7PnPoLpxD8Rm7IlevQADT0,30.2330844,47.7687223,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6QM9+7F4, Khor Al Zubair",2,0
+642,ابو مصطفى للوجبات السريعة,ChIJWYfrcW2XxD8RSmhfh28nzM0,30.4632914,47.8027475,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",FR73+85C، البصرة،,2,2
+643,محمد أبو الفلافل,ChIJeXMD2qKXxD8R9RXQ_7pmYt8,30.4579251,47.8056964,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","العراق،البصرة،القبلة،حي الجامعة, Al Basrah",2,1
+644,مطعم ومطبخ الدار,ChIJ42dPoJnpxD8R_XAFRCqRfe0,30.23374,47.764772,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع الأسمدة، الأسمدة، البصرة خور, Az Zubayr",2,0
+645,مطعم الحجي,ChIJqWlqOta9xD8R0sbJ7V0QKEM,30.3954348,47.6921822,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9MWR+5VF, Az Zubayr",2,0
+646,كافتريا المحاسبة,ChIJvyi2AaaXxD8RVvLLeUpyLV0,30.4818125,47.8040625,2.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRJ3+PJF، Unnamed Road, Basrah",2,3
+647,زبير فوود سناك zubair food snack,ChIJx3kWYya8xD8R6Vytvyk26Vg,30.3894991,47.7122162,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PQ6+RV4, Az Zubayr",2,26
+648,Bourne Fish,ChIJ8_vzIQ-XxD8RLzBWVJJjpPU,30.4732896,47.80920200000001,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","FRF5+8M5, Basrah",2,2
+649,برگر عبدالله,ChIJESyKpou9xD8ROAQMD_RGcEM,30.3977484,47.703591,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PX3+4C4، الشمالية، الزبير،, Az Zubayr",2,2
+650,مشويات محمد هاشم فرع المشايخ,ChIJBWRHU3u9xD8RVKXm5Umb1Uo,30.3908921,47.6967327,2.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",9MRW+9J7، الزبير،، الزبير،,2,2
+651,مشويات أحمد الزركاني,ChIJZfhZkCW_xD8Rpoz9Nh3yGmY,30.3805724,47.7062049,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PJ4+5FX, Az Zubayr",2,25
+652,مطعم ومشويات وجزارة ليمونة,ChIJLzc2-SS_xD8RgAtMd3UoPm0,30.3671282,47.7207695,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","9P8C+V82، حي الشهداء، الحي،, Az Zubayr",2,45
+653,ابو سجاد المندي والمشخل,ChIJ8b5CuNCXxD8RxjxEDtBOS0w,30.4770245,47.83303009999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","قرب طرشي والبان الخصيب, Basrah",2,0
+654,مطبخ بصرتنا,ChIJjyUPdVa9xD8RLC2K5xUUnmQ,30.4012766,47.7131736,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","محلة الشمال - شارع مستشفى الشفاء, Az Zubayr",2,30
+655,طبخات نونه,ChIJMTUOGvW_xD8RgYntikZ8jJM,30.3836209,47.7176759,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","9PM9+F36، Unnamed Road، الزبير،, Az Zubayr",2,6
+656,مطعم ع الفحم,ChIJMZrrKjC9xD8RHBuxn0rLq7s,30.3958146,47.7108936,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","مقابل مذاق, Az Zubayr",2,0
+657,مطعم فيس فود facefood restoran,ChIJMSZuOBrDxD8R32mTg-N4vvk,30.2317913,47.7620339,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","6QJ6+PR6، Unnamed Road، خور الزبير،, Khor Al Zubair",2,0
+658,الشوب .. سوبرماركت نوار,ChIJa_OXkHO6xD8RpsrA4hrfwVE,30.3674413,47.611899,3.2,"['electronics_store', 'home_goods_store', 'store', 'restaurant', 'food', 'health', 'point_of_interest', 'establishment']","9J86+XQF, Basrah",2,29
+659,مطعم ومشويات النوارس,ChIJ-6axhQ6XxD8RwvKBqDisltg,30.4659611,47.7800553,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FQ8J+92M, Basrah",2,0
+660,مقهى ميماتي,ChIJZQyTDbmXxD8RL4_CR1WZO_I,30.4725736,47.7818638,3.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FQFJ+2PQ, Unnamed Road, Basrah",2,5
+661,Al Jawharah Cafe كوفي الجوهرة,ChIJ3z_jUha8xD8RdMev-thgrsE,30.3936099,47.7026319,3.4,"['cafe', 'food', 'point_of_interest', 'establishment']","9PV3+C3J, Unnamed Road, Az Zubayr",2,49
+662,Fayrouz cafe,ChIJ_aQut329xD8R5YKrtL3vbws,30.3930795,47.7022731,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9PV2+6WJ, Unnamed Road, Az Zubayr",2,15
+663,AVENUE CAFE,ChIJHTzIJrOXxD8Rxd4w9Pma_uY,30.4243085,47.7865605,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","CQFP+PJ2, Al-Amel",2,33
+664,Literary Café,ChIJeegT3gy8xD8RqkM-bqqKc3U,30.3951848,47.6920122,3.2,"['cafe', 'food', 'point_of_interest', 'establishment']","9MWR+3RC، شارع الزهراء عليها السلام, Az Zubayr",2,9
+665,Coffee abody t,ChIJ172v4Ma7xD8R1BnQKeUD_H4,30.4410092,47.6707099,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","CMRC+C76, Unnamed Road, Basrah",2,1
+666,Coffee shop Tsar,ChIJ02O-zA6XxD8RuKhbg045vIQ,30.4739603,47.8082585,3.6,"['cafe', 'food', 'point_of_interest', 'establishment']","FRF5+H8J, Basrah",2,9
+667,88 Juice,ChIJKdqkey29xD8Rxt__2dbR4P8,30.3958418,47.7120136,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","9PW6+8RJ, Basrah",2,10
+668,كوفي شوب بغداد,ChIJNfifPzOXxD8Rab9xu_il92I,30.4514285,47.7956989,3.2,"['cafe', 'food', 'point_of_interest', 'establishment']",FQ2W+P49، البصرة،,2,6
+669,Coffee Classico,ChIJGQiJjD28xD8RsU3zB5xwWV8,30.3955102,47.7048669,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","9PW3+6W5, Az Zubayr",2,18
+670,كوفي شوب ليالي دبي,ChIJ7wk7VdWXxD8R5T_ycdKUwXA,30.4500583,47.7946783,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FQ2V+3RG, Basrah",2,1
+671,World of Italian Coffee عالم القهوة الايطالية,ChIJEVOl66KXxD8RgxURJ2iCTVg,30.4848576,47.8205703,4.4,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",Basrah,2,36
+672,Cafe senior companions,ChIJyVS9mv2WxD8RUDR9jrgE2hQ,30.4613484,47.8100543,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']","FR66+G2M, Basrah",2,63
+673,كوفي حكايه,ChIJJ2XAkF2XxD8RSyxFjCpUS2o,30.4598897,47.8016867,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","FR52+XM3، Unnamed Road, Basrah",2,19
+674,كوفي شوب العراب,ChIJOVzSCwqXxD8Rr3gJYgMj2TY,30.4794182,47.7943682,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FQHV+QPG, Basrah",2,0
+675,Almtiha Cafe,ChIJdzkRxjmXxD8RRqh0UnSpa9o,30.4864696,47.8318147,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']","FRPJ+HQJ, Basrah",2,51
+676,كوفي شوب بيبوو,ChIJ8_MP8ASXxD8RcADSC7KkKZA,30.4689568,47.8112331,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']","FR96+HFG، Unnamed Road, Basrah",2,28
+677,al-Muhandasīn Café,ChIJc1naiK-XxD8RpGqTh31V7f8,30.465187,47.7951621,3.6,"['cafe', 'food', 'point_of_interest', 'establishment']","FQ8W+33F، شارع المقيمين, Basrah",2,32
+678,كوفي ديو,ChIJifpPnh2XxD8RFFeF1Q0Eslo,30.4874198,47.7891266,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","FQPQ+XMF، حي الخليج العربي،, Basrah",2,4
+679,خان شيشة كافيه,ChIJuUOLbHCXxD8REPMk78IPqzQ,30.4887029,47.8110694,5.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FRQ6+FCJ, Basrah",2,3
+680,كوفي شوب فريندس,ChIJF17NtDW9xD8Rd6w5Cjj07WM,30.4017368,47.7122263,3.2,"['cafe', 'food', 'point_of_interest', 'establishment']","CP26+MVX، Unnamed Road, Az Zubayr",2,37
+681,كوفي شوب البدر,ChIJiVoZiY-XxD8Rpn9fx7iLv2o,30.4845513,47.8053958,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","FRM4+Q5W، طريق حمدان، البصرة،, Basrah",2,3
+682,كوفي ومرطبات الذهبي,ChIJDb4F7cm_xD8RJZS3Y0wKf58,30.3859655,47.7145818,4.6,"['cafe', 'food', 'point_of_interest', 'establishment']","9PP7+9RP، الزبير،, Az Zubayr",2,5
+683,كوفي المهندس,ChIJE6qR3S6XxD8RHrR8joMVgrY,30.4882906,47.7887947,4.5,"['cafe', 'food', 'point_of_interest', 'establishment']","FQQQ+8G7، حي الخليج العربي،, Basrah",2,4
+684,كوفي شوب ابو حواجب,ChIJ00WpuKW9xD8RuPiXbarbVOc,30.3964576,47.7225843,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","9PWF+H2P, Az Zubayr",2,17
+685,كوفي الكوخ,ChIJFWNfPJ_pxD8RI69FfESLYj4,30.2299983,47.7793271,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","6QJH+2P3، Unnamed Road, Khor Al Zubair",2,42
+686,كوفي شوب زورونا,ChIJiXbGRMGXxD8RepBS5MO3RQk,30.4861979,47.8211148,4.6,"['cafe', 'food', 'point_of_interest', 'establishment']",شارع تقاطع دويد البصرة سنتر تفاحه,2,5
+687,كوفي شوب احمد رزوقي,ChIJr1JRV-K_xD8RdId4C8mhTOQ,30.3856138,47.7316622,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9PPJ+6M7, Az Zubayr",2,0
+688,ورش كوفي,ChIJ_5sgHMi7xD8R6Yb_jX-FNHU,30.440248,47.6686732,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","CMR9+3FW, Unnamed Road, Basrah",2,0
+689,كوفي المحامين Vip,ChIJZbv5Nry9xD8R_jAvs4lfGtk,30.3963847,47.700997,3.0,"['cafe', 'food', 'point_of_interest', 'establishment']","الرشيدية سنتر, شارع, Az Zubayr",2,1
+690,زورنا كافيه - Zurna cafe,ChIJGVUWsBeXxD8RQKRZeLNyPV4,30.4863209,47.8209795,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FRPC+G9H، FRPC+FCR، البصرة،, Basrah",2,0
+691,مملكة العسل,ChIJayLp6oWXxD8RzYeCFV_0KQg,30.4217687,47.7848226,4.6,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","CQCM+PW, Abu Al-Khaseeb",2,7
+692,قهوة افريقيا 2,ChIJF6B4Z3mXxD8RdOP17r7Bctg,30.4899118,47.8144979,4.9,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FRQ7+XR6, Basrah",2,7
+693,كوفي النجوم,ChIJ0dUklcS9xD8RMqP7Xsv4khE,30.3949847,47.7078971,4.8,"['cafe', 'food', 'point_of_interest', 'establishment']",Az Zubayr,2,13
+694,كوفي الكلاسيكو,ChIJ1b8csGC7xD8RW8qBFDH6q50,30.3822566,47.6807592,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9MJJ+W82، المربد، الزبير،, Az Zubayr",2,5
+695,كوفي الاكابر,ChIJrd76r2iXxD8RnLIemqEzdcg,30.4861403,47.8143026,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FRP7+FP3، المشراق الجديد، البصرة،, Basrah",2,0
+696,كوفي الحفره,ChIJQf-QnTGXxD8R_QlkVk1ctlg,30.4739589,47.7825959,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FQFM+H2H, Basrah",2,1
+697,مطحنة قهوة و تمور الأمل,ChIJK4AL4V6XxD8RzzYoawYKdxU,30.4229665,47.7836662,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","CQFM+5FM, Basrah",2,1
+698,كوفي المشراگ,ChIJi7owd_6XxD8RqrNOz_P3Xq0,30.4900915,47.8131672,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FRR7+27M, Basrah",2,0
+699,كوفي الروان,ChIJAaYcrb29xD8Ri-FWiv0B66w,30.3952405,47.6924121,4.5,"['cafe', 'food', 'point_of_interest', 'establishment']","9MWR+3XR، Unnamed Road, Az Zubayr",2,2
+700,مركز القمة للبليارد,ChIJL9Zvri-XxD8RUqt9DQ9NGME,30.4703643,47.8101518,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']","FRC6+43M, Unnamed Road, Basrah",2,4
+701,كوفي ميلانو,ChIJw7ST2Ga9xD8R_p4DjI4KcZw,30.3846275,47.70271260000001,2.5,"['cafe', 'food', 'point_of_interest', 'establishment']","Unnamed Road, Az Zubayr",2,4
+702,cafeteria,ChIJy06BhNBL2z8RTfuLuigCsek,30.2344568,47.415982,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","6CM7+VW, Ar Rumaylah",2,0
+703,Earthlink Husam,ChIJ25gXYzKXxD8RjhJHiLJsd3s,30.4548036,47.7910558,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']","FQ3R+WC5, Unnamed Road, Basrah",2,10
+704,مقهى هبي لاند,ChIJ3fowzKO9xD8R78STVAIIQE0,30.3870507,47.7022381,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9PP2+PW9, Az Zubayr",2,1
+705,مقهى نون بت رويدة,ChIJPYNHGiKXxD8RN5lVpu-5LQk,30.4896535,47.7877085,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']",60، بصرة،,2,6
+706,هلا كافيه,ChIJw3k4WSuXxD8RUkE3uiW7W6E,30.4625489,47.78011739999999,0.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","FQ7J+229, Basrah",2,0
+707,كوفي برشلونه,ChIJ13_s7xnpxD8RyNPDZnJmB9U,30.2274994,47.7739059,2.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","6QGF+XH، شارع النادي, Khor Al Zubair",2,1
+708,كهوه زيدون التعبان,ChIJOZwWcUW7xD8RPH7u5NuIWr4,30.429581,47.68004,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","حي المرتضى الشعيبه, Az Zubayr",2,0
+709,مقهى عثمان الحسان,ChIJ6eSJaLm9xD8RbN0kC8ndhhU,30.3837669,47.70682780000001,4.7,"['cafe', 'food', 'point_of_interest', 'establishment']","9PM4+GP4, Az Zubayr",2,3
+710,b.w.g Time,ChIJFT07e1C_xD8RdVbEqQQsU9g,30.3769669,47.7007956,2.0,"['cafe', 'food', 'point_of_interest', 'establishment']","9PG2+Q8M، الزبير،, Az Zubayr",2,2
+711,كوفي الفهد,ChIJ5Q3ikdeZxD8RE1GY7lopv88,30.4908102,47.7869182,1.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FQRP+9MC, Basrah",2,1
+712,كوفي الاصدقاء,ChIJEV7cVbqXxD8Ru3Uh76RWAgc,30.4702409,47.8100433,0.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']",FRC6+32P، البصرة،,2,0
+713,كوفي السهرة,ChIJbcF8yAOXxD8R-YK1l89Dqeg,30.4746687,47.8046415,0.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","FRF3+WVG, Basrah",2,0
+714,كافية,ChIJaUBswNDpxD8RB4aAAMoYnsY,30.227723,47.7822694,5.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","6QHJ+3VQ, Khor Al Zubair",2,1
+715,مقهى النجمة,ChIJJajnPzW_xD8R2OjgIg2DrZQ,30.3769669,47.7007956,0.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']",9PG2+Q8M، الزبير،,2,0
+716,كوفي شوب الحبيب,ChIJiWd5mwWXxD8Rxj7OxSgCEo4,30.461581,47.7915572,0.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","FQ6R+JJM، حي المهندسين، البصرة،, Basrah",2,0
+717,كوفي الجمرة,ChIJD7KPYQmXxD8RFDnOeWDbek4,30.4567781,47.7908903,0.0,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']","FQ4R+P96, Basrah",2,0

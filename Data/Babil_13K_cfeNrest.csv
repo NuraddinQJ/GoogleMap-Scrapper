@@ -1,0 +1,301 @@
+,Place Name,Place ID,Latitude,Longitude,Rating,Types,Vicinity,Price Level,User Rating tot
+0,مطعم و كافيه لوكا,ChIJMbkyYwHjWBUR9V8Dw_7tyz4,32.4872398,44.4262847,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCPG+VGV, 40 St, Hillah",2,42
+1,مطعم باجة أهلنا,ChIJ6y7_lX_jWBURVFGpPx98mY0,32.5080119,44.4398035,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","GC5Q+6W3, Unnamed Road, Hillah",2,18
+2,Jood chicken & Burger جود,ChIJa_qg__LiWBURhLp7wXFoX70,32.496575,44.4204521,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCWC+J57, Hillah",2,62
+3,Canary cuisine,ChIJDw3X8RfjWBUR2vkQTANE0zE,32.4952698,44.4470201,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCWW+3RW, Hillah",2,25
+4,مأكولات منؤشة,ChIJ53i1kWjiWBURjGpy4RTk-yI,32.4821399,44.41515099999999,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCJ8+V36, حي الحسين مجاور حلويات لبنان, Hillah",2,29
+5,مشاوي دربونة,ChIJ83MGE_vjWBUR4uzmGvBKtJs,32.4802981,44.4203579,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCJC+45F, Hillah",2,0
+6,سعدي ابو الگص,ChIJaZu55lvjWBUR-fh4vuPJ89g,32.4805982,44.4266202,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",Hillah,2,35
+7,ماكولات سريعة,ChIJk2afKBjhWBURmf7jQ2eceKA,32.4598406,44.4049542,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FC53+WXP, Unnamed Road, Hillah",2,1
+8,مأكولات غيث,ChIJMXENv_3iWBURMIwSyoxP0X8,32.4885625,44.4356875,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","8H46FCQP+C7, FCQP+C7P, Hillah",2,50
+9,HESBURGER restaurant مطعم هسبرغر,ChIJGRViP-PjWBURgKjFroHWcl0,32.5146906,44.4376585,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GC7Q+V3F, Unnamed Road, Hillah",2,5
+10,مطعم منتجع بابل,ChIJNxrnmyD9WBURyM1JSqDLWX4,32.5402315,44.4135845,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","GCR7+2CR, Unnamed Road, سنجار",2,14
+11,chili house,ChIJ06njTurjWBUR9N4QJCLwKQ8,32.4886068,44.4334412,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCQM+C9W, باب الحسين،, Hillah",2,3
+12,فرايز جكن بابل,ChIJidwcU__jWBURtzGraVTL29M,32.4910516,44.4158078,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","مجمع العميد, شارع 60، حله، Iraq مقابل",2,9
+13,فود فورت بابلون,ChIJy5EgI7PjWBUR2S-fOnhMyGc,32.467651,44.4215629,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","Unnamed Road, Hillah",2,91
+14,Zait w Zaatar,ChIJzfowA_ziWBUR_fE_5ch1wRo,32.4888047,44.4329012,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCQM+G5C, طريق كربلاء, Hillah",2,45
+15,مندي الفتلاوي,ChIJYa_mDDLjWBURZC5ORw5jw-w,32.49142630000001,44.4186101,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCR9+JCX، الحلة‎،،, Hillah",2,0
+16,مطعم الغدير,ChIJIQs_6arjWBURzLIh3ef3de0,32.4801055,44.43847150000001,3.6,"['restaurant', 'meal_takeaway', 'food', 'point_of_interest', 'establishment']","FCJQ+29X، شارع المكتبات, Hillah",2,27
+17,مطعم بركات القاسم,ChIJhYMaS9zjWBURTjfnHu5vHLo,32.4735652,44.4326729,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCFM+C3F, Unnamed Road, Hillah",2,21
+18,لحوم ومشويات علاء,ChIJn6NRpMPjWBURmuzOaybaDgA,32.4739925,44.4258618,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCFG+H9W, شارع الجبل, Hillah",2,0
+19,مطعم و مقهى لازي Lazi Restaurant & Cafe,ChIJ0U29iXvjWBUR4iJHX42KZrs,32.4884987,44.4330283,2.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCQM+96R, Hillah",2,3
+20,Good restaurant,ChIJN4Slf5DhWBURkRmV4HyW_xk,32.4388963,44.4274826,2.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","CCQH+H22, Hillah",2,15
+21,Fire Fire burger,ChIJv1oK3vrjWBURWBfEW3w2BYw,32.504407,44.4378862,4.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","GC3Q+Q57, Hillah",2,6
+22,مطعم و مشويات ابو صفاء,ChIJYSC4EtviWBURiGuuwkMzj6I,32.5095315,44.4293503,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","GC5H+RP9, Hillah",2,466
+23,Roma restaurant,ChIJsayaQALjWBURldbdx6Twz0c,32.4736266,44.4251904,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FCFG+F34, Jammiya street, Hillah",2,59
+24,"BBQ Burger , Fresh Bar",ChIJn-ScHcvjWBURIPHhGxflLGA,32.4935885,44.4277411,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","FCVH+C3Q, الحلة / حي الطيارة / قرب مشهد الشمس،،, Hillah",2,30
+25,University Club,ChIJFzpASv4fWRURx3ruLPo901Q,32.3933122,44.3976879,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","99VX+83G, Hillah",2,28
+26,Prince Restaurant,ChIJOwfbX0ziWBURX70ikpJGZl0,32.4708567,44.4346007,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","FCCM+8RX, Hillah",2,8
+27,Nihad Restaurant,ChIJj98wKgL9WBURRq19KL_R4QI,32.5287773,44.4363251,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","GCHP+GG4, Hillah",2,12
+28,النخيل لشوي السمك,ChIJ80MH8triWBURBdoFGTLDPuc,32.5114615,44.4294314,4.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","GC6H+HQM, Hillah",2,40
+29,كافتريا المدني,ChIJCW7lEoIfWRUR1hMBbK9mXlc,32.3915007,44.3985201,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","99RX+J4R, Hillah",2,0
+30,مشويات ابو محمد(حامد واوي),ChIJ8TkMs2rpWBUR0cgjnzvczBc,32.3798062,44.55126660000001,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","9HH2+WG2, طريق حلة - ديوانية، الديوانية،،, Al Hashimiyah",2,11
+31,كص ايام زمان,ChIJpawMXpzjWBUReK-JNSa70L8,32.4806545,44.4245769,3.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FCJF+6Q9, Hillah",2,1
+32,مأكولات درب الحسين,ChIJ0Tww6enjWBURo9XLkxlxido,32.4922203,44.4304631,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FCRJ+V5F, Hillah",2,2
+33,Al-Masguf Al-Baghdadi,ChIJTYJlkBfjWBURoqNuvuGCEwg,32.5109186,44.4394224,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","GC6Q+9Q7, Unnamed Road, Hillah",2,2
+34,صاج الزبداني,ChIJQSQMKlXjWBUR1UtIRZKloRM,32.4696993,44.4103512,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FC96+R54, الجمعية، الحلة‎،،, Hillah",2,4
+35,Khan Mandi Restaurant,ChIJRYt31kbiWBURwnlC18dqpPk,32.4726148,44.4234272,3.9,"['restaurant', 'point_of_interest', 'food', 'establishment']","شارع الجمعية, Hillah",2,640
+36,Al Shams restaurant,ChIJxXeInvniWBURtqY6ELgR6UE,32.4870383,44.4260426,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","FCPG+RC8, Hillah",2,746
+37,Deer burger دير بركر,ChIJjdCrMWnjWBUROMewLKkBTjY,32.49157840000001,44.4334222,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","FCRM+J9M, Hillah",2,2
+38,مطعم و كافيه دافنشي,ChIJJ48vTOPjWBURC1VLuyIyi7s,32.5020312,44.423948,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","GC2F+RHQ, Hillah",2,219
+39,gogo restaurant,ChIJ930yrQfjWBUR0e2OMrV7DOk,32.4829842,44.4255575,3.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","FCMG+34V, Hillah",2,18
+40,Food Master,ChIJ7e6b1kXiWBURuOSGmZ3tdE8,32.4737722,44.4256255,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع الجبل, Hillah",2,39
+41,Shok,ChIJk60Gr6rjWBURKyYlsbtBH3Y,32.48908249999999,44.4196562,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCQ9+JVC، Unnamed Road, Hillah",2,93
+42,مخلمة ابو علي,ChIJeaLrIWzjWBURFvEbEA4uuq8,32.4751783,44.4276419,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCGH+336, شارع الجبل, Hillah",2,2
+43,الباشا بيتزا ولحم بعجين,ChIJIYpXovviWBUR3YoqN9PQO20,32.4919734,44.4309289,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","84, Hillah",2,229
+44,مطعم جوجو,ChIJQcex4KvjWBURBKGZYLyQSEE,32.4829326,44.4253496,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCMG+34V, Hillah",2,4
+45,قيمة النجف الشهيرة,ChIJFeAuCxDjWBURoKuJaPbrLTE,32.4890937,44.4329294,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCQM+J35، الحلة‎،،, Hillah",2,5
+46,Nasa Restaurant مطعم ناسا,ChIJsSIqMrrjWBURjicnNmBzSyE,32.4839983,44.41945399999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCM9+MR9, Hillah",2,3
+47,اوفردوز OverDose,ChIJ6W3WXYDjWBUR8xaweinmNyM,32.4865719,44.4259587,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCPG+J9G, 84, Hillah",2,51
+48,Abo Raad,ChIJ_XKdJZzjWBUR1uaxbut-oLs,32.4745126,44.4270218,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCFG+QRX, FCFG+MQG، الحلة‎،،, Hillah",2,1
+49,Farmoza & mantu,ChIJBeCOejLjWBUR6RxM_lpYks8,32.478594,44.4248807,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع 40, Al Hillah",2,0
+50,لحوم ومشويات ابو علي,ChIJmeT-so7iWBUROG3rtn-4V90,32.497705,44.412731,2.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCX7+33Q, Hillah",2,7
+51,مطعم سامر الزركاني,ChIJG6fXFnjjWBUR8vKV_ZqN85Y,32.4823011,44.4404387,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCJR+W5G، شارع المحكمة, Hillah",2,0
+52,محلات حمزة منكاش,ChIJuQGtmK7nWBURbo6_0X1r9Ck,32.3923512,44.5384862,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","27, الحصين،",2,1
+53,Shok,ChIJXSKJC0zjWBURPopkaTC_iPI,32.4736266,44.4251904,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCFG+F34, Hillah",2,0
+54,Almadaq,ChIJ8ykwZ8DhWBURUL3drGlMQkU,32.4346682,44.4175841,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",CCM8+RRX، حي النور,2,24
+55,محل ابو يوسف للدجاج الحي,ChIJ2aj7MzAfWRURPJvfxcoxQQ8,32.4635778,44.376628,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F97G+CMC، طريق العلويه شريفه, Hillah",2,1
+56,Al-Akhawain Restaurant,ChIJm0X__yEeWRUR9TOmwASCFek,32.4465178,44.3946318,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","C9WV+JV2، شارع 80, Hillah",2,31
+57,مطعم سومر,ChIJY0MYMG3iWBURoX3pNX51Qc4,32.4815248,44.4113985,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع 60, Hillah",2,1051
+58,Abu Hamza Restaurant,ChIJbSuOeUziWBURvzabi_IKheM,32.4700736,44.43411520000001,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCCM+2JH, Hillah",2,35
+59,Kabebchi Restaurant,ChIJTR6q_bvjWBUREHGRh8O_pBg,32.4707898,44.4252311,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع 40،, Hillah",2,1010
+60,Kabebchi Restaurant,ChIJTR6q_bvjWBUREHGRh8O_pBg,32.4707898,44.4252311,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع 40،, Hillah",2,1010
+61,مطعم سومر,ChIJY0MYMG3iWBURoX3pNX51Qc4,32.4815248,44.4113985,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع 60, Hillah",2,1051
+62,مطعم و مشويات ابو صفاء,ChIJYSC4EtviWBURiGuuwkMzj6I,32.5095315,44.4293503,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","GC5H+RP9, Hillah",2,466
+63,Fawanees Restaurant,ChIJg90Vn73jWBURKvVo4_qkHEc,32.4699772,44.41339809999999,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","FC97+X9R, Hillah",2,721
+64,مطعم نائل,ChIJbzbcx6XjWBURfRTkzTRmCfg,32.4792004,44.4107281,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCH6+M7Q, Hillah",2,434
+65,مطعم شاورمتي,ChIJa0LnzXfhWBURJqFbpOj8lqo,32.4378022,44.4042567,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","CCQ3+4MH, Hillah",2,52
+66,Al Shams restaurant,ChIJxXeInvniWBURtqY6ELgR6UE,32.4870383,44.4260426,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCPG+RC8, Hillah",2,746
+67,Khan Mandi Restaurant,ChIJRYt31kbiWBURwnlC18dqpPk,32.4726148,44.4234272,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع الجمعية, Hillah",2,640
+68,مطعم دار الشام,ChIJc09BDWvjWBURJgmPKjEDtMg,32.4842376,44.4278231,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCMH+M4W، شير،, Hillah",2,84
+69,مطعم خالد,ChIJbYU28KPhWBURRTSxFf2BMlY,32.4430816,44.426688,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","CCVG+6MM، Unnamed Road،, Hillah",2,141
+70,مطعم وكافيه,ChIJh010VnXjWBURNzA8yMyqxcQ,32.4951044,44.4324186,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","زوير الكيم، الكورنيش, Hillah",2,28
+71,Kentucky house Babylon,ChIJ0Qvk6WXiWBURhaCZA5SG0DI,32.4849975,44.4129419,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",Hillah,2,736
+72,مطعم دار الشام,ChIJQ0UZNkrjWBURSyRZzY0wbAw,32.4736266,44.4251904,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع التربية الحلة القاضية,2,5
+73,Qasim's scavenging with ghee,ChIJc1S1CFHiWBURHfHMBeYlrvw,32.4783763,44.4312076,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع الجبل, Hillah",2,297
+74,مطعم ومشويات روشان,ChIJnQQEhx7jWBURA7CfraOirMc,32.500781,44.4228064,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","GC2F+847, Hillah",2,11
+75,مطعم باربيكيو هاوس,ChIJIxj0qprjWBURB9X4LgjzM4U,32.473568,44.4245353,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCFF+FR2, Hillah",2,6
+76,Erbil Restaurant,ChIJoZm1xf3iWBURlGHiC8jUR7s,32.4881814,44.4355707,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCQP+76G، جسر باب الحسين, Hillah",2,101
+77,Al-Akhawain Restaurant,ChIJm0X__yEeWRUR9TOmwASCFek,32.4465178,44.3946318,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","C9WV+JV2، شارع 80, Hillah",2,31
+78,مطعم مدينة الزائرين 2,ChIJayHcvPMfWRURAMDh4OUOyso,32.4645459,44.3420595,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","F87R+RR7، طريق العلوية شريفة، غريق،, Griq",2,7
+79,مطاعم الجمجمة الشماليه,ChIJG_V6MSz9WBUR8V6CocKd2zM,32.5263923,44.4339668,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع الجمجمة, Hillah",2,257
+80,مندي الفتلاوي,ChIJYa_mDDLjWBURZC5ORw5jw-w,32.49142630000001,44.4186101,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCR9+JCX، الحلة‎،،, Hillah",2,0
+81,Damascus House Restaurant,ChIJVVVVFY7iWBURbQJ0_7QNLqA,32.5012207,44.4123064,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","GC26+FWC, Hillah",2,14
+82,مطعم سيف السلطاني,ChIJCeRmiG3jWBURFdtSxgM_Dus,32.4797646,44.4248092,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع 40, Al Hillah",2,0
+83,مطعم الأخوين كرار&سجاد,ChIJVTE7fvLjWBURXxU46_j00zw,32.5012108,44.4319517,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GC2J+FQP، شارع التربيه، القاضيه,2,1
+84,مطعم البغدادي للاكلات الشرقيه والغربيه,ChIJBYPVqtz7WBURabJpRbtaXxo,32.5405533,44.54768259999999,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GGRX+63F، ناحية النيل، بابل،, Nile",2,1
+85,النخيل لشوي السمك,ChIJ80MH8triWBURBdoFGTLDPuc,32.5114615,44.4294314,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","GC6H+HQM, Hillah",2,40
+86,University Restaurant,ChIJEQTmufThWBUR1U8v2IHdvZk,32.450916,44.41750709999999,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","مجمع شقق حي النسيج, Hillah",2,17
+87,مطعم الطيب,ChIJS5qD-iLjWBUR8nWItWlZuV4,32.4939191,44.4550942,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FFV4+H29, Hillah",2,1
+88,مطعم نهاد,ChIJnRqKyx_jWBURFEb-r-2C1pA,32.4770174,44.4600543,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FFG6+R25, Hillah",2,30
+89,مطعم طربوش للاكلات الشرقيه والغربيه,ChIJ-bDe79jhWBURe_ljNOZhUrs,32.4437238,44.4268629,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","CCVG+FPQ، بزرگراه ۸،, Hillah",2,17
+90,مطعم خوخة,ChIJATqfDPPjWBURwUAjRLuFz1Y,32.4624635,44.421623,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FC6C+XJQ، Unnamed Road، الحلة‎،, Hillah",2,1
+91,مطعم وكافتريا البركه,ChIJEQVsR83hWBUREvDTGud9ZBM,32.4440114,44.4300065,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","CCVJ+J22, Hillah",2,0
+92,مطعم التين والزيتون,ChIJFTaopI_hWBURN3bg41PYTU0,32.4741749,44.3117774,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","نادر الثانية, طريق حله - كربلاء، Hillah",2,22
+93,مطعم النورين,ChIJJTcSsHYfWRUR_ADMyHI8yhQ,32.4588484,44.3507452,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","مطعم ,النورين, Hillah",2,8
+94,سعدي ابو الگص,ChIJaZu55lvjWBUR-fh4vuPJ89g,32.4805982,44.4266202,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",Hillah,2,35
+95,مطعم الاخوين,ChIJjR1FyPghWRURoEf2bZIjFHA,32.4158909,44.33773069999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C88Q+935، Unnamed Road, Griq",2,0
+96,مطعم مشويات المسعودي,ChIJD8yHoQsfWRURxz2NML6gUNU,32.4622689,44.3732704,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F96F+W82، حله بنت الحسن طريق العلويه شريفه طهمازيه الطهمازيه, Hillah",2,3
+97,مطعم food location,ChIJGwNUerzjWBURLcx-MsLLA8g,32.4563457,44.42558349999999,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","FC4G+G66, Hillah",2,18
+98,مطعم ابو مصطفى الشمري,ChIJcyVPLeziWBUR1LMysWJIH0A,32.5001377,44.4223625,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GC2C+3W5، مجسر الثورة, Hillah",2,22
+99,Best journey Restaurant,ChIJuWTvlEbiWBURhM_09k4TBr4,32.4731225,44.4231661,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCFF+776, Hillah",2,122
+100,مطعم علي غازي,ChIJHd_W1bLjWBURnhYWAMn77TY,32.4691985,44.4331934,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FC9M+M7G، شارع الشاوي العام،، الحلة‎،,2,5
+101,مطعم عباس,ChIJ-VRszofjWBURbJVoIp7UdAw,32.5008393,44.4174786,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","GC28+8XX، حله مقابل مجلس محافظة, Hillah",2,4
+102,مطعم بركات الزهراء (ع),ChIJXRKaJTz9WBUR11lKhEgvgbU,32.5269375,44.4346719,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GCGM+QVF, Hillah",2,1
+103,مأكولات ع الطاوة,ChIJX5QzDAfjWBURn4dMxCshjho,32.5024703,44.435206,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","مركز المدينة، باب الحسين, Hillah",2,0
+104,FAST FOOD,ChIJy89iyy7jWBUREN4cA41P-14,32.4947704,44.4468732,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCVW+VQV, Hillah",2,13
+105,مطعم السفراء,ChIJXffEuCrjWBURb_4MlzOyQeE,32.4881829,44.428824,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع 40، الحلة‎،,2,2
+106,مطعم بشار ابو زمن,ChIJ0fRq38zjWBUR2o0uTHvDhnk,32.4755586,44.4410094,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCGR+6C2, Al Hillah",2,0
+107,مطعم وكافيه شوگ,ChIJd-C7_v7jWBUREHwuX-f0fKI,32.4910479,44.4193031,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",FCR9+CP7، الحلة‎،,2,26
+108,مطعم الرضوان السياحي,ChIJ6SBtOgT7WBURd2jvE0H1gJo,32.4985551,44.5209941,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","FGXC+C9H، شارع حله بغداد _الوردية خارج _ البونافع, Hillah",2,16
+109,مطعم سومر,ChIJcQigTIrjWBUR40iKnY63dhk,32.4736266,44.4251904,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FCFG+F34، الحلة‎،,2,1
+110,مطعم بركات القاسم,ChIJhYMaS9zjWBURTjfnHu5vHLo,32.4735652,44.4326729,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCFM+C3F, Unnamed Road, Hillah",2,21
+111,مطعم و كافتريا بابل,ChIJayDzdyHjWBURyvp8t5cpc30,32.4768563,44.4311695,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FCGJ+P9J، الحلة‎،,2,2
+112,مأكولات القبطان,ChIJ7yYSenHjWBURZcJ0mQabiY0,32.4946597,44.41090579999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FCV6+V96، الحلة‎،,2,0
+113,مطعم مندي بيت الشيخ,ChIJNZUwDi_jWBURKLuNz0w19pM,32.4926594,44.4168674,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع الضغط العالي، 8, حله،",2,261
+114,مطعم حمزه الصليخي,ChIJsb2UEUAfWRUROa7Wy9_aDro,32.4408658,44.3958561,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",C9RW+88، الحلة‎،,2,2
+115,شاورما بابا عبده Baba Abda,ChIJTbwsY9LjWBURvDoGlBhGQjc,32.4825625,44.41979690000001,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCM9+2WF, Hillah",2,1
+116,مطعم اهلنه,ChIJvS13N7fjWBUR34Ex6_SX9tY,32.469653,44.4083826,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FC95+V96, Thmazah Bridge, Hillah",2,0
+117,Karar abu algas,ChIJh2lQRoniWBUR96IdQvpHBEo,32.497015,44.4124568,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCW6+RX4, Hillah",2,111
+118,كافيتريا البغدادي,ChIJBf9tE5HjWBURIbAc1jeI0vg,32.4883915,44.4336023,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCQM+9C5، شارع 40, Hillah",2,6
+119,مطعم آدم,ChIJAQAAAFDiWBURWSQgPH89bjA,32.4773919,44.42766140000001,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCGH+W3J, Hillah",2,27
+120,مأكولات الصفاء,ChIJJbNAI7_jWBURlaHTBMrRtBY,32.5114431,44.4444585,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","GC6V+9W4, Hillah",2,0
+121,مأكولات الكوثر,ChIJbYV_BJ_nWBURMLqixqNQjpU,32.360678,44.547225,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",9G6W+7VH,2,0
+122,مأكولات المواسم,ChIJzQOaElDjWBURk4LzbR6vIFE,32.478159,44.4251174,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCHG+729, Hillah",2,5
+123,Double food for fast food,ChIJG7Vv1EbiWBURsaTOMmH-aZ4,32.4726209,44.4233695,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",Hillah,2,17
+124,FAST FOOD,ChIJy89iyy7jWBUREN4cA41P-14,32.4947704,44.4468732,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCVW+VQV, Hillah",2,13
+125,مأكولات حسن الريس,ChIJ36TDi7ojWRURcbukRCp5fvA,32.3674198,44.30448639999999,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",9883+XQ9، الهندية,2,4
+126,مأكولات ع الطاوة,ChIJX5QzDAfjWBURn4dMxCshjho,32.5024703,44.435206,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","مركز المدينة، باب الحسين, Hillah",2,0
+127,ماكولات ابو الخير,ChIJU5ewZVsdWRUREWOdE79EVmc,32.52746,44.3544638,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",G9G3+XQP، غريق،,2,13
+128,مأكولات أمير السيد,ChIJX6XqSqrnWBURdV7y5jrE1us,32.3924148,44.538467,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","السياحي, 27, الحصين",2,3
+129,مأكولات الذهبية,ChIJx8-g4dbjWBURBURE3g0SyMc,32.4781106,44.4248568,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع 40, Hillah",2,1
+130,مأكولات القبطان,ChIJ7yYSenHjWBURZcJ0mQabiY0,32.4946597,44.41090579999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FCV6+V96، الحلة‎،,2,0
+131,مأكولات فلفووول,ChIJ9QEooI7iWBURteFL5CL0CdU,32.4984357,44.41334519999999,3.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCX7+98H, Hillah",2,22
+132,مأكولات الغيث,ChIJ99wSDO4fWRURS-1kQ9NpeLw,32.4541929,44.3978244,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","F93X+P2F, Hillah",2,1
+133,Food taste,ChIJMWr39ZrjWBURdXb13E8hwA0,32.471189,44.4265409,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCCG+FJ3، شارع 40, Hillah",2,0
+134,ماكوﻻت طماطه,ChIJTTMX0UTiWBURrFwAK7cCQvE,32.4781967,44.4248604,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCHF+7WH، شارع 40, Hillah",2,81
+135,مأكولات غيث,ChIJMXENv_3iWBURMIwSyoxP0X8,32.4885625,44.4356875,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","8H46FCQP+C7, FCQP+C7P, Hillah",2,50
+136,ماكولات سريعة,ChIJk2afKBjhWBURmf7jQ2eceKA,32.4598406,44.4049542,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FC53+WXP, Unnamed Road, Hillah",2,1
+137,مأكولات حيدر,ChIJqeXKR_XjWBURB26RXUWvwv8,32.4860701,44.43773059999999,1.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCPQ+C3H، Unnamed Road، الحلة‎،, Hillah",2,2
+138,مطعم food location,ChIJGwNUerzjWBURLcx-MsLLA8g,32.4563457,44.42558349999999,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","FC4G+G66, Hillah",2,18
+139,مأكولات غيث,ChIJbWTJhyzjWBUR8uV33dTBaLo,32.4886414,44.4363593,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",طريق كربلاء - الحلة، الحلة‎، Hillah Alhillah,2,10
+140,مأكولات العربي,ChIJt633X_8dWRURABpMf411_OQ,32.5293528,44.33982959999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","G8HQ+PWW, Griq",2,0
+141,مأكولات تويتي,ChIJhbrXuLvjWBUROcz3ntN7QaU,32.4724741,44.4018862,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCC2+XPM, Hillah",2,0
+142,كافتريا ماكولات فضه,ChIJ8WKacPLjWBURNVbNJKB3H3A,32.5104375,44.4041719,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",GC63+5MF، الحلة‎،,2,0
+143,FOOD POINT للأكلات السريعة,ChIJCeYFMuEdWRURBSvhGzhOuk8,32.532139,44.340593,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","G8JR+V6H, Griq",2,3
+144,مأكولات حبايبنا,ChIJH9TaeUHjWBURYFL0dFg9bQs,32.4868611,44.4269692,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCPG+QR2, Hillah",2,0
+145,ماكولات زرزور للوجبات السريعة,ChIJTwWr8N3jWBURD3ZSGIy0QKA,32.4977837,44.4231089,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCXF+469، طريق كربلاء - الحلة، الحلة‎،, Hillah",2,83
+146,مأكولات درب الحسين,ChIJ0Tww6enjWBURo9XLkxlxido,32.4922203,44.4304631,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCRJ+V5F, Hillah",2,2
+147,كافتريا محمد ماجد,ChIJJzCy-sHnWBURX7C_x6Szf8g,32.3962205,44.5292713,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",9GWH+FPJ، 27،،,2,0
+148,مأكولات عباس,ChIJhawoweXhWBURVTk9SR3sGow,32.441551,44.402459,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","CCR2+JXG, Hillah",2,0
+149,مأكولات منؤشة,ChIJ53i1kWjiWBURjGpy4RTk-yI,32.4821399,44.41515099999999,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCJ8+V36, حي الحسين مجاور حلويات لبنان, Hillah",2,29
+150,Canary cuisine,ChIJDw3X8RfjWBUR2vkQTANE0zE,32.4952698,44.4470201,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCWW+3RW, Hillah",2,25
+151,مأكولات سامر نوشي,ChIJX9eGbQjjWBUR4D8rUC-rU2w,32.4702216,44.41403589999999,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",Hillah,2,38
+152,مأكولات علي الباشا,ChIJIQDEI5njWBURQdLxCNQC1fU,32.4999344,44.44909819999999,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCXX+XMC, Hillah",2,0
+153,مأكولات دينار ياسر الصيني,ChIJCbW49_viWBURA7IVr1Rf7S0,32.4896998,44.4318974,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCQJ+VQC، شارع 40, Hillah",2,10
+154,مأكولات فاطمة الزهراء,ChIJTwcGkH7jWBURMHV5Ecn_LJQ,32.4849668,44.4452349,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCMW+X3H، Unnamed Road، الحلة‎،, Hillah",2,0
+155,مأكولات زيد,ChIJN2HRaUQZWRURBsfYIGmSusY,32.4340263,44.3228361,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","C8MF+J48، Unnamed Road،, Griq",2,2
+156,كافتريا ومطعم,ChIJud-tr8bjWBURPDcqiByXZXk,32.4799726,44.4484755,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCHX+X9Q, Al Hillah",2,0
+157,Zero fat restaurant,ChIJGShvlr_jWBURE4KDO5kQMYw,32.4842577,44.4275432,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCMH+P23، شير،, Hillah",2,1
+158,مؤكولات اسعد فلافل همبركر كص لحم دجاج,ChIJd-Tuz9rjWBURKNUVEbcNEQ8,32.4805903,44.4248066,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","مسجد ابو خمرة، قرب شارع 40, Hillah",2,0
+159,مأكولات سفينة النجاة,ChIJAfIxwsDjWBUREKlk2IdoUyA,32.477385,44.3997907,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","F9GX+XW2, Hillah",2,10
+160,ماكولات وفلافل الحجي,ChIJy-4Sfc7jWBURUPDIPXnu1ds,32.4920271,44.4164114,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع 60، الحلة‎،,2,0
+161,رسول الأكلات السريعة,ChIJCTNaWZ7hWBURY6MOElAOiZI,32.4271297,44.4208387,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","CCGC+V84، Unnamed Road, Hillah",2,4
+162,مطعم الاصيل,ChIJhXlZPOfhWBUR9Bmm9GHVDkA,32.4412022,44.434898,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","CCRM+GW9، باب الحسين، باب الحسين, Hillah",2,1
+163,مأكولات سفينة النجاة,ChIJG-Vv8lrjWBURe31FVlC3YdA,32.4736266,44.4251904,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",الهند الحلة‎ 9وظ,2,1
+164,حلويات و مأكولات منؤشة,ChIJoyCCyJjjWBURWyfZal5Uf2k,32.4852395,44.4263742,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع ٤٠ مجاور مجمع الانوار - فرع صلاح البابلي الحلة ‎, Hillah",2,19
+165,FRISH FOOD,ChIJ3_YZGcjjWBURbSIpdifTUkk,32.4772772,44.4000803,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCG2+W37, Hillah",2,3
+166,Protein food بروتين فود,ChIJw9XmkhnjWBURV9Xy5Gl1Joo,32.4822494,44.4196806,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCJ9+VVV, Hillah",2,2
+167,جودي البابلي,ChIJWyWRacjjWBURuN3QcS_x2TA,32.4736266,44.4251904,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FCFG+F34، الحلة‎،,2,0
+168,مطعم السفراء,ChIJXffEuCrjWBURb_4MlzOyQeE,32.4881829,44.428824,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع 40، الحلة‎،,2,2
+169,مطعم وكوفي ناي,ChIJpT2PYNnlWBURmeQAlhOTS0Y,32.4841772,44.48837930000001,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FFMQ+M96، FFMQ+MCX،، الشارع العام،، الحلة‎،,2,0
+170,الشجيري لبيع وشوي الاسماك,ChIJ2T_OswfiWBUR-S_9_qL7ODw,32.4693305,44.4017135,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","FC92+PMW, Hillah",2,19
+171,مشويات فلاح نفطية,ChIJx4VS08zhWBURoMzXBfsJ76E,32.4435554,44.4261404,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",CCVG+C95، الحلة‎،,2,0
+172,Al-Masguf Al-Baghdadi,ChIJTYJlkBfjWBURoqNuvuGCEwg,32.5109186,44.4394224,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","GC6Q+9Q7, Unnamed Road, Hillah",2,2
+173,مطعم الاصيل,ChIJ8WHSlGDjWBURvVTara8WDxk,32.4884817,44.4341689,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCQM+9MV، باب الحسين،، باب الحسين, Hillah",2,0
+174,كرار ابو الگص,ChIJNwc33-_jWBUR7i2v89Scrxg,32.4976374,44.41267999999999,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCX7+333, Hillah",2,12
+175,كافتريا ابو هندة,ChIJSaPHgUbiWBUR_HyR766BKlI,32.4738469,44.4250576,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCFG+G2M, Hillah",2,5
+176,بركر الساعة,ChIJJb2tDwDjWBURvaRicfmgZeA,32.4931186,44.4402361,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCVR+64J, Hillah",2,2
+177,مطعم ناسا,ChIJTxenk2fjWBURCObs2MtgS4M,32.4736266,44.4251904,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع الكرامة المشجر-قرب استداره شارع الاوقاف, Hillah",2,0
+178,مطعم و مأكولات محمد البغدادي,ChIJzQ7KIOzjWBUR1YWJ9edsbxs,32.4884356,44.4343332,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","FCQM+9PG، بابل، الحلة‎،, Hillah",2,0
+179,فلافل لبنان-Falafe Lebanon,ChIJv1CodxXjWBURQpD-XOfSUvs,32.472961,44.42577550000001,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",FCFG+558،، شارع 40،، الحلة‎،,2,57
+180,كوفي شوب العسلي,ChIJ0YUwGpfxWBURJ0UXazVJRx0,32.5389602,44.5514879,4.4,"['cafe', 'food', 'point_of_interest', 'establishment']","GHQ2+HHX, Nile",2,9
+181,Central Cafe,ChIJcx2vFpjjWBUR79I1u--FwUc,32.478594,44.4248807,3.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","40 St, Hillah",2,3
+182,كوفي الكنك,ChIJb0R8r6zjWBURcxCaiUtTRfY,32.4886632,44.4144509,3.3,"['cafe', 'food', 'point_of_interest', 'establishment']","FCQ7+FQ8, Unnamed Road, Hillah",2,20
+183,سنترال كوفي,ChIJMc_6KhrjWBUR-YuQkUEE0nI,32.4877368,44.427177,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","FCQG+3VV، شارع 40, Hillah",2,78
+184,Castle Cafe,ChIJo6rE1DziWBURkCKZWtKNEVo,32.46235830000001,44.42073569999999,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']","FC6C+W7Q, Unnamed Road, Hillah, Hillah",2,6
+185,Oscar Rest & Cafe مطعم و كافيه اوسكار,ChIJsb6fEO3jWBURNEGIJjHVsaw,32.4935176,44.4280483,3.8,"['restaurant', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']","بابل / حلة / قرب مقام رد الشمس / بناية شركة زين للاتصالات, Hillah",2,192
+186,Bistro Cafe,ChIJMUoYjbzjWBUR9x1ZcY8mK5w,32.482651,44.4252891,4.4,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","FCJF+QMF, Hillah",2,40
+187,Lithops cafè-ليثوبس كافيه,ChIJda2oGuvjWBUR3CUinRX9XMY,32.4771385,44.4254837,4.8,"['cafe', 'food', 'point_of_interest', 'establishment']",شارع 40، حله،،,2,11
+188,Story Cafe كافيه حكاية,ChIJwf8CtFHjWBUReFG-Bt_yYZc,32.4957126,44.419897,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","قاعه بابليون للاعراس, شارع 60, جسر الثورة, مجاور, Hillah",2,0
+189,Cafe Forum,ChIJN6dyn1niWBURc7q046izSlI,32.4839121,44.4254443,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FCMG+H58، شارع 40, Hillah",2,5
+190,Amjad Coffee Shop,ChIJzykFEm_iWBURwthjG6ev-vI,32.4830503,44.41185249999999,3.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FCM6+6M5, Hillah",2,10
+191,Canary Cafe,ChIJU005cVviWBURNnkRW8jatQQ,32.4810468,44.4237188,3.9,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","FCJF+CGC، Hay Al-Hussain St, Hillah",2,69
+192,ميامي كافيه,ChIJ698twisdWRURAMAEXjmF5QE,32.5492357,44.3616931,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","G9X6+MMX, شارع السيد ادريس بن الكاظم ع - منطقة المسافر،, Griq",2,7
+193,Alfunjan cafe,ChIJHSyYHhHiWBURbXDfECnehaY,32.4700141,44.4137036,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']","FCC7+2F4, شارع الجبل, Hillah",2,165
+194,مطعم وكافيه انكيدو Enkido Cafe,ChIJNQg2Ea3jWBUR8if9YaA0M3I,32.4875125,44.4267777,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","FCQG+2P2, 40 St, Hillah",2,57
+195,Glory cafe,ChIJRZCJwwXjWBURUGxfnDvS-gw,32.4736266,44.4251904,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",FCFG+F34، الحلة‎،,2,0
+196,انكيدو كافية,ChIJM6roIrzjWBURXbdjUbzbMQ4,32.478594,44.4248807,4.5,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","FCHF+CXJ, شارع 40،, Hillah",2,2
+197,Revive cyber cafe رفايف سايبر كافيهَ,ChIJ2SuBaEbjWBURJ4mLuZFzdCM,32.4865338,44.4258839,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FCPG+J9G, 84, Hillah",2,5
+198,Coffee shop Hemo,ChIJsycGXyj9WBURt7YKvqcGX_g,32.5273008,44.4348657,4.4,"['cafe', 'food', 'point_of_interest', 'establishment']",GCGM+WWH,2,11
+199,Happy day هبي دي,ChIJKUtrbenjWBURqnz5GecghSg,32.5020706,44.42404030000001,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","GC2F+RJ8, Hillah",2,19
+200,كوفي شوب,ChIJDYf-iiUfWRUR1zCfgb9BKn4,32.4275223,44.39842609999999,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",C9HX+29، الحلة‎،,2,0
+201,City lounge,ChIJA3AExebjWBURwxB44abfkvY,32.4886466,44.43313990000001,3.5,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FCQM+F72, Bab ALhussein St،, Hillah",2,4
+202,Coffee Factory,ChIJCcpgjrjjWBURPPuMlE_OPBk,32.4866127,44.4257189,4.5,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","40 شارع 40،،, Hillah",2,89
+203,Rest time cafe,ChIJAcHcw7njWBURxsRB5Dq02to,32.4945983,44.4176119,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","FCV8+VX9, Hillah",2,26
+204,فلوريان كافيه,ChIJiY41kxHiWBURwRBPhgea8_I,32.492241,44.4166354,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FCR8+WJ4، شارع 60, Hillah",2,97
+205,جورج كافيه,ChIJM81glaLjWBURSChnXaA8Wk4,32.4536329,44.423442,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","طريق مركز الحلة،, Hillah",2,27
+206,گلوري_GLORY CAFE,ChIJ65tOIi_jWBURtm-sTQyLfhE,32.4987394,44.4212572,3.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FCXC+FGR، مجسر الثورة، الحلة‎،, جسر, Hillah",2,1
+207,Coffee,ChIJ36kx483jWBURfI_EumPYa3w,32.4757328,44.4252945,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","40 شارع 40،،, Hillah",2,0
+208,Babylion environments café,ChIJQdLdMrvjWBURTNHfFT5Hu5w,32.4926952,44.4184679,3.3,"['cafe', 'food', 'point_of_interest', 'establishment']","FCV9+39G, Hillah",2,36
+209,PANADOL CAFE,ChIJ7fO2re_jWBURoCFaO1QZkl0,32.5092493,44.4396414,3.3,"['cafe', 'food', 'point_of_interest', 'establishment']","GC5Q+MVR, Unnamed Road, Hillahشارع الكورنيش،, Hillah",2,23
+210,كازينو وكافيه دومنوز Dominoes,ChIJM2Lpd1_jWBURhxgR0tYa0JA,32.5022691,44.43561589999999,4.5,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","GC2P+V62 Al-Mahar, Hillah",2,2
+211,Dark Coffee دارك للقهوة المختصة,ChIJJcARCdbjWBURC6LSbsSyefI,32.4852448,44.4262294,4.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","شارع ٤٠ قرب مجمع الانوار مجاور جود بركر - فرع صلاح البابلي الحلة ‎, Hillah",2,9
+212,كوفي شوب عباس حسين,ChIJGUy-l_nhWBURZJV-q2ltEsI,32.4293908,44.4174348,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","CCH8+QX4, Hillah",2,0
+213,كوفي شوب حمودي,ChIJo28-T3LjWBUR1bbG2DWg4Os,32.4797217,44.4591111,3.3,"['cafe', 'food', 'point_of_interest', 'establishment']","FFH5+VJQ, Unnamed Road, حله, Hillah",2,31
+214,كوفي المجلس,ChIJ4yCcIaTjWBURERddwcjvfzQ,32.4736266,44.4251904,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",FCFG+F34، الحلة‎،,2,0
+215,الرمال كافيه alremal cafe,ChIJrd5dZDTjWBURzuvZAJDNdLQ,32.4993934,44.4222502,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FCXC+PVX, Hillah",2,0
+216,مكسيكو كافيه,ChIJ8ZRLQl_jWBURcsoRxiHQI-I,32.4904837,44.4313878,0.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","FCRJ+5HR، باب الحسين, Hillah",2,0
+217,كوفي اكرم المعموري,ChIJpVvLpqb7WBURa-I8tZ2tsS0,32.5637813,44.4822944,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","HF7J+GW7، الحله, Nile",2,0
+218,AlNawares Cafe,ChIJrb_xxvffWBUR9d_k6JEo7Fg,32.3788597,44.4002721,3.4,"['cafe', 'food', 'point_of_interest', 'establishment']","9CH2+G4R، Al, Hillah",2,46
+219,حكايه تايم,ChIJ2_bQw4XjWBURnGeAlEZUviU,32.4757328,44.4252945,3.4,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",40 شارع 40، الحلة‎،،,2,9
+220,الحفرة كافي The hole cafe,ChIJj5_1UhPjWBURSXgHVhcJGdg,32.5144796,44.431619,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GC7J+JJV، 60th Street, Hillah",2,1
+221,كوفي شوب هنودي,ChIJVavIlZXjWBURu81c3AbS-P8,32.469429,44.4101166,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","الجادة, الجادة الحلة‎ الطهمازية",2,0
+222,لارنكا كافي ( Larnaca Cafe ),ChIJ59NzCrz9WBUR7DW3ojh5wM0,32.5501106,44.4158281,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",شارع عنانة،,2,0
+223,كوفي شوب ركن الساعه,ChIJR3Hz9R_jWBURr8xxyrxSusc,32.4975087,44.4211018,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","FCXC+2C5، مجسر الثورة، الحلة‎،, Hillah",2,13
+224,Havana cafe,ChIJEdRjbTTjWBURM9GKG_DdvWY,32.4804509,44.4432522,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FCJV+58J، النزيزه, Hillah",2,1
+225,كافيه هيل وليل,ChIJZVhYXJ7hWBURi9eHBlzk3Iw,32.4455763,44.4008327,2.9,"['cafe', 'food', 'point_of_interest', 'establishment']","CCW2+68G، Unnamed Road، الحلة‎،, Hillah",2,8
+226,كوفي النجمة (بإدارة محمد بشة ),ChIJHQJyQxP9WBURdV-GSrfyras,32.5147823,44.4676537,4.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","GF79+W3J, Hillah",2,6
+227,زيوس,ChIJv1gOBQrjWBURSo1An2n-epM,32.4941312,44.4530957,3.6,"['cafe', 'food', 'point_of_interest', 'establishment']","FFV3+M6H, Hillah",2,5
+228,مقهى وكوفي الروان,ChIJnxNIElIfWRUROiXIiaESoyE,32.4469579,44.3945829,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",شارع 80، الحلة‎،,2,0
+229,الستي لاردو,ChIJ-UJselviWBURHVZ98hFcz4k,32.4810697,44.4234051,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FCJF+C9C, Hillah",2,10
+230,Napoli Caffe - نابولي كافية,ChIJWQIJkvvjWBURJbiNYMN1LX8,32.4968635,44.4243528,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FCWF+PPX, Hillah",2,2
+231,بيانو كافيه-piano cafe,ChIJGw3ldNLjWBUROXGhpcCoXpA,32.4938725,44.4286505,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FCVH+HC9، بابل، الحلة‎،, Hillah",2,309
+232,Medo Cafe,ChIJuQFgpv3iWBUR3Fhe7gn5NFI,32.4895465,44.4354379,3.4,"['cafe', 'food', 'point_of_interest', 'establishment']","FCQP+R58, Hillah",2,10
+233,كوفي شوب الملتقئ,ChIJb_FmavMfWRURNIiUTY1agRI,32.4511774,44.3344903,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","F82M+FQH، طريق حله كربلاء ابو خستاوي على الشارع العام قرب عمود،, Griq",2,6
+234,Roukange Cafe,ChIJnW1BwkLiWBURsL2qEnWROt4,32.4799929,44.4206271,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']","FCHC+X7J, Hillah",2,184
+235,كوفي بيت سلمان,ChIJB7pHhC39WBURAvnDv8IG6Fw,32.5273904,44.4350493,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GCGP+X23, Hillah",2,0
+236,كوفي بيت سلمان,ChIJ13zE48PjWBURSiZIAcl_qUw,32.4736266,44.4251904,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FCFG+F34, Hillah",2,0
+237,Cafe &rest_صوباش,ChIJn0cfeWDjWBURM6Qvkq2srio,32.5049539,44.4381469,4.3,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","Unnamed Road, Hillah",2,28
+238,حسن قاضيه,ChIJJfFiNgrjWBURzP6QCNQVW4E,32.4807102,44.4257674,5.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","FCJG+78J, 40 St, Hillah",2,4
+239,City Cafe,ChIJVdqhaVriWBURwrbtI0cDgiQ,32.4808914,44.4273714,3.9,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",شارع 40 / القاضية الحلة‎ شارع القيادة,2,183
+240,مطعم وكافيه انكيدو Enkido Cafe,ChIJNQg2Ea3jWBUR8if9YaA0M3I,32.4875125,44.4267777,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","FCQG+2P2, 40 St, Hillah",2,57
+241,الحفرة كافي The hole cafe,ChIJj5_1UhPjWBURSXgHVhcJGdg,32.5144796,44.431619,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","GC7J+JJV، 60th Street, Hillah",2,1
+242,مقهى شباب الجديده,ChIJ49zoJvvjWBURzdGmhfglK7o,32.4744361,44.4346944,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FCFM+QVG، FCFM+PQF السوق العصري الحلة، الحلة‎،, Hillah",2,0
+243,بيانو كافيه-piano cafe,ChIJGw3ldNLjWBUROXGhpcCoXpA,32.4938725,44.4286505,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FCVH+HC9، بابل، الحلة‎،, Hillah",2,309
+244,مقهى محمد هادي جميل,ChIJ1UYn1l7jWBURFnkvnXN27Ls,32.487896,44.43519999999999,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']","FCQP+534, Hillah",2,3
+245,كوفي شوب هنودي,ChIJVavIlZXjWBURu81c3AbS-P8,32.469429,44.4101166,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","الجادة, الجادة الحلة‎ الطهمازية",2,0
+246,مقهى خضر الكهوجي الموسوي,ChIJrVIaNPfjWBURy3Us7BRqDEs,32.475834,44.42540700000001,3.1,"['cafe', 'food', 'point_of_interest', 'establishment']","FCGG+85M، شارع 40, Hillah",2,7
+247,كوفي الجبوري,ChIJ8UX8-8XhWBURbrATLIcdcks,32.44311,44.4265031,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","CCVG+6JR، Unnamed Road،، الحلة‎،, Hillah",2,2
+248,ميامي كافيه,ChIJ698twisdWRURAMAEXjmF5QE,32.5492357,44.3616931,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","G9X6+MMX, شارع السيد ادريس بن الكاظم ع - منطقة المسافر،, Griq",2,7
+249,مقهى باب الحارة,ChIJP5SdH2jjWBUR_E3ydtMCl1Q,32.478594,44.4248807,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",FCHF+CXJ، شارع 40، الرفاعي,2,0
+250,Lithops cafè-ليثوبس كافيه,ChIJda2oGuvjWBUR3CUinRX9XMY,32.4771385,44.4254837,4.8,"['cafe', 'food', 'point_of_interest', 'establishment']",شارع 40، حله،،,2,11
+251,Havana cafe,ChIJEdRjbTTjWBURM9GKG_DdvWY,32.4804509,44.4432522,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FCJV+58J، النزيزه, Hillah",2,1
+252,مقهى حياوي شتيكن,ChIJq48sStznWBURqHes9UHniGI,32.4070044,44.5092088,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']",CG46+C3، بيرمانه,2,2
+253,PRO Game Cafe,ChIJLVdPP03jWBURNHyHCRQbq7w,32.4736266,44.4251904,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","خلف مول، شير،، FCQM+778، الحلة‎، Hillah, BDC",2,0
+254,كازينو حيدر بعبع,ChIJ7xx5TnbnWBUR3TFDg3_yNnE,32.4128204,44.4993962,4.4,"['cafe', 'food', 'point_of_interest', 'establishment']",27,2,11
+255,كهوة علي ماطور,ChIJk0qHdSPhWBURj0rDs_S5n5Q,32.4192862,44.4373216,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']",CC9P+MX، الحلة‎،,2,3
+256,كوفي اكرم المعموري,ChIJpVvLpqb7WBURa-I8tZ2tsS0,32.5637813,44.4822944,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","HF7J+GW7، الحله, Nile",2,0
+257,مقهى ابو هاله,ChIJleblT2cfWRURTq-5-b029Og,32.4275451,44.3984146,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']",C9HX+29، الحلة‎،,2,1
+258,مقهى جاسم الجبوري,ChIJjy2F7ojjWBUR0lbbS74A3uM,32.4788998,44.43134389999999,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FCHJ+HG5، Unnamed Road, Hillah",2,3
+259,Cafe &rest_صوباش,ChIJn0cfeWDjWBURM6Qvkq2srio,32.5049539,44.4381469,4.3,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']","Unnamed Road, Hillah",2,28
+260,Abu Rasha,ChIJ3cQgN0TiWBURAd6hRD4ceeg,32.4750464,44.4251721,3.5,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']","FCGG+237, Hillah",2,69
+261,Babylion environments café,ChIJQdLdMrvjWBURTNHfFT5Hu5w,32.4926952,44.4184679,3.3,"['cafe', 'point_of_interest', 'food', 'establishment']","FCV9+39G, Hillah",2,36
+262,Roukange Cafe,ChIJnW1BwkLiWBURsL2qEnWROt4,32.4799929,44.4206271,3.7,"['cafe', 'point_of_interest', 'food', 'establishment']","FCHC+X7J, Hillah",2,184
+263,كوفي الضلوع,ChIJB7jqP8_jWBURGCplcPoJ6Ww,32.4747669,44.4581305,3.6,"['cafe', 'point_of_interest', 'food', 'establishment']","FFF5+W72، Unnamed Road, Hillah",2,14
+264,Medo Cafe,ChIJuQFgpv3iWBUR3Fhe7gn5NFI,32.4895465,44.4354379,3.4,"['cafe', 'point_of_interest', 'food', 'establishment']","FCQP+R58, Hillah",2,10
+265,مقهى الكلاسيكو,ChIJmyrcC2HiWBURVKPhcgSmAxk,32.4896643,44.4149502,3.2,"['cafe', 'point_of_interest', 'food', 'establishment']","شارع، 60،, Hillah",2,23
+266,AlNawares Cafe,ChIJrb_xxvffWBUR9d_k6JEo7Fg,32.3788597,44.4002721,3.4,"['cafe', 'point_of_interest', 'food', 'establishment']","9CH2+G4R، Al, Hillah",2,46
+267,كافيه هيل وليل,ChIJZVhYXJ7hWBURi9eHBlzk3Iw,32.4455763,44.4008327,2.9,"['cafe', 'point_of_interest', 'food', 'establishment']","CCW2+68G، Unnamed Road، الحلة‎،, Hillah",2,8
+268,مقهى ابو سجاد,ChIJ6XULRWLjWBUReeEyIXaB1-s,32.4801016,44.4380002,5.0,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']","FCJQ+26R، سوق هرج الحلة، الحلة‎،, Hillah",2,3
+269,Amjad Coffee Shop,ChIJzykFEm_iWBURwthjG6ev-vI,32.4830503,44.41185249999999,3.0,"['cafe', 'point_of_interest', 'food', 'establishment']","FCM6+6M5, Hillah",2,10
+270,كوفي المجلس,ChIJ4yCcIaTjWBURERddwcjvfzQ,32.4736266,44.4251904,0.0,"['cafe', 'point_of_interest', 'food', 'establishment']",FCFG+F34، الحلة‎،,2,0
+271,بيسترو Bistro,ChIJCcNw3eTjWBURINT9k6t0ROc,32.4821998,44.42501439999999,4.1,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']","شارع 40, Hillah",2,47
+272,City Cafe,ChIJVdqhaVriWBURwrbtI0cDgiQ,32.4808914,44.4273714,3.9,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",شارع 40 / القاضية الحلة‎ شارع القيادة,2,183
+273,daleel,ChIJ6xgovirjWBURNY-USqnRnqI,32.4929693,44.4358807,0.0,"['cafe', 'point_of_interest', 'food', 'establishment']","rasheed, Hillah",2,0
+274,مقهى وكازينو الكورنيش,ChIJqcl4J1rjWBURpNpdUQqKFEg,32.5159603,44.4319471,5.0,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",GC8J+FXM، الحلة‎،،,2,2
+275,كوفي شوب عباس حسين,ChIJGUy-l_nhWBURZJV-q2ltEsI,32.4293908,44.4174348,0.0,"['cafe', 'point_of_interest', 'food', 'establishment']","CCH8+QX4, Hillah",2,0
+276,مقهى كرار,ChIJ4awCCSDjWBUR6Qc3LHOJAUA,32.493766,44.4555069,3.0,"['cafe', 'point_of_interest', 'food', 'establishment']","FFV4+G62، البكرية، حله،, Hillah",2,1
+277,كوفي شوب القلعه,ChIJgRGDjt7jWBURCFqfR2m2SvI,32.4690373,44.4321636,3.3,"['cafe', 'point_of_interest', 'food', 'establishment']",FC9J+JV3، شارع الشاوي العام،، الحلة‎،,2,3
+278,مقهى وكوفي الروان,ChIJnxNIElIfWRUROiXIiaESoyE,32.4469579,44.3945829,0.0,"['cafe', 'point_of_interest', 'food', 'establishment']",شارع 80، الحلة‎،,2,0
+279,Cafe sido,ChIJKeBIENH9WBURXpyYlsztFC4,32.5151139,44.4430165,3.0,"['cafe', 'point_of_interest', 'food', 'establishment']","GC8V+26C, Hillah",2,2
+280,Al-kheseroia Coffee shop,ChIJM-QVlaXjWBURHEIyvV8APes,32.4917919,44.4421136,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","FCRR+PR9, Hillah",2,17
+281,مقهى نظوري,ChIJyS5xRdTjWBURnM8zaIlvsdo,32.4813009,44.4372949,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","FCJP+GWF، FCJP+GWP، الحلة‎،, Hillah",2,0
+282,Bistro Cafe,ChIJMUoYjbzjWBUR9x1ZcY8mK5w,32.482651,44.4252891,4.4,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","FCJF+QMF, Hillah",2,40
+283,كافيه ومقهى كيتار,ChIJE9jrVtfjWBURvZt7DNu4Kdg,32.4902,44.43250339999999,5.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","FCRJ+4W9, Hillah",2,2
+284,مقهى العشار,ChIJXX59-X3jWBURknAH45MgYmw,32.4886783,44.4363073,3.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FCQP+FGF، طريق كربلاء - الحلة، الحلة‎، Hillah Alhillah, Hillah",2,1
+285,Napoli Caffe - نابولي كافية,ChIJWQIJkvvjWBURJbiNYMN1LX8,32.4968635,44.4243528,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","FCWF+PPX, Hillah",2,2
+286,مقهى قهوتي,ChIJI_M5QkkjWRURC_4FQaZG8yY,32.3710623,44.3007782,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",98C2+C8F، حيدرية،,2,0
+287,مقهى فوانيس بابل,ChIJbyCc1vwfWRURG0GrE0Ea2MA,32.4469579,44.3945829,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","C9WV+QRP، شارع 80, Hillah",2,0
+288,مقهى سبورت,ChIJk6FZVgrjWBUR33-EHo4aqco,32.4886048,44.4357772,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","FCQP+C8R, Hillah",2,0
+289,مقهى اليألي,ChIJX_9eDjoDWRURtX4jeyXbIWo,32.5817381,44.395292,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","H9JW+M4V, Mahawil",2,0
+290,مقهى سلوان,ChIJS_bI4kbhWBURuEguAuvfscM,32.4398547,44.4004388,3.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","CCQ2+W5W, Hillah",2,2
+291,Glory cafe,ChIJRZCJwwXjWBURUGxfnDvS-gw,32.4736266,44.4251904,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",FCFG+F34، الحلة‎،,2,0
+292,ASKIM cafe,ChIJP_r3pP3jWBURbzXIHtPM53c,32.495571,44.4262928,4.4,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","حي الطياره, Hillah",2,7
+293,زيوس,ChIJv1gOBQrjWBURSo1An2n-epM,32.4941312,44.4530957,3.6,"['cafe', 'food', 'point_of_interest', 'establishment']","FFV3+M6H, Hillah",2,5
+294,مقهى احمد,ChIJa7L0lkznWBUR-eRfxAjC0M0,32.3921654,44.5384193,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']",27،,2,4
+295,مقهى ولايه على,ChIJb8-sodzjWBURPVEGRqdTQb0,32.488139,44.435299,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",FCQP+743، الحلة‎،,2,0
+296,مقهى الكوخ,ChIJwdDdwqb9WBUR5xwrkm9oHSQ,32.5716944,44.4241102,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",بابل محافظة،، MC32+8V7، المحاويل،، المحاويل شارع عام حله بغداد،,2,0
+297,مقهى گيتار PS,ChIJt-uY8-_jWBURhgG0amYYNPI,32.4882286,44.4331403,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","FCQM+77R, Hillah",2,0
+298,PRO Game Cafe,ChIJO-REDYvjWBUR1RqHIpOT788,32.4882725,44.4330595,4.4,"['cafe', 'food', 'point_of_interest', 'establishment']",شير،، FCQM+778، الحلة‎،,2,5
+299,حديقة المعرفة للثقافة والفنون,ChIJMZBBGx3iWBUR1GB8IWepOwA,32.459625,44.4108139,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']",الحلة - شارع 60 مقابل مآرب، الموحد,2,16

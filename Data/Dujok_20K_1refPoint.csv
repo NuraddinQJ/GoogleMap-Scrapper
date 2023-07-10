@@ -1,0 +1,241 @@
+,Place Name,Place ID,Latitude,Longitude,Rating,Types,Vicinity,Price Level,User Rating tot
+0,Kabab shalin,ChIJzXPwrEKMCEAR_ltKBXhutTw,36.8558993,42.9779487,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX4H+84X, Duhok",2,36
+1,Ofelia Restaurant مطعم اوفيليا,ChIJCQW3exmNCEARennAf8i0rG0,36.8568205,42.9774858,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX4G+PXH, Unnamed Road, Duhok",2,314
+2,سولتان دونەر,ChIJMSNLkoqNCEARCAc4J96tt7w,36.8673828,42.9716989,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","Qazi Mohammad Road, Duhok",2,77
+3,Nawroz Restaurant,ChIJS-9N3SiNCEARqFgPsB3P3cs,36.8632107,42.9884805,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX7Q+79Q, Rovia, Road, Duhok",2,3
+4,Whiteland Restaurant,ChIJP2j6cxCNCEARQ_3zlJVR4Kk,36.8685871,42.9520315,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",Duhok,2,12
+5,Rania Resturant,ChIJqxXm9lGMCEARdQCJl9oWd30,36.8616493,42.9914666,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX6R+MG5, Duhok",2,140
+6,BBQ GRILL,ChIJF8JWtg-NCEARqBDP2jSJjc4,36.8899686,43.0122639,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","V2Q6+XWJ, Duhok",2,64
+7,Eat and go,ChIJR4kgTgKNCEARlzN8Oi7EMGA,36.8676287,42.9642419,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX97+2QJ, Qazi Mohammad Road, Duhok",2,11
+8,Glass House Restaurant & Coffee,ChIJGyXEqFWLCEARKVKnNFlxaE8,36.864816,42.9110656,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","VW76+WCF، Avro City, Duhok",2,207
+9,Shaleen Palace Restaurant,ChIJM61CKPKNCEARCOPt5RzKuDI,36.8611225,42.9767053,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","Ashty Road, Duhok",2,35
+10,Kristal Restaurant,ChIJK11hajGNCEARoIwNTESpyeQ,36.8662389,42.993663,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","Galy Way,Ahmede, Duhok",2,10
+11,Aloha sea food,ChIJgSlDMzmNCEARy_5R1nQZz_I,36.8574591,42.9686049,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX49+XCQ, Zakho Way, Duhok",2,10
+12,99 - NinetyNine Restaurant & Cafe,ChIJGfWFUeeNCEARP28Gghn6_YM,36.8601383,42.976839,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX6G+8JQ, Duhok",2,0
+13,LAFESTA,ChIJjW4kegqNCEARcx8F0WebvsI,36.8732627,42.9549568,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","VXF4+822, Amad St, Duhok",2,168
+14,Pizza Neils Rest,ChIJHeOQ4yCLCEARUno7YZdFvOc,36.8522741,42.90442549999999,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",Unnamed Road,2,4
+15,B to B Duhok restaurant,ChIJ2R_XI1aNCEARFa8wuQlNDUs,36.861438,42.9675491,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX69+H2V, Duhok",2,117
+16,Vin Grill restaurant,ChIJuZCjQk6JCEARxrwvXRx5F20,36.7902612,42.982128,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","Reya Gunde Sharya Rd, Sharya",2,29
+17,Food Time Restaurant مطعم فود تايم,ChIJt3afrZiNCEARwQvriFv7vxA,36.8652101,42.9915981,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX8R+3JQ, Duhok",2,1
+18,A.B.O Restaurant,ChIJC1msp0ePCEARUAd1Od64aqk,36.8411035,43.01576499999999,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","Grand Level Residence, Duhok",2,11
+19,Omara restaurant,ChIJmaW5HwONCEARHnXKNLXt4sE,36.8625761,42.9984124,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX7X+29P, Duhok",2,2
+20,HARDEE''S,ChIJV3FJzTKLCEARBHS0167ZfPE,36.853235,42.88363,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","FAMILY MALL DUHOK, Duhok",2,76
+21,Queen fast food,ChIJXSEmmGeNCEAR2mZIikLcFBY,36.84574509999999,42.9855808,4.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","مطعم ئازادی, ته نشت, Duhok",2,3
+22,Sarakan Restaurant مطعم سركان,ChIJ7USM8YuNCEARYa2_Fgtplw0,36.86809,42.96351800000001,3.6,"['restaurant', 'point_of_interest', 'food', 'establishment']","VX97+6CC, Unnamed Road, Duhok",2,22
+23,Royal Restaurant,ChIJHeY1XXmOCEARNLZZLdfbMsU,36.852182,43.0371556,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","V22P+VVF, Duhok",2,73
+24,Shoresh Restaurant,ChIJl9RimYeMCEARVL38Lpughe8,36.8530993,42.9564692,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",شارع الضريبة دهوك شندوخا,2,1002
+25,Nmlie Restaurant & Cafe - Duhok,ChIJYaxVWcmNCEARVEFb5qj6Ukk,36.8346231,42.9791547,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","Zawa Mountain, Duhok",2,629
+26,خەرنکەها لەزەت (Lazzet Restaurant),ChIJu-O2hi2NCEARt_wo749k-8Q,36.8471779,42.9836296,5.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","RXWM+VF2, Duhok",2,1
+27,Grand Cafe & Restaurant مطعم و كافي گراند,ChIJu9bcgtyNCEARI86_7-teMr4,36.8674527,42.9670305,4.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","VX88+XRV, Duhok",2,443
+28,DDK Restaurant and Cafe,ChIJTY9EsDWNCEARxLZdXnG-L_s,36.8596215,42.9630186,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","Anwar May Street, Duhok",2,434
+29,Ocean House,ChIJnQ11YZaNCEAR-DPrM7LAKlI,36.84232600000001,42.9661738,4.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","French village street, Duhok",2,9
+30,Milano's Restaurant,ChIJeVeT4DKLCEARJ3hwwfeXKxE,36.8528941,42.88536819999999,3.7,"['restaurant', 'point_of_interest', 'food', 'establishment']","VV3P+545, Duhok",2,162
+31,Swedland Restaurant,ChIJiyoOXaKNCEAR15JBtNPf_6U,36.8695846,42.9878022,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']",VX9Q+R4F، دهوك،،,2,0
+32,Tolaz Restaurant,ChIJF3Wg2RmNCEARz25kvFgph98,36.8542479,43.01537860000001,4.3,"['restaurant', 'point_of_interest', 'food', 'establishment']","Unnamed Road, باروشكى",2,19
+33,La Bella,ChIJYVIffjONCEARBKKc-4xq1j4,36.86767529999999,42.9639525,3.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","VX97+2HW, Qazi Mohammad Road, Duhok",2,11
+34,Lade Pizza & Grill,ChIJPavq1cSMCEARVwaNHmjLmio,36.8758858,42.95082559999999,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","VXG2+984, شارع قناتي كوردو, Duhok",2,191
+35,Big Burg,ChIJmW3QBHSNCEARi--yvt8cPOQ,36.8667406,42.9807852,3.8,"['restaurant', 'point_of_interest', 'food', 'establishment']","VX8J+J7J, Duhok",2,23
+36,"Chef Ayad Restaurant, Smoke Meat",ChIJTaa_zjGNCEARHLmvHdJGAFQ,36.8632107,42.9884805,4.2,"['restaurant', 'point_of_interest', 'food', 'establishment']","VX7Q+79Q, Gashtiyar Street, Duhok",2,5
+37,Royal Kitchen Restaurant,ChIJwdOODumNCEARv1fAR_zMhMU,36.8537502,42.9569939,0.0,"['restaurant', 'point_of_interest', 'food', 'establishment']","VX34+FQX, Australia, Duhok",2,0
+38,Rebar Restaurant,ChIJd3BWSxiUCEARlwSbFTTDZ98,36.921766,43.1496354,4.1,"['restaurant', 'point_of_interest', 'food', 'establishment']","W4CX+PV2, Unnamed Road, Zawita",2,321
+39,Balinda Restaurant,ChIJIULLLLCPCEARBq-kts_UAIQ,36.8521864,43.0404388,4.5,"['restaurant', 'point_of_interest', 'food', 'establishment']","V22R+V5F, Duhok",2,4
+40,Geverke Restaurant,ChIJ-0IbmH-LCEARzZPStCBfAHw,36.8481471,42.9450872,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","Barzan street, Duhok",2,859
+41,Gorangaa Bar And Restaurant,ChIJG2Kq8-HBCEAR54DvB7JQ1rI,37.034538,43.0917536,4.1,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","23MR+RP6, Mangesh Rd, Mangesh",2,20
+42,Dijla Restaurant,ChIJtz3AJ1OMCEARVZtiRORHAdM,36.8653343,42.9945057,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX8V+4RJ, Duhok",2,316
+43,Shaqlawa Pizza,ChIJH30uQEyMCEARbRp2yZR0JVU,36.8610047,42.9976827,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX6X+C33, Duhok",2,54
+44,Aqra restaurants,ChIJHdWEDHuNCEARDIeF_6VRhfI,36.8645189,42.9557284,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX74+R75, Amad St, Duhok",2,0
+45,Wienerwald cafe & restaurant,ChIJSw11V1mNCEARBLBDIARIU3U,36.8666221,42.957285,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","Duhok Mall, Near Mazi Plus Mall_, Qazi Mohammad Road, Duhok",2,8
+46,Baxchen Ashawa Restaurant & Cafe,ChIJsbNW1jaNCEARNfd1rPG3Qy8,36.8632107,42.9884805,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX7Q+79Q, Duhok",2,1
+47,خارنگه‌ها يوسف Yusef Restuarant,ChIJuzTFqTZhCEARsgjPXGk8Ips,36.7836447,42.8795931,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Unnamed Road، بجركي دوميز، KURDISTAN,2,3
+48,PACHA ALINDLS,ChIJ04DKGZGNCEARa76DHPgkU30,36.8653493,42.9940761,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX8V+4JJ, Duhok",2,3
+49,Barhav Restaurant,ChIJ2edwPoiMCEAR8adcmJvq_qI,36.8552939,42.9595053,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX45+4R6, Zakho Way, Duhok",2,313
+50,Sarakan Pizza,ChIJMyISTJCNCEARvL_oQOhwUn8,36.8630432,42.9935899,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX7V+6F6, 11 ayloul rd, Duhok",2,1
+51,Shimal resturant,ChIJSzMDJVOMCEARI9s1oTS0_Ro,36.8653434,42.9936885,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX8V+4FP, Duhok",2,20
+52,D’Fusion Asian restaurant,ChIJnbCohKeNCEARkcQ1-jVVHxM,36.8540965,42.970464,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX3C+J5P, London Road, Duhok",2,48
+53,مطعم زاویته,ChIJrey_tneVCEAR1tsEOtgcBC8,36.9217469,43.1495703,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","W4CX+MRV, Unnamed Road،, Zawita",2,1
+54,Kurdish Restaurant,ChIJsxyrvyeNCEARIinXzD-qvE0,36.8624672,42.9945511,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع نوهدرا دهوك، السوق,2,7
+55,مطعم خوش فلافل,ChIJRc6J63GNCEARqkmS4RHpAlo,36.8712803,42.94292,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VWCV+G57, Duhok",2,0
+56,Mehmed Siyari Restaurant,ChIJ3dJSqcuNCEARQg4G7g8vVuc,36.8621827,42.9998225,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX6X+VW7, Kawa Rd, Duhok",2,0
+57,pizza classic,ChIJ5UvfibmNCEARUAEyPgXPG0c,36.86194,42.9049453,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","VW63+QXG, Duhok",2,8
+58,Torino Pizza,ChIJQe08cKqNCEARsmIpGH8EAHs,36.8699741,42.9913309,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","Shahedan St, Duhok",2,590
+59,Sultan restaurant & dunar,ChIJT9BUTKyNCEAReB7ACWrLlXg,36.8497486,42.9931184,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","RXXV+V6X, Raza Road, Duhok",2,1
+60,Zaynal Usta Restaurant,ChIJKbxRKoaLCEARh11kqSCRTNU,36.8526045,42.9116069,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VW36+4M6, Zakho way Road, Duhok",2,689
+61,سولتان دونەر,ChIJMSNLkoqNCEARCAc4J96tt7w,36.8673828,42.9716989,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","Qazi Mohammad Road, Duhok",2,77
+62,مطعم مايونيز,ChIJF8DbbE2MCEARYlAB6YuYUDM,36.8630002,42.997031,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX7W+6R2, Duhok",2,25
+63,مطعم نودم,ChIJf2FjLgSJCEARBnKh2oCf6KE,36.78820109999999,42.974482,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","مجمع، مقابل المولدة على، الشارع الرئيسي, Sharya",2,12
+64,Shariqah Restaurant,ChIJa2X-d9eNCEARo0AKvaynUJU,36.8565986,42.9773751,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX4G+MW5، دهوك،, Duhok",2,602
+65,مطعم احمد,ChIJZbHqKQlhCEAR_Lu-3AAdgYA,36.7854251,42.8912363,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","Unnamed Road, Bajerke Dumez",2,202
+66,Marjan Restaurant,ChIJzUCGbEyMCEARkjGiNJi73js,36.8609089,42.9979494,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",Duhok,2,332
+67,Shoresh Restaurant,ChIJl9RimYeMCEARVL38Lpughe8,36.8530993,42.9564692,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع الضريبة دهوك شندوخا,2,1002
+68,Dijla Restaurant,ChIJtz3AJ1OMCEARVZtiRORHAdM,36.8653343,42.9945057,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX8V+4RJ, Duhok",2,316
+69,مطعم الخال,ChIJDeFKTLuNCEARWSpGSWuzDJM,36.8625441,42.9963819,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX7W+2GH, Cinema St, Duhok",2,2
+70,مطعم امين Amin Restaurant,ChIJQ_8ZE1OMCEARXX4wmZ40rk8,36.8652179,42.9922721,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX8R+3WJ, Zakho Way, Duhok",2,72
+71,Rania Resturant,ChIJqxXm9lGMCEARdQCJl9oWd30,36.8616493,42.9914666,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX6R+MG5, Duhok",2,140
+72,Ali Baba Restaurant,ChIJ2zP5C66NCEARO9SbB8R1WVc,36.8621908,42.9893076,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX6Q+VPF, 11 Aylol Road, Duhok",2,19
+73,Malta Restaurant & Cafe Duhok,ChIJcaa8hp6MCEARI_S3qVbJUg4,36.858025,42.937209,4.0,"['restaurant', 'finance', 'food', 'store', 'point_of_interest', 'establishment']","Zakho Way, Duhok",2,1120
+74,Sadir Palace Restaurant,ChIJp8c1SVOMCEARcWUnE5COF8Y,36.8659832,42.993012,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX8V+96R, Duhok",2,85
+75,Rebar Restaurant,ChIJd3BWSxiUCEARlwSbFTTDZ98,36.921766,43.1496354,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","W4CX+PV2, Unnamed Road, Zawita",2,321
+76,مطعم ئه زمير,ChIJdQ9WUZ-PCEARDiasekYBalk,36.8522281,43.0389609,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","V22Q+VHW, Duhok",2,63
+77,مطعم فينيسيا,ChIJeZrpAI6NCEARuZX_NHil75A,36.8632107,42.9884805,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX7Q+79Q, Duhok",2,3
+78,مطعم هه ولير,ChIJqUZs6w_1CEARl67L5P7qVzo,36.862796,42.8094218,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","VR75+4QF, Misurik St, Sumel",2,29
+79,Kristal Restaurant,ChIJK11hajGNCEARoIwNTESpyeQ,36.8662389,42.993663,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","Galy Way,Ahmede, Duhok",2,10
+80,Barhav Restaurant,ChIJ2edwPoiMCEAR8adcmJvq_qI,36.8552939,42.9595053,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX45+4R6, Zakho Way, Duhok",2,313
+81,شاه كباب,ChIJM-FHAeyMCEARj7g3IW5X-fc,36.8625389,42.9558945,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","Qazi Mohammad Road, Duhok",2,65
+82,Furat Restaurant,ChIJ6b1si0uMCEARwQWD1cbqGBs,36.8603095,42.9991379,2.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX6X+4MC, Duhok",2,8
+83,Xwarengaha babe Falah,ChIJkfRuhzuJCEARixjLD9ULaOU,36.79050429999999,42.9725546,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","QXRF+626, Sharya",2,6
+84,Whiteland Restaurant,ChIJP2j6cxCNCEARQ_3zlJVR4Kk,36.8685871,42.9520315,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",Duhok,2,12
+85,مطعم كريم العمر,ChIJvZNv8v-JCEARN9Yk6rxmkv8,36.7930077,42.91540850000001,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","QWV8+653, Bajerke Dumez",2,100
+86,مطعم ابوشهاب,ChIJPci89wqPCEAR1H2aSunDZIo,36.8525372,43.0308213,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","V23J+286، Unnamed Road, Duhok",2,88
+87,مطعم القيثارة الملكي,ChIJ81Ew_geNCEAR0AULabyzmLA,36.8605528,42.9672472,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX68+6VH، Unnamed Rd،, Duhok",2,9
+88,Akre Restaurant,ChIJvRmoBO2MCEAR0OxmBdi0WvM,36.8653635,42.9555758,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع اماد, Duhok",2,968
+89,Big Chef,ChIJGXE0GsWMCEARQHxouktgd9E,36.8754935,42.9488828,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VWGX+6H2, Duhok",2,154
+90,Manqal,ChIJl06JQlOMCEAREl7HrJMGgoI,36.8657166,42.9920338,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX8R+7RM, Duhok",2,230
+91,مطعم شاخ,ChIJsRHDKFyNCEARNU4jnPBhSgc,36.8651301,42.99359,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX8V+2CV, Duhok",2,1
+92,Sky Star مطعم سكاي ستار,ChIJ0-VrGD-NCEARcywZUlxvLPU,36.8573733,43.00703679999999,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","V254+6QQ, Duhok",2,13
+93,مطعم امراء,ChIJXxouvu6NCEAR4LvnBAmHPUc,36.8625779,42.9982237,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX7X+278, Duhok",2,4
+94,مطعم BF,ChIJhbd3cHSJCEARzNBa3rpmZlo,36.7938125,42.9192426,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",QWV9+GMH، QWV9+9FM، المدخل،، الثالث،,2,6
+95,Serok Restaurant,ChIJJTJFlkyMCEAR85TX-azRlQk,36.86179449999999,43.000219,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","V262+P39، دهوك،, Duhok",2,2
+96,Sultan restaurant & dunar,ChIJT9BUTKyNCEAReB7ACWrLlXg,36.8497486,42.9931184,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","RXXV+V6X, Raza Road, Duhok",2,1
+97,Pacha Andalus,ChIJuf_YJVOMCEARztrRThnrYd0,36.8653979,42.9942625,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX8V+5PC, Kawa Rd, Duhok",2,124
+98,Chra Restaurant,ChIJY1bUsQaNCEARz5o1Fu3WVv0,36.8570574,42.9562783,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX44+RGG, Amad St, Duhok",2,119
+99,Uzungöl restaurant,ChIJgb6CfO2NCEAR9xqu9kuFKmc,36.8669114,42.9315381,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","VW8J+QJ7, Zirka Rd, Duhok",2,21
+100,Burger Box,ChIJT3NCfiiNCEARxfam5Ocu11U,36.8679375,42.9688126,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX99+5G, Duhok",2,235
+101,مطعم نملية,ChIJ--WYHG2LCEARVvJqFnvjlg0,36.8353073,42.9639348,3.4,"['restaurant', 'food', 'point_of_interest', 'establishment']","RXP7+4HF Unnamed Road،, Duhok",2,10
+102,Sezar,ChIJhXnO2OmMCEARSrdZVsFp4W8,36.8711247,42.9550876,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","VXC4+C2W, Qazi Mohammad Road, Duhok",2,212
+103,Nawroz Palace Restaurant,ChIJ3V4Sl1OMCEARFTtWoNUBlgA,36.8647385,42.990562,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX7R+V6Q, Zakho Way, Duhok",2,617
+104,Sayed Restaurant,ChIJDSHx6EyMCEARsdb-Y7gib68,36.8625263,42.9993253,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX7X+2P8, Duhok",2,34
+105,مطعم مرجان 2,ChIJD3DkziGNCEARrT80EmPuBw0,36.8632107,42.9884805,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX7Q+79Q، دهوك،, Duhok",2,9
+106,Vikings,ChIJNxlRLYSMCEARXl_Uio3cvgo,36.8553957,42.9514665,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX42+5H4, Zakho Way, Duhok",2,685
+107,Tandory Rest.,ChIJPzDOVu6MCEARsPnVRdu9fJ8,36.8679117,42.9632297,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع KRO, Qazi Mohammad Road, Duhok",2,729
+108,Azadi resturant & Hall,ChIJgYPh6RKMCEARNUaMbJFVywQ,36.8454277,42.984816,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","barzan, Duhok",2,237
+109,Grand Cafe & Restaurant مطعم و كافي گراند,ChIJu9bcgtyNCEARI86_7-teMr4,36.8674527,42.9670305,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX88+XRV, Duhok",2,443
+110,Nawroz Restaurant,ChIJS-9N3SiNCEARqFgPsB3P3cs,36.8632107,42.9884805,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX7Q+79Q, Rovia, Road, Duhok",2,3
+111,Besere Restaurant & Cafe,ChIJWU2gFxCOCEARiFkDO5KL0vU,36.8605217,43.0648843,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",Duhok,2,145
+112,مطعم شالين پلاص,ChIJTRkIJmiNCEARFmF2KrTDgZ4,36.8615732,42.9768889,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع اشتي، دهوك، العراق، جادا دابين,2,188
+113,مطعم حجي خارنگەها حەجی Haji Restaurant,ChIJ05ZWyiH1CEARQ289kLVNHyI,36.8586679,42.8460618,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Sumel,2,143
+114,مطعم سولاف,ChIJl0u2z-71CEARNH0Q1C3WClc,36.8584873,42.847562,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","مقابل محكمه قديمه، شارع عام, Sumayyil",2,43
+115,Top Chef 2 Rest.,ChIJ8beQYByNCEARoi-hbO2OEas,36.8733183,42.9589811,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Zeri Land St, Duhok",2,228
+116,مطعم شينوار زاويتة,ChIJF7YFnTKVCEARCnSbaYBQCkM,36.9231012,43.1503081,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","W5F2+64V ١, Zawita",2,15
+117,Shindokha Restaurant,ChIJ8TtnNnqMCEAREz2UkkJRvE0,36.8487856,42.9631331,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","RXX7+G76, Duhok",2,779
+118,مطعم ده وله ت بوون,ChIJVzPmmuWJCEARemRaoTo-UYw,36.7956685,42.91883110000001,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","QWW9+7G8، Unnamed Road, Bajerke Dumez",2,43
+119,مطعم ابو الخير,ChIJExWvFUdhCEARBUlM4-mkpH0,36.7779185,42.881999,3.6,"['restaurant', 'food', 'point_of_interest', 'establishment']","QVHJ+5Q9، Unnamed Road, Bajerke Dumez",2,35
+120,Xwarengaha babe Falah,ChIJkfRuhzuJCEARixjLD9ULaOU,36.79050429999999,42.9725546,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","QXRF+626, Sharya",2,6
+121,D’Fusion Asian restaurant,ChIJnbCohKeNCEARkcQ1-jVVHxM,36.8540965,42.970464,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX3C+J5P, London Road, Duhok",2,48
+122,مطعم نودم,ChIJf2FjLgSJCEARBnKh2oCf6KE,36.78820109999999,42.974482,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","مجمع، مقابل المولدة على، الشارع الرئيسي, Sharya",2,12
+123,Royal Kitchen Restaurant,ChIJwdOODumNCEARv1fAR_zMhMU,36.8537502,42.9569939,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX34+FQX, Australia, Duhok",2,0
+124,Rebar Fish Restaurant مطعم سمك ريبار,ChIJO7gteiaVCEARfYW_G8AQLjk,36.9216729,43.1495328,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","W4CX+MR7, Duhok",2,2
+125,مطعم هالان,ChIJXxkOh-71CEARb8T3vEO8-fk,36.86136219999999,42.8419695,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VR6R+HQ5, Sumel",2,2
+126,مطعم شاخ,ChIJsRHDKFyNCEARNU4jnPBhSgc,36.8651301,42.99359,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX8V+2CV, Duhok",2,1
+127,Halil usta rest.,ChIJowybmF2TCEAR2B-rD90C0WA,36.9077252,43.0631689,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","W357+37V, Sindorê Yehod",2,0
+128,Mias shop,ChIJfbrgqoRhCEAR01HnG54fl6o,36.7853818,42.7731009,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","QQPF+565, Khanke",2,7
+129,مطعم مشويات,ChIJBewX9rCJCEARvKvDqAJaL3s,36.792985,42.9706135,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","QXVC+56X, Sharya",2,27
+130,TCHETCHE DUHOK,ChIJOejuE7uNCEAR-VOGthou4kk,36.8548971,42.9711706,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX3C+XF3, Daniel Meteran Road, Duhok",2,26
+131,كص نوروز Newroz shawarma,ChIJ_7_hnPGNCEARLojiTIqVxSo,36.864697,42.9907092,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX7R+V7G، دهوك،, Duhok",2,2
+132,مطعم امين Amin Restaurant,ChIJQ_8ZE1OMCEARXX4wmZ40rk8,36.8652179,42.9922721,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX8R+3WJ, Zakho Way, Duhok",2,72
+133,Food Time Restaurant مطعم فود تايم,ChIJt3afrZiNCEARwQvriFv7vxA,36.8652101,42.9915981,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX8R+3JQ, Duhok",2,1
+134,Grand Cafe & Restaurant مطعم و كافي گراند,ChIJu9bcgtyNCEARI86_7-teMr4,36.8674527,42.9670305,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX88+XRV, Duhok",2,443
+135,كازينو خانكي سياحي,ChIJ5wQNJdlhCEARUWa53p8492A,36.7820436,42.7771337,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",QQJG+RR8، خانك،,2,0
+136,Antep Kebap,ChIJg7xZz7KLCEARvmE1KQqnbus,36.8545728,42.9100282,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VW35+PX9, 2, Duhok",2,1
+137,Shimal Masy,ChIJY5fJr3aNCEARh4EEXWn0Tq8,36.8623329,42.9962427,2.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX6W+WFQ, Cinema St, Duhok",2,2
+138,Uzungöl restaurant,ChIJgb6CfO2NCEAR9xqu9kuFKmc,36.8669114,42.9315381,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","VW8J+QJ7, Zirka Rd, Duhok",2,21
+139,Mis Tantuni,ChIJG-KQQgONCEARcF7b3Mfuilk,36.86238609999999,42.9962997,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX6W+XG3, Cinema St, Duhok",2,3
+140,Safeen Restaurant,ChIJmwUmIFOMCEARB93QVkQic4U,36.8650371,42.993951,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX8V+2H8, 11 ayloul rd, Duhok",2,397
+141,Aloha sea food,ChIJgSlDMzmNCEARy_5R1nQZz_I,36.8574591,42.9686049,3.9,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX49+XCQ, Zakho Way, Duhok",2,10
+142,99Grill - Duhok,ChIJWzb38nCNCEARNDsw7wHmEPo,36.8725332,42.9550237,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع اماد, Duhok",2,105
+143,Chef Bjar restaurant,ChIJhdIDxeONCEARN6zGe92CqI8,36.8558381,43.0299708,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Kani Mohamadke Road, Duhok",2,1
+144,Dam Restuarant,ChIJyxSh7QWNCEARdo9886E_AxQ,36.8860812,43.0203995,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",Duhok/Zawite Way,2,11
+145,فلافل فالح ابو العمبة,ChIJIQbUbv-NCEAR-mrJeQtMzL4,36.8700937,42.9588042,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","VXC5+2C6, Duhok",2,13
+146,Milano's Restaurant,ChIJeVeT4DKLCEARJ3hwwfeXKxE,36.8528941,42.88536819999999,3.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","VV3P+545, Duhok",2,162
+147,Besere Restaurant & Cafe,ChIJWU2gFxCOCEARiFkDO5KL0vU,36.8605217,43.0648843,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",Duhok,2,145
+148,Bursa Kebap evi duhok | بورصا كباب دهوك,ChIJYRd7-J-NCEARnJESmA6vhTM,36.8728311,42.9445631,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VWFV+3RV, Unnamed Road, Duhok",2,284
+149,مطعم برايةتي,ChIJ6_tIhryNCEARHHbtBl0e1Ow,36.8625879,42.9985127,3.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX7X+29P, Duhok",2,1
+150,Big Burg,ChIJmW3QBHSNCEARi--yvt8cPOQ,36.8667406,42.9807852,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX8J+J7J, Duhok",2,23
+151,مطعم خوش فلافل,ChIJRc6J63GNCEARqkmS4RHpAlo,36.8712803,42.94292,0.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VWCV+G57, Duhok",2,0
+152,parma rest,ChIJhe2W7UrbCEARfaJCBf-SlaM,36.8698296,42.98949030000001,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","Shahedan, grebase, Dihok duhok_grebase",2,1
+153,Burger Box,ChIJT3NCfiiNCEARxfam5Ocu11U,36.8679375,42.9688126,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX99+5G, Duhok",2,235
+154,مطعم ئه زمير,ChIJdQ9WUZ-PCEARDiasekYBalk,36.8522281,43.0389609,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","V22Q+VHW, Duhok",2,63
+155,مطعم حبة فلكلورية,ChIJUcP-8OyNCEARHLRjwvXMsUk,36.8678781,42.959428,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",VX95+4Q7، دهوك،,2,2
+156,Malta Restaurant & Cafe Duhok,ChIJcaa8hp6MCEARI_S3qVbJUg4,36.858025,42.937209,4.0,"['restaurant', 'store', 'food', 'finance', 'point_of_interest', 'establishment']","Zakho Way, Duhok",2,1120
+157,Kurdish Restaurant,ChIJsxyrvyeNCEARIinXzD-qvE0,36.8624672,42.9945511,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع نوهدرا دهوك، السوق,2,7
+158,Eat and go,ChIJR4kgTgKNCEARlzN8Oi7EMGA,36.8676287,42.9642419,3.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX97+2QJ, Qazi Mohammad Road, Duhok",2,11
+159,Masya dindar,ChIJgUoi6ZqNCEAR5Q2j9LgyWj4,36.8528639,43.0231321,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","V23F+47R, Duhok",2,6
+160,مطعم حجي خارنگەها حەجی Haji Restaurant,ChIJ05ZWyiH1CEARQ289kLVNHyI,36.8586679,42.8460618,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",Sumel,2,143
+161,Queen fast food,ChIJXSEmmGeNCEAR2mZIikLcFBY,36.84574509999999,42.9855808,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","مطعم ئازادی, ته نشت, Duhok",2,3
+162,Manqal,ChIJl06JQlOMCEAREl7HrJMGgoI,36.8657166,42.9920338,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX8R+7RM, Duhok",2,230
+163,Vikings,ChIJNxlRLYSMCEARXl_Uio3cvgo,36.8553957,42.9514665,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX42+5H4, Zakho Way, Duhok",2,685
+164,Burger King,ChIJaZsQgdGLCEARmYTiqrdl57g,36.8530258,42.8851827,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","VV3P+637, 2, Duhok",2,257
+165,Didem Doner,ChIJOSB8s0T1CEARp_Cy-GQqxXI,36.8580652,42.8489159,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","VR5X+6HF, Unnamed Road, Sumel",2,3
+166,Khateen Rest,ChIJlUglwhONCEARnKnhFxrYNKI,36.852901,42.956399,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX34+5H6, Australia, Duhok",2,3
+167,خارنگه ها شارقه,ChIJm1ztDK6NCEAR2NHjOxSlkjw,36.8565987,42.97737559999999,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX4G+MW8, Zakho Way, Duhok",2,5
+168,haval fish,ChIJzYSw3_eNCEAR4I92-AztICc,36.860872,42.97661799999999,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX6G+8JX, Ashty Road, Duhok",2,4
+169,MAMOJAN RESTAURANT,ChIJ2TS3nTaJCEARgK_gARx6i5Y,36.7929781,42.9148822,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","QWV7+5XJ, Bajerke Dumez",2,1
+170,Akre Restaurant,ChIJvRmoBO2MCEAR0OxmBdi0WvM,36.8653635,42.9555758,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","شارع اماد, Duhok",2,968
+171,HARDEE''S,ChIJV3FJzTKLCEARBHS0167ZfPE,36.853235,42.88363,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","FAMILY MALL DUHOK, Duhok",2,76
+172,Healthy Pak,ChIJsRLYdv2NCEAR4knNJO6hxm4,36.8761066,42.9449953,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",شارع قناتي كوردو Duhok Masike,2,4
+173,Doctor meat restaurant,ChIJSSrGyTmNCEAR_2SLQaj9QXg,36.8674069,42.9717833,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX8C+WM9, Qazi Mohammad Road, Duhok",2,5
+174,مطعم ابو نشوان 2 (abu nashwan rest. 2),ChIJ2zNd7wiNCEAR2UwzP9buM5s,36.8697891,42.9964506,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VX9W+WH8, Shaheedan St, Duhok",2,18
+175,Bahroz restaurant,ChIJV03xHnyVCEARWI4KEiv7SJY,36.9193157,43.1496811,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']","W49X+PVQ, Zawita",2,2
+176,Marjan Restaurant 2,ChIJE3jokgCNCEARot2EogxX7JY,36.8558665,42.9780321,3.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","Ashty Road, Duhok",2,10
+177,خارنگه‌ها سوپاس Supas Restuarant,ChIJp_clRr9hCEARc-OVGH3Wu6s,36.781691,42.8842354,3.3,"['restaurant', 'food', 'point_of_interest', 'establishment']","QVJM+MMH, Bajerke Dumez",2,13
+178,Big Chef,ChIJGXE0GsWMCEARQHxouktgd9E,36.8754935,42.9488828,4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","VWGX+6H2, Duhok",2,154
+179,Anker For Fish,ChIJdyzByNyMCEAR5-28rkBuCvg,36.8746046,42.9548603,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']","VXF3+RWX, Duhok",2,52
+180,Keyf Cafe & Rest,ChIJi5rVyJiNCEARsY2OcmnKCNs,36.8473538,42.9763221,3.7,"['cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']","RXWG+XGJ, Duhok",2,192
+181,Brel Café,ChIJHw92FRyNCEARhmEZtNk48Ks,36.8676029,42.96440219999999,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","VX97+2QJ, Qazi Mohammad Road, Duhok",2,21
+182,Chic cafe,ChIJ7WOoa8ONCEARpQk0eMvm4cE,36.8584375,42.974578,4.3,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VX5F+9RG, Duhok",2,8
+183,Café Del Mar,ChIJu8AMRhKNCEARVcdAAFGw63I,36.853386,42.9680658,3.7,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VX39+964, Duhok",2,3
+184,O&B Cafe,ChIJR9LT1cCNCEARJNHKjyKyWOQ,36.8632107,42.9884805,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VX7Q+79Q, Unnamed Road، القش،،, القش",2,0
+185,BUON GUSTO Coffee,ChIJ_WKgSoqMCEARzYO5Hfwiufo,36.8583137,42.9627892,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","VX57+84F, Duhok",2,142
+186,Mado Cafe,ChIJg4i_1zKLCEARf578sEUct-Y,36.8533064,42.88471879999999,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","VV3M+8VH, Duhok",2,185
+187,Cafe 96,ChIJLVdhpxKNCEAR_KGlbZO89Rw,36.8643887,42.9295812,4.9,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","Zirka Rd, Duhok",2,11
+188,La France Café | كافي لافرانس,ChIJPweEP3CNCEARuTrs5X9Cyk4,36.8676711,42.9639781,4.5,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VX97+2HX, Duhok",2,8
+189,Kambalan cafe shop,ChIJ327K-euNCEARVACSRH-4eSg,36.8657556,42.9924802,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VX8R+7XX, Galy way, Zakho Way, Duhok",2,0
+190,Lunar Café & Restaurant,ChIJObe_EouMCEARK8VZ1NMIoMA,36.8598693,42.9632784,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","VX57+W8R, Duhok",2,531
+191,Kubu Cafe,ChIJT12vN0SLCEARi2WEtTr8LzY,36.8545733,42.9100209,3.4,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VW36+Q2R, Duhok",2,56
+192,Nostalgia Coffee,ChIJjWIW7WqNCEAR4ncxq_3rXGM,36.8758998,42.9487928,3.9,"['cafe', 'food', 'point_of_interest', 'establishment']","VWGX+9G3, شارع قناتي كوردو, Duhok",2,179
+193,BANILLA cafe &rest,ChIJqRz1bPaNCEAR7A-Zgphh8eI,36.8676361,42.9723179,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","Qazi Mohammad Road, Duhok",2,7
+194,Coptan Cafe,ChIJFzpDrTiMCEARdecIHfpGhnw,36.8477083,42.9964575,4.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","RXXW+3HP, Raza Road, Duhok",2,129
+195,Kardo Cafe,ChIJKU3sIFCNCEAR9X_ETfXtgFE,36.8624845,42.983234,3.0,"['cafe', 'food', 'point_of_interest', 'establishment']","VX6M+X7X, Darestan road, Duhok",2,8
+196,Lova Cafe لوڤا كافي,ChIJL8ayGPeNCEAR7ADaZRZkE_s,36.8608699,42.9985004,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VX6X+8C9, Duhok",2,0
+197,Nawroz cafe,ChIJCWolxg-NCEARB376Bkv0wEQ,36.8628303,42.9928927,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VX7V+44G, Duhok",2,0
+198,Blann Cafe 1,ChIJkbH7Jln1CEARbC5OgZAMVLY,36.8568158,42.8595395,4.1,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VV45+PRC, Unnamed Road, Sumel",2,144
+199,Fairuz Cafe,ChIJ9xvdrOCNCEARKnGIBVtg1Us,36.8549668,42.9701695,3.9,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VX3C+X3J, Danielle Mitterrand Rd, Duhok",2,8
+200,Amed Cafe,ChIJhc6vjViNCEARiMoQnrN9B_0,36.863462,42.9971603,4.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VX7W+9VM, Duhok",2,3
+201,Dlshad Cafe,ChIJE3jsO0yMCEARp1BvAvSHPgk,36.8609701,42.9968584,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']","VX6W+9P4, Duhok",2,57
+202,Location cafe,ChIJD7Q6m-ONCEARwyDxJb9-ss0,36.8631687,42.9892029,4.4,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VX7Q+7M8, Duhok",2,11
+203,Agapi Coffee - previously Elpida Coffee,ChIJ_--wKcqMCEAR1H6__aq491M,36.8759118,42.9362026,4.4,"['cafe', 'food', 'point_of_interest', 'establishment']",Duhok,2,356
+204,Beans cafe,ChIJq_7NdViMCEAR_nb7cya95xE,36.8631396,42.9767587,3.5,"['cafe', 'food', 'point_of_interest', 'establishment']","VX7G+7P2, Ashty Road, Duhok",2,2
+205,Shah Cafe,ChIJ_4yBjVT1CEARPX-OaWkuNic,36.8603847,42.8410891,4.8,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VR6R+6GC, Unnamed Road, Sumel",2,8
+206,AXA’s COCO Cafe,ChIJbV81L4-NCEARS2akCLmjBr0,36.86599229999999,42.98860440000001,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","VX8Q+9CX, کۆڵانی نالی، دهوك،, Duhok",2,0
+207,LORD’s Cafe&Restaurant,ChIJH3k3ynaNCEARkjTwRc5PTDI,36.8721768,42.958716,4.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VXC5+VCF, Zeri Land St, Duhok",2,26
+208,Black & White Cafe,ChIJz8qXG-mNCEARcUgA6-qFcEc,36.8635427,42.9821596,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","VX7J+CV7, Duhok",2,3
+209,Cafe Barbera Sulaymaniyah,ChIJ_VH6AWONCEARZCKhMdsKXEc,36.8632107,42.9884805,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']",mh inan، zaho، cd no 7634، السليمانية,2,0
+210,Shivan Cafe,ChIJNy_8aVONCEARvxzW5IpVOCw,36.87960530000001,43.0169755,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","V2H8+RQX, Bajilor",2,25
+211,Cafe & restaurant,ChIJSfwVoPeNCEARJK0G1OUm_Z8,36.8645553,43.0037536,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","V273+RGC, Gali street Duhok Papor, Duhok",2,13
+212,ASGARD Cafe,ChIJg0gaYRuNCEARusfVWvREHLQ,36.8663837,42.9914127,4.2,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","Manqal st, Duhok",2,17
+213,CAFE MAZI LOUNGE,ChIJ7_vNsfuNCEAR3DPc22ZK0Wo,36.8589243,42.9830398,3.8,"['cafe', 'food', 'point_of_interest', 'establishment']","VX5M+H67, Duhok",2,153
+214,HB Cafe,ChIJN0wVd7KNCEARLSyrnpUJ390,36.8646251,42.99363839999999,3.7,"['cafe', 'food', 'point_of_interest', 'establishment']","VX7V+RFR, 11 ayloul rd, Duhok",2,3
+215,Çeko cafe,ChIJR1Cka6eXCEAR4kezoUtSz4w,36.9094093,43.1408871,1.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","W45R+P9, Zawita",2,1
+216,Sayko cafe,ChIJqYNmtMmNCEARRVVAZ1aeIR8,36.8844741,43.0217002,5.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","V2MC+QMP, Duhok/Zawite Way, Zawita",2,1
+217,Home Cafe,ChIJxa6tGzuNCEARHyY992FGfTE,36.8625764,42.9982267,4.8,"['cafe', 'food', 'point_of_interest', 'establishment']","VX7X+278, Duhok",2,13
+218,Top Cafe,ChIJIxolYXiPCEARslJlDsg7dBg,36.8522325,43.0376217,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","V22Q+V2X, Unnamed Road،, Duhok",2,0
+219,Marina cafe,ChIJLfek3WONCEARAKbdR2nTJEs,36.8656379,42.99290269999999,4.7,"['cafe', 'food', 'point_of_interest', 'establishment']","VX8V+752, Zakho Way, Duhok",2,7
+220,The Boulevard Cafe,ChIJr3PpdIiNCEAReM4YIgdZ_y8,36.870323,42.9893264,4.9,"['food', 'store', 'point_of_interest', 'establishment']","Shaheedan St, Duhok",2,22
+221,Jiven Cafe,ChIJkxWfaiuJCEARble99H8j7vM,36.7959223,42.9767968,4.2,"['cafe', 'food', 'point_of_interest', 'establishment']","QXWG+9P7, Sharya",2,37
+222,Leggero Cafe,ChIJr9kGjKeNCEAR1RP7i7rb6-U,36.8692065,42.9387388,5.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VW9Q+MJV, Qazi Mohammad Road, Duhok",2,1
+223,roma cafe,ChIJKZF_SiCLCEARGwIw7ce2KSk,36.8584047,42.905333,4.1,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",شاوع الرئيسي دهوك،,2,68
+224,Break cafe,ChIJG_uAWvmNCEAR0nIeTcXvQ-M,36.8680815,42.941483,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VW9R+6J, Duhok",2,0
+225,American Cafe,ChIJ89e6rb2NCEARGXB3Vwioj4s,36.8448734,43.0052028,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","R2V4+W34, Duhok",2,8
+226,Soul Cafe,ChIJp2-K9oqJCEARgUO-mNhZu_w,36.7960181,42.9770944,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","QXWG+9P7, Sharya",2,1
+227,Cafe Aù lait,ChIJaSlUzniNCEARMFrBvybM9vk,36.861324,42.9599528,4.3,"['cafe', 'food', 'point_of_interest', 'establishment']","anwar mayi، Anwar Mayi Road, Duhok",2,143
+228,Frank cafe,ChIJv7zitKyNCEAR6yZ_Q5JUSUk,36.8662196,42.9936301,4.1,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VX8V+FFJ, Zakho Way, Duhok",2,18
+229,Shahed Cafe,ChIJw2Esd7yNCEARzN7kzxdvqRo,36.8615497,43.0020878,4.5,"['cafe', 'food', 'point_of_interest', 'establishment']","V262+JR8, Kawa Rd, Duhok",2,55
+230,Dido Cafe,ChIJr9XoguGPCEARdfw_Jt6LPSE,36.8523648,43.03407070000001,4.5,"['cafe', 'food', 'point_of_interest', 'establishment']","V22M+WJW, Unnamed Road, Duhok",2,8
+231,Venice Cafe,ChIJG57ZIGCMCEAR-kCuWaF3Ubs,36.858345,42.96726530000001,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","VX58+8WJ, Zakho Way, Duhok",2,88
+232,Agha Coffee,ChIJsbyHbfCMCEARPutAjXaOgGY,36.867396,42.9690061,4.1,"['cafe', 'food', 'point_of_interest', 'establishment']","VX89+XJ6, Qazi Mohammad Road, Duhok",2,127
+233,Sidad cafe,ChIJD4ril4uNCEAR1kyvwTdeZaU,36.87169799999999,42.9313472,3.8,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VWCJ+MFG, Zirka Rd, Duhok",2,5
+234,Hassan Cafe,ChIJc2-Hd_XbCEAR1b5yZSZHs4M,37.1134262,43.0720495,5.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","437C+9R, Gufke",2,1
+235,بابا اوغلو كافي,ChIJrS5x8umNCEAR1XCNieWv-_Y,36.8570392,42.9668111,4.0,"['cafe', 'food', 'point_of_interest', 'establishment']","VX48+RP7, Zakho Way, Duhok",2,3
+236,Sevag cafe & rest,ChIJgXLsXV-NCEARTLhGRbDElYQ,36.8672254,42.99975269999999,5.0,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']","Zakho way, Duhok",2,3
+237,Florence Cafe & Rest,ChIJSUnEK0GNCEARGO6DvXzgEno,36.877106,42.9353486,0.0,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']","VWGP+R4X, Masikah",2,0
+238,dream cafe shop,ChIJD6HkUKyNCEARcFmRs5f9ek4,36.8427947,42.9733273,0.0,"['cafe', 'food', 'point_of_interest', 'establishment']","RXVF+488, Duhok",2,0
+239,Nash cafe shop,ChIJ-0q6kayNCEAReLQ3vtMB45k,36.8730731,42.9820006,5.0,"['cafe', 'food', 'point_of_interest', 'establishment']","VXFJ+6RH, Unnamed Road،, Duhok",2,2
